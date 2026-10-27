@@ -6,6 +6,11 @@ raw-footage/*
 !raw-footage/.gitkeep
 references/*
 !references/.gitkeep
+!references/*.mp4
+!references/clip-notes/
+references/clip-notes/*
+!references/clip-notes/*.after.md
+!references/clip-notes/comps/
 exports/*
 !exports/.gitkeep
 storyboards/*
