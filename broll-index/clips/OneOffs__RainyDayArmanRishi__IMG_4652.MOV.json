@@ -1,0 +1,69 @@
+{
+  "path": "OneOffs/RainyDayArmanRishi/IMG_4652.MOV",
+  "folder": "OneOffs/RainyDayArmanRishi",
+  "fingerprint": "71419854d34c69fe",
+  "width": 1080,
+  "height": 1920,
+  "fps": 30.0,
+  "duration": 2.533,
+  "model": "gemini-3.8-flash",
+  "annotatedAt": "2026-10-24T18:37:00+00:00",
+  "summary": "First-person POV of someone holding a printed tea menu at Té Company while a friend sits across the table.",
+  "location": "tea parlor",
+  "setting": "indoor",
+  "time_of_day": "indoor_unknown",
+  "weather": "n/a",
+  "people": {
+    "count": 1,
+    "creator_visible": false,
+    "description": "A friend wearing a black jacket is partially visible sitting across the table, speaking and smiling."
+  },
+  "camera": {
+    "style": "pov_first_person",
+    "framing": "close",
+    "movement": "handheld",
+    "angle": "high angle"
+  },
+  "quality": {
+    "usable": true,
+    "stability": "steady",
+    "exposure": "good",
+    "issues": ""
+  },
+  "mood": [
+    "relaxed",
+    "cozy",
+    "casual",
+    "curious"
+  ],
+  "energy": "low",
+  "tags": [
+    "tea company",
+    "tea menu",
+    "reading menu",
+    "cafe",
+    "tea room",
+    "ordering",
+    "friend hangout",
+    "table talk",
+    "teahouse",
+    "foodie",
+    "rainy day activity"
+  ],
+  "moments": [
+    {
+      "start": 0.0,
+      "end": 2.53,
+      "action": "Hand holding the Té Company menu steady while friend chats across the table in the background",
+      "emotion": "relaxed",
+      "good_for": [
+        "tea dates",
+        "trying new spots",
+        "rainy day dates",
+        "catching up over tea",
+        "favorite cozy places"
+      ],
+      "score": 3
+    }
+  ]
+}

@@ -1,0 +1,228 @@
+{
+  "id": "opinion-9",
+  "name": "WHY",
+  "reference": "references/viral-formats/opinion-9.mp4",
+  "source": "/Users/aaron/Downloads/100 Viral Formats (Format Book)/Opinion/#9/#9.mp4",
+  "duration": 15.833,
+  "music": {
+    "from": "reference",
+    "title": "Original Audio"
+  },
+  "text": {
+    "y": 0.33,
+    "size": 58,
+    "weight": 700,
+    "lineHeight": 1.4,
+    "maxWidth": 900,
+    "style": "outline"
+  },
+  "lines": [
+    {
+      "id": "l1",
+      "start": 0.0,
+      "end": 0.833,
+      "ref": "WHY",
+      "y": 0.33,
+      "measuredSize": null,
+      "style": "plain_white_shadow",
+      "guide": ""
+    },
+    {
+      "id": "l2",
+      "start": 0.833,
+      "end": 1.8,
+      "ref": "WHY\nNOT",
+      "y": 0.418,
+      "measuredSize": 118,
+      "style": "plain_white_shadow",
+      "guide": ""
+    },
+    {
+      "id": "l3",
+      "start": 1.8,
+      "end": 2.433,
+      "ref": "WHY\nNOT\nYOU?",
+      "y": 0.418,
+      "measuredSize": 118,
+      "style": "plain_white_shadow",
+      "guide": ""
+    },
+    {
+      "id": "l4",
+      "start": 2.433,
+      "end": 4.267,
+      "ref": "you've got the brains",
+      "y": 0.3,
+      "measuredSize": null,
+      "style": "plain_white_shadow",
+      "guide": ""
+    },
+    {
+      "id": "l5",
+      "start": 4.267,
+      "end": 6.0,
+      "ref": "you can make decisions",
+      "y": 0.3,
+      "measuredSize": null,
+      "style": "plain_white_shadow",
+      "guide": ""
+    },
+    {
+      "id": "l6",
+      "start": 6.0,
+      "end": 8.667,
+      "ref": "you can study the plan",
+      "y": 0.339,
+      "measuredSize": 58,
+      "style": "plain_white_shadow",
+      "guide": ""
+    },
+    {
+      "id": "l7",
+      "start": 8.667,
+      "end": 10.6,
+      "ref": "you can change your life",
+      "y": 0.339,
+      "measuredSize": 58,
+      "style": "plain_white_shadow",
+      "guide": ""
+    },
+    {
+      "id": "l8",
+      "start": 10.6,
+      "end": 12.667,
+      "ref": "you can make your dreams\ncome true",
+      "y": 0.3,
+      "measuredSize": null,
+      "style": "plain_white_shadow",
+      "guide": ""
+    },
+    {
+      "id": "l9",
+      "start": 12.667,
+      "end": 14.267,
+      "ref": "why not you?",
+      "y": 0.3,
+      "measuredSize": null,
+      "style": "plain_white_shadow",
+      "guide": ""
+    },
+    {
+      "id": "l10",
+      "start": 14.267,
+      "end": 15.833,
+      "ref": "believe in yourself",
+      "y": 0.316,
+      "measuredSize": 41,
+      "style": "plain_white_shadow",
+      "guide": ""
+    }
+  ],
+  "shots": [
+    {
+      "id": "s1",
+      "start": 0.0,
+      "end": 2.433,
+      "brief": "studying or reading in a scenic library or desk setting (ref: Young woman in an off-the-shoulder sweater sitting in an ornate grand library reading and turning pages of a massive textbook.; tripod)",
+      "line": "l2"
+    },
+    {
+      "id": "s2",
+      "start": 2.433,
+      "end": 4.267,
+      "brief": "writing notes or sketching on iPad / paper (ref: Woman writing on a tablet with a stylus and taking notes in a spiral notebook at a library desk.; tripod)",
+      "line": "l4"
+    },
+    {
+      "id": "s3",
+      "start": 4.267,
+      "end": 5.567,
+      "brief": "working on laptop, resting chin thoughtfully (ref: Woman typing on a laptop and resting her chin in her hand thoughtfully in a library.; tripod)",
+      "line": "l5"
+    },
+    {
+      "id": "s4",
+      "start": 5.567,
+      "end": 6.0,
+      "brief": "aesthetic pan of interior space or library shelves (ref: Quick hand-held pan across tall library bookshelves and vaulted architectural ceiling.; filmed by friend)",
+      "line": "l5"
+    },
+    {
+      "id": "s5",
+      "start": 6.0,
+      "end": 6.4,
+      "brief": "desk workspace flat-lay or panning shot (ref: Quick downward tilt showing a study desk setup with open laptop, iPad, notebooks, and pens.; top-down)",
+      "line": "l6"
+    },
+    {
+      "id": "s6",
+      "start": 6.4,
+      "end": 7.4,
+      "brief": "writing with a pen in a notebook next to a laptop (ref: Woman in a pink zip-up top writing with a pen and flipping through a heavy textbook at a library desk.; tripod)",
+      "line": "l6"
+    },
+    {
+      "id": "s7",
+      "start": 7.4,
+      "end": 8.667,
+      "brief": "writing with a pen in a notebook next to a laptop (ref: Woman in a pink zip-up top writing with a pen and flipping through a heavy textbook at a library desk.; tripod)",
+      "line": "l6"
+    },
+    {
+      "id": "s8",
+      "start": 8.667,
+      "end": 10.6,
+      "brief": "working or reading by a scenic window with city view (ref: Woman seated by floor-to-ceiling windows with a skyline view writing on an iPad.; tripod)",
+      "line": "l7"
+    },
+    {
+      "id": "s9",
+      "start": 10.6,
+      "end": 11.4,
+      "brief": "typing on laptop in a public workspace (ref: Woman typing on laptop at a shared long library table.; tripod)",
+      "line": "l8"
+    },
+    {
+      "id": "s10",
+      "start": 11.4,
+      "end": 12.667,
+      "brief": "close-up of writing or journaling (ref: Close-up shot of woman writing in a lined notebook in front of a bookcase.; tripod)",
+      "line": "l8"
+    },
+    {
+      "id": "s11",
+      "start": 12.667,
+      "end": 13.5,
+      "brief": "high angle selfie working on a laptop (ref: High-angle selfie shot of woman in an empty auditorium working with a laptop on her lap.; selfie)",
+      "line": "l9"
+    },
+    {
+      "id": "s12",
+      "start": 13.5,
+      "end": 14.267,
+      "brief": "medium shot typing on laptop (ref: Medium-wide shot of woman typing on a laptop at a library table.; tripod)",
+      "line": "l9"
+    },
+    {
+      "id": "s13",
+      "start": 14.267,
+      "end": 15.833,
+      "brief": "close/medium shot working intently on laptop (ref: Frontal medium close-up of woman typing on laptop looking focused.; tripod)",
+      "line": "l10"
+    }
+  ],
+  "audit": {
+    "kind": "broll_with_text",
+    "creatorSpeaks": false,
+    "audio": "music + speech",
+    "special": [],
+    "reusable": true,
+    "notes": "Can be completely recreated using any clips of dedicated focus—such as working on a laptop, morning routine, or training at the climbing gym. Simply cut clips on the rhythmic audio beats and overlay the inspirational affirmations.",
+    "summary": "A fast-paced montage of aesthetic study and productive work clips timed to a motivational audio track with synced affirmation text overlays."
+  },
+  "caption": {
+    "ref": "",
+    "guide": ""
+  },
+  "draft": true
+}

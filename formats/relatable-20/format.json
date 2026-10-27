@@ -1,0 +1,296 @@
+{
+  "id": "relatable-20",
+  "name": "only international students can relate",
+  "reference": "references/viral-formats/relatable-20.mp4",
+  "source": "/Users/aaron/Downloads/100 Viral Formats (Format Book)/Relatable/#20/#20.mp4",
+  "duration": 33.667,
+  "music": {
+    "from": "reference",
+    "title": "Beanie(slowed) - 10x"
+  },
+  "text": {
+    "y": 0.22,
+    "size": 46,
+    "weight": 700,
+    "lineHeight": 1.4,
+    "maxWidth": 900,
+    "style": "outline"
+  },
+  "lines": [
+    {
+      "id": "l1",
+      "start": 0.0,
+      "end": 2.3,
+      "ref": "only international students can relate",
+      "y": 0.22,
+      "measuredSize": 30,
+      "style": "plain_white_shadow",
+      "guide": ""
+    },
+    {
+      "id": "l2",
+      "start": 2.3,
+      "end": 5.033,
+      "ref": "cooking for survival",
+      "y": 0.11,
+      "measuredSize": 46,
+      "style": "plain_white_shadow",
+      "guide": ""
+    },
+    {
+      "id": "l3",
+      "start": 5.033,
+      "end": 8.6,
+      "ref": "converting every price to your home\ncurrency during grocery shopping",
+      "y": 0.223,
+      "measuredSize": 32,
+      "style": "plain_white_shadow",
+      "guide": ""
+    },
+    {
+      "id": "l4",
+      "start": 8.6,
+      "end": 11.133,
+      "ref": "late-night library hustle for deadlines",
+      "y": 0.22,
+      "measuredSize": 32,
+      "style": "plain_white_shadow",
+      "guide": ""
+    },
+    {
+      "id": "l5",
+      "start": 11.133,
+      "end": 12.633,
+      "ref": "homesickness hits randomly",
+      "y": 0.18,
+      "measuredSize": 84,
+      "style": "plain_white_shadow",
+      "guide": ""
+    },
+    {
+      "id": "l6",
+      "start": 12.633,
+      "end": 14.6,
+      "ref": "house chores never end",
+      "y": 0.222,
+      "measuredSize": 22,
+      "style": "plain_white_shadow",
+      "guide": ""
+    },
+    {
+      "id": "l7",
+      "start": 14.6,
+      "end": 17.267,
+      "ref": "*why is my bathroom drain always clogged🥺*",
+      "y": 0.222,
+      "measuredSize": 34,
+      "style": "plain_white_shadow",
+      "guide": ""
+    },
+    {
+      "id": "l8",
+      "start": 17.267,
+      "end": 18.933,
+      "ref": "still feeling the culture shock some days",
+      "y": 19.0,
+      "measuredSize": 28,
+      "style": "plain_white_shadow",
+      "guide": ""
+    },
+    {
+      "id": "l9",
+      "start": 18.933,
+      "end": 20.967,
+      "ref": "paying too much rent to be this stressed",
+      "y": 0.222,
+      "measuredSize": 34,
+      "style": "plain_white_shadow",
+      "guide": ""
+    },
+    {
+      "id": "l10",
+      "start": 20.967,
+      "end": 22.933,
+      "ref": "loneliness feels heavier some days",
+      "y": 0.226,
+      "measuredSize": 92,
+      "style": "plain_white_shadow",
+      "guide": ""
+    },
+    {
+      "id": "l11",
+      "start": 22.933,
+      "end": 24.833,
+      "ref": "nothing tastes like home",
+      "y": 0.22,
+      "measuredSize": 30,
+      "style": "plain_white_shadow",
+      "guide": ""
+    },
+    {
+      "id": "l12",
+      "start": 24.833,
+      "end": 26.933,
+      "ref": "midnight walks home feel strangely\nnormal now",
+      "y": 0.22,
+      "measuredSize": 30,
+      "style": "plain_white_shadow",
+      "guide": ""
+    },
+    {
+      "id": "l13",
+      "start": 26.933,
+      "end": 29.767,
+      "ref": "If you feel this too,",
+      "y": 0.22,
+      "measuredSize": 32,
+      "style": "plain_white_shadow",
+      "guide": ""
+    },
+    {
+      "id": "l14",
+      "start": 29.767,
+      "end": 33.667,
+      "ref": "you’re not alone🫂",
+      "y": 0.188,
+      "measuredSize": 22,
+      "style": "plain_white_shadow",
+      "guide": ""
+    }
+  ],
+  "shots": [
+    {
+      "id": "s1",
+      "start": 0.0,
+      "end": 2.3,
+      "brief": "sitting at a desk or library looking around, tripod (ref: Young man sitting at a study desk in a library looking pensive with arms crossed; tripod)",
+      "line": "l1"
+    },
+    {
+      "id": "s2",
+      "start": 2.3,
+      "end": 5.033,
+      "brief": "cooking simple food in kitchen, tripod (ref: Cracking an egg and cooking on a stove top in an apartment kitchen; tripod)",
+      "line": "l2"
+    },
+    {
+      "id": "s3",
+      "start": 5.033,
+      "end": 6.9,
+      "brief": "shopping in grocery store examining item (ref: Walking down a grocery aisle inspecting a food package; filmed by friend)",
+      "line": "l3"
+    },
+    {
+      "id": "s4",
+      "start": 6.9,
+      "end": 8.6,
+      "brief": "scanning groceries at checkout counter (ref: Self-checkout POV looking up at creator scanning items; top-down)",
+      "line": "l3"
+    },
+    {
+      "id": "s5",
+      "start": 8.6,
+      "end": 9.667,
+      "brief": "studying or working on laptop/tablet at desk (ref: Working late at a study cubicle writing with a digital stylus; tripod)",
+      "line": "l4"
+    },
+    {
+      "id": "s6",
+      "start": 9.667,
+      "end": 11.133,
+      "brief": "desk with laptop and takeout food (ref: Pan across desk showing laptop with brief and fast food burger/fries; handheld)",
+      "line": "l4"
+    },
+    {
+      "id": "s7",
+      "start": 11.133,
+      "end": 12.633,
+      "brief": "looking out window on subway or train (ref: Gazing out the window while riding public transport; tripod)",
+      "line": "l5"
+    },
+    {
+      "id": "s8",
+      "start": 12.633,
+      "end": 14.067,
+      "brief": "doing chores or making bed at home (ref: Making the bed in a bedroom, fluffing pillows; tripod)",
+      "line": "l6"
+    },
+    {
+      "id": "s9",
+      "start": 14.067,
+      "end": 14.6,
+      "brief": "laundromat or washing machine running (ref: Close-up of industrial washing machines spinning in a laundromat; handheld)",
+      "line": "l6"
+    },
+    {
+      "id": "s10",
+      "start": 14.6,
+      "end": 17.267,
+      "brief": "cleaning floor or doing household chores (ref: POV scrubbing bathroom tiled floor with a mop near drain; POV)",
+      "line": "l7"
+    },
+    {
+      "id": "s11",
+      "start": 17.267,
+      "end": 18.933,
+      "brief": "crowd event, cultural event, or busy city scene (ref: Observing a unique cultural cleansing smoking ceremony indoors; filmed by friend)",
+      "line": "l8"
+    },
+    {
+      "id": "s12",
+      "start": 18.933,
+      "end": 20.967,
+      "brief": "sitting on bed looking stressed or tired (ref: Sitting down heavily on the edge of the mattress looking exhausted; tripod)",
+      "line": "l9"
+    },
+    {
+      "id": "s13",
+      "start": 20.967,
+      "end": 22.933,
+      "brief": "riding bus or subway looking tired, selfie (ref: Selfie shot riding a bus looking lonely out the window; selfie)",
+      "line": "l10"
+    },
+    {
+      "id": "s14",
+      "start": 22.933,
+      "end": 24.833,
+      "brief": "eating takeout food alone outside (ref: Sitting outdoors at a picnic table eating takeout meals; tripod)",
+      "line": "l11"
+    },
+    {
+      "id": "s15",
+      "start": 24.833,
+      "end": 26.933,
+      "brief": "walking city streets at night holding drink (ref: Walking across a street at night holding a drink; selfie)",
+      "line": "l12"
+    },
+    {
+      "id": "s16",
+      "start": 26.933,
+      "end": 29.767,
+      "brief": "walking through store or pushing shopping cart (ref: Pushing a cart past aisles in a store; tripod)",
+      "line": "l13"
+    },
+    {
+      "id": "s17",
+      "start": 29.767,
+      "end": 33.667,
+      "brief": "walking outdoors in silhouette or cinematic lighting (ref: Silhouette of creator walking across a shadowed patio past sunny trees; tripod)",
+      "line": "l14"
+    }
+  ],
+  "audit": {
+    "kind": "broll_with_text",
+    "creatorSpeaks": false,
+    "audio": "music only",
+    "special": [],
+    "reusable": true,
+    "notes": "Perfect format to recreate using existing lifestyle b-roll. You just need 12-14 short 1-2 second clips depicting everyday solitary moments (subway rides, making food, studying, walking at night, shopping) paired with bulleted relatable text points targeted at a specific identity (e.g., 'only people who moved to NYC alone can relate').",
+    "summary": "A montage of everyday relatable struggles of living abroad as an international student, set to a melancholic slowed soundtrack and paired with empathetic text lines."
+  },
+  "caption": {
+    "ref": "",
+    "guide": ""
+  },
+  "draft": true
+}

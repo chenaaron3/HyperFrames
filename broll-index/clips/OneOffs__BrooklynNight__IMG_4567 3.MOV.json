@@ -1,0 +1,70 @@
+{
+  "path": "OneOffs/BrooklynNight/IMG_4567 3.MOV",
+  "folder": "OneOffs/BrooklynNight",
+  "fingerprint": "bb6532429eab6f3f",
+  "width": 1080,
+  "height": 1920,
+  "fps": 30.0,
+  "duration": 4.698,
+  "model": "gemini-3.8-flash",
+  "annotatedAt": "2026-10-24T18:23:58+00:00",
+  "summary": "A low-angle view of an illuminated historic skyscraper tower crowned with a golden statue against the night sky, framed by silhouettes of tree branches.",
+  "location": "city park",
+  "setting": "outdoor",
+  "time_of_day": "night",
+  "weather": "n/a",
+  "people": {
+    "count": 0,
+    "creator_visible": false,
+    "description": "No people visible."
+  },
+  "camera": {
+    "style": "pov_first_person",
+    "framing": "medium",
+    "movement": "static",
+    "angle": "low angle looking up"
+  },
+  "quality": {
+    "usable": true,
+    "stability": "steady",
+    "exposure": "good",
+    "issues": ""
+  },
+  "mood": [
+    "calm",
+    "atmospheric",
+    "cinematic",
+    "peaceful",
+    "nostalgic"
+  ],
+  "energy": "low",
+  "tags": [
+    "new york city",
+    "night",
+    "city lights",
+    "architecture",
+    "skyscraper",
+    "tower",
+    "golden statue",
+    "urban",
+    "night walk",
+    "silhouette",
+    "brooklyn"
+  ],
+  "moments": [
+    {
+      "start": 0.0,
+      "end": 4.7,
+      "action": "Camera holds steady looking up through dark tree branches at an illuminated classical building tower and golden statue under a dark night sky",
+      "emotion": "calm",
+      "good_for": [
+        "city nights",
+        "late night walks",
+        "places that feel like home",
+        "quiet moments in the city",
+        "finding peace"
+      ],
+      "score": 4
+    }
+  ]
+}

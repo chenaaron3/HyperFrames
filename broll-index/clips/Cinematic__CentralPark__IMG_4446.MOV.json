@@ -1,0 +1,71 @@
+{
+  "path": "Cinematic/CentralPark/IMG_4446.MOV",
+  "folder": "Cinematic/CentralPark",
+  "fingerprint": "7b8e377ec75c4fbe",
+  "width": 1080,
+  "height": 1920,
+  "fps": 30.0,
+  "duration": 4.667,
+  "model": "gemini-3.8-flash",
+  "annotatedAt": "2026-10-24T18:18:16+00:00",
+  "summary": "A scenic view of a classic New York City apartment building rising behind the green treetops and rocky landscape of Central Park under a clear blue sky.",
+  "location": "park",
+  "setting": "outdoor",
+  "time_of_day": "day",
+  "weather": "sunny",
+  "people": {
+    "count": 0,
+    "creator_visible": false,
+    "description": "No people are visible in the frame."
+  },
+  "camera": {
+    "style": "handheld_cinematic",
+    "framing": "medium",
+    "movement": "static",
+    "angle": "low angle looking up"
+  },
+  "quality": {
+    "usable": true,
+    "stability": "steady",
+    "exposure": "good",
+    "issues": ""
+  },
+  "mood": [
+    "peaceful",
+    "urban",
+    "serene",
+    "contemplative"
+  ],
+  "energy": "low",
+  "tags": [
+    "central park",
+    "new york city",
+    "nyc",
+    "manhattan",
+    "architecture",
+    "skyline",
+    "trees",
+    "nature in city",
+    "sunny day",
+    "clear sky",
+    "urban oasis",
+    "scenic",
+    "b-roll"
+  ],
+  "moments": [
+    {
+      "start": 0.0,
+      "end": 4.67,
+      "action": "Static view of the Upper West Side style building towering over the foliage and large rock outcropping in Central Park",
+      "emotion": "calm",
+      "good_for": [
+        "city breaks",
+        "living in new york",
+        "finding peace in the city",
+        "central park walks",
+        "dreams coming true"
+      ],
+      "score": 4
+    }
+  ]
+}

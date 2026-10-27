@@ -1,0 +1,71 @@
+{
+  "path": "Cinematic/CentralPark/IMG_4423.MOV",
+  "folder": "Cinematic/CentralPark",
+  "fingerprint": "e4704ee371cab61a",
+  "width": 1080,
+  "height": 1920,
+  "fps": 30.0,
+  "duration": 2.367,
+  "model": "gemini-3.8-flash",
+  "annotatedAt": "2026-10-24T18:17:52+00:00",
+  "summary": "Handheld POV shot walking down a shaded, leafy path in Central Park with dappled sunlight and empty park benches.",
+  "location": "park",
+  "setting": "outdoor",
+  "time_of_day": "day",
+  "weather": "sunny",
+  "people": {
+    "count": 0,
+    "creator_visible": false,
+    "description": "No people clearly visible on screen"
+  },
+  "camera": {
+    "style": "pov_first_person",
+    "framing": "wide",
+    "movement": "walking",
+    "angle": "eye level"
+  },
+  "quality": {
+    "usable": true,
+    "stability": "steady",
+    "exposure": "good",
+    "issues": ""
+  },
+  "mood": [
+    "peaceful",
+    "serene",
+    "tranquil",
+    "grounded"
+  ],
+  "energy": "low",
+  "tags": [
+    "central park",
+    "park",
+    "trees",
+    "path",
+    "walk",
+    "sunlight",
+    "dappled light",
+    "nature",
+    "greenery",
+    "benches",
+    "new york city",
+    "summer",
+    "peaceful"
+  ],
+  "moments": [
+    {
+      "start": 0.0,
+      "end": 2.37,
+      "action": "Moving forward along a sun-dappled paved pathway lined with green trees and park benches",
+      "emotion": "calm",
+      "good_for": [
+        "morning walks",
+        "clearing my head",
+        "peaceful moments",
+        "taking a breath",
+        "daily routine"
+      ],
+      "score": 4
+    }
+  ]
+}

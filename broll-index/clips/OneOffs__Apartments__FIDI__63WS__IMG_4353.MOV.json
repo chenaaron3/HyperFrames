@@ -1,0 +1,83 @@
+{
+  "path": "OneOffs/Apartments/FIDI/63WS/IMG_4353.MOV",
+  "folder": "OneOffs/Apartments/FIDI/63WS",
+  "fingerprint": "85e1e0687a152c76",
+  "width": 1080,
+  "height": 1920,
+  "fps": 29.97,
+  "duration": 6.068,
+  "model": "gemini-3.8-flash",
+  "annotatedAt": "2026-10-24T18:20:37+00:00",
+  "summary": "A handheld panning shot showing a luxury high-ceiling study and library lounge with dark built-in bookshelves, a long wooden conference table, and large industrial windows.",
+  "location": "library",
+  "setting": "indoor",
+  "time_of_day": "day",
+  "weather": "n/a",
+  "people": {
+    "count": 0,
+    "creator_visible": false,
+    "description": "No people present in the room."
+  },
+  "camera": {
+    "style": "handheld_cinematic",
+    "framing": "wide",
+    "movement": "pan",
+    "angle": "eye level"
+  },
+  "quality": {
+    "usable": true,
+    "stability": "steady",
+    "exposure": "good",
+    "issues": ""
+  },
+  "mood": [
+    "quiet",
+    "sophisticated",
+    "luxurious",
+    "productive",
+    "moody"
+  ],
+  "energy": "low",
+  "tags": [
+    "apartment tour",
+    "fidi",
+    "study",
+    "library",
+    "conference room",
+    "home office",
+    "amenity space",
+    "dark academia",
+    "interior design",
+    "herringbone floors",
+    "bookshelves",
+    "luxury apartment"
+  ],
+  "moments": [
+    {
+      "start": 0.0,
+      "end": 3.0,
+      "action": "Camera pans slowly from dramatic tall arched dark bookshelves across to the long wooden table and chairs",
+      "emotion": "calm",
+      "good_for": [
+        "dream apartment amenities",
+        "work from home spot",
+        "focus space",
+        "study session"
+      ],
+      "score": 4
+    },
+    {
+      "start": 3.0,
+      "end": 6.07,
+      "action": "Camera continues panning past the study table towards massive grid-pane windows with natural daylight",
+      "emotion": "peaceful",
+      "good_for": [
+        "luxury living",
+        "NYC apartment tour",
+        "quiet mornings",
+        "productive day"
+      ],
+      "score": 4
+    }
+  ]
+}

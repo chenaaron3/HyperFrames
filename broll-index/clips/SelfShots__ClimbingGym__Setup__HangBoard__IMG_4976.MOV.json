@@ -1,0 +1,120 @@
+{
+  "path": "SelfShots/ClimbingGym/Setup/HangBoard/IMG_4976.MOV",
+  "folder": "SelfShots/ClimbingGym/Setup/HangBoard",
+  "fingerprint": "eb7afdf0f18675ab",
+  "width": 1080,
+  "height": 1920,
+  "fps": 30.0,
+  "duration": 48.803,
+  "model": "gemini-3.8-flash",
+  "annotatedAt": "2026-10-24T18:53:23+00:00",
+  "summary": "A climber trains finger strength and dynamic pulling power on a wooden hangboard using a plyo box at an indoor climbing gym.",
+  "location": "climbing gym",
+  "setting": "indoor",
+  "time_of_day": "indoor_unknown",
+  "weather": "n/a",
+  "people": {
+    "count": 2,
+    "creator_visible": true,
+    "description": "Young East Asian man with dark wavy hair wearing a brown short-sleeved shirt and black pants; another gym member sits in the background."
+  },
+  "camera": {
+    "style": "tripod_static",
+    "framing": "wide",
+    "movement": "static",
+    "angle": "eye level"
+  },
+  "quality": {
+    "usable": true,
+    "stability": "locked",
+    "exposure": "good",
+    "issues": ""
+  },
+  "mood": [
+    "focused",
+    "disciplined",
+    "athletic",
+    "intense",
+    "grind"
+  ],
+  "energy": "high",
+  "tags": [
+    "climbing gym",
+    "hangboard",
+    "bouldering",
+    "pullup",
+    "finger strength",
+    "calisthenics",
+    "workout",
+    "training",
+    "fitness",
+    "lock-off",
+    "plyo box",
+    "athletic",
+    "discipline"
+  ],
+  "moments": [
+    {
+      "start": 9.5,
+      "end": 13.5,
+      "action": "Creator does an explosive one-arm pull and campus reach on the wooden hangboard, swinging his legs up into a lock-off",
+      "emotion": "focused and intense",
+      "good_for": [
+        "putting in the work",
+        "training discipline",
+        "fitness motivation",
+        "building strength"
+      ],
+      "score": 4
+    },
+    {
+      "start": 14.5,
+      "end": 18.0,
+      "action": "Creator executes another dynamic one-arm pull and reach, holding tension before lowering back down",
+      "emotion": "determined",
+      "good_for": [
+        "daily grind",
+        "consistency pays off",
+        "calisthenics goals"
+      ],
+      "score": 4
+    },
+    {
+      "start": 28.5,
+      "end": 33.0,
+      "action": "Creator explosively pulls up with one arm into a horizontal core lock-off reaching across the board",
+      "emotion": "maximum physical exertion",
+      "good_for": [
+        "proof of progress",
+        "doing the impossible",
+        "climbing strength",
+        "beast mode"
+      ],
+      "score": 5
+    },
+    {
+      "start": 35.0,
+      "end": 38.5,
+      "action": "Creator performs another powerful one-arm campus lock-off rep on the hangboard",
+      "emotion": "intense concentration",
+      "good_for": [
+        "one more rep",
+        "pushing limits",
+        "workout check-in"
+      ],
+      "score": 4
+    },
+    {
+      "start": 40.0,
+      "end": 44.5,
+      "action": "Creator completes a final powerful hangboard pull-up rep, drops his feet to the box, and steps off satisfied",
+      "emotion": "exhausted relief and satisfaction",
+      "good_for": [
+        "finishing the workout",
+        "done for the day",
+        "leaving it all on the wall"
+      ],
+      "score": 4
+    }
+  ]
+}

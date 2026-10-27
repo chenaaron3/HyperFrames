@@ -1,0 +1,83 @@
+{
+  "path": "OneOffs/RainyDayArmanRishi/IMG_4641.MOV",
+  "folder": "OneOffs/RainyDayArmanRishi",
+  "fingerprint": "b62d1775e6d6f7c0",
+  "width": 1080,
+  "height": 1920,
+  "fps": 30.0,
+  "duration": 7.933,
+  "model": "gemini-3.8-flash",
+  "annotatedAt": "2026-10-24T18:36:43+00:00",
+  "summary": "Inside a cozy, dimly lit restaurant or bar, a man in a leather jacket talks to staff at the counter before the camera pans across the warm interior decor.",
+  "location": "restaurant",
+  "setting": "indoor",
+  "time_of_day": "indoor_unknown",
+  "weather": "n/a",
+  "people": {
+    "count": 3,
+    "creator_visible": false,
+    "description": "A blonde server in a black dress behind the counter, a man seen from behind in a dark leather jacket, and patrons seated in the background"
+  },
+  "camera": {
+    "style": "pov_first_person",
+    "framing": "medium",
+    "movement": "pan",
+    "angle": "eye level"
+  },
+  "quality": {
+    "usable": true,
+    "stability": "handheld",
+    "exposure": "good",
+    "issues": ""
+  },
+  "mood": [
+    "cozy",
+    "moody",
+    "warm",
+    "casual",
+    "intimate"
+  ],
+  "energy": "low",
+  "tags": [
+    "restaurant",
+    "bar",
+    "cafe",
+    "dinner",
+    "decor",
+    "cozy aesthetic",
+    "mood lighting",
+    "chandelier",
+    "dried flowers",
+    "date spot",
+    "city vibes",
+    "night out"
+  ],
+  "moments": [
+    {
+      "start": 0.0,
+      "end": 2.5,
+      "action": "A man in a leather jacket stands at the counter ordering or checking in with the server",
+      "emotion": "casual",
+      "good_for": [
+        "date night",
+        "grabbing a drink",
+        "favorite neighborhood spot",
+        "dinner plans"
+      ],
+      "score": 3
+    },
+    {
+      "start": 2.5,
+      "end": 7.5,
+      "action": "Camera slowly pans across the rustic restaurant decor featuring dried florals, wooden shelves, bar stools, and a small chandelier",
+      "emotion": "calm",
+      "good_for": [
+        "restaurant aesthetic",
+        "romantic dinner spot",
+        "hidden gems in the city",
+        "cozy rainy evening"
+      ],
+      "score": 4
+    }
+  ]
+}

@@ -1,0 +1,70 @@
+{
+  "path": "Cinematic/CentralPark/IMG_4410.MOV",
+  "folder": "Cinematic/CentralPark",
+  "fingerprint": "a66a9cb3e9403bb9",
+  "width": 1080,
+  "height": 1920,
+  "fps": 29.97,
+  "duration": 2.1,
+  "model": "gemini-3.8-flash",
+  "annotatedAt": "2026-10-24T18:17:38+00:00",
+  "summary": "Behind the scenes of a film production set in Central Park with crew members walking among dolly tracks, lighting gear, and equipment carts in the shade.",
+  "location": "park",
+  "setting": "outdoor",
+  "time_of_day": "day",
+  "weather": "sunny",
+  "people": {
+    "count": 7,
+    "creator_visible": false,
+    "description": "Film crew members dressed in dark, casual production attire moving around equipment, operating gear, and checking monitors."
+  },
+  "camera": {
+    "style": "handheld_cinematic",
+    "framing": "wide",
+    "movement": "static",
+    "angle": "eye level"
+  },
+  "quality": {
+    "usable": true,
+    "stability": "steady",
+    "exposure": "mixed",
+    "issues": ""
+  },
+  "mood": [
+    "creative",
+    "busy",
+    "focused",
+    "cinematic"
+  ],
+  "energy": "medium",
+  "tags": [
+    "film set",
+    "central park",
+    "behind the scenes",
+    "bts",
+    "filmmaking",
+    "production crew",
+    "dolly track",
+    "camera crew",
+    "movie making",
+    "nyc",
+    "director",
+    "cinematography"
+  ],
+  "moments": [
+    {
+      "start": 0.0,
+      "end": 2.1,
+      "action": "Film crew members move around camera equipment, lighting stands, and a dolly setup on the grass under leafy trees",
+      "emotion": "focused",
+      "good_for": [
+        "behind the scenes",
+        "on set today",
+        "making the vision come to life",
+        "chasing dreams",
+        "creative hustle"
+      ],
+      "score": 3
+    }
+  ]
+}

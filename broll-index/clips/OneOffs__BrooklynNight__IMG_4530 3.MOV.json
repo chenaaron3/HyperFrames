@@ -1,0 +1,83 @@
+{
+  "path": "OneOffs/BrooklynNight/IMG_4530 3.MOV",
+  "folder": "OneOffs/BrooklynNight",
+  "fingerprint": "3bcc223bacaf360d",
+  "width": 1080,
+  "height": 1920,
+  "fps": 30.0,
+  "duration": 10.633,
+  "model": "gemini-3.8-flash",
+  "annotatedAt": "2026-10-24T18:22:57+00:00",
+  "summary": "A young man boulder climbs on an indoor climbing wall, working his way up colorful holds before slipping and falling off.",
+  "location": "gym",
+  "setting": "indoor",
+  "time_of_day": "indoor_unknown",
+  "weather": "n/a",
+  "people": {
+    "count": 1,
+    "creator_visible": true,
+    "description": "Young man with glasses, wearing a dark grey t-shirt and black athletic shorts, climbing barefoot or in climbing shoes"
+  },
+  "camera": {
+    "style": "filmed_by_friend",
+    "framing": "medium",
+    "movement": "handheld",
+    "angle": "low angle looking up"
+  },
+  "quality": {
+    "usable": true,
+    "stability": "handheld",
+    "exposure": "good",
+    "issues": ""
+  },
+  "mood": [
+    "active",
+    "focused",
+    "challenging",
+    "athletic"
+  ],
+  "energy": "medium",
+  "tags": [
+    "bouldering",
+    "rock climbing",
+    "indoor climbing",
+    "gym",
+    "fitness",
+    "workout",
+    "climbing gym",
+    "trying new hobbies",
+    "falling",
+    "persistence",
+    "strength"
+  ],
+  "moments": [
+    {
+      "start": 0.0,
+      "end": 5.0,
+      "action": "Climber grips onto blue handholds and finds secure foot placements on the climbing wall",
+      "emotion": "focused",
+      "good_for": [
+        "trying new things",
+        "staying active",
+        "hobby time",
+        "gym routine",
+        "locked in"
+      ],
+      "score": 4
+    },
+    {
+      "start": 5.0,
+      "end": 10.3,
+      "action": "Climber repositions feet, strains to stabilize himself on the holds, and slips off the wall",
+      "emotion": "determined then defeated",
+      "good_for": [
+        "trust the process",
+        "falling down and getting back up",
+        "humbling moments",
+        "when you try your best",
+        "learning curve"
+      ],
+      "score": 4
+    }
+  ]
+}

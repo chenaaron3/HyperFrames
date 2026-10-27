@@ -1,0 +1,102 @@
+{
+  "format": "easy-15",
+  "title": "Sometimes I forget how blessed I am",
+  "lines": {
+    "l1": "Sometimes i forget\nhow blessed i am…",
+    "l2": "i have a roof over my head",
+    "l3": "There's food on my plate",
+    "l4": "I have people that love me",
+    "l5": "A healthy body",
+    "l6": "Be grateful for the life you have"
+  },
+  "shots": {
+    "s1": {
+      "clip": "SelfShots/Walking/1stPerson/IMG_4960.MOV",
+      "in": 1.83,
+      "speed": 1.0,
+      "note": "Creator walks down the sidewalk holding camera high in selfie mode, glancing forward and briefly toward the camera (calm, observant)",
+      "query": "walking selfie street sunny city",
+      "alts": [
+        "SelfShots/Walking/1stPerson/IMG_4931.MOV @0.0-3.0: Creator walks along the sidewalk looking directly into the camera lens",
+        "SelfShots/ClimbingGym/Setup/Walking/IMG_4967.MOV @6.5-11.0: Creator turns around and walks towards and past the camera with a calm",
+        "SelfShots/Walking/1stPerson/IMG_5158.MOV @2.5-8.5: Creator walks across the crosswalk while looking forward and slightly ",
+        "SelfShots/Walking/1stPerson/IMG_4961.MOV @1.3-3.4: Creator tilts the camera up, looking directly into the lens while walk",
+        "SelfShots/Walking/1stPerson/IMG_4965.MOV @0.5-4.5: Creator holds phone walking along a sidewalk past a colorful storefron"
+      ],
+      "motion": {
+        "speed": 8.4,
+        "jitter": 5.03,
+        "verdict": "ok"
+      }
+    },
+    "s2": {
+      "clip": "OneOffs/Apartments/FIDI/90W/IMG_4088.MOV",
+      "in": 16.5,
+      "speed": 1.0,
+      "note": "hand pick",
+      "query": "looking up buildings sky skyscrapers",
+      "motion": {
+        "speed": 9.7,
+        "jitter": 0.76,
+        "verdict": "ok"
+      }
+    },
+    "s3": {
+      "clip": "SelfShots/Eating/IMG_5177.MOV",
+      "in": 3.3,
+      "speed": 1.0,
+      "note": "Man lifts up the plate of pizza to show the camera before leaning in and taking his first bite (excited, anticipating)",
+      "query": "eating pizza plate food",
+      "alts": [
+        "OneOffs/Cooking/IMG_4834.MOV @21.0-28.5: Scooping cooked ground meat mixture with a large spoon over rice in a ",
+        "OneOffs/Cooking/IMG_4833.MOV @21.0-26.5: Man spoons cooked minced meat from a foil pan over a bowl of rice",
+        "SelfShots/Eating/IMG_5177.MOV @161.5-167.3: Man swallows the last bite, clears his hands on the plate and exhales ",
+        "SelfShots/Eating/IMG_5163.MOV @0.0-6.8: Creator unpacks a fresh salad grain bowl out of a yellow takeout paper",
+        "SelfShots/Eating/IMG_5177.MOV @18.5-24.5: Man lifts the pizza slice directly with his hand and takes a large bit"
+      ],
+      "motion": {
+        "speed": 0.1,
+        "jitter": 0.04,
+        "verdict": "ok"
+      }
+    },
+    "s4": {
+      "clip": "OneOffs/Cooking/IMG_4837.MOV",
+      "in": 6.5,
+      "speed": 1.0,
+      "note": "hand pick",
+      "query": "friends laughing together group",
+      "motion": {
+        "speed": 0.0,
+        "jitter": 0.02,
+        "verdict": "ok"
+      }
+    },
+    "s5": {
+      "clip": "SelfShots/ClimbingGym/OnTheWall/10:18:26_Orange_x53/IMG_5126.MOV",
+      "in": 31.0,
+      "speed": 1.0,
+      "note": "hand pick",
+      "query": "climbing bouldering wall send",
+      "motion": {
+        "speed": 0.0,
+        "jitter": 0.01,
+        "verdict": "ok"
+      }
+    },
+    "s6": {
+      "clip": "SelfShots/Walking/1stPerson/IMG_5261.MOV",
+      "in": 14.0,
+      "speed": 1.0,
+      "note": "hand pick",
+      "query": "smiling selfie outdoors happy",
+      "motion": {
+        "speed": 10.2,
+        "jitter": 6.05,
+        "verdict": "ok"
+      }
+    }
+  },
+  "caption": "Some days in this city are loud and hard. But I have a roof over my head, food on my plate, people who show up for me, and a body that still lets me climb. That's a lot. 🤍",
+  "textY": 0.5
+}

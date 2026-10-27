@@ -1,0 +1,66 @@
+{
+  "path": "OneOffs/RainyDayArmanRishi/IMG_4662.MOV",
+  "folder": "OneOffs/RainyDayArmanRishi",
+  "fingerprint": "de702adc09946db3",
+  "width": 1080,
+  "height": 1920,
+  "fps": 30.0,
+  "duration": 2.467,
+  "model": "gemini-3.8-flash",
+  "annotatedAt": "2026-10-24T18:37:22+00:00",
+  "summary": "A close-up shot of a round, sesame-encrusted flatbread pastry cut into quarters on a small white plate atop a wooden restaurant table.",
+  "location": "restaurant",
+  "setting": "indoor",
+  "time_of_day": "indoor_unknown",
+  "weather": "n/a",
+  "people": {
+    "count": 0,
+    "creator_visible": false,
+    "description": "No people visible in frame."
+  },
+  "camera": {
+    "style": "pov_first_person",
+    "framing": "close",
+    "movement": "static",
+    "angle": "high angle"
+  },
+  "quality": {
+    "usable": true,
+    "stability": "steady",
+    "exposure": "good",
+    "issues": ""
+  },
+  "mood": [
+    "appetizing",
+    "cozy",
+    "casual"
+  ],
+  "energy": "low",
+  "tags": [
+    "food",
+    "flatbread",
+    "sesame",
+    "restaurant",
+    "dining",
+    "pastry",
+    "snack",
+    "chinese food",
+    "wooden table",
+    "meal"
+  ],
+  "moments": [
+    {
+      "start": 0.0,
+      "end": 2.47,
+      "action": "Steady close-up shot of a sesame seed flatbread cut into four slices on a white dish",
+      "emotion": "calm",
+      "good_for": [
+        "food on my plate",
+        "good eats",
+        "comfort food",
+        "rainy day food"
+      ],
+      "score": 3
+    }
+  ]
+}

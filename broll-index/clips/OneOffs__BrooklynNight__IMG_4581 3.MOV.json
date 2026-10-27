@@ -1,0 +1,70 @@
+{
+  "path": "OneOffs/BrooklynNight/IMG_4581 3.MOV",
+  "folder": "OneOffs/BrooklynNight",
+  "fingerprint": "4f211e6d0955a48b",
+  "width": 1080,
+  "height": 1920,
+  "fps": 30.0,
+  "duration": 4.5,
+  "model": "gemini-3.8-flash",
+  "annotatedAt": "2026-10-24T18:24:18+00:00",
+  "summary": "Handheld walking POV across the Brooklyn Bridge pedestrian boardwalk at night, symmetrically framed by illuminated suspension cables with pedestrians strolling.",
+  "location": "Brooklyn Bridge pedestrian walkway",
+  "setting": "outdoor",
+  "time_of_day": "night",
+  "weather": "clear",
+  "people": {
+    "count": 12,
+    "creator_visible": false,
+    "description": "Pedestrians and tourists in casual clothing walking along the bridge boardwalk in both directions"
+  },
+  "camera": {
+    "style": "pov_first_person",
+    "framing": "wide",
+    "movement": "walking",
+    "angle": "eye level"
+  },
+  "quality": {
+    "usable": true,
+    "stability": "steady",
+    "exposure": "good",
+    "issues": ""
+  },
+  "mood": [
+    "atmospheric",
+    "urban",
+    "explorative",
+    "cinematic"
+  ],
+  "energy": "medium",
+  "tags": [
+    "brooklyn bridge",
+    "new york city",
+    "nyc",
+    "night walk",
+    "suspension bridge",
+    "city lights",
+    "urban life",
+    "travel",
+    "boardwalk",
+    "manhattan skyline",
+    "night stroll",
+    "wanderlust"
+  ],
+  "moments": [
+    {
+      "start": 0.0,
+      "end": 4.5,
+      "action": "Walking forward down the wooden walkway of the Brooklyn Bridge surrounded by suspension cables and evening pedestrians",
+      "emotion": "contemplative",
+      "good_for": [
+        "late night walks in the city",
+        "city that never sleeps",
+        "romanticizing your life",
+        "traveling to new cities",
+        "weekend in nyc"
+      ],
+      "score": 4
+    }
+  ]
+}

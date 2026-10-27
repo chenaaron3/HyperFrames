@@ -1,0 +1,130 @@
+{
+  "path": "SelfShots/MorningRoutine/1.5_Sunscreen.MOV",
+  "folder": "SelfShots/MorningRoutine",
+  "fingerprint": "586bda1afd3368cd",
+  "width": 1080,
+  "height": 1920,
+  "fps": 29.97,
+  "duration": 65.068,
+  "model": "gemini-3.8-flash",
+  "annotatedAt": "2026-10-24T19:00:09+00:00",
+  "summary": "A young man carries out his morning skincare routine, applying moisturizer and massaging his face in front of a bathroom vanity mirror.",
+  "location": "bathroom",
+  "setting": "indoor",
+  "time_of_day": "indoor_unknown",
+  "weather": "n/a",
+  "people": {
+    "count": 1,
+    "creator_visible": true,
+    "description": "Young Asian man with dark hair wearing a grey sleeveless tank top and silver chain necklace."
+  },
+  "camera": {
+    "style": "tripod_static",
+    "framing": "medium",
+    "movement": "static",
+    "angle": "eye level"
+  },
+  "quality": {
+    "usable": true,
+    "stability": "locked",
+    "exposure": "good",
+    "issues": ""
+  },
+  "mood": [
+    "calm",
+    "focused",
+    "routine",
+    "refreshing"
+  ],
+  "energy": "low",
+  "tags": [
+    "skincare",
+    "morning routine",
+    "bathroom",
+    "moisturizer",
+    "face cream",
+    "self care",
+    "grooming",
+    "mirror",
+    "sink",
+    "hygiene",
+    "wellness"
+  ],
+  "moments": [
+    {
+      "start": 3.5,
+      "end": 12.0,
+      "action": "Man takes a small bottle of skincare product, opens it, and pumps cream onto his hand",
+      "emotion": "focused",
+      "good_for": [
+        "morning routine",
+        "taking care of myself",
+        "skincare steps",
+        "daily habits"
+      ],
+      "score": 4
+    },
+    {
+      "start": 13.0,
+      "end": 21.0,
+      "action": "Man gently dabs and spreads face cream onto his cheeks while looking in the mirror",
+      "emotion": "relaxed",
+      "good_for": [
+        "skincare routine",
+        "self care is not selfish",
+        "morning glow",
+        "starting the day right"
+      ],
+      "score": 4
+    },
+    {
+      "start": 22.0,
+      "end": 32.0,
+      "action": "Man leans slightly over the sink and rubs the lotion all over his face with both hands",
+      "emotion": "attentive",
+      "good_for": [
+        "consistency is key",
+        "skincare routine",
+        "hygiene check",
+        "healthy skin habits"
+      ],
+      "score": 4
+    },
+    {
+      "start": 33.0,
+      "end": 39.0,
+      "action": "Man rubs remaining lotion across his jawline and onto his neck while looking in the mirror",
+      "emotion": "calm",
+      "good_for": [
+        "don't forget the neck",
+        "simple morning routine",
+        "self maintenance"
+      ],
+      "score": 4
+    },
+    {
+      "start": 43.5,
+      "end": 51.5,
+      "action": "Man presses lotion into face and stretches to massage the back of his neck",
+      "emotion": "refreshed",
+      "good_for": [
+        "feeling refreshed",
+        "ready for the day",
+        "self care daily"
+      ],
+      "score": 4
+    },
+    {
+      "start": 56.5,
+      "end": 62.0,
+      "action": "Man turns on the faucet and rinses his hands clean in the sink",
+      "emotion": "neutral",
+      "good_for": [
+        "clean up",
+        "ready to go",
+        "morning checklist"
+      ],
+      "score": 3
+    }
+  ]
+}

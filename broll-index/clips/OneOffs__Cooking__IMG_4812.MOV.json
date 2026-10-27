@@ -1,0 +1,82 @@
+{
+  "path": "OneOffs/Cooking/IMG_4812.MOV",
+  "folder": "OneOffs/Cooking",
+  "fingerprint": "624cefd118d80234",
+  "width": 1080,
+  "height": 1920,
+  "fps": 30.0,
+  "duration": 14.833,
+  "model": "gemini-3.8-flash",
+  "annotatedAt": "2026-10-24T18:24:57+00:00",
+  "summary": "A person cooks curry in a saucepan on a gas stovetop, adding fresh lime leaves and stirring the mixture with a silicone spatula.",
+  "location": "kitchen",
+  "setting": "indoor",
+  "time_of_day": "indoor_unknown",
+  "weather": "n/a",
+  "people": {
+    "count": 1,
+    "creator_visible": false,
+    "description": "Only the person's hands and forearms are visible while preparing the curry."
+  },
+  "camera": {
+    "style": "pov_first_person",
+    "framing": "close",
+    "movement": "handheld_cinematic",
+    "angle": "high angle"
+  },
+  "quality": {
+    "usable": true,
+    "stability": "steady",
+    "exposure": "good",
+    "issues": ""
+  },
+  "mood": [
+    "cozy",
+    "domestic",
+    "culinary"
+  ],
+  "energy": "low",
+  "tags": [
+    "cooking",
+    "curry",
+    "stovetop",
+    "kitchen",
+    "saucepan",
+    "herbs",
+    "lime leaves",
+    "stirring",
+    "spatula",
+    "recipe",
+    "home cooked",
+    "simmering",
+    "dinner"
+  ],
+  "moments": [
+    {
+      "start": 0.5,
+      "end": 3.8,
+      "action": "Person displays a handful of chopped lime leaves to the camera and drops them into the simmering curry",
+      "emotion": "focused",
+      "good_for": [
+        "cooking from scratch",
+        "secret ingredient",
+        "food on my plate",
+        "home cooked meals"
+      ],
+      "score": 4
+    },
+    {
+      "start": 5.5,
+      "end": 11.5,
+      "action": "Stirring the creamy curry with a spatula, revealing chunks of carrots and vegetables simmering",
+      "emotion": "calm",
+      "good_for": [
+        "comfort food",
+        "dinner time",
+        "cozy nights in",
+        "learning to cook"
+      ],
+      "score": 4
+    }
+  ]
+}

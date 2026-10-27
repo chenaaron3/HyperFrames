@@ -1,0 +1,80 @@
+{
+  "path": "SelfShots/MorningRoutine/3.5_IMG_4929.MOV",
+  "folder": "SelfShots/MorningRoutine",
+  "fingerprint": "40cee7b24058ef85",
+  "width": 1080,
+  "height": 1920,
+  "fps": 30.0,
+  "duration": 10.167,
+  "model": "gemini-3.8-flash",
+  "annotatedAt": "2026-10-24T19:00:28+00:00",
+  "summary": "A young man wearing a black coat and backpack enters a gold-paneled elevator, then steps back out past the camera.",
+  "location": "elevator",
+  "setting": "indoor",
+  "time_of_day": "indoor_unknown",
+  "weather": "n/a",
+  "people": {
+    "count": 1,
+    "creator_visible": true,
+    "description": "Young East Asian man with dark wavy hair wearing a long black coat, brown shirt, and a black backpack"
+  },
+  "camera": {
+    "style": "tripod_static",
+    "framing": "medium",
+    "movement": "static",
+    "angle": "eye level"
+  },
+  "quality": {
+    "usable": true,
+    "stability": "locked",
+    "exposure": "good",
+    "issues": ""
+  },
+  "mood": [
+    "neutral",
+    "routine",
+    "urban",
+    "minimal"
+  ],
+  "energy": "low",
+  "tags": [
+    "elevator",
+    "morning routine",
+    "commute",
+    "leaving home",
+    "backpack",
+    "trench coat",
+    "building interior",
+    "doors closing",
+    "doors opening",
+    "walking"
+  ],
+  "moments": [
+    {
+      "start": 1.2,
+      "end": 3.4,
+      "action": "Man enters the elevator from outside the frame wearing a backpack and long coat",
+      "emotion": "calm, neutral",
+      "good_for": [
+        "leaving for work",
+        "morning commute",
+        "heading out",
+        "daily routine"
+      ],
+      "score": 3
+    },
+    {
+      "start": 6.8,
+      "end": 8.5,
+      "action": "Man exits the elevator, walking past the camera into the hallway",
+      "emotion": "focused, ready",
+      "good_for": [
+        "heading into the day",
+        "commute vibes",
+        "arriving",
+        "on the go"
+      ],
+      "score": 4
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "id": "relatable-3",
+  "name": "For all my solo living folks:  What’s something you struggle",
+  "reference": "references/viral-formats/relatable-3.mp4",
+  "source": "/Users/aaron/Downloads/100 Viral Formats (Format Book)/Relatable/#3/#3.mp4",
+  "duration": 3.833,
+  "music": {
+    "from": "reference",
+    "title": "Original Audio"
+  },
+  "text": {
+    "y": 0.317,
+    "size": 60,
+    "weight": 700,
+    "lineHeight": 1.4,
+    "maxWidth": 900,
+    "style": "outline"
+  },
+  "lines": [
+    {
+      "id": "l1",
+      "start": 0.0,
+      "end": 3.833,
+      "ref": "For all my solo living folks:\n\nWhat’s something you\nstruggle with the most?",
+      "y": 0.317,
+      "measuredSize": 60,
+      "style": "plain_white_shadow",
+      "guide": ""
+    }
+  ],
+  "shots": [
+    {
+      "id": "s1",
+      "start": 0.0,
+      "end": 3.833,
+      "brief": "eating a meal alone at a restaurant or cafe (ref: A woman eats a grain/salad bowl at a restaurant table with high-rise city views in the background, takes a bite, and looks contemplative.; tripod)",
+      "line": "l1"
+    }
+  ],
+  "audit": {
+    "kind": "broll_with_text",
+    "creatorSpeaks": false,
+    "audio": "music only",
+    "special": [],
+    "reusable": true,
+    "notes": "Easily recreated with any existing b-roll clip of eating alone, cooking in an apartment, or working quietly at a cafe or desk.",
+    "summary": "A young woman eats alone at a cafe while an on-screen text prompt asks fellow solo-living people what they struggle with most."
+  },
+  "caption": {
+    "ref": "",
+    "guide": ""
+  },
+  "draft": true
+}

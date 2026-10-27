@@ -1,0 +1,118 @@
+{
+  "path": "SelfShots/ClimbingGym/OnTheWall/10:18:26_Orange_x53/IMG_5108.MOV",
+  "folder": "SelfShots/ClimbingGym/OnTheWall/10:18:26_Orange_x53",
+  "fingerprint": "d816c8a57bf07520",
+  "width": 1080,
+  "height": 1920,
+  "fps": 30.0,
+  "duration": 75.74,
+  "model": "gemini-3.8-flash",
+  "annotatedAt": "2026-10-24T18:41:34+00:00",
+  "summary": "A young man in a grey tank top attempts an indoor bouldering problem, carefully working his way up the wall before slipping off near the top.",
+  "location": "gym",
+  "setting": "indoor",
+  "time_of_day": "indoor_unknown",
+  "weather": "n/a",
+  "people": {
+    "count": 1,
+    "creator_visible": true,
+    "description": "Young East Asian man with dark hair, wearing a grey sleeveless tank top and loose blue jeans."
+  },
+  "camera": {
+    "style": "tripod_static",
+    "framing": "medium",
+    "movement": "static",
+    "angle": "low angle looking up"
+  },
+  "quality": {
+    "usable": true,
+    "stability": "locked",
+    "exposure": "good",
+    "issues": ""
+  },
+  "mood": [
+    "determined",
+    "focused",
+    "athletic",
+    "challenging"
+  ],
+  "energy": "medium",
+  "tags": [
+    "bouldering",
+    "rock climbing",
+    "climbing gym",
+    "indoor climbing",
+    "workout",
+    "fitness",
+    "athletic",
+    "chalk",
+    "holds",
+    "fall",
+    "try hard",
+    "problem solving"
+  ],
+  "moments": [
+    {
+      "start": 6.8,
+      "end": 14.5,
+      "action": "Man chalks his hands and reaches up to take the starting holds on the climbing wall",
+      "emotion": "focused",
+      "good_for": [
+        "starting a new challenge",
+        "getting to work",
+        "gym routine",
+        "locked in"
+      ],
+      "score": 4
+    },
+    {
+      "start": 25.5,
+      "end": 33.5,
+      "action": "Climber reaches out with his right arm to grab a volume and stabilizes his body",
+      "emotion": "intense focus",
+      "good_for": [
+        "finding balance",
+        "stepping out of comfort zone",
+        "climbing progression"
+      ],
+      "score": 4
+    },
+    {
+      "start": 42.0,
+      "end": 49.5,
+      "action": "Climber brings his feet high and matches handholds on the volumes",
+      "emotion": "tenacious",
+      "good_for": [
+        "one step at a time",
+        "trusting the process",
+        "working hard"
+      ],
+      "score": 4
+    },
+    {
+      "start": 62.0,
+      "end": 70.0,
+      "action": "Climber reaches up high towards the top yellow hold, re-adjusting body weight",
+      "emotion": "determined",
+      "good_for": [
+        "almost there",
+        "pushing your limits",
+        "striving for the goal"
+      ],
+      "score": 4
+    },
+    {
+      "start": 70.0,
+      "end": 73.5,
+      "action": "Climber loses his grip and falls backwards off the wall onto the padded mat",
+      "emotion": "frustrated yet composed",
+      "good_for": [
+        "falling short",
+        "try again tomorrow",
+        "learning from failure",
+        "laugh at your mistakes"
+      ],
+      "score": 5
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "path": "OneOffs/RainyDayArmanRishi/IMG_4661.MOV",
+  "folder": "OneOffs/RainyDayArmanRishi",
+  "fingerprint": "22199375a8acc0cc",
+  "width": 1080,
+  "height": 1920,
+  "fps": 30.0,
+  "duration": 2.632,
+  "model": "gemini-3.8-flash",
+  "annotatedAt": "2026-10-24T18:37:19+00:00",
+  "summary": "A close-up shot of a small round pastry or bun sliced into four quarters on a white plate atop a wooden restaurant table.",
+  "location": "restaurant",
+  "setting": "indoor",
+  "time_of_day": "indoor_unknown",
+  "weather": "n/a",
+  "people": {
+    "count": 0,
+    "creator_visible": false,
+    "description": "No people visible in the frame"
+  },
+  "camera": {
+    "style": "pov_first_person",
+    "framing": "close",
+    "movement": "static",
+    "angle": "high angle"
+  },
+  "quality": {
+    "usable": true,
+    "stability": "steady",
+    "exposure": "good",
+    "issues": ""
+  },
+  "mood": [
+    "calm",
+    "cozy",
+    "appetizing"
+  ],
+  "energy": "low",
+  "tags": [
+    "food",
+    "pastry",
+    "dessert",
+    "cafe",
+    "restaurant",
+    "biscuit",
+    "snack",
+    "dining",
+    "table",
+    "plate",
+    "treat"
+  ],
+  "moments": [
+    {
+      "start": 0.0,
+      "end": 2.63,
+      "action": "A baked pastry sliced into four pieces rests on a white saucer on a wooden table",
+      "emotion": "calm",
+      "good_for": [
+        "food on my plate",
+        "sharing treats",
+        "cafe dates",
+        "little treats",
+        "simple pleasures"
+      ],
+      "score": 3
+    }
+  ]
+}

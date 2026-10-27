@@ -1,0 +1,70 @@
+{
+  "path": "SelfShots/ClimbingGym/OnTheWall/10:18:26_Orange_x53/IMG_5153.MOV",
+  "folder": "SelfShots/ClimbingGym/OnTheWall/10:18:26_Orange_x53",
+  "fingerprint": "7d550c8170f4c921",
+  "width": 1080,
+  "height": 1920,
+  "fps": 30.0,
+  "duration": 2.098,
+  "model": "gemini-3.8-flash",
+  "annotatedAt": "2026-10-24T18:46:37+00:00",
+  "summary": "A close-up selfie of a young man with curly hair in a climbing gym keeping his eyes closed with a calm, deadpan expression.",
+  "location": "climbing gym",
+  "setting": "indoor",
+  "time_of_day": "indoor_unknown",
+  "weather": "n/a",
+  "people": {
+    "count": 1,
+    "creator_visible": true,
+    "description": "Young East Asian man with curly dark hair, wearing a gray tank top and a silver chain necklace."
+  },
+  "camera": {
+    "style": "selfie",
+    "framing": "close",
+    "movement": "static",
+    "angle": "low angle looking up"
+  },
+  "quality": {
+    "usable": true,
+    "stability": "steady",
+    "exposure": "good",
+    "issues": ""
+  },
+  "mood": [
+    "calm",
+    "tired",
+    "deadpan",
+    "funny",
+    "meditative"
+  ],
+  "energy": "low",
+  "tags": [
+    "selfie",
+    "climbing gym",
+    "curly hair",
+    "eyes closed",
+    "tank top",
+    "resting",
+    "zen",
+    "tired",
+    "funny",
+    "meme",
+    "indoor"
+  ],
+  "moments": [
+    {
+      "start": 0.0,
+      "end": 2.1,
+      "action": "Man holds the camera close to his face with his eyes shut and mouth closed in a deadpan, zen pose",
+      "emotion": "deadpan zen / exhausted",
+      "good_for": [
+        "trying to find inner peace",
+        "zoning out completely",
+        "recharging between sets",
+        "when you're just done for the day",
+        "taking a deep breath"
+      ],
+      "score": 4
+    }
+  ]
+}

@@ -1,0 +1,70 @@
+{
+  "path": "Cinematic/CentralPark/IMG_4456.MOV",
+  "folder": "Cinematic/CentralPark",
+  "fingerprint": "b407e9dca589d821",
+  "width": 1080,
+  "height": 1920,
+  "fps": 30.0,
+  "duration": 4.5,
+  "model": "gemini-3.8-flash",
+  "annotatedAt": "2026-10-24T18:18:27+00:00",
+  "summary": "A peaceful stream of water cascades down reddish rocks beneath a stone bridge surrounded by green foliage in Central Park.",
+  "location": "park",
+  "setting": "outdoor",
+  "time_of_day": "day",
+  "weather": "sunny",
+  "people": {
+    "count": 0,
+    "creator_visible": false,
+    "description": ""
+  },
+  "camera": {
+    "style": "pov_first_person",
+    "framing": "medium",
+    "movement": "static",
+    "angle": "high angle"
+  },
+  "quality": {
+    "usable": true,
+    "stability": "steady",
+    "exposure": "good",
+    "issues": ""
+  },
+  "mood": [
+    "calm",
+    "peaceful",
+    "serene",
+    "natural"
+  ],
+  "energy": "low",
+  "tags": [
+    "central park",
+    "waterfall",
+    "stream",
+    "brook",
+    "nature",
+    "foliage",
+    "rocks",
+    "water",
+    "bridge",
+    "outdoors",
+    "peaceful",
+    "calm"
+  ],
+  "moments": [
+    {
+      "start": 0.0,
+      "end": 4.5,
+      "action": "Water trickles down reddish rocks beneath an arched stone culvert covered in ivy",
+      "emotion": "calm",
+      "good_for": [
+        "nature sounds",
+        "finding peace in the city",
+        "taking a walk",
+        "peace of mind",
+        "grounding moments"
+      ],
+      "score": 4
+    }
+  ]
+}

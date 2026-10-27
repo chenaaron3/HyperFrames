@@ -1,0 +1,259 @@
+{
+  "format": "easy-3",
+  "title": "What is your motivation?",
+  "lines": {
+    "l1": "What is your motivation?",
+    "l2": "The future life I promised myself"
+  },
+  "shots": {
+    "s1": {
+      "clip": "SelfShots/Working/IMG_5259.MOV",
+      "in": 79.83,
+      "speed": 1.0,
+      "note": "Types intently on the laptop before stopping and looking straight into the camera lens (attentive)",
+      "query": "working laptop focused typing",
+      "alts": [
+        "SelfShots/Working/IMG_5154.MOV @1.0-7.5: Creator starts typing steadily on his laptop while sitting on the floo",
+        "SelfShots/Working/IMG_5259.MOV @46.0-54.0: Continuously types on his keyboard while pedestrians walk past outside",
+        "SelfShots/Working/IMG_5259.MOV @8.0-16.0: Starts typing on his laptop, pausing briefly to brush hair from his fa",
+        "SelfShots/Working/IMG_5169.MOV @1.5-5.5: A young man walks into frame, sits down in a brown leather armchair, a",
+        "SelfShots/Working/IMG_5169.MOV @5.5-13.0: Man types steadily on his laptop while listening to music through earb"
+      ],
+      "motion": {
+        "speed": 0.0,
+        "jitter": 0.01,
+        "verdict": "ok"
+      }
+    },
+    "s2": {
+      "clip": "OneOffs/BrooklynNight/IMG_4557 3.MOV",
+      "in": 13.23,
+      "speed": 1.0,
+      "note": "The camera pans to capture the Jersey City skyline and waterfront pier under twilight clouds (serene)",
+      "query": "skyline view overlook city",
+      "alts": [
+        "OneOffs/Apartments/MurrayHills/150 East 39th Street/IMG_4203.MOV @31.0-36.5: Camera pans across the rooftop balcony revealing a stunning skyline vi",
+        "OneOffs/Apartments/MurrayHills/150 East 39th Street/IMG_4201.MOV @26.5-30.5: Panning out the large windows to reveal classic NYC rooftops and stree",
+        "OneOffs/Eating/IMG_4869.MOV @6.0-10.8: Man briefly brings his hand to his face while gazing out over the wate",
+        "OneOffs/Apartments/FIDI/90W/IMG_4088.MOV @16.5-22.5: Pan across a high-floor corner window revealing scenic river views and",
+        "OneOffs/Apartments/MurrayHills/150 East 39th Street/IMG_4214.MOV @0.0-2.5: Camera pans slowly from a dark skyscraper to sunlit high-rise apartmen"
+      ],
+      "motion": {
+        "speed": 7.0,
+        "jitter": 0.09,
+        "verdict": "ok"
+      }
+    },
+    "s3": {
+      "clip": "SelfShots/ClimbingGym/Setup/Walking/IMG_5197.MOV",
+      "in": 1.58,
+      "speed": 1.0,
+      "note": "Creator walks backwards while filming a selfie with the large Vital Climbing sign clearly readable behind him (calm and confident)",
+      "query": "walking selfie smiling sunny",
+      "alts": [
+        "OneOffs/BrooklynNight/IMG_4507 3.MOV @0.0-2.7: Creator walks down the sidewalk while looking directly into the camera",
+        "SelfShots/Walking/1stPerson/IMG_4965.MOV @0.5-4.5: Creator holds phone walking along a sidewalk past a colorful storefron",
+        "SelfShots/ClimbingGym/Setup/Walking/IMG_5195.MOV @8.0-11.0: An older woman crossing in the opposite direction waves playfully at t",
+        "SelfShots/Walking/1stPerson/IMG_5260.MOV @0.0-3.0: Young man walks along the path while holding the camera up and looking",
+        "SelfShots/Walking/1stPerson/IMG_5261.MOV @1.5-6.5: Creator walks forward holding the camera, looking around calmly with t"
+      ],
+      "motion": {
+        "speed": 12.8,
+        "jitter": 2.53,
+        "verdict": "ok"
+      }
+    },
+    "s4": {
+      "clip": "Cinematic/Chinatown/IMG_4780.mov",
+      "in": 3.3,
+      "speed": 1.0,
+      "note": "Street view looking down the alley with hanging lanterns, building facades, and distant pedestrians. (calm)",
+      "query": "waterfront river boats",
+      "alts": [
+        "Cinematic/Dumbo/IMG_4586 3.MOV @5.5-10.5: A ferry boat cruises along the East River in front of the illuminated ",
+        "OneOffs/RainyDayArmanRishi/IMG_4672.MOV @0.0-4.4: Steam rises continuously out of an orange and white striped ventilatio",
+        "OneOffs/RainyDayArmanRishi/IMG_4656.MOV @9.2-14.7: Server completes the trio by arranging a third pitcher and a white cer",
+        "Cinematic/UES/IMG_4487.MOV @0.0-2.2: Static view of The Corner Bookstore storefront and brownstone building",
+        "OneOffs/RainyDayArmanRishi/IMG_4645.MOV @3.5-7.0: Camera reveals multiple tables of people chatting and drinking tea whi"
+      ],
+      "motion": {
+        "speed": 0.1,
+        "jitter": 0.04,
+        "verdict": "ok"
+      }
+    },
+    "s5": {
+      "clip": "SelfShots/ClimbingGym/OnTheWall/10:17:26_x9/IMG_4984.MOV",
+      "in": 8.7,
+      "speed": 1.0,
+      "note": "Man runs up, jumps, successfully holds onto the wall, then hops down onto the mat. (accomplished, athletic)",
+      "query": "climbing selfie active",
+      "alts": [
+        "SelfShots/ClimbingGym/OnTheWall/10:22:26_Red_x25/IMG_5215.MOV @25.0-33.0: Man powers up towards higher pink and purple holds, adjusting his grip",
+        "SelfShots/ClimbingGym/OnTheWall/10:22:26_Red_x25/IMG_5244.MOV @5.5-12.0: Climber mounts the wall and establishes his footing, moving smoothly u",
+        "OneOffs/BrooklynNight/IMG_4535 3.MOV @9.5-12.2: Man drops down onto the gym mat, turning around smiling and gesturing ",
+        "OneOffs/BrooklynNight/IMG_4539 3.MOV @23.5-27.3: Climber drops down to the mat, turns around, wipes his forehead, and s",
+        "SelfShots/ClimbingGym/OnTheWall/10:22:26_Red_x25/IMG_5244.MOV @38.5-44.0: Climber attempts the final reach, slips off the hold, and falls backwa"
+      ],
+      "motion": {
+        "speed": 0.0,
+        "jitter": 0.01,
+        "verdict": "ok"
+      }
+    },
+    "s6": {
+      "clip": "OneOffs/BrooklynNight/IMG_4535 3.MOV",
+      "in": 10.73,
+      "speed": 1.0,
+      "note": "Man drops down onto the gym mat, turning around smiling and gesturing happily (playful relief and laughter)",
+      "query": "climbing gym interior",
+      "alts": [
+        "SelfShots/ClimbingGym/Setup/Walking/IMG_4970.MOV @1.8-6.2: Creator approaches the glass turnstile gate, taps to enter, and walks ",
+        "OneOffs/BrooklynNight/IMG_4551 3.MOV @0.0-2.3: Handheld view from across the crosswalk showing the illuminated Vital ",
+        "OneOffs/Apartments/FIDI/63WS/IMG_4352.MOV @0.0-4.0: Camera pans slowly from hanging pendant chandeliers overlooking the lo",
+        "SelfShots/ClimbingGym/Setup/Walking/IMG_5199.MOV @5.0-10.5: Creator continues walking into the main gym floor, turning slightly as",
+        "OneOffs/Apartments/FIDI/63WS/IMG_4354.MOV @0.0-2.5: Camera slowly pans across dark built-in arched bookshelves decorated w"
+      ],
+      "motion": {
+        "speed": 12.8,
+        "jitter": 3.94,
+        "verdict": "ok"
+      }
+    },
+    "s7": {
+      "clip": "OneOffs/RainyDayArmanRishi/IMG_4627.MOV",
+      "in": 0.98,
+      "speed": 1.0,
+      "note": "Creator holds phone in selfie view on the subway, looking into the lens and breaking into a wide friendly smile alongside his friends (happy, amused, cheerful)",
+      "query": "subway train riding",
+      "alts": [
+        "SelfShots/Subway/IMG_4952.MOV @11.5-17.8: Side profile of creator gazing out into the dark subway tunnel as the ",
+        "OneOffs/BrooklynNight/IMG_4511 3.MOV @0.0-1.7: The creator smiles into the camera while riding inside a moving subway",
+        "SelfShots/Subway/IMG_4951.MOV @0.0-3.8: Creator holds phone in selfie mode, looking calmly at the lens while t",
+        "Cinematic/UES/IMG_4505.MOV @0.0-4.4: First-person perspective gliding smoothly down a deep subway escalator",
+        "SelfShots/Subway/IMG_4944.MOV @0.0-3.5: Static view of Columbus Circle underground concourse with prominent A "
+      ],
+      "motion": {
+        "speed": 2.1,
+        "jitter": 1.72,
+        "verdict": "ok"
+      }
+    },
+    "s8": {
+      "clip": "OneOffs/RainyDayArmanRishi/Gulp/IMG_4609.MOV",
+      "in": 0.87,
+      "speed": 1.0,
+      "note": "A steady close-up shot of a bowl of braised pork over rice with a half egg and pickled radish on a green marble table. (calm)",
+      "query": "food plate restaurant table",
+      "alts": [
+        "OneOffs/RainyDayArmanRishi/Gulp/IMG_4607.MOV @0.0-2.3: A three-compartment black plate with assorted Asian side dishes rests ",
+        "OneOffs/RainyDayArmanRishi/Gulp/IMG_4610.MOV @0.0-2.5: A warm bowl of beef noodle soup sits on a green marble table with chop",
+        "SelfShots/Eating/IMG_5177.MOV @1.8-7.5: Man lifts up the plate of pizza to show the camera before leaning in a",
+        "OneOffs/RainyDayArmanRishi/IMG_4651.MOV @0.0-2.5: A static close-up shot focused on a bright yellow flower in a small ce",
+        "OneOffs/RainyDayArmanRishi/IMG_4658.MOV @0.0-1.7: POV shot looking down at a quartered stuffed pastry on a white plate o"
+      ],
+      "motion": {
+        "speed": 1.4,
+        "jitter": 0.77,
+        "verdict": "ok"
+      }
+    },
+    "s9": {
+      "clip": "OneOffs/RainyDayArmanRishi/IMG_4673.MOV",
+      "in": 1.09,
+      "speed": 1.0,
+      "note": "A steady atmospheric shot of the wet sidewalk reflecting city lights under the lit '606' awning during rain (contemplative)",
+      "query": "night city lights",
+      "alts": [
+        "Cinematic/Dumbo/IMG_4583 3.MOV @0.0-3.8: Camera frames the dark river water with gentle waves lapping against t",
+        "OneOffs/BrooklynNight/IMG_4588 3.MOV @0.0-4.5: The illuminated vintage carousel steadily spins in the dark of night w",
+        "OneOffs/BrooklynNight/IMG_4571 3.MOV @0.0-4.4: Handheld view looking down the busy Brooklyn Bridge walkway at night a",
+        "OneOffs/BrooklynNight/IMG_4594 3.MOV @0.0-2.8: Camera looks along the clean white bar counter while bartenders pour d",
+        "SelfShots/Walking/1stPerson/IMG_5158.MOV @2.5-8.5: Creator walks across the crosswalk while looking forward and slightly "
+      ],
+      "motion": {
+        "speed": 0.4,
+        "jitter": 0.08,
+        "verdict": "ok"
+      }
+    },
+    "s10": {
+      "clip": "SelfShots/ClimbingGym/OnTheWall/10:22:26_Red_x25/IMG_5248.MOV",
+      "in": 40.45,
+      "speed": 1.0,
+      "note": "Climber reaches for the high holds near the top, slips, and falls cleanly onto the padded floor (intense to relieved)",
+      "query": "coffee drink cup",
+      "alts": [
+        "SelfShots/Working/IMG_5002.MOV @7.0-11.5: Man takes a slow sip from his iced latte while staring attentively at ",
+        "SelfShots/ClimbingGym/OnTheWall/10:18:26_Orange_x53/IMG_5119.MOV @41.5-48.0: Climber reaches for a high hold, slips, falls safely onto the crash pa",
+        "SelfShots/ClimbingGym/OnTheWall/10:22:26_Red_x25/IMG_5220.MOV @1.8-4.8: Creator takes a deep drink from the silver can and swallows while look",
+        "SelfShots/ClimbingGym/OnTheWall/10:22:26_Red_x25/IMG_5225.MOV @2.4-5.5: Creator tilts his head back, drinks from a silver Celsius can, lowers ",
+        "SelfShots/ClimbingGym/OnTheWall/10:17:26_x9/IMG_4982.MOV @57.5-66.0: Climber reaches dynamically for the top hold, loses grip, drops onto t"
+      ],
+      "motion": {
+        "speed": 0.1,
+        "jitter": 0.04,
+        "verdict": "ok"
+      }
+    },
+    "s11": {
+      "clip": "OneOffs/Eating/IMG_4864.MOV",
+      "in": 5.6,
+      "speed": 1.0,
+      "note": "Creator walks into the frame and sits down on the wooden recliner chair facing the golden sunset (relaxed)",
+      "query": "selfie golden hour smiling",
+      "alts": [
+        "SelfShots/Walking/1stPerson/IMG_4965.MOV @0.5-4.5: Creator holds phone walking along a sidewalk past a colorful storefron",
+        "SelfShots/Walking/1stPerson/IMG_5261.MOV @1.5-6.5: Creator walks forward holding the camera, looking around calmly with t",
+        "SelfShots/Walking/1stPerson/IMG_4960.MOV @1.5-6.5: Creator walks down the sidewalk holding camera high in selfie mode, gl",
+        "OneOffs/Apartments/MurrayHills/150 East 39th Street/IMG_4214.MOV @0.0-2.5: Camera pans slowly from a dark skyscraper to sunlit high-rise apartmen",
+        "OneOffs/BrooklynNight/IMG_4507 3.MOV @0.0-2.7: Creator walks down the sidewalk while looking directly into the camera"
+      ],
+      "motion": {
+        "speed": 0.1,
+        "jitter": 0.05,
+        "verdict": "ok"
+      }
+    },
+    "s12": {
+      "clip": "SelfShots/Walking/1stPerson/IMG_5262.MOV",
+      "in": 15.1,
+      "speed": 1.0,
+      "note": "Side profile selfie tracking as he walks through a crowd of people under leafy park trees (thoughtful)",
+      "query": "park sunny trees",
+      "alts": [
+        "SelfShots/Walking/1stPerson/IMG_5261.MOV @1.5-6.5: Creator walks forward holding the camera, looking around calmly with t",
+        "SelfShots/Walking/1stPerson/IMG_5262.MOV @2.0-4.5: Man walks along park path holding camera extended, glancing at the len",
+        "SelfShots/Walking/1stPerson/IMG_5264.MOV @1.0-5.0: Creator walks forward holding phone at arm's length, glancing between ",
+        "OneOffs/BrooklynNight/IMG_4507 3.MOV @0.0-2.7: Creator walks down the sidewalk while looking directly into the camera",
+        "SelfShots/Chilling/IMG_4436.MOV @7.0-15.5: Man lies peacefully on the grass with his hands behind his head restin"
+      ],
+      "motion": {
+        "speed": 6.1,
+        "jitter": 5.31,
+        "verdict": "ok"
+      }
+    },
+    "s13": {
+      "clip": "OneOffs/Eating/IMG_4869.MOV",
+      "in": 2.87,
+      "speed": 1.0,
+      "note": "Man stands quietly leaning against the pier railing, admiring the expansive city skyline across the river (calm and thoughtful)",
+      "query": "skyline sunset panorama",
+      "alts": [
+        "OneOffs/BrooklynNight/IMG_4556 3.MOV @4.5-10.7: Camera pans right across the harbor, revealing a distant skyline, wate",
+        "OneOffs/Apartments/MurrayHills/150 East 39th Street/IMG_4203.MOV @31.0-36.5: Camera pans across the rooftop balcony revealing a stunning skyline vi",
+        "OneOffs/Eating/IMG_4869.MOV @6.0-10.8: Man briefly brings his hand to his face while gazing out over the wate",
+        "Cinematic/CentralPark/IMG_4444.MOV @2.5-5.5: Camera continues panning right to reveal the distant Central Park foun",
+        "OneOffs/Apartments/MurrayHills/150 East 39th Street/IMG_4201.MOV @26.5-30.5: Panning out the large windows to reveal classic NYC rooftops and stree"
+      ],
+      "motion": {
+        "speed": 0.0,
+        "jitter": 0.03,
+        "verdict": "ok"
+      }
+    }
+  },
+  "caption": "What is your motivation?",
+  "textY": 0.5
+}

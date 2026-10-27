@@ -1,0 +1,114 @@
+{
+  "path": "SelfShots/ClimbingGym/Setup/Shoes/IMG_5200.MOV",
+  "folder": "SelfShots/ClimbingGym/Setup/Shoes",
+  "fingerprint": "6b46233d300a51ff",
+  "width": 1080,
+  "height": 1920,
+  "fps": 30.0,
+  "duration": 51.072,
+  "model": "gemini-3.8-flash",
+  "annotatedAt": "2026-10-24T18:54:29+00:00",
+  "summary": "A young man sits down on a curved bench in a climbing gym locker area, takes off his boots and socks, and puts on his climbing shoes before heading out.",
+  "location": "gym",
+  "setting": "indoor",
+  "time_of_day": "indoor_unknown",
+  "weather": "n/a",
+  "people": {
+    "count": 4,
+    "creator_visible": true,
+    "description": "Young Asian man with curly dark hair wearing a brown short-sleeve shirt over a tank top and baggy jeans; other gym goers sitting and walking near lockers in the background"
+  },
+  "camera": {
+    "style": "tripod_static",
+    "framing": "medium",
+    "movement": "static",
+    "angle": "eye level"
+  },
+  "quality": {
+    "usable": true,
+    "stability": "locked",
+    "exposure": "good",
+    "issues": "A person walks directly in front of the lens briefly at 00:12"
+  },
+  "mood": [
+    "routine",
+    "casual",
+    "focused",
+    "relaxed"
+  ],
+  "energy": "low",
+  "tags": [
+    "climbing gym",
+    "bouldering",
+    "climbing shoes",
+    "locker room",
+    "getting ready",
+    "bench",
+    "changing shoes",
+    "routine",
+    "athletic preparation",
+    "chalk bag",
+    "casual wear"
+  ],
+  "moments": [
+    {
+      "start": 2.5,
+      "end": 7.0,
+      "action": "Creator walks in, sits down on the bench, and begins taking off his leather boots",
+      "emotion": "casual",
+      "good_for": [
+        "arriving at the gym",
+        "time to lock in",
+        "daily routine"
+      ],
+      "score": 3
+    },
+    {
+      "start": 7.0,
+      "end": 11.5,
+      "action": "Creator pulls off his white socks and puts them into his boots",
+      "emotion": "focused",
+      "good_for": [
+        "getting ready",
+        "pre-workout routine"
+      ],
+      "score": 3
+    },
+    {
+      "start": 19.5,
+      "end": 28.0,
+      "action": "Creator puts on his first climbing shoe and tightens the velcro straps",
+      "emotion": "focused",
+      "good_for": [
+        "climbing prep",
+        "tight climbing shoes",
+        "the climbing ritual"
+      ],
+      "score": 4
+    },
+    {
+      "start": 33.0,
+      "end": 42.5,
+      "action": "Creator puts on his second climbing shoe, looking thoughtful and preparing mentally",
+      "emotion": "contemplative",
+      "good_for": [
+        "focus mode",
+        "clearing my mind",
+        "ready to send"
+      ],
+      "score": 4
+    },
+    {
+      "start": 44.0,
+      "end": 49.5,
+      "action": "Creator places his boots under the bench, picks up his yellow chalk bag, and walks past camera",
+      "emotion": "ready",
+      "good_for": [
+        "session starts now",
+        "let's go climb",
+        "leaving distractions behind"
+      ],
+      "score": 4
+    }
+  ]
+}

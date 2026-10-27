@@ -1,0 +1,70 @@
+{
+  "path": "Cinematic/CentralPark/IMG_4474.MOV",
+  "folder": "Cinematic/CentralPark",
+  "fingerprint": "84f9ca4285c3ce56",
+  "width": 1080,
+  "height": 1920,
+  "fps": 30.0,
+  "duration": 3.598,
+  "model": "gemini-3.8-flash",
+  "annotatedAt": "2026-10-24T18:18:51+00:00",
+  "summary": "Sunlight filters through dense leafy tree branches onto a tranquil pond and grassy shoreline in a park.",
+  "location": "park",
+  "setting": "outdoor",
+  "time_of_day": "day",
+  "weather": "sunny",
+  "people": {
+    "count": 0,
+    "creator_visible": false,
+    "description": "None"
+  },
+  "camera": {
+    "style": "handheld_cinematic",
+    "framing": "wide",
+    "movement": "static",
+    "angle": "eye level"
+  },
+  "quality": {
+    "usable": true,
+    "stability": "steady",
+    "exposure": "good",
+    "issues": ""
+  },
+  "mood": [
+    "peaceful",
+    "serene",
+    "calm",
+    "nostalgic",
+    "reflective"
+  ],
+  "energy": "low",
+  "tags": [
+    "central park",
+    "nature",
+    "sunlight",
+    "trees",
+    "pond",
+    "lake",
+    "foliage",
+    "outdoors",
+    "sun flare",
+    "scenic",
+    "peaceful",
+    "relaxation"
+  ],
+  "moments": [
+    {
+      "start": 0.0,
+      "end": 3.6,
+      "action": "Sun rays flare gently through the tree canopy overlooking a quiet pond",
+      "emotion": "calm",
+      "good_for": [
+        "finding peace in the city",
+        "gratitude for simple moments",
+        "taking a mental break",
+        "fresh air and quiet places"
+      ],
+      "score": 4
+    }
+  ]
+}

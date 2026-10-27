@@ -1,0 +1,67 @@
+{
+  "path": "OneOffs/BrooklynNight/IMG_4526 3.MOV",
+  "folder": "OneOffs/BrooklynNight",
+  "fingerprint": "13bd24b3cc5fa50a",
+  "width": 1080,
+  "height": 1920,
+  "fps": 30.0,
+  "duration": 2.467,
+  "model": "gemini-3.8-flash",
+  "annotatedAt": "2026-10-24T18:22:56+00:00",
+  "summary": "A young man wearing a graphic t-shirt walks along a subway platform at Essex Street and turns back to smile at the camera.",
+  "location": "subway platform",
+  "setting": "indoor",
+  "time_of_day": "indoor_unknown",
+  "weather": "n/a",
+  "people": {
+    "count": 5,
+    "creator_visible": true,
+    "description": "Young man in a black graphic t-shirt, shorts, and glasses carrying a shopping bag, walking on a crowded subway platform with commuters nearby."
+  },
+  "camera": {
+    "style": "filmed_by_friend",
+    "framing": "medium",
+    "movement": "walking",
+    "angle": "eye level"
+  },
+  "quality": {
+    "usable": true,
+    "stability": "handheld",
+    "exposure": "good",
+    "issues": ""
+  },
+  "mood": [
+    "casual",
+    "playful",
+    "urban",
+    "candid"
+  ],
+  "energy": "medium",
+  "tags": [
+    "subway",
+    "nyc",
+    "essex street",
+    "commute",
+    "metro",
+    "night out",
+    "city life",
+    "walking",
+    "graphic tee",
+    "candid"
+  ],
+  "moments": [
+    {
+      "start": 0.0,
+      "end": 2.47,
+      "action": "Man walks along the subway platform beside a train, turning over his shoulder to smile at the camera",
+      "emotion": "playful smile",
+      "good_for": [
+        "city nights with friends",
+        "taking the train home",
+        "nyc commute",
+        "candid travel memories"
+      ],
+      "score": 4
+    }
+  ]
+}

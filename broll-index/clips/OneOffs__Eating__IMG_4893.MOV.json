@@ -1,0 +1,67 @@
+{
+  "path": "OneOffs/Eating/IMG_4893.MOV",
+  "folder": "OneOffs/Eating",
+  "fingerprint": "be4619347f580c07",
+  "width": 1080,
+  "height": 1920,
+  "fps": 30.0,
+  "duration": 2.467,
+  "model": "gemini-3.8-flash",
+  "annotatedAt": "2026-10-24T18:35:22+00:00",
+  "summary": "A close-up shot of a bottle of Hallasan 21 Soju sitting on a wooden table at an evening restaurant dinner.",
+  "location": "restaurant",
+  "setting": "indoor",
+  "time_of_day": "night",
+  "weather": "n/a",
+  "people": {
+    "count": 1,
+    "creator_visible": false,
+    "description": "Partial view of someone sitting at the table in a dark shirt, face not visible"
+  },
+  "camera": {
+    "style": "pov_first_person",
+    "framing": "close",
+    "movement": "static",
+    "angle": "eye level"
+  },
+  "quality": {
+    "usable": true,
+    "stability": "steady",
+    "exposure": "good",
+    "issues": ""
+  },
+  "mood": [
+    "relaxed",
+    "social",
+    "chill"
+  ],
+  "energy": "low",
+  "tags": [
+    "soju",
+    "hallasan",
+    "korean alcohol",
+    "bottle",
+    "dinner",
+    "drinks",
+    "night out",
+    "restaurant",
+    "table",
+    "shot glass",
+    "korean food"
+  ],
+  "moments": [
+    {
+      "start": 0.0,
+      "end": 2.47,
+      "action": "Static close-up view of a clear Hallasan 21 soju bottle standing on a wooden restaurant table",
+      "emotion": "relaxed",
+      "good_for": [
+        "drinks with friends",
+        "friday night dinner",
+        "korean dinner night",
+        "unwinding after a long week"
+      ],
+      "score": 3
+    }
+  ]
+}

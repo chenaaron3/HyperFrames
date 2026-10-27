@@ -1,0 +1,67 @@
+{
+  "path": "OneOffs/Apartments/TurtleBay/155 East 52nd Street/IMG_4134.MOV",
+  "folder": "OneOffs/Apartments/TurtleBay/155 East 52nd Street",
+  "fingerprint": "1a7e4db12a2d0319",
+  "width": 1080,
+  "height": 1920,
+  "fps": 30.0,
+  "duration": 2.698,
+  "model": "gemini-3.8-flash",
+  "annotatedAt": "2026-10-24T18:22:17+00:00",
+  "summary": "Handheld POV looking out of an apartment window towards office buildings and courtyard below in Turtle Bay, NYC.",
+  "location": "apartment",
+  "setting": "indoor",
+  "time_of_day": "day",
+  "weather": "sunny",
+  "people": {
+    "count": 0,
+    "creator_visible": false,
+    "description": "No prominent subjects visible, only a tiny pedestrian walking on the street far below."
+  },
+  "camera": {
+    "style": "pov_first_person",
+    "framing": "medium",
+    "movement": "pan",
+    "angle": "eye level"
+  },
+  "quality": {
+    "usable": true,
+    "stability": "handheld",
+    "exposure": "good",
+    "issues": ""
+  },
+  "mood": [
+    "calm",
+    "urban",
+    "contemplative"
+  ],
+  "energy": "low",
+  "tags": [
+    "apartment",
+    "window view",
+    "nyc",
+    "manhattan",
+    "turtle bay",
+    "apartment hunt",
+    "city living",
+    "architecture",
+    "street view",
+    "real estate"
+  ],
+  "moments": [
+    {
+      "start": 0.0,
+      "end": 2.7,
+      "action": "Camera slowly pans across double-hung window looking out onto Manhattan street and neighboring commercial facade",
+      "emotion": "calm",
+      "good_for": [
+        "apartment hunting in nyc",
+        "the view from my place",
+        "city life",
+        "moving to manhattan",
+        "apartment tours"
+      ],
+      "score": 3
+    }
+  ]
+}

@@ -1,0 +1,70 @@
+{
+  "path": "OneOffs/RainyDayArmanRishi/IMG_4623.MOV",
+  "folder": "OneOffs/RainyDayArmanRishi",
+  "fingerprint": "fa2b8afe6c857e5e",
+  "width": 1080,
+  "height": 1920,
+  "fps": 30.0,
+  "duration": 3.265,
+  "model": "gemini-3.8-flash",
+  "annotatedAt": "2026-10-24T18:36:04+00:00",
+  "summary": "Two friends holding umbrellas walk across a rainy city crosswalk in New York City while being filmed from behind.",
+  "location": "city street",
+  "setting": "outdoor",
+  "time_of_day": "day",
+  "weather": "rain",
+  "people": {
+    "count": 2,
+    "creator_visible": true,
+    "description": "Two young men in casual jackets and pants walking side by side holding umbrellas, one smiling briefly toward the camera"
+  },
+  "camera": {
+    "style": "filmed_by_friend",
+    "framing": "medium",
+    "movement": "walking",
+    "angle": "eye level"
+  },
+  "quality": {
+    "usable": true,
+    "stability": "handheld",
+    "exposure": "good",
+    "issues": ""
+  },
+  "mood": [
+    "chill",
+    "urban",
+    "adventurous",
+    "rainy"
+  ],
+  "energy": "medium",
+  "tags": [
+    "rain",
+    "rainy day",
+    "umbrella",
+    "nyc",
+    "city",
+    "crosswalk",
+    "street",
+    "walking",
+    "friends",
+    "wet street",
+    "downtown",
+    "urban life"
+  ],
+  "moments": [
+    {
+      "start": 0.0,
+      "end": 3.27,
+      "action": "Camera follows two friends from behind as they cross a wet street crosswalk holding umbrellas in the rain",
+      "emotion": "cheerful, casual",
+      "good_for": [
+        "rainy city days",
+        "exploring the city",
+        "walking in the rain",
+        "memories with friends",
+        "nyc lifestyle"
+      ],
+      "score": 4
+    }
+  ]
+}

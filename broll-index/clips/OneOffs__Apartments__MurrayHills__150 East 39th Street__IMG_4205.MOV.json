@@ -1,0 +1,104 @@
+{
+  "path": "OneOffs/Apartments/MurrayHills/150 East 39th Street/IMG_4205.MOV",
+  "folder": "OneOffs/Apartments/MurrayHills/150 East 39th Street",
+  "fingerprint": "36012b83bc5ea7ca",
+  "width": 1080,
+  "height": 1920,
+  "fps": 30.0,
+  "duration": 19.602,
+  "model": "gemini-3.8-flash",
+  "annotatedAt": "2026-10-24T18:21:34+00:00",
+  "summary": "First-person POV walkthrough tour of a small studio apartment, showing the front door, compact kitchen, bathroom, hallway, and empty living room with parquet floors.",
+  "location": "apartment",
+  "setting": "indoor",
+  "time_of_day": "day",
+  "weather": "n/a",
+  "people": {
+    "count": 2,
+    "creator_visible": true,
+    "description": "The creator filming seen briefly in the bathroom mirror wearing a black jacket, and a woman in a black leather jacket and dark pants touring the apartment."
+  },
+  "camera": {
+    "style": "pov_first_person",
+    "framing": "wide",
+    "movement": "walking",
+    "angle": "eye level"
+  },
+  "quality": {
+    "usable": true,
+    "stability": "handheld",
+    "exposure": "good",
+    "issues": "quick panning and motion blur between rooms"
+  },
+  "mood": [
+    "curious",
+    "neutral",
+    "exploratory"
+  ],
+  "energy": "medium",
+  "tags": [
+    "apartment hunt",
+    "nyc apartment",
+    "studio apartment",
+    "apartment tour",
+    "kitchenette",
+    "bathroom",
+    "parquet floor",
+    "real estate",
+    "moving",
+    "new york city",
+    "walkthrough",
+    "empty room"
+  ],
+  "moments": [
+    {
+      "start": 0.0,
+      "end": 3.8,
+      "action": "Opening door 705 and panning into a tiny kitchenette with a white stove and sink",
+      "emotion": "curious",
+      "good_for": [
+        "apartment hunting in nyc",
+        "tiny kitchen reality",
+        "first apartment tour"
+      ],
+      "score": 3
+    },
+    {
+      "start": 5.0,
+      "end": 7.5,
+      "action": "Walking into the bathroom, briefly catching reflection in mirror above sink and showing black and white tile",
+      "emotion": "observant",
+      "good_for": [
+        "apartment hunting check",
+        "nyc bathroom check",
+        "touring places"
+      ],
+      "score": 3
+    },
+    {
+      "start": 10.5,
+      "end": 12.5,
+      "action": "Walking down the hall past another person touring the apartment",
+      "emotion": "casual",
+      "good_for": [
+        "apartment hunting with a friend",
+        "open house crowd",
+        "looking at rentals"
+      ],
+      "score": 2
+    },
+    {
+      "start": 13.0,
+      "end": 19.6,
+      "action": "Entering the main empty studio room showing the dark parquet wood floors, radiator, window AC unit, and opening closet",
+      "emotion": "evaluating",
+      "good_for": [
+        "blank canvas",
+        "new beginnings",
+        "nyc studio hunting",
+        "moving into my first place"
+      ],
+      "score": 4
+    }
+  ]
+}

@@ -1,0 +1,81 @@
+{
+  "path": "OneOffs/BrooklynNight/IMG_4554 3.MOV",
+  "folder": "OneOffs/BrooklynNight",
+  "fingerprint": "923c3c6d4ec53ef1",
+  "width": 1080,
+  "height": 1920,
+  "fps": 30.0,
+  "duration": 4.567,
+  "model": "gemini-3.8-flash",
+  "annotatedAt": "2026-10-24T18:23:40+00:00",
+  "summary": "A young man poses smiling next to the iconic Charging Bull statue in Financial District, NYC, before the camera pans across the sculpture.",
+  "location": "city street",
+  "setting": "outdoor",
+  "time_of_day": "day",
+  "weather": "overcast",
+  "people": {
+    "count": 5,
+    "creator_visible": true,
+    "description": "A young man wearing a white polo shirt, blue jeans, and white sneakers smiling next to the bull statue, with tourists in the background"
+  },
+  "camera": {
+    "style": "filmed_by_friend",
+    "framing": "medium",
+    "movement": "pan",
+    "angle": "eye level"
+  },
+  "quality": {
+    "usable": true,
+    "stability": "handheld",
+    "exposure": "good",
+    "issues": ""
+  },
+  "mood": [
+    "touristy",
+    "casual",
+    "cheerful"
+  ],
+  "energy": "medium",
+  "tags": [
+    "charging bull",
+    "wall street",
+    "bowling green",
+    "new york city",
+    "nyc",
+    "tourist",
+    "bronze statue",
+    "travel",
+    "sightseeing",
+    "manhattan",
+    "posing",
+    "smile"
+  ],
+  "moments": [
+    {
+      "start": 0.0,
+      "end": 0.02,
+      "action": "Young man smiles happily posing next to the Charging Bull statue before walking away",
+      "emotion": "cheerful",
+      "good_for": [
+        "visiting nyc",
+        "tourist moment",
+        "trip to new york",
+        "making memories"
+      ],
+      "score": 4
+    },
+    {
+      "start": 0.02,
+      "end": 4.57,
+      "action": "Camera pans across the side and rear of the Charging Bull bronze statue on the cobblestone street",
+      "emotion": "calm",
+      "good_for": [
+        "wall street b-roll",
+        "financial freedom",
+        "nyc sights",
+        "city exploration"
+      ],
+      "score": 3
+    }
+  ]
+}

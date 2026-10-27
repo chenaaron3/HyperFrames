@@ -1,0 +1,129 @@
+{
+  "path": "OneOffs/Apartments/MurrayHills/150 East 39th Street/IMG_4210.MOV",
+  "folder": "OneOffs/Apartments/MurrayHills/150 East 39th Street",
+  "fingerprint": "7199fedd3f4abbce",
+  "width": 1080,
+  "height": 1920,
+  "fps": 30.0,
+  "duration": 55.088,
+  "model": "gemini-3.8-flash",
+  "annotatedAt": "2026-10-24T18:21:50+00:00",
+  "summary": "A first-person handheld apartment tour walkthrough of a studio or one-bedroom apartment in Murray Hill, showing the kitchen, closet space, bathroom, parquet floors, and city window view.",
+  "location": "apartment",
+  "setting": "indoor",
+  "time_of_day": "day",
+  "weather": "overcast",
+  "people": {
+    "count": 2,
+    "creator_visible": true,
+    "description": "Young male creator briefly visible holding the phone in the bathroom mirror reflection; a female friend in a black jacket walks into the apartment ahead of him."
+  },
+  "camera": {
+    "style": "pov_first_person",
+    "framing": "medium",
+    "movement": "walking",
+    "angle": "eye level"
+  },
+  "quality": {
+    "usable": true,
+    "stability": "handheld",
+    "exposure": "mixed",
+    "issues": "Initial dark lighting entering kitchen, slight motion blur during fast pans."
+  },
+  "mood": [
+    "curious",
+    "hopeful",
+    "neutral",
+    "exploratory"
+  ],
+  "energy": "low",
+  "tags": [
+    "apartment hunting",
+    "nyc apartment",
+    "apartment tour",
+    "murray hill",
+    "walkthrough",
+    "real estate",
+    "kitchen",
+    "bathroom",
+    "parquet floor",
+    "city view",
+    "moving to nyc",
+    "first apartment",
+    "interior"
+  ],
+  "moments": [
+    {
+      "start": 4.5,
+      "end": 8.5,
+      "action": "Camera pans across the compact kitchen showing the stainless steel dishwasher, sink, and cabinets",
+      "emotion": "exploratory",
+      "good_for": [
+        "apartment hunting in nyc",
+        "small kitchen realities",
+        "looking for my first place"
+      ],
+      "score": 3
+    },
+    {
+      "start": 10.5,
+      "end": 13.5,
+      "action": "Opening the dishwasher door to inspect the inside",
+      "emotion": "practical",
+      "good_for": [
+        "checking apartment appliances",
+        "must have dishwasher",
+        "adulting milestones"
+      ],
+      "score": 3
+    },
+    {
+      "start": 18.5,
+      "end": 21.0,
+      "action": "Friend slides open closet door revealing built-in wooden shelves",
+      "emotion": "impressed",
+      "good_for": [
+        "closet space in nyc",
+        "storage check",
+        "finding good storage"
+      ],
+      "score": 3
+    },
+    {
+      "start": 35.5,
+      "end": 39.5,
+      "action": "Creator reveals himself in the bathroom medicine cabinet mirror reflection while opening it",
+      "emotion": "casual",
+      "good_for": [
+        "apartment tour mirror check",
+        "finding a place",
+        "checking out bathrooms"
+      ],
+      "score": 3
+    },
+    {
+      "start": 46.5,
+      "end": 51.0,
+      "action": "Walking into the spacious main living room showing polished parquet wood floors towards large windows",
+      "emotion": "optimistic",
+      "good_for": [
+        "hardwood floors check",
+        "visualizing my furniture here",
+        "empty apartment vibes"
+      ],
+      "score": 4
+    },
+    {
+      "start": 51.0,
+      "end": 55.0,
+      "action": "Looking out the large apartment window at Manhattan street, trees, and tall apartment buildings",
+      "emotion": "reflective",
+      "good_for": [
+        "the view from my potential apartment",
+        "living in new york city",
+        "city views"
+      ],
+      "score": 4
+    }
+  ]
+}

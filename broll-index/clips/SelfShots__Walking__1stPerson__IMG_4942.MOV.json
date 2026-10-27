@@ -1,0 +1,82 @@
+{
+  "path": "SelfShots/Walking/1stPerson/IMG_4942.MOV",
+  "folder": "SelfShots/Walking/1stPerson",
+  "fingerprint": "1cb13a11fad0a54c",
+  "width": 1080,
+  "height": 1920,
+  "fps": 29.97,
+  "duration": 9.638,
+  "model": "gemini-3.8-flash",
+  "annotatedAt": "2026-10-24T19:01:50+00:00",
+  "summary": "A young man wearing a black coat and backpack walks down a city sidewalk under construction scaffolding while filming himself with a handheld selfie camera.",
+  "location": "city street",
+  "setting": "outdoor",
+  "time_of_day": "day",
+  "weather": "overcast",
+  "people": {
+    "count": 1,
+    "creator_visible": true,
+    "description": "Young East Asian man with dark wavy hair, wearing a black long coat, dark polo shirt, and a backpack"
+  },
+  "camera": {
+    "style": "selfie",
+    "framing": "medium",
+    "movement": "walking",
+    "angle": "high angle"
+  },
+  "quality": {
+    "usable": true,
+    "stability": "steady",
+    "exposure": "good",
+    "issues": "Starts and ends pointing at the ground"
+  },
+  "mood": [
+    "urban",
+    "stylish",
+    "thoughtful",
+    "casual"
+  ],
+  "energy": "medium",
+  "tags": [
+    "city walk",
+    "manhattan",
+    "scaffolding",
+    "street style",
+    "commute",
+    "trench coat",
+    "fashion",
+    "walking",
+    "urban life",
+    "downtown",
+    "city streets"
+  ],
+  "moments": [
+    {
+      "start": 1.5,
+      "end": 4.5,
+      "action": "Creator walks forward holding the camera at an extended high angle, looking directly toward the lens",
+      "emotion": "composed and confident",
+      "good_for": [
+        "city commute",
+        "on my way",
+        "romanticizing my walk to work",
+        "daily routine",
+        "fall fashion"
+      ],
+      "score": 4
+    },
+    {
+      "start": 4.5,
+      "end": 7.3,
+      "action": "Creator continues walking under the scaffolding, glancing away and down pensively",
+      "emotion": "pensive and calm",
+      "good_for": [
+        "clearing my head",
+        "solo walk thoughts",
+        "moving forward",
+        "city life aesthetic"
+      ],
+      "score": 4
+    }
+  ]
+}

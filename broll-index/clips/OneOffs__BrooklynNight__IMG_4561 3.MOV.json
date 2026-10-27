@@ -1,0 +1,70 @@
+{
+  "path": "OneOffs/BrooklynNight/IMG_4561 3.MOV",
+  "folder": "OneOffs/BrooklynNight",
+  "fingerprint": "e1c17118320f03af",
+  "width": 1080,
+  "height": 1920,
+  "fps": 30.0,
+  "duration": 4.498,
+  "model": "gemini-3.8-flash",
+  "annotatedAt": "2026-10-24T18:23:49+00:00",
+  "summary": "A steady wide view of One World Trade Center towering over Lower Manhattan during dusk, framed by tree leaves and neighboring skyscrapers.",
+  "location": "city street",
+  "setting": "outdoor",
+  "time_of_day": "golden_hour",
+  "weather": "sunny",
+  "people": {
+    "count": 2,
+    "creator_visible": false,
+    "description": "Distant pedestrians sitting on a plaza bench and walking across a far crosswalk in the distance"
+  },
+  "camera": {
+    "style": "handheld_cinematic",
+    "framing": "wide",
+    "movement": "static",
+    "angle": "low angle looking up"
+  },
+  "quality": {
+    "usable": true,
+    "stability": "steady",
+    "exposure": "good",
+    "issues": ""
+  },
+  "mood": [
+    "majestic",
+    "urban",
+    "calm",
+    "inspirational"
+  ],
+  "energy": "low",
+  "tags": [
+    "one world trade center",
+    "freedom tower",
+    "manhattan",
+    "nyc",
+    "new york city",
+    "skyscraper",
+    "architecture",
+    "cityscape",
+    "dusk",
+    "blue hour",
+    "travel",
+    "urban aesthetic"
+  ],
+  "moments": [
+    {
+      "start": 0.0,
+      "end": 4.5,
+      "action": "A static shot looking up at One World Trade Center catching the evening light amidst downtown skyscrapers and foliage",
+      "emotion": "awe-inspiring",
+      "good_for": [
+        "big city dreams",
+        "moving to nyc",
+        "concrete jungle",
+        "evening in new york",
+        "perspective"
+      ],
+      "score": 4
+    }
+  ]
+}

@@ -1,0 +1,66 @@
+{
+  "path": "OneOffs/RainyDayArmanRishi/IMG_4667.MOV",
+  "folder": "OneOffs/RainyDayArmanRishi",
+  "fingerprint": "2d15b2da03778bfe",
+  "width": 1080,
+  "height": 1920,
+  "fps": 30.0,
+  "duration": 1.6,
+  "model": "gemini-3.8-flash",
+  "annotatedAt": "2026-10-24T18:37:35+00:00",
+  "summary": "Two friends holding umbrellas on a rainy city sidewalk smile and wave at the camera as it pans across them.",
+  "location": "city street",
+  "setting": "outdoor",
+  "time_of_day": "day",
+  "weather": "rain",
+  "people": {
+    "count": 2,
+    "creator_visible": true,
+    "description": "Two young men in jackets holding umbrellas on a wet sidewalk, smiling and waving hello"
+  },
+  "camera": {
+    "style": "filmed_by_friend",
+    "framing": "medium",
+    "movement": "pan",
+    "angle": "eye level"
+  },
+  "quality": {
+    "usable": true,
+    "stability": "handheld",
+    "exposure": "good",
+    "issues": "very short clip"
+  },
+  "mood": [
+    "cheerful",
+    "friendly",
+    "lighthearted"
+  ],
+  "energy": "medium",
+  "tags": [
+    "rain",
+    "umbrella",
+    "friends",
+    "city",
+    "sidewalk",
+    "waving",
+    "puddle",
+    "rainy day",
+    "friendship",
+    "urban"
+  ],
+  "moments": [
+    {
+      "start": 0.0,
+      "end": 1.6,
+      "action": "Camera pans from one friend smiling and waving under a green umbrella to another friend waving under a blue umbrella",
+      "emotion": "cheerful and welcoming",
+      "good_for": [
+        "friends who show up no matter what",
+        "making the most of rainy days",
+        "good company",
+        "meeting up with friends"
+      ],
+      "score": 3
+    }
+  ]
+}

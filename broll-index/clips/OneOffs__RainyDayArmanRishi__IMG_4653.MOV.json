@@ -1,0 +1,69 @@
+{
+  "path": "OneOffs/RainyDayArmanRishi/IMG_4653.MOV",
+  "folder": "OneOffs/RainyDayArmanRishi",
+  "fingerprint": "6b1c79a4062ac506",
+  "width": 1080,
+  "height": 1920,
+  "fps": 30.0,
+  "duration": 3.067,
+  "model": "gemini-3.8-flash",
+  "annotatedAt": "2026-10-24T18:37:01+00:00",
+  "summary": "POV shot holding and looking at a printed menu for Té Company Taiwanese Tearoom while a friend smiles in the background.",
+  "location": "cafe",
+  "setting": "indoor",
+  "time_of_day": "indoor_unknown",
+  "weather": "n/a",
+  "people": {
+    "count": 1,
+    "creator_visible": false,
+    "description": "A friend wearing a black jacket and baseball cap smiling/laughing in the background behind the menu"
+  },
+  "camera": {
+    "style": "pov_first_person",
+    "framing": "medium",
+    "movement": "handheld",
+    "angle": "eye level"
+  },
+  "quality": {
+    "usable": true,
+    "stability": "steady",
+    "exposure": "good",
+    "issues": ""
+  },
+  "mood": [
+    "casual",
+    "cozy",
+    "social"
+  ],
+  "energy": "low",
+  "tags": [
+    "menu",
+    "tea company",
+    "teahouse",
+    "cafe",
+    "restaurant",
+    "food menu",
+    "ordering",
+    "taiwanese tea",
+    "tea tasting",
+    "nyc",
+    "eating out",
+    "friends"
+  ],
+  "moments": [
+    {
+      "start": 0.0,
+      "end": 3.07,
+      "action": "Handheld view holding a tea house menu open with friend visible smiling in the background",
+      "emotion": "relaxed, social",
+      "good_for": [
+        "tea dates",
+        "trying new spots",
+        "cafe hopping",
+        "what should we get",
+        "rainy day activities"
+      ],
+      "score": 3
+    }
+  ]
+}

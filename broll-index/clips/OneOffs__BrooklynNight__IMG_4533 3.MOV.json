@@ -1,0 +1,79 @@
+{
+  "path": "OneOffs/BrooklynNight/IMG_4533 3.MOV",
+  "folder": "OneOffs/BrooklynNight",
+  "fingerprint": "003764be0e567dc1",
+  "width": 1080,
+  "height": 1920,
+  "fps": 30.0,
+  "duration": 12.535,
+  "model": "gemini-3.8-flash",
+  "annotatedAt": "2026-10-24T18:23:07+00:00",
+  "summary": "A young man attempts to start a bouldering problem at an indoor climbing gym, testing holds and struggling to find balance before dropping back down.",
+  "location": "climbing gym",
+  "setting": "indoor",
+  "time_of_day": "indoor_unknown",
+  "weather": "n/a",
+  "people": {
+    "count": 1,
+    "creator_visible": true,
+    "description": "Young man wearing a black graphic t-shirt, dark shorts, and climbing shoes"
+  },
+  "camera": {
+    "style": "filmed_by_friend",
+    "framing": "wide",
+    "movement": "static",
+    "angle": "eye level"
+  },
+  "quality": {
+    "usable": true,
+    "stability": "steady",
+    "exposure": "good",
+    "issues": ""
+  },
+  "mood": [
+    "focused",
+    "determined",
+    "active",
+    "persevering"
+  ],
+  "energy": "medium",
+  "tags": [
+    "bouldering",
+    "rock climbing",
+    "climbing gym",
+    "indoor sports",
+    "workout",
+    "fitness",
+    "training",
+    "trying new things",
+    "climbing wall",
+    "athletic"
+  ],
+  "moments": [
+    {
+      "start": 0.0,
+      "end": 3.8,
+      "action": "Man balances on starting holds, testing his foot placement before stepping back off the wall",
+      "emotion": "focused",
+      "good_for": [
+        "the learning curve",
+        "trying new hobbies",
+        "first attempts"
+      ],
+      "score": 3
+    },
+    {
+      "start": 4.5,
+      "end": 11.8,
+      "action": "Man grips the red hold, pulls into a deep crouched start, and reaches upward before dropping back down",
+      "emotion": "determined",
+      "good_for": [
+        "trust the process",
+        "failing until you get it",
+        "bouldering progression",
+        "working on my strength"
+      ],
+      "score": 4
+    }
+  ]
+}

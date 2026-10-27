@@ -1,0 +1,84 @@
+{
+  "path": "SelfShots/Subway/IMG_5190.MOV",
+  "folder": "SelfShots/Subway",
+  "fingerprint": "e37b1639c0ca7773",
+  "width": 1080,
+  "height": 1920,
+  "fps": 30.0,
+  "duration": 4.5,
+  "model": "gemini-3.8-flash",
+  "annotatedAt": "2026-10-24T19:01:12+00:00",
+  "summary": "A young man records a handheld selfie video while riding a subway train, holding a backpack and making funny, resigned facial expressions.",
+  "location": "subway car",
+  "setting": "vehicle",
+  "time_of_day": "indoor_unknown",
+  "weather": "n/a",
+  "people": {
+    "count": 1,
+    "creator_visible": true,
+    "description": "Young East Asian man with wavy dark hair, wearing a brown knit polo shirt, silver chain necklace, AirPods, and holding a black backpack"
+  },
+  "camera": {
+    "style": "selfie",
+    "framing": "close",
+    "movement": "handheld",
+    "angle": "eye level"
+  },
+  "quality": {
+    "usable": true,
+    "stability": "handheld",
+    "exposure": "good",
+    "issues": "slight subway motion vibration"
+  },
+  "mood": [
+    "relatable",
+    "bored",
+    "humorous",
+    "tired",
+    "casual"
+  ],
+  "energy": "low",
+  "tags": [
+    "subway",
+    "commute",
+    "train",
+    "public transit",
+    "selfie",
+    "relatable",
+    "daily life",
+    "boredom",
+    "backpack",
+    "airpods",
+    "city life",
+    "commuting"
+  ],
+  "moments": [
+    {
+      "start": 0.0,
+      "end": 2.2,
+      "action": "Creator looks directly at the camera and presses his lips together in a funny, resigned pout while blinking slowly",
+      "emotion": "bored, resigned, humorous",
+      "good_for": [
+        "the daily commute",
+        "realizing it is only monday",
+        "on my way to work",
+        "pretending i am fine",
+        "me after 8 hours of doing nothing"
+      ],
+      "score": 4
+    },
+    {
+      "start": 2.2,
+      "end": 4.5,
+      "action": "Creator glances toward the side of the train carriage before looking back forward at the camera",
+      "emotion": "calm, contemplative, tired",
+      "good_for": [
+        "headed home",
+        "subway thoughts",
+        "listening to music on public transit",
+        "city transit mood"
+      ],
+      "score": 3
+    }
+  ]
+}

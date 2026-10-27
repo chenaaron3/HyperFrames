@@ -1,0 +1,71 @@
+{
+  "path": "OneOffs/RainyDayArmanRishi/IMG_4620.MOV",
+  "folder": "OneOffs/RainyDayArmanRishi",
+  "fingerprint": "f8afed48939c074c",
+  "width": 1080,
+  "height": 1920,
+  "fps": 30.0,
+  "duration": 4.367,
+  "model": "gemini-3.8-flash",
+  "annotatedAt": "2026-10-24T18:36:02+00:00",
+  "summary": "A rainy day scene looking down a New York City street near Times Square, featuring glowing digital billboards and pedestrians with umbrellas on wet pavement.",
+  "location": "city street",
+  "setting": "outdoor",
+  "time_of_day": "day",
+  "weather": "rain",
+  "people": {
+    "count": 4,
+    "creator_visible": false,
+    "description": "Pedestrians walking down the wet sidewalk carrying umbrellas and wearing dark rainy weather coats."
+  },
+  "camera": {
+    "style": "handheld_cinematic",
+    "framing": "wide",
+    "movement": "static",
+    "angle": "eye level"
+  },
+  "quality": {
+    "usable": true,
+    "stability": "steady",
+    "exposure": "good",
+    "issues": ""
+  },
+  "mood": [
+    "moody",
+    "atmospheric",
+    "calm",
+    "urban",
+    "melancholy"
+  ],
+  "energy": "low",
+  "tags": [
+    "new york city",
+    "times square",
+    "rainy day",
+    "rain",
+    "city street",
+    "billboards",
+    "wet pavement",
+    "umbrellas",
+    "urban commute",
+    "moody weather",
+    "overcast",
+    "city vibes"
+  ],
+  "moments": [
+    {
+      "start": 0.0,
+      "end": 4.37,
+      "action": "Pedestrians holding umbrellas walk along a wet sidewalk framed by towering buildings and vibrant digital billboards in the rain.",
+      "emotion": "moody, atmospheric, calm",
+      "good_for": [
+        "rainy days in nyc",
+        "romanticizing rainy days",
+        "city that never sleeps",
+        "gloomy weather aesthetic",
+        "moving to new york"
+      ],
+      "score": 4
+    }
+  ]
+}

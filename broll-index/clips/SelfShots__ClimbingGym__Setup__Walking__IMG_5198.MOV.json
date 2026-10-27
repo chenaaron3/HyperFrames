@@ -1,0 +1,81 @@
+{
+  "path": "SelfShots/ClimbingGym/Setup/Walking/IMG_5198.MOV",
+  "folder": "SelfShots/ClimbingGym/Setup/Walking",
+  "fingerprint": "bc9594f90e02c93d",
+  "width": 1080,
+  "height": 1920,
+  "fps": 30.0,
+  "duration": 21.367,
+  "model": "gemini-3.8-flash",
+  "annotatedAt": "2026-10-24T18:55:00+00:00",
+  "summary": "A young man holds a camera in selfie mode as he enters a climbing gym building and walks up an interior staircase with his backpack and jacket.",
+  "location": "gym",
+  "setting": "indoor",
+  "time_of_day": "day",
+  "weather": "sunny",
+  "people": {
+    "count": 1,
+    "creator_visible": true,
+    "description": "Young East Asian man with fluffy dark hair, wearing a brown short-sleeved button-up shirt over a grey tank top, backpack, silver chain, and AirPods, holding a black jacket."
+  },
+  "camera": {
+    "style": "selfie",
+    "framing": "medium",
+    "movement": "walking",
+    "angle": "eye level"
+  },
+  "quality": {
+    "usable": true,
+    "stability": "handheld",
+    "exposure": "mixed",
+    "issues": "Occasional lens flare and sunlight blowout in the first few seconds near entrance doors."
+  },
+  "mood": [
+    "casual",
+    "routine",
+    "calm",
+    "motivated"
+  ],
+  "energy": "medium",
+  "tags": [
+    "walking",
+    "gym",
+    "arrival",
+    "commute",
+    "daily routine",
+    "fitness",
+    "climbing gym",
+    "stairs",
+    "airpods",
+    "vlog",
+    "lifestyle"
+  ],
+  "moments": [
+    {
+      "start": 5.5,
+      "end": 11.0,
+      "action": "Creator walks through the glass doorway into the spacious building lobby holding the camera selfie-style.",
+      "emotion": "calm",
+      "good_for": [
+        "showing up every day",
+        "gym time",
+        "daily commute",
+        "routine that keeps me sane"
+      ],
+      "score": 3
+    },
+    {
+      "start": 13.8,
+      "end": 19.5,
+      "action": "Creator walks up the indoor staircase, sun filtering in from behind as he looks ahead.",
+      "emotion": "focused",
+      "good_for": [
+        "taking the stairs",
+        "putting in the work",
+        "lock in",
+        "gym session ahead"
+      ],
+      "score": 4
+    }
+  ]
+}

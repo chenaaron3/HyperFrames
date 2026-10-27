@@ -1,0 +1,115 @@
+{
+  "path": "SelfShots/ClimbingGym/OnTheWall/10:22:26_Red_x25/IMG_5224.MOV",
+  "folder": "SelfShots/ClimbingGym/OnTheWall/10:22:26_Red_x25",
+  "fingerprint": "658b27e93f258388",
+  "width": 1080,
+  "height": 1920,
+  "fps": 30.0,
+  "duration": 85.342,
+  "model": "gemini-3.8-flash",
+  "annotatedAt": "2026-10-24T18:50:01+00:00",
+  "summary": "A young man tackles a challenging bouldering problem with large purple volumes at an indoor climbing gym, working his way toward the top before falling onto the mat.",
+  "location": "indoor bouldering gym",
+  "setting": "indoor",
+  "time_of_day": "indoor_unknown",
+  "weather": "n/a",
+  "people": {
+    "count": 1,
+    "creator_visible": true,
+    "description": "Young East Asian male climber wearing a grey tank top, loose pants, and climbing shoes"
+  },
+  "camera": {
+    "style": "tripod_static",
+    "framing": "wide",
+    "movement": "static",
+    "angle": "eye level"
+  },
+  "quality": {
+    "usable": true,
+    "stability": "locked",
+    "exposure": "good",
+    "issues": ""
+  },
+  "mood": [
+    "focused",
+    "determined",
+    "athletic",
+    "persistent"
+  ],
+  "energy": "medium",
+  "tags": [
+    "bouldering",
+    "rock climbing",
+    "climbing gym",
+    "workout",
+    "fitness",
+    "training",
+    "problem solving",
+    "indoor climbing",
+    "climbing wall",
+    "volumes",
+    "sloper"
+  ],
+  "moments": [
+    {
+      "start": 33.0,
+      "end": 41.0,
+      "action": "Climber mounts the low purple volume and carefully establishes his starting balance",
+      "emotion": "focused",
+      "good_for": [
+        "starting from the bottom",
+        "trust the process",
+        "lock in"
+      ],
+      "score": 3
+    },
+    {
+      "start": 47.0,
+      "end": 55.0,
+      "action": "Climber presses himself upward and grabs the top rim of the large purple sphere volume",
+      "emotion": "determined",
+      "good_for": [
+        "making progress",
+        "physical challenges",
+        "gym routine"
+      ],
+      "score": 4
+    },
+    {
+      "start": 57.0,
+      "end": 65.0,
+      "action": "Climber shifts weight carefully across the slippery purple volume to reach higher holds",
+      "emotion": "intense concentration",
+      "good_for": [
+        "balance in life",
+        "taking calculated risks",
+        "staying composed"
+      ],
+      "score": 4
+    },
+    {
+      "start": 85.34,
+      "end": 85.34,
+      "action": "Climber maneuvers into a wide stem high on the wall, reaching toward the top holds",
+      "emotion": "strained effort",
+      "good_for": [
+        "almost there",
+        "pushing limits",
+        "hard work"
+      ],
+      "score": 4
+    },
+    {
+      "start": 85.34,
+      "end": 85.34,
+      "action": "Climber attempts the final reach, slips off the hold, falls safely onto the padded floor, and walks toward camera",
+      "emotion": "exhausted acceptance",
+      "good_for": [
+        "learning from failure",
+        "falling short",
+        "try again tomorrow"
+      ],
+      "score": 5
+    }
+  ]
+}

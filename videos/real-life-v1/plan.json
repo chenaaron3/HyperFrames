@@ -1,0 +1,30 @@
+{
+  "format": "opinion-4",
+  "title": "All this social media shit don't matter. Make sure you're ha",
+  "lines": {
+    "l1": "All this social media\nshit don't matter.\nMake sure you're happy\nin real life."
+  },
+  "shots": {
+    "s1": {
+      "clip": "SelfShots/Walking/1stPerson/IMG_5158.MOV",
+      "in": 2.5,
+      "speed": 1.0,
+      "note": "Creator walks across the crosswalk while looking forward and slightly up at city surroundings as a yellow taxi stops behind him. (thoughtful)",
+      "query": "walking selfie night city street casual",
+      "alts": [
+        "SelfShots/Walking/1stPerson/IMG_4960.MOV @1.5-6.5: Creator walks down the sidewalk holding camera high in selfie mode, gl",
+        "SelfShots/Walking/1stPerson/IMG_4965.MOV @0.5-4.5: Creator holds phone walking along a sidewalk past a colorful storefron",
+        "SelfShots/Walking/1stPerson/IMG_5262.MOV @2.0-4.5: Man walks along park path holding camera extended, glancing at the len",
+        "SelfShots/Walking/1stPerson/IMG_5261.MOV @1.5-6.5: Creator walks forward holding the camera, looking around calmly with t",
+        "SelfShots/Walking/1stPerson/IMG_5158.MOV @13.5-19.5: Creator continues walking steadily down the sidewalk, glancing to the "
+      ],
+      "motion": {
+        "speed": 8.7,
+        "jitter": 5.01,
+        "verdict": "ok"
+      }
+    }
+  },
+  "caption": "",
+  "textY": 0.5
+}

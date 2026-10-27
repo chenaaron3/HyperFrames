@@ -1,0 +1,71 @@
+{
+  "path": "OneOffs/BrooklynNight/IMG_4565 3.MOV",
+  "folder": "OneOffs/BrooklynNight",
+  "fingerprint": "74dfb9438ea5086a",
+  "width": 1080,
+  "height": 1920,
+  "fps": 30.0,
+  "duration": 5.567,
+  "model": "gemini-3.8-flash",
+  "annotatedAt": "2026-10-24T18:23:55+00:00",
+  "summary": "Wide handheld view of the Oculus transit hub interior at the World Trade Center in NYC, featuring its ribbed white architecture and an American flag hanging above the main concourse.",
+  "location": "transit hub",
+  "setting": "indoor",
+  "time_of_day": "day",
+  "weather": "n/a",
+  "people": {
+    "count": 15,
+    "creator_visible": false,
+    "description": "Tourists and commuters standing on the upper mezzanine looking down at the Oculus hall."
+  },
+  "camera": {
+    "style": "handheld_cinematic",
+    "framing": "wide",
+    "movement": "tilt up",
+    "angle": "eye level"
+  },
+  "quality": {
+    "usable": true,
+    "stability": "steady",
+    "exposure": "good",
+    "issues": ""
+  },
+  "mood": [
+    "awe",
+    "inspiring",
+    "grand",
+    "travel",
+    "peaceful"
+  ],
+  "energy": "low",
+  "tags": [
+    "oculus",
+    "nyc",
+    "new york city",
+    "architecture",
+    "world trade center",
+    "american flag",
+    "transit hub",
+    "calatrava",
+    "travel",
+    "city explore",
+    "downtown manhattan",
+    "sightseeing"
+  ],
+  "moments": [
+    {
+      "start": 0.0,
+      "end": 5.57,
+      "action": "A wide view of the soaring ribbed white ceiling and large American flag hanging inside the Oculus, with people standing along the railing.",
+      "emotion": "in awe",
+      "good_for": [
+        "visiting new york",
+        "city exploration",
+        "travel memories",
+        "architecture appreciation",
+        "grateful for the journey"
+      ],
+      "score": 4
+    }
+  ]
+}

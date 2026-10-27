@@ -1,0 +1,94 @@
+{
+  "path": "SelfShots/ClimbingGym/OnTheWall/10:17:26_x9/IMG_4984.MOV",
+  "folder": "SelfShots/ClimbingGym/OnTheWall/10:17:26_x9",
+  "fingerprint": "89934ceceaa6e25a",
+  "width": 1080,
+  "height": 1920,
+  "fps": 30.0,
+  "duration": 14.6,
+  "model": "gemini-3.8-flash",
+  "annotatedAt": "2026-10-24T18:39:11+00:00",
+  "summary": "A young man at an indoor bouldering gym attempts a climbing run-and-jump dyno on a wall, landing it on his second try before walking toward the camera.",
+  "location": "indoor bouldering gym",
+  "setting": "indoor",
+  "time_of_day": "indoor_unknown",
+  "weather": "n/a",
+  "people": {
+    "count": 1,
+    "creator_visible": true,
+    "description": "Young East Asian man with dark floppy hair, wearing a brown textured short-sleeved button-up shirt and black pants."
+  },
+  "camera": {
+    "style": "tripod_static",
+    "framing": "medium",
+    "movement": "static",
+    "angle": "low angle looking up"
+  },
+  "quality": {
+    "usable": true,
+    "stability": "locked",
+    "exposure": "good",
+    "issues": ""
+  },
+  "mood": [
+    "sporty",
+    "focused",
+    "casual",
+    "active"
+  ],
+  "energy": "medium",
+  "tags": [
+    "bouldering",
+    "rock climbing",
+    "climbing gym",
+    "dyno",
+    "workout",
+    "fitness",
+    "training",
+    "sports",
+    "indoor climbing",
+    "active lifestyle",
+    "b-roll"
+  ],
+  "moments": [
+    {
+      "start": 3.8,
+      "end": 6.2,
+      "action": "Man runs up and leaps onto the climbing holds to attempt a dynamic move before dropping back to the mat.",
+      "emotion": "focused, determined",
+      "good_for": [
+        "trying again",
+        "trusting the process",
+        "first attempts",
+        "workout routine"
+      ],
+      "score": 3
+    },
+    {
+      "start": 7.5,
+      "end": 10.2,
+      "action": "Man runs up, jumps, successfully holds onto the wall, then hops down onto the mat.",
+      "emotion": "accomplished, athletic",
+      "good_for": [
+        "making progress",
+        "getting stronger",
+        "sticking the move",
+        "active lifestyle"
+      ],
+      "score": 4
+    },
+    {
+      "start": 10.2,
+      "end": 12.8,
+      "action": "Man lands on the floor, glances over, makes a brief fist pump gesture, and walks toward the camera.",
+      "emotion": "satisfied, casual confidence",
+      "good_for": [
+        "little wins",
+        "celebrating small victories",
+        "done for the day",
+        "gym progress"
+      ],
+      "score": 4
+    }
+  ]
+}

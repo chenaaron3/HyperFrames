@@ -1,0 +1,79 @@
+{
+  "path": "SelfShots/ClimbingGym/OnTheWall/10:22:26_Red_x25/IMG_5220.MOV",
+  "folder": "SelfShots/ClimbingGym/OnTheWall/10:22:26_Red_x25",
+  "fingerprint": "15c000fa20b4ea13",
+  "width": 1080,
+  "height": 1920,
+  "fps": 120.0,
+  "duration": 5.0,
+  "model": "gemini-3.8-flash",
+  "annotatedAt": "2026-10-24T18:48:16+00:00",
+  "summary": "A young man wearing a tank top takes a drink from an aluminum can while standing in an indoor bouldering gym.",
+  "location": "climbing gym",
+  "setting": "indoor",
+  "time_of_day": "indoor_unknown",
+  "weather": "n/a",
+  "people": {
+    "count": 3,
+    "creator_visible": true,
+    "description": "Young East Asian man with wavy dark hair, wearing a grey ribbed tank top, silver chain necklace, and white wireless earbuds; people in background by a reception counter"
+  },
+  "camera": {
+    "style": "selfie",
+    "framing": "close",
+    "movement": "handheld",
+    "angle": "eye level"
+  },
+  "quality": {
+    "usable": true,
+    "stability": "handheld",
+    "exposure": "good",
+    "issues": "can covers lens at 00:01 creating a brief blackout transition"
+  },
+  "mood": [
+    "casual",
+    "refreshing",
+    "athletic"
+  ],
+  "energy": "medium",
+  "tags": [
+    "climbing gym",
+    "bouldering",
+    "energy drink",
+    "hydration",
+    "workout break",
+    "tank top",
+    "fitness",
+    "selfie",
+    "canned drink",
+    "refreshment"
+  ],
+  "moments": [
+    {
+      "start": 0.0,
+      "end": 1.2,
+      "action": "Creator covers camera lens with an energy drink can as a transition wipe",
+      "emotion": "focused",
+      "good_for": [
+        "transition beat",
+        "quick cut",
+        "pre-workout ritual"
+      ],
+      "score": 2
+    },
+    {
+      "start": 1.8,
+      "end": 4.8,
+      "action": "Creator takes a deep drink from the silver can and swallows while looking at the camera",
+      "emotion": "refreshed",
+      "good_for": [
+        "staying hydrated",
+        "mid-workout recharge",
+        "energy drink addiction",
+        "gym breaks",
+        "fueling up"
+      ],
+      "score": 4
+    }
+  ]
+}

@@ -1,0 +1,107 @@
+{
+  "path": "SelfShots/MorningRoutine/2.5_IMG_4922.MOV",
+  "folder": "SelfShots/MorningRoutine",
+  "fingerprint": "df93f2821056eb10",
+  "width": 1080,
+  "height": 1920,
+  "fps": 30.0,
+  "duration": 92.04,
+  "model": "gemini-3.8-flash",
+  "annotatedAt": "2026-10-24T19:01:05+00:00",
+  "summary": "A young man sits down at a dining table from a high angle and eats toasted breakfast wraps.",
+  "location": "dining room",
+  "setting": "indoor",
+  "time_of_day": "day",
+  "weather": "n/a",
+  "people": {
+    "count": 1,
+    "creator_visible": true,
+    "description": "Young man with dark curly hair wearing a brown short-sleeved polo shirt"
+  },
+  "camera": {
+    "style": "tripod_static",
+    "framing": "medium",
+    "movement": "static",
+    "angle": "high angle"
+  },
+  "quality": {
+    "usable": true,
+    "stability": "locked",
+    "exposure": "good",
+    "issues": ""
+  },
+  "mood": [
+    "peaceful",
+    "routine",
+    "casual",
+    "relaxed"
+  ],
+  "energy": "low",
+  "tags": [
+    "breakfast",
+    "eating",
+    "quesadilla",
+    "wrap",
+    "morning routine",
+    "dining table",
+    "food",
+    "indoor",
+    "healthy eating",
+    "casual life",
+    "peaceful morning",
+    "apartment living"
+  ],
+  "moments": [
+    {
+      "start": 3.5,
+      "end": 12.5,
+      "action": "Man walks into frame, sits down on the cane chair, and picks up a bite of breakfast wrap to eat",
+      "emotion": "calm",
+      "good_for": [
+        "morning routine",
+        "breakfast time",
+        "starting the day right",
+        "fueling up"
+      ],
+      "score": 4
+    },
+    {
+      "start": 47.0,
+      "end": 56.0,
+      "action": "Man picks up a large folded toasted wrap, inspects the filling, and prepares to eat",
+      "emotion": "focused",
+      "good_for": [
+        "home cooked meals",
+        "food check",
+        "what I eat in a day",
+        "healthy breakfast"
+      ],
+      "score": 4
+    },
+    {
+      "start": 56.5,
+      "end": 64.5,
+      "action": "Man holds the folded wrap with both hands and takes a bite",
+      "emotion": "satisfied",
+      "good_for": [
+        "good food",
+        "satisfying breakfast",
+        "mindful eating",
+        "comfort food"
+      ],
+      "score": 4
+    },
+    {
+      "start": 92.04,
+      "end": 92.04,
+      "action": "Man finishes chewing, wipes his lips, stands up from the table and walks away",
+      "emotion": "content",
+      "good_for": [
+        "done with breakfast",
+        "ready for the day",
+        "morning habit complete"
+      ],
+      "score": 3
+    }
+  ]
+}

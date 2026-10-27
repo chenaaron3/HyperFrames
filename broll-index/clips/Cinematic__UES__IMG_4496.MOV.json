@@ -1,0 +1,83 @@
+{
+  "path": "Cinematic/UES/IMG_4496.MOV",
+  "folder": "Cinematic/UES",
+  "fingerprint": "c2711ebd2cb07974",
+  "width": 1080,
+  "height": 1920,
+  "fps": 30.0,
+  "duration": 5.833,
+  "model": "gemini-3.8-flash",
+  "annotatedAt": "2026-10-24T18:20:08+00:00",
+  "summary": "A classic NYC yellow taxi cab drives through an intersection and continues down a sunlit avenue lined with Upper East Side apartment buildings.",
+  "location": "city street",
+  "setting": "outdoor",
+  "time_of_day": "day",
+  "weather": "sunny",
+  "people": {
+    "count": 5,
+    "creator_visible": false,
+    "description": "Pedestrians walking along the sidewalk in casual clothing; edge of a person's head visible in the lower-left corner at the very start."
+  },
+  "camera": {
+    "style": "handheld_cinematic",
+    "framing": "wide",
+    "movement": "pan",
+    "angle": "eye level"
+  },
+  "quality": {
+    "usable": true,
+    "stability": "handheld",
+    "exposure": "good",
+    "issues": ""
+  },
+  "mood": [
+    "urban",
+    "energetic",
+    "cinematic",
+    "classic",
+    "aspirational"
+  ],
+  "energy": "medium",
+  "tags": [
+    "new york city",
+    "nyc",
+    "upper east side",
+    "manhattan",
+    "yellow cab",
+    "taxi",
+    "traffic",
+    "city life",
+    "avenue",
+    "architecture",
+    "travel",
+    "b-roll"
+  ],
+  "moments": [
+    {
+      "start": 0.5,
+      "end": 2.5,
+      "action": "Camera tracks a yellow taxi cab driving across a crosswalk past storefronts",
+      "emotion": "busy, energetic",
+      "good_for": [
+        "city rhythm",
+        "on the go",
+        "nyc living",
+        "hustle and bustle"
+      ],
+      "score": 3
+    },
+    {
+      "start": 2.5,
+      "end": 5.83,
+      "action": "Camera follows the yellow taxi driving down the long avenue into the sunlight between tall city buildings",
+      "emotion": "inspirational, nostalgic",
+      "good_for": [
+        "concrete jungle",
+        "moving to new york",
+        "chasing dreams",
+        "city views"
+      ],
+      "score": 4
+    }
+  ]
+}

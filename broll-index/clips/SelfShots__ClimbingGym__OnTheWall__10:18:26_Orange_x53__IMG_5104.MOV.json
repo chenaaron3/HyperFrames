@@ -1,0 +1,91 @@
+{
+  "path": "SelfShots/ClimbingGym/OnTheWall/10:18:26_Orange_x53/IMG_5104.MOV",
+  "folder": "SelfShots/ClimbingGym/OnTheWall/10:18:26_Orange_x53",
+  "fingerprint": "3508529f2a46c9a7",
+  "width": 1080,
+  "height": 1920,
+  "fps": 30.0,
+  "duration": 61.772,
+  "model": "gemini-3.8-flash",
+  "annotatedAt": "2026-10-24T18:40:49+00:00",
+  "summary": "A young man attempts an orange bouldering problem on a climbing gym wall, methodically moving up before slipping near the top and dropping down safely onto the mat.",
+  "location": "gym",
+  "setting": "indoor",
+  "time_of_day": "indoor_unknown",
+  "weather": "n/a",
+  "people": {
+    "count": 1,
+    "creator_visible": true,
+    "description": "Young man with dark wavy hair wearing an oversized light blue short-sleeved shirt, grey trousers, and climbing shoes"
+  },
+  "camera": {
+    "style": "tripod_static",
+    "framing": "wide",
+    "movement": "static",
+    "angle": "low angle looking up"
+  },
+  "quality": {
+    "usable": true,
+    "stability": "locked",
+    "exposure": "good",
+    "issues": ""
+  },
+  "mood": [
+    "focused",
+    "determined",
+    "athletic",
+    "challenging"
+  ],
+  "energy": "medium",
+  "tags": [
+    "bouldering",
+    "climbing",
+    "climbing gym",
+    "indoor climbing",
+    "rock wall",
+    "fitness",
+    "problem solving",
+    "workout",
+    "grip strength",
+    "active lifestyle"
+  ],
+  "moments": [
+    {
+      "start": 2.5,
+      "end": 8.5,
+      "action": "Climber walks up to the wall, grips the starting orange holds, and places his feet to start climbing",
+      "emotion": "focused",
+      "good_for": [
+        "starting a new challenge",
+        "first attempt",
+        "getting to work"
+      ],
+      "score": 3
+    },
+    {
+      "start": 23.0,
+      "end": 30.5,
+      "action": "Climber carefully balances on tiny footholds, shifting weight while locked off on large holds",
+      "emotion": "concentrated and tense",
+      "good_for": [
+        "trust the process",
+        "taking it one step at a time",
+        "patience and balance"
+      ],
+      "score": 4
+    },
+    {
+      "start": 44.0,
+      "end": 56.5,
+      "action": "Climber reaches for high sloper holds near the top of the wall before losing his grip and falling to the mat",
+      "emotion": "determined effort followed by sudden release",
+      "good_for": [
+        "almost made it",
+        "failing forward",
+        "when you try your best",
+        "so close yet so far"
+      ],
+      "score": 4
+    }
+  ]
+}

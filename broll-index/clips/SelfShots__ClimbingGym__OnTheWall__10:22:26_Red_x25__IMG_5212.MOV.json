@@ -1,0 +1,109 @@
+{
+  "path": "SelfShots/ClimbingGym/OnTheWall/10:22:26_Red_x25/IMG_5212.MOV",
+  "folder": "SelfShots/ClimbingGym/OnTheWall/10:22:26_Red_x25",
+  "fingerprint": "986eef9906390666",
+  "width": 1080,
+  "height": 1920,
+  "fps": 30.0,
+  "duration": 52.338,
+  "model": "gemini-3.8-flash",
+  "annotatedAt": "2026-10-24T18:47:59+00:00",
+  "summary": "A young man approaches an indoor bouldering wall, successfully completes a climbing problem to the top hold, and walks back towards the camera celebrating.",
+  "location": "climbing gym",
+  "setting": "indoor",
+  "time_of_day": "day",
+  "weather": "n/a",
+  "people": {
+    "count": 2,
+    "creator_visible": true,
+    "description": "Young East Asian man with curly hair, wearing a beige tank top, wide-leg grey pants, and climbing shoes; a bystander briefly passes in the foreground."
+  },
+  "camera": {
+    "style": "tripod_static",
+    "framing": "wide",
+    "movement": "static",
+    "angle": "eye level"
+  },
+  "quality": {
+    "usable": true,
+    "stability": "locked",
+    "exposure": "good",
+    "issues": "Brief passerby walks through lower frame around 00:32"
+  },
+  "mood": [
+    "focused",
+    "athletic",
+    "accomplished",
+    "energetic"
+  ],
+  "energy": "medium",
+  "tags": [
+    "bouldering",
+    "climbing",
+    "climbing gym",
+    "fitness",
+    "workout",
+    "athlete",
+    "problem solving",
+    "indoor climbing",
+    "chalk",
+    "holds",
+    "bouldering route",
+    "success",
+    "training"
+  ],
+  "moments": [
+    {
+      "start": 2.0,
+      "end": 6.5,
+      "action": "Climber runs into frame, jumps onto the initial holds, and stabilizes his body",
+      "emotion": "focused, determined",
+      "good_for": [
+        "starting a new challenge",
+        "diving in",
+        "day 1 of training",
+        "making the leap"
+      ],
+      "score": 4
+    },
+    {
+      "start": 14.5,
+      "end": 22.0,
+      "action": "Climber carefully maneuvers his feet and stretches his reach across the middle holds",
+      "emotion": "concentrated, intense",
+      "good_for": [
+        "trusting the process",
+        "staying composed under pressure",
+        "workout routine",
+        "problem solving"
+      ],
+      "score": 4
+    },
+    {
+      "start": 33.0,
+      "end": 41.5,
+      "action": "Climber executes the final difficult reach to the top hold and matches hands to finish the route",
+      "emotion": "triumphant, relief, focused",
+      "good_for": [
+        "reaching the goal",
+        "finishing what you started",
+        "hard work paying off",
+        "top of the mountain"
+      ],
+      "score": 5
+    },
+    {
+      "start": 45.5,
+      "end": 50.5,
+      "action": "Climber drops off the wall onto the mat and walks toward the camera with a satisfied smile",
+      "emotion": "proud, happy, pumped",
+      "good_for": [
+        "crushing your goals",
+        "post-workout high",
+        "celebrating small wins",
+        "relatable fitness moments"
+      ],
+      "score": 5
+    }
+  ]
+}

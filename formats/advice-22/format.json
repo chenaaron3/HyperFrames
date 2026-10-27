@@ -1,0 +1,66 @@
+{
+  "id": "advice-22",
+  "name": "13 things every traveler will regret not knowing",
+  "reference": "references/viral-formats/advice-22.mp4",
+  "source": "/Users/aaron/Downloads/100 Viral Formats (Format Book)/Advice/#22/#22.mp4",
+  "duration": 5.167,
+  "music": {
+    "from": "reference",
+    "title": "🪄2025 goals | sailor song - sped up"
+  },
+  "text": {
+    "y": 0.263,
+    "size": 64,
+    "weight": 700,
+    "lineHeight": 1.4,
+    "maxWidth": 900,
+    "style": "outline"
+  },
+  "lines": [
+    {
+      "id": "l1",
+      "start": 0.0,
+      "end": 3.0,
+      "ref": "13 things every traveler\nwill regret not knowing",
+      "y": 0.263,
+      "measuredSize": 67,
+      "style": "plain_white_shadow",
+      "guide": ""
+    },
+    {
+      "id": "l2",
+      "start": 3.0,
+      "end": 5.167,
+      "ref": "13 things every traveler\nwill regret not knowing\ncaption.",
+      "y": 0.283,
+      "measuredSize": 66,
+      "style": "plain_white_shadow",
+      "guide": ""
+    }
+  ],
+  "shots": [
+    {
+      "id": "s1",
+      "start": 0.0,
+      "end": 5.167,
+      "brief": "waiting at an airport gate looking out window at airplanes (ref: Seated at an airport gate with legs crossed and a shopping bag beside luggage, looking out the floor-to-ceiling glass window at a plane parked on the tarmac.; POV)",
+      "line": "l1"
+    }
+  ],
+  "audit": {
+    "kind": "broll_with_text",
+    "creatorSpeaks": false,
+    "audio": "music only",
+    "special": [
+      "Airport terminal view looking out at an airplane on the tarmac"
+    ],
+    "reusable": true,
+    "notes": "Very easy format to adapt. Pair any casual, aesthetic 5-second b-roll (subway commute, working in a cafe, walking through NYC) with a high-stakes niche hook ('X things every New Yorker / climber / freelancer will regret not knowing') and deliver the actual value in the caption.",
+    "summary": "An aesthetic airport gate b-roll clip paired with an on-screen hook directing viewers to read a numbered list of tips in the caption."
+  },
+  "caption": {
+    "ref": "",
+    "guide": ""
+  },
+  "draft": true
+}

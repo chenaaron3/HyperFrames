@@ -1,0 +1,70 @@
+{
+  "path": "Cinematic/Chinatown/IMG_4785.mov",
+  "folder": "Cinematic/Chinatown",
+  "fingerprint": "69532ca0a8a51579",
+  "width": 1080,
+  "height": 1920,
+  "fps": 30.0,
+  "duration": 4.434,
+  "model": "gemini-3.8-flash",
+  "annotatedAt": "2026-10-24T18:19:25+00:00",
+  "summary": "A handheld street-level shot of urban traffic and delivery trucks driving down a Chinatown street on an overcast day.",
+  "location": "city street",
+  "setting": "outdoor",
+  "time_of_day": "day",
+  "weather": "overcast",
+  "people": {
+    "count": 3,
+    "creator_visible": false,
+    "description": "Pedestrians walking on the sidewalk in the distance, barely distinguishable"
+  },
+  "camera": {
+    "style": "handheld_cinematic",
+    "framing": "wide",
+    "movement": "static",
+    "angle": "eye level"
+  },
+  "quality": {
+    "usable": true,
+    "stability": "steady",
+    "exposure": "good",
+    "issues": ""
+  },
+  "mood": [
+    "urban",
+    "gritty",
+    "calm",
+    "atmospheric"
+  ],
+  "energy": "medium",
+  "tags": [
+    "chinatown",
+    "nyc",
+    "new york city",
+    "traffic",
+    "delivery truck",
+    "urban life",
+    "cityscape",
+    "overcast",
+    "manhattan",
+    "street scene",
+    "street photography",
+    "b-roll"
+  ],
+  "moments": [
+    {
+      "start": 0.0,
+      "end": 4.43,
+      "action": "Delivery trucks and cars drive past down a busy Chinatown avenue under an overcast sky",
+      "emotion": "contemplative",
+      "good_for": [
+        "city that never sleeps",
+        "busy mornings",
+        "city living",
+        "concrete jungle",
+        "daily commute"
+      ],
+      "score": 3
+    }
+  ]
+}

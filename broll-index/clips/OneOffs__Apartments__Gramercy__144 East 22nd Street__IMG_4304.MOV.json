@@ -1,0 +1,81 @@
+{
+  "path": "OneOffs/Apartments/Gramercy/144 East 22nd Street/IMG_4304.MOV",
+  "folder": "OneOffs/Apartments/Gramercy/144 East 22nd Street",
+  "fingerprint": "5861f9f1b5272b34",
+  "width": 1080,
+  "height": 1920,
+  "fps": 120.0,
+  "duration": 15.275,
+  "model": "gemini-3.8-flash",
+  "annotatedAt": "2026-10-24T18:21:00+00:00",
+  "summary": "First-person POV walking down an apartment building basement hallway and entering a communal laundry room with coin-operated washers and dryers.",
+  "location": "apartment building laundry room",
+  "setting": "indoor",
+  "time_of_day": "indoor_unknown",
+  "weather": "n/a",
+  "people": {
+    "count": 0,
+    "creator_visible": false,
+    "description": "No people are visible in the clip."
+  },
+  "camera": {
+    "style": "pov_first_person",
+    "framing": "wide",
+    "movement": "walking",
+    "angle": "eye level"
+  },
+  "quality": {
+    "usable": true,
+    "stability": "handheld",
+    "exposure": "mixed",
+    "issues": "Dim basement lighting, some slight camera wobble while walking."
+  },
+  "mood": [
+    "mundane",
+    "urban",
+    "realistic",
+    "quiet"
+  ],
+  "energy": "low",
+  "tags": [
+    "apartment",
+    "basement",
+    "laundry room",
+    "washing machine",
+    "dryer",
+    "hallway",
+    "nyc apartment",
+    "real estate",
+    "apartment tour",
+    "chores",
+    "walking pov"
+  ],
+  "moments": [
+    {
+      "start": 0.0,
+      "end": 6.8,
+      "action": "POV walking down a long, narrow apartment basement corridor past artwork and utility carts",
+      "emotion": "mundane",
+      "good_for": [
+        "apartment tour",
+        "nyc living reality",
+        "basement vibes",
+        "walking to do laundry"
+      ],
+      "score": 2
+    },
+    {
+      "start": 6.8,
+      "end": 14.0,
+      "action": "Turning into the communal basement laundry room showing coin-op top load washers and stacked dryers",
+      "emotion": "practical",
+      "good_for": [
+        "in-building laundry",
+        "laundry day",
+        "nyc apartment amenities",
+        "apartment hunting check"
+      ],
+      "score": 3
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+<!doctype html>
+<html lang="en" data-resolution="portrait">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=1080, height=1920" />
+    <script src="https://cdn.jsdelivr.net/npm/gsap@3.14.2/dist/gsap.min.js"></script>
+    <style>
+      #root { position: absolute; inset: 0; overflow: hidden; background: #000; }
+      .shot { position: absolute; inset: 0; width: 1080px; height: 1920px; object-fit: cover; z-index: 1; }
+      .line { position: absolute; left: 0; width: 1080px; z-index: 3; display: flex; justify-content: center; transform: translateY(-50%); }
+      .line span {
+        max-width: 900px;
+        text-align: center;
+        font-family: "Montserrat", sans-serif;
+        font-weight: 700;
+        font-size: 46px;
+        line-height: 1.4;
+        letter-spacing: -0.01em;
+        color: #fff;
+        text-shadow: -2px 0 0 rgba(0,0,0,.75), 2px 0 0 rgba(0,0,0,.75), 0 -2px 0 rgba(0,0,0,.75), 0 2px 0 rgba(0,0,0,.75), 0 0 10px rgba(0,0,0,.35);
+      }
+    </style>
+  </head>
+  <body>
+    <div id="root" data-composition-id="main" data-start="0" data-duration="11.500" data-width="1080" data-height="1920" data-fps="30">
+      <video id="v-s1" class="clip shot" src="assets/s1.mp4" data-start="0.000" data-duration="2.467" data-track-index="0" muted playsinline></video>
+      <video id="v-s2" class="clip shot" src="assets/s2.mp4" data-start="2.467" data-duration="2.233" data-track-index="1" muted playsinline></video>
+      <video id="v-s3" class="clip shot" src="assets/s3.mp4" data-start="4.700" data-duration="2.333" data-track-index="0" muted playsinline></video>
+      <video id="v-s4" class="clip shot" src="assets/s4.mp4" data-start="7.033" data-duration="0.600" data-track-index="1" muted playsinline></video>
+      <video id="v-s5" class="clip shot" src="assets/s5.mp4" data-start="7.633" data-duration="0.534" data-track-index="0" muted playsinline></video>
+      <video id="v-s6" class="clip shot" src="assets/s6.mp4" data-start="8.167" data-duration="0.566" data-track-index="1" muted playsinline></video>
+      <video id="v-s7" class="clip shot" src="assets/s7.mp4" data-start="8.733" data-duration="0.567" data-track-index="0" muted playsinline></video>
+      <video id="v-s8" class="clip shot" src="assets/s8.mp4" data-start="9.300" data-duration="0.567" data-track-index="1" muted playsinline></video>
+      <video id="v-s9" class="clip shot" src="assets/s9.mp4" data-start="9.867" data-duration="0.533" data-track-index="0" muted playsinline></video>
+      <video id="v-s10" class="clip shot" src="assets/s10.mp4" data-start="10.400" data-duration="0.600" data-track-index="1" muted playsinline></video>
+      <video id="v-s11" class="clip shot" src="assets/s11.mp4" data-start="11.000" data-duration="0.500" data-track-index="0" muted playsinline></video>
+      <div id="l1" class="clip line" style="top: 960px" data-start="0.000" data-duration="2.467" data-track-index="2"><span>“just chatgpt it, it’s easier”</span></div>
+      <div id="l2" class="clip line" style="top: 960px" data-start="2.467" data-duration="0.703" data-track-index="2"><span>literally<br>everything</span></div>
+      <div id="l3" class="clip line" style="top: 960px" data-start="3.170" data-duration="0.290" data-track-index="2"><span>literally<br>everything<br>meaningful</span></div>
+      <div id="l4" class="clip line" style="top: 960px" data-start="3.460" data-duration="0.290" data-track-index="2"><span>literally<br>everything<br>meaningful<br>in</span></div>
+      <div id="l5" class="clip line" style="top: 960px" data-start="3.750" data-duration="0.250" data-track-index="2"><span>literally<br>everything<br>meaningful<br>in<br>life</span></div>
+      <div id="l6" class="clip line" style="top: 960px" data-start="4.000" data-duration="0.250" data-track-index="2"><span>literally<br>everything<br>meaningful<br>in<br>life<br>requires</span></div>
+      <div id="l7" class="clip line" style="top: 960px" data-start="4.250" data-duration="0.450" data-track-index="2"><span>literally<br>everything<br>meaningful<br>in<br>life<br>requires<br>effort</span></div>
+      <div id="l8" class="clip line" style="top: 960px" data-start="4.700" data-duration="0.630" data-track-index="2"><span>if<br>you</span></div>
+      <div id="l9" class="clip line" style="top: 960px" data-start="5.330" data-duration="0.340" data-track-index="2"><span>if<br>you<br>never</span></div>
+      <div id="l10" class="clip line" style="top: 960px" data-start="5.670" data-duration="0.330" data-track-index="2"><span>if<br>you<br>never<br>struggle</span></div>
+      <div id="l11" class="clip line" style="top: 960px" data-start="6.000" data-duration="0.330" data-track-index="2"><span>if<br>you<br>never<br>struggle<br>you</span></div>
+      <div id="l12" class="clip line" style="top: 960px" data-start="6.330" data-duration="0.703" data-track-index="2"><span>if<br>you<br>never<br>struggle<br>you<br>never<br>grow</span></div>
+      <div id="l13" class="clip line" style="top: 960px" data-start="7.033" data-duration="4.467" data-track-index="2"><span>your willingness to take the easy<br>route is depriving you of a full life</span></div>
+      <audio id="music" src="assets/music.m4a" data-start="0" data-duration="11.500" data-volume="1" data-track-index="4"></audio>
+    </div>
+    <script>
+      const tl = gsap.timeline({ paused: true });
+      tl.set({}, {}, 11.500);
+      window.__timelines["main"] = tl;
+    </script>
+  </body>
+</html>

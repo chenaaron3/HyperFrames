@@ -1,0 +1,69 @@
+{
+  "path": "OneOffs/RainyDayArmanRishi/IMG_4664.MOV",
+  "folder": "OneOffs/RainyDayArmanRishi",
+  "fingerprint": "61e46d719e1ae163",
+  "width": 1080,
+  "height": 1920,
+  "fps": 30.0,
+  "duration": 5.7,
+  "model": "gemini-3.8-flash",
+  "annotatedAt": "2026-10-24T18:37:33+00:00",
+  "summary": "A person sitting across a wooden table at a cafe or tea house points to different pastries and teacups, discussing or tasting desserts with a friend.",
+  "location": "tea house",
+  "setting": "indoor",
+  "time_of_day": "indoor_unknown",
+  "weather": "n/a",
+  "people": {
+    "count": 1,
+    "creator_visible": false,
+    "description": "Person sitting across the table wearing a dark grey t-shirt and a wristwatch, only torso and hands visible."
+  },
+  "camera": {
+    "style": "pov_first_person",
+    "framing": "medium",
+    "movement": "static",
+    "angle": "high angle"
+  },
+  "quality": {
+    "usable": true,
+    "stability": "steady",
+    "exposure": "good",
+    "issues": ""
+  },
+  "mood": [
+    "relaxed",
+    "cozy",
+    "casual",
+    "foodie"
+  ],
+  "energy": "low",
+  "tags": [
+    "tea",
+    "teahouse",
+    "pastries",
+    "dessert",
+    "foodie",
+    "table spread",
+    "tasting",
+    "afternoon tea",
+    "friends",
+    "cafe",
+    "snacks"
+  ],
+  "moments": [
+    {
+      "start": 0.0,
+      "end": 5.5,
+      "action": "A person's hand points across the table from one small plate of pastries to another in sequence.",
+      "emotion": "focused",
+      "good_for": [
+        "dessert ranking",
+        "food tasting with friends",
+        "deciding what to eat",
+        "sweet treats",
+        "weekend cafe dates"
+      ],
+      "score": 4
+    }
+  ]
+}

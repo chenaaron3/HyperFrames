@@ -1,0 +1,142 @@
+{
+  "format": "easy-10",
+  "title": "you complain about your job because you have one",
+  "lines": {
+    "l1": "you complain about your job\nbecause you have one",
+    "l2": "you complain about the subway\nbecause you can go anywhere",
+    "l3": "you complain about food because\nyou have too much of it",
+    "l4": "you complain about soreness\nbecause you have working muscles",
+    "l5": "you complain about cooking\nbecause you have a kitchen",
+    "l6": "but some time ago..",
+    "l7": "you prayed for these things",
+    "l8": "appreciate the things that\nyou once worked hard for ❤️"
+  },
+  "shots": {
+    "s1": {
+      "clip": "SelfShots/Working/IMG_5259.MOV",
+      "in": 80.0,
+      "speed": 1.0,
+      "note": "Types intently on the laptop before stopping and looking straight into the camera lens (attentive)",
+      "query": "working laptop desk tired",
+      "alts": [
+        "SelfShots/Working/IMG_5002.MOV @7.0-11.5: Man takes a slow sip from his iced latte while staring attentively at ",
+        "SelfShots/Working/IMG_5169.MOV @21.0-29.0: Medium shot of the man working diligently on his laptop as people walk",
+        "SelfShots/Working/UsingLaptop.MOV @11.0-13.5: Man closes the laptop lid shut after finishing work",
+        "SelfShots/ClimbingGym/OnTheWall/10:22:26_Red_x25/IMG_5250.MOV @22.5-31.5: Climber works through the crux moves, dynos for the final top hold, ma",
+        "SelfShots/Working/UsingLaptop.MOV @3.5-11.0: Man types continuously on the MacBook keyboard, with code visible on t"
+      ],
+      "motion": {
+        "speed": 0.0,
+        "jitter": 0.01,
+        "verdict": "ok"
+      }
+    },
+    "s2": {
+      "clip": "SelfShots/Subway/IMG_4950.MOV",
+      "in": 0.0,
+      "speed": 1.0,
+      "note": "Subway doors slide open revealing a packed train car full of commuters standing together (anticipatory)",
+      "query": "subway train commute riding",
+      "alts": [
+        "SelfShots/Subway/IMG_4952.MOV @5.5-11.5: Creator turns his head to profile view as the subway car starts moving",
+        "SelfShots/Subway/IMG_4952.MOV @11.5-17.8: Side profile of creator gazing out into the dark subway tunnel as the ",
+        "SelfShots/Subway/IMG_5186.MOV @2.5-8.0: Man sits quietly looking into the distance as the train car rocks and ",
+        "SelfShots/Subway/IMG_4951.MOV @0.0-3.8: Creator holds phone in selfie mode, looking calmly at the lens while t",
+        "SelfShots/Subway/IMG_5185.MOV @0.0-4.5: The man glances forward before turning his head to gaze quietly out th"
+      ],
+      "motion": {
+        "speed": 0.3,
+        "jitter": 0.8,
+        "verdict": "ok"
+      }
+    },
+    "s3": {
+      "clip": "SelfShots/Eating/IMG_5163.MOV",
+      "in": 1.78,
+      "speed": 1.0,
+      "note": "Creator unpacks a fresh salad grain bowl out of a yellow takeout paper bag and sets it on the table (focused, hungry anticipation)",
+      "query": "eating meal table food",
+      "alts": [
+        "SelfShots/MorningRoutine/2.5_IMG_4922.MOV @47.0-56.0: Man picks up a large folded toasted wrap, inspects the filling, and pr",
+        "OneOffs/Cooking/IMG_4834.MOV @21.0-28.5: Scooping cooked ground meat mixture with a large spoon over rice in a ",
+        "SelfShots/Eating/IMG_5163.MOV @13.5-17.5: Creator lifts the colorful bowl up to show it closely to the camera le",
+        "OneOffs/Cooking/IMG_4837.MOV @23.0-32.0: Friends react happily to the food, groaning in satisfaction and noddin",
+        "SelfShots/Eating/IMG_5177.MOV @18.5-24.5: Man lifts the pizza slice directly with his hand and takes a large bit"
+      ],
+      "motion": {
+        "speed": 0.6,
+        "jitter": 0.31,
+        "verdict": "ok"
+      }
+    },
+    "s4": {
+      "clip": "SelfShots/ClimbingGym/IMG_5174.MOV",
+      "in": 4.8,
+      "speed": 1.0,
+      "note": "hand pick",
+      "query": "climbing bouldering resting tired",
+      "motion": {
+        "speed": 0.1,
+        "jitter": 0.04,
+        "verdict": "ok"
+      }
+    },
+    "s5": {
+      "clip": "OneOffs/Cooking/IMG_4821.MOV",
+      "in": 4.3,
+      "speed": 1.0,
+      "note": "hand pick",
+      "query": "cooking kitchen washing",
+      "motion": {
+        "speed": 0.2,
+        "jitter": 0.47,
+        "verdict": "ok"
+      }
+    },
+    "s6": {
+      "clip": "SelfShots/MorningRoutine/3.1_Dressing.MOV",
+      "in": 4.5,
+      "speed": 1.0,
+      "note": "Man walks over to the mirror, inspects his shirt and trousers, and turns away (calm)",
+      "query": "morning routine bathroom getting ready",
+      "alts": [
+        "SelfShots/MorningRoutine/3.3_Leave.MOV @3.0-8.5: Man adjusts his backpack strap, unlocks and opens the white front door",
+        "SelfShots/MorningRoutine/1.3_BrushingTeeth.MOV @1.0-4.5: Young man enters bathroom, turns on faucet, wets his toothbrush, and b",
+        "SelfShots/MorningRoutine/3.2_Shoes.MOV @0.0-4.5: Person steps forward and bends down to slide foot into a brown Chelsea",
+        "OneOffs/Eating/IMG_4854.MOV @28.5-36.5: Man puts on a black backpack, adjusts straps in the mirror, and prepar",
+        "SelfShots/MorningRoutine/1.4_CurlCreme.MOV @2.2-6.8: Man picks up a tube of face wash and squeezes it onto his hands"
+      ],
+      "motion": {
+        "speed": 0.2,
+        "jitter": 0.09,
+        "verdict": "ok"
+      }
+    },
+    "s7": {
+      "clip": "SelfShots/Chilling/IMG_4475.MOV",
+      "in": 4.5,
+      "speed": 1.0,
+      "note": "hand pick",
+      "query": "friends laughing hanging out",
+      "motion": {
+        "speed": 0.0,
+        "jitter": 0.02,
+        "verdict": "ok"
+      }
+    },
+    "s8": {
+      "clip": "SelfShots/Walking/1stPerson/IMG_5269.MOV",
+      "in": 3.0,
+      "speed": 1.0,
+      "note": "hand pick",
+      "query": "selfie outdoors reflective calm",
+      "motion": {
+        "speed": 0.4,
+        "jitter": 0.59,
+        "verdict": "ok"
+      }
+    }
+  },
+  "caption": "Striving for more but forgetting what you once wished for is a vicious cycle.",
+  "textY": 0.5
+}

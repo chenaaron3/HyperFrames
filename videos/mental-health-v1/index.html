@@ -1,0 +1,42 @@
+<!doctype html>
+<html lang="en" data-resolution="portrait">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=1080, height=1920" />
+    <script src="https://cdn.jsdelivr.net/npm/gsap@3.14.2/dist/gsap.min.js"></script>
+    <style>
+      #root { position: absolute; inset: 0; overflow: hidden; background: #000; }
+      .shot { position: absolute; inset: 0; width: 1080px; height: 1920px; object-fit: cover; z-index: 1; }
+      .line { position: absolute; left: 0; width: 1080px; z-index: 3; display: flex; justify-content: center; transform: translateY(-50%); }
+      .line span {
+        max-width: 900px;
+        text-align: center;
+        font-family: "Montserrat", sans-serif;
+        font-weight: 700;
+        font-size: 46px;
+        line-height: 1.4;
+        letter-spacing: -0.01em;
+        color: #fff;
+        text-shadow: -2px 0 0 rgba(0,0,0,.75), 2px 0 0 rgba(0,0,0,.75), 0 -2px 0 rgba(0,0,0,.75), 0 2px 0 rgba(0,0,0,.75), 0 0 10px rgba(0,0,0,.35);
+      }
+    </style>
+  </head>
+  <body>
+    <div id="root" data-composition-id="main" data-start="0" data-duration="9.933" data-width="1080" data-height="1920" data-fps="30">
+      <video id="v-s1" class="clip shot" src="assets/s1.mp4" data-start="0.000" data-duration="3.000" data-track-index="0" muted playsinline></video>
+      <video id="v-s2" class="clip shot" src="assets/s2.mp4" data-start="3.000" data-duration="3.600" data-track-index="1" muted playsinline></video>
+      <video id="v-s3" class="clip shot" src="assets/s3.mp4" data-start="6.600" data-duration="3.333" data-track-index="0" muted playsinline></video>
+      <div id="l1" class="clip line" style="top: 960px" data-start="0.000" data-duration="3.000" data-track-index="2"><span>what living in new york has<br>done for my mental health...</span></div>
+      <div id="l2" class="clip line" style="top: 960px" data-start="3.000" data-duration="1.900" data-track-index="2"><span>i feel calmer here</span></div>
+      <div id="l3" class="clip line" style="top: 960px" data-start="4.900" data-duration="1.700" data-track-index="2"><span>i can hear myself think</span></div>
+      <div id="l4" class="clip line" style="top: 960px" data-start="6.600" data-duration="1.733" data-track-index="2"><span>i learned how to enjoy<br>my own company</span></div>
+      <div id="l5" class="clip line" style="top: 960px" data-start="8.333" data-duration="1.600" data-track-index="2"><span>my nervous system relaxed</span></div>
+      <audio id="music" src="assets/music.m4a" data-start="0" data-duration="9.933" data-volume="1" data-track-index="4"></audio>
+    </div>
+    <script>
+      const tl = gsap.timeline({ paused: true });
+      tl.set({}, {}, 9.933);
+      window.__timelines["main"] = tl;
+    </script>
+  </body>
+</html>

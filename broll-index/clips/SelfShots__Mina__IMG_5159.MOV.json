@@ -1,0 +1,108 @@
+{
+  "path": "SelfShots/Mina/IMG_5159.MOV",
+  "folder": "SelfShots/Mina",
+  "fingerprint": "b285a5b54e28276d",
+  "width": 1080,
+  "height": 1920,
+  "fps": 30.0,
+  "duration": 82.873,
+  "model": "gemini-3.8-flash",
+  "annotatedAt": "2026-10-24T18:57:44+00:00",
+  "summary": "First-person POV of a creator petting, scratching, and playing with their affectionate fluffy grey cat on a wooden apartment floor.",
+  "location": "living room",
+  "setting": "indoor",
+  "time_of_day": "indoor_unknown",
+  "weather": "n/a",
+  "people": {
+    "count": 1,
+    "creator_visible": false,
+    "description": "Creator's hand, arm, and legs in blue jeans visible from first-person perspective"
+  },
+  "camera": {
+    "style": "pov_first_person",
+    "framing": "close",
+    "movement": "tracking",
+    "angle": "high angle"
+  },
+  "quality": {
+    "usable": true,
+    "stability": "handheld",
+    "exposure": "good",
+    "issues": ""
+  },
+  "mood": [
+    "cozy",
+    "affectionate",
+    "calm",
+    "playful",
+    "wholesome"
+  ],
+  "energy": "low",
+  "tags": [
+    "cat",
+    "fluffy cat",
+    "petting cat",
+    "grey cat",
+    "pov",
+    "apartment life",
+    "animal lover",
+    "belly rubs",
+    "feline",
+    "indoor pet",
+    "wooden floor",
+    "sweet moments"
+  ],
+  "moments": [
+    {
+      "start": 7.0,
+      "end": 17.5,
+      "action": "The fluffy grey cat rubs its body against the creator's leg and rolls over onto its back to receive belly scratches",
+      "emotion": "affectionate and relaxed",
+      "good_for": [
+        "the best part of coming home",
+        "unconditional love",
+        "soft life moments",
+        "my daily therapy"
+      ],
+      "score": 5
+    },
+    {
+      "start": 26.5,
+      "end": 36.5,
+      "action": "Creator reaches out an open hand and the grey cat turns around, trots over, and nuzzles into the creator's palm for head rubs",
+      "emotion": "trusting and gentle",
+      "good_for": [
+        "best friends",
+        "when they actually come when called",
+        "pure serotonin",
+        "peaceful days"
+      ],
+      "score": 5
+    },
+    {
+      "start": 52.0,
+      "end": 63.0,
+      "action": "The cat walks back over and burrows its head right into creator's waiting hand for ears and neck scratches",
+      "emotion": "loving and happy",
+      "good_for": [
+        "simple pleasures",
+        "reason to smile today",
+        "cozy home vibes",
+        "pet appreciation"
+      ],
+      "score": 4
+    },
+    {
+      "start": 65.0,
+      "end": 77.0,
+      "action": "Creator lovingly strokes the cat along its spine and ears as it purrs and rubs up against creator's knee",
+      "emotion": "content and cozy",
+      "good_for": [
+        "slow mornings",
+        "mental health booster",
+        "quality time with my pet"
+      ],
+      "score": 4
+    }
+  ]
+}

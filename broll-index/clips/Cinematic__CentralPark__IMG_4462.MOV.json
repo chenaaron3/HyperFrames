@@ -1,0 +1,73 @@
+{
+  "path": "Cinematic/CentralPark/IMG_4462.MOV",
+  "folder": "Cinematic/CentralPark",
+  "fingerprint": "0a8eea222d0ed8f7",
+  "width": 1080,
+  "height": 1920,
+  "fps": 30.0,
+  "duration": 2.333,
+  "model": "gemini-3.8-flash",
+  "annotatedAt": "2026-10-24T18:18:35+00:00",
+  "summary": "A peaceful scenic shot of a paved walking path curving through lush green woods in Central Park with sunlight filtering through the trees.",
+  "location": "park",
+  "setting": "outdoor",
+  "time_of_day": "day",
+  "weather": "sunny",
+  "people": {
+    "count": 0,
+    "creator_visible": false,
+    "description": "None"
+  },
+  "camera": {
+    "style": "handheld_cinematic",
+    "framing": "medium",
+    "movement": "static",
+    "angle": "eye level"
+  },
+  "quality": {
+    "usable": true,
+    "stability": "steady",
+    "exposure": "good",
+    "issues": ""
+  },
+  "mood": [
+    "peaceful",
+    "calm",
+    "serene",
+    "nature"
+  ],
+  "energy": "low",
+  "tags": [
+    "central park",
+    "nature",
+    "trees",
+    "woods",
+    "forest",
+    "path",
+    "trail",
+    "sunlight",
+    "walk",
+    "leaves",
+    "foliage",
+    "peaceful",
+    "quiet",
+    "autumn",
+    "new york city"
+  ],
+  "moments": [
+    {
+      "start": 0.0,
+      "end": 2.33,
+      "action": "Sunlight filters through the canopy of trees over a quiet winding park path",
+      "emotion": "calm",
+      "good_for": [
+        "nature walk",
+        "taking the quiet path",
+        "morning routine",
+        "peace of mind",
+        "escaping the city noise"
+      ],
+      "score": 4
+    }
+  ]
+}

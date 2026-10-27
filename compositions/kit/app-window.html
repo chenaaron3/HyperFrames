@@ -1,0 +1,91 @@
+<template>
+  <style>
+    #aw-root { position: absolute; inset: 0; pointer-events: none; perspective: 1600px; perspective-origin: 50% 40%; }
+    #aw-win {
+      position: absolute; left: 120px; top: 300px; width: 840px; height: 560px;
+      border-radius: 26px; background: #F7F5F0; overflow: hidden;
+      box-shadow: 0 40px 90px rgba(0, 0, 0, 0.35), 0 0 0 1px rgba(20, 20, 20, 0.06);
+      transform-origin: 50% 70%;
+      font-family: "Inter", sans-serif; color: #141414;
+    }
+    #aw-bar { height: 64px; display: flex; align-items: center; gap: 12px; padding: 0 24px; border-bottom: 1px solid #E8E4DC; }
+    #aw-bar i { width: 16px; height: 16px; border-radius: 50%; display: block; }
+    #aw-bar i:nth-child(1) { background: #EC6A5E; }
+    #aw-bar i:nth-child(2) { background: #F4BF4F; }
+    #aw-bar i:nth-child(3) { background: #61C554; }
+    #aw-title { margin-left: 18px; font-family: "IBM Plex Mono", monospace; font-weight: 500; font-size: 22px; letter-spacing: 0.12em; color: #8A8780; }
+    #aw-body { display: flex; height: 496px; }
+    #aw-side { width: 230px; background: #EFEBE3; padding: 26px 20px; }
+    .aw-row { height: 18px; border-radius: 9px; background: #DCD6CB; margin: 0 0 22px; }
+    .aw-row.on { background: #141414; width: 70%; }
+    #aw-main { flex: 1; position: relative; display: flex; flex-direction: column; align-items: center; padding-top: 92px; }
+    #aw-mark { width: 54px; height: 54px; border-radius: 50%; border: 9px solid #B8452F; margin-bottom: 26px; }
+    #aw-head { font-weight: 700; font-size: 42px; letter-spacing: -0.02em; }
+    #aw-field {
+      position: absolute; left: 34px; right: 34px; bottom: 34px; height: 92px; border-radius: 20px;
+      background: #FFFFFF; box-shadow: 0 6px 24px rgba(20, 20, 20, 0.08);
+      display: flex; align-items: center; padding: 0 28px; font-size: 30px; font-weight: 600;
+    }
+    #aw-typed i { font-style: normal; display: inline-block; white-space: pre; }
+    #aw-caret { width: 3px; height: 36px; background: #B8452F; margin-left: 4px; }
+    #aw-send { position: absolute; right: 18px; width: 56px; height: 56px; border-radius: 14px; background: #B8452F; }
+    #aw-sheen {
+      position: absolute; top: -20%; bottom: -20%; width: 240px; left: -320px;
+      background: linear-gradient(100deg, rgba(255,255,255,0) 0%, rgba(255,255,255,0.55) 50%, rgba(255,255,255,0) 100%);
+      transform: rotate(8deg);
+    }
+  </style>
+  <div id="aw-root" data-composition-id="app-window" data-start="0" data-duration="30" data-width="1080" data-height="1920"
+    data-composition-variables='[
+      {"id":"title","type":"string","label":"Window title","default":"DESKTOP APP"},
+      {"id":"head","type":"string","label":"Headline","default":"Ready when you are"},
+      {"id":"prompt","type":"string","label":"Typed prompt","default":"Set up my video editor"},
+      {"id":"typeAt","type":"number","label":"Start typing at (s)","default":0.8},
+      {"id":"top","type":"number","label":"Top (px)","default":300},
+      {"id":"out","type":"number","label":"Exit at (s)","default":3}
+    ]'>
+    <div id="aw-win">
+      <div id="aw-bar"><i></i><i></i><i></i><span id="aw-title"></span></div>
+      <div id="aw-body">
+        <div id="aw-side">
+          <div class="aw-row on"></div><div class="aw-row" style="width:86%"></div><div class="aw-row" style="width:62%"></div><div class="aw-row" style="width:74%"></div><div class="aw-row" style="width:50%"></div>
+        </div>
+        <div id="aw-main">
+          <div id="aw-mark"></div>
+          <div id="aw-head"></div>
+          <div id="aw-field"><span id="aw-typed"></span><span id="aw-caret"></span><span id="aw-send"></span></div>
+        </div>
+      </div>
+      <div id="aw-sheen"></div>
+    </div>
+    <audio id="aw-whoosh" class="clip" src="assets/sfx/whoosh.mp3" data-start="0" data-duration="0.9" data-volume="0.18" data-track-index="9"></audio>
+    <audio id="aw-keys" class="clip" src="assets/sfx/typing.mp3" data-start="0.8" data-duration="1.0" data-volume="0.14" data-track-index="9"></audio>
+  </div>
+  <script>
+    (function () {
+      var v = (window.__hyperframes && window.__hyperframes.getVariables) ? window.__hyperframes.getVariables() : {};
+      var typeAt = typeof v.typeAt === "number" ? v.typeAt : 0.8;
+      var out = typeof v.out === "number" ? v.out : 3;
+      document.getElementById("aw-win").style.top = (typeof v.top === "number" ? v.top : 300) + "px";
+      document.getElementById("aw-title").textContent = v.title || "DESKTOP APP";
+      document.getElementById("aw-head").textContent = v.head || "Ready when you are";
+      var typed = document.getElementById("aw-typed");
+      var chars = (v.prompt || "Set up my video editor").split("");
+      chars.forEach(function (ch) { var i = document.createElement("i"); i.textContent = ch; typed.appendChild(i); });
+
+      var tl = gsap.timeline({ paused: true });
+      tl.fromTo("#aw-win",
+        { opacity: 0, scale: 0.5, x: 40, y: 220, rotateY: 42, rotateX: 14, filter: "blur(10px)" },
+        { opacity: 1, scale: 1, x: 0, y: 0, rotateY: -9, rotateX: 4, filter: "blur(0px)", duration: 0.95, ease: "expo.out" }, 0);
+      tl.to("#aw-win", { rotateY: -5, rotateX: 2, duration: Math.max(0.5, out - 0.95), ease: "sine.inOut" }, 0.95);
+      tl.fromTo(".aw-row", { opacity: 0, x: -16 }, { opacity: 1, x: 0, duration: 0.4, stagger: 0.05, ease: "power3.out" }, 0.3);
+      tl.fromTo("#aw-mark", { scale: 0, rotate: -90 }, { scale: 1, rotate: 0, duration: 0.6, ease: "expo.out" }, 0.35);
+      tl.fromTo("#aw-head", { opacity: 0, y: 14, filter: "blur(6px)" }, { opacity: 1, y: 0, filter: "blur(0px)", duration: 0.45, ease: "power3.out" }, 0.45);
+      tl.fromTo("#aw-field", { opacity: 0, y: 30 }, { opacity: 1, y: 0, duration: 0.5, ease: "expo.out" }, 0.5);
+      tl.fromTo("#aw-typed i", { opacity: 0 }, { opacity: 1, duration: 0.01, stagger: 0.045, ease: "none" }, typeAt);
+      tl.fromTo("#aw-sheen", { x: 0 }, { x: 1400, duration: 1.1, ease: "power2.inOut" }, 0.55);
+      tl.to("#aw-win", { opacity: 0, y: -90, rotateX: 18, scale: 0.92, filter: "blur(8px)", duration: 0.38, ease: "power3.in" }, out);
+      window.__timelines["app-window"] = tl;
+    })();
+  </script>
+</template>

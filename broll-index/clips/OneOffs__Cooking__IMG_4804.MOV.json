@@ -1,0 +1,115 @@
+{
+  "path": "OneOffs/Cooking/IMG_4804.MOV",
+  "folder": "OneOffs/Cooking",
+  "fingerprint": "228f3e1a5a9f6b98",
+  "width": 1080,
+  "height": 1920,
+  "fps": 30.0,
+  "duration": 53.938,
+  "model": "gemini-3.8-flash",
+  "annotatedAt": "2026-10-24T18:24:50+00:00",
+  "summary": "A young man wearing glasses chops red chili peppers on a wooden board in a modern kitchen while chatting and cooking alongside his friend.",
+  "location": "kitchen",
+  "setting": "indoor",
+  "time_of_day": "day",
+  "weather": "n/a",
+  "people": {
+    "count": 2,
+    "creator_visible": true,
+    "description": "A young man with glasses in a navy polo chopping vegetables, joined by a friend in a light blue shirt helping at the stove."
+  },
+  "camera": {
+    "style": "filmed_by_friend",
+    "framing": "medium",
+    "movement": "static",
+    "angle": "eye level"
+  },
+  "quality": {
+    "usable": true,
+    "stability": "steady",
+    "exposure": "good",
+    "issues": ""
+  },
+  "mood": [
+    "casual",
+    "friendly",
+    "domestic",
+    "relaxed",
+    "cheerful"
+  ],
+  "energy": "medium",
+  "tags": [
+    "cooking",
+    "kitchen",
+    "meal prep",
+    "chopping",
+    "chili pepper",
+    "cutting board",
+    "roommates",
+    "friends",
+    "home cooking",
+    "dinner prep"
+  ],
+  "moments": [
+    {
+      "start": 0.0,
+      "end": 5.5,
+      "action": "Young man chops red chili peppers rapidly on a cutting board with a small smile",
+      "emotion": "focused and amused",
+      "good_for": [
+        "cooking dinner at home",
+        "meal prep routine",
+        "learning how to cook"
+      ],
+      "score": 4
+    },
+    {
+      "start": 7.5,
+      "end": 14.5,
+      "action": "Friend walks up and creator gestures to his cutting board and laughs about being done",
+      "emotion": "playful and laughing",
+      "good_for": [
+        "cooking with friends",
+        "roommate life",
+        "laughing at yourself"
+      ],
+      "score": 4
+    },
+    {
+      "start": 27.5,
+      "end": 34.0,
+      "action": "Man resumes finely chopping red chilis while his friend cooks at the stove behind him",
+      "emotion": "focused",
+      "good_for": [
+        "busy in the kitchen",
+        "domestic life",
+        "dinner prep b-roll"
+      ],
+      "score": 3
+    },
+    {
+      "start": 36.5,
+      "end": 44.5,
+      "action": "Man sets knife down, laughs, and pulls out extra fresh peppers from a produce bag",
+      "emotion": "happy and amused",
+      "good_for": [
+        "realizing you need more spice",
+        "spicy food lovers",
+        "casual kitchen banter"
+      ],
+      "score": 4
+    },
+    {
+      "start": 46.5,
+      "end": 53.5,
+      "action": "Man slices another chili pepper on the cutting board beside chopped garlic and herbs",
+      "emotion": "attentive and calm",
+      "good_for": [
+        "fresh ingredients",
+        "cooking from scratch",
+        "food on my plate"
+      ],
+      "score": 4
+    }
+  ]
+}

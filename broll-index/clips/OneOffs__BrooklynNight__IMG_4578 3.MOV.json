@@ -1,0 +1,71 @@
+{
+  "path": "OneOffs/BrooklynNight/IMG_4578 3.MOV",
+  "folder": "OneOffs/BrooklynNight",
+  "fingerprint": "89d4af8d6fc3bdf4",
+  "width": 1080,
+  "height": 1920,
+  "fps": 30.0,
+  "duration": 4.033,
+  "model": "gemini-3.8-flash",
+  "annotatedAt": "2026-10-24T18:24:14+00:00",
+  "summary": "POV shot walking across the crowded pedestrian deck of the Brooklyn Bridge at night, surrounded by other visitors and towering suspension cables.",
+  "location": "bridge walkway",
+  "setting": "outdoor",
+  "time_of_day": "night",
+  "weather": "n/a",
+  "people": {
+    "count": 15,
+    "creator_visible": false,
+    "description": "A dense crowd of tourists and locals walking across the bridge walkway in casual night clothes, jackets, and t-shirts."
+  },
+  "camera": {
+    "style": "pov_first_person",
+    "framing": "wide",
+    "movement": "walking",
+    "angle": "eye level"
+  },
+  "quality": {
+    "usable": true,
+    "stability": "handheld",
+    "exposure": "good",
+    "issues": ""
+  },
+  "mood": [
+    "bustling",
+    "urban",
+    "nocturnal",
+    "adventurous",
+    "touristy"
+  ],
+  "energy": "medium",
+  "tags": [
+    "brooklyn bridge",
+    "nyc",
+    "new york city",
+    "night walk",
+    "city lights",
+    "pedestrians",
+    "crowd",
+    "bridge",
+    "urban travel",
+    "sightseeing",
+    "cables",
+    "nightlife"
+  ],
+  "moments": [
+    {
+      "start": 0.0,
+      "end": 4.03,
+      "action": "Camera walks forward among a crowd of tourists strolling along the Brooklyn Bridge pedestrian walkway at night",
+      "emotion": "lively, exploratory",
+      "good_for": [
+        "late night walks in nyc",
+        "places that never sleep",
+        "traveling to new york",
+        "city tourist energy",
+        "walking through the crowd"
+      ],
+      "score": 3
+    }
+  ]
+}

@@ -1,0 +1,298 @@
+<!doctype html>
+<html lang="en" data-resolution="portrait">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=1080, height=1920" />
+    <script src="https://cdn.jsdelivr.net/npm/gsap@3.14.2/dist/gsap.min.js"></script>
+    <style>
+      #root { position: absolute; inset: 0; overflow: hidden; background: #111; }
+      #cam { position: absolute; inset: 0; width: 1080px; height: 1920px; z-index: 1; overflow: hidden; }
+      #talk {
+        position: absolute; left: 0; top: 0; width: 1080px; height: 1920px;
+        object-fit: cover; object-position: 50% 40%;
+      }
+      .layer { position: absolute; inset: 0; pointer-events: none; z-index: 4; }
+      .box { position: absolute; left: 0; width: 1080px; text-align: center; white-space: nowrap; }
+      .hook { top: 200px; }
+      .hook-row { display: flex; justify-content: center; align-items: center; gap: 18px; }
+      .hook-top {
+        font-family: Poppins, Montserrat, sans-serif; font-weight: 800;
+        font-size: 78px; letter-spacing: 0.01em; color: #141414; line-height: 1;
+        white-space: nowrap;
+      }
+      .hook-dot { display: block; width: 32px; height: 32px; border-radius: 50%; background: #141414; flex: 0 0 32px; }
+      .hook-sub {
+        margin-top: 8px;
+        font-family: "Playfair Display", "EB Garamond", serif; font-style: italic;
+        font-weight: 500; font-size: 42px; color: #6B6458; white-space: nowrap;
+      }
+      .lock {
+        top: 220px; padding: 0 48px;
+        font-family: Poppins, Montserrat, sans-serif; font-weight: 700;
+        font-size: 78px; letter-spacing: 0.04em; color: #E8D4A0; line-height: 1.05;
+        white-space: nowrap;
+        text-shadow: 0 2px 18px rgba(20,20,20,0.18);
+      }
+      .lock.lg { font-size: 92px; letter-spacing: 0.03em; }
+      .lock-sub {
+        top: 324px;
+        font-family: "Playfair Display", "EB Garamond", serif; font-style: italic;
+        font-weight: 500; font-size: 40px; color: #E8D4A0; white-space: nowrap;
+      }
+      .notes {
+        left: 130px; top: 72px; width: 820px; background: #fff;
+        border-radius: 28px; box-shadow: 0 22px 56px rgba(20,20,20,0.16);
+        text-align: left; overflow: hidden;
+      }
+      .notes.pad { border-radius: 8px 8px 18px 18px; background: #FFFEF8; }
+      .notes-head {
+        height: 38px; display: flex; justify-content: center; align-items: center; gap: 10px;
+        background: #fff;
+      }
+      .notes-date {
+        font-family: Inter, sans-serif; font-size: 18px; color: #9a9a9a; letter-spacing: 0.01em;
+      }
+      .notes-dot { width: 9px; height: 9px; border-radius: 50%; background: #1a1a1a; }
+      .notes-title {
+        font-family: Inter, sans-serif; font-weight: 700; font-size: 34px; color: #1a1a1a;
+        padding: 8px 34px 8px; white-space: nowrap;
+      }
+      .notes-row {
+        font-family: Inter, sans-serif; font-weight: 500; font-size: 28px; color: #222;
+        padding: 12px 34px; border-top: 1px solid #efe6dc; display: flex; align-items: center; gap: 14px;
+        white-space: nowrap;
+      }
+      .chk {
+        width: 26px; height: 26px; border-radius: 50%; background: #F0C033; color: #fff;
+        font-size: 16px; line-height: 26px; text-align: center; flex: 0 0 26px; font-weight: 700;
+      }
+      .chk.boxy { border-radius: 6px; background: #3B82F6; }
+      .notes-foot {
+        font-family: Inter, sans-serif; font-weight: 600; font-size: 28px; color: #1a1a1a;
+        padding: 14px 34px 20px; white-space: nowrap;
+      }
+      .aside {
+        position: absolute; left: 200px; top: 500px; width: 780px; text-align: right;
+        font-family: "Playfair Display", serif; font-style: italic; font-size: 36px; color: #E8D4A0;
+        white-space: nowrap; text-shadow: 0 2px 14px rgba(20,20,20,0.2);
+      }
+      .ios {
+        left: 70px; top: 86px; width: 940px; background: #fff; border-radius: 34px;
+        box-shadow: 0 18px 48px rgba(20,20,20,0.16);
+        padding: 22px 26px 24px; display: flex; gap: 18px; text-align: left;
+      }
+      .play {
+        flex: 0 0 58px; width: 58px; height: 58px; border-radius: 50%; background: #FF4D2E;
+        position: relative; margin-top: 8px;
+      }
+      .play:after {
+        content: ""; position: absolute; left: 22px; top: 16px;
+        border-style: solid; border-width: 13px 0 13px 20px;
+        border-color: transparent transparent transparent #fff;
+      }
+      .ios-meta { display: flex; justify-content: space-between; width: 780px; font-family: Inter, sans-serif; font-size: 20px; color: #8a8a8a; letter-spacing: 0.04em; }
+      .ios h3 { margin: 4px 0 4px; font-family: Inter, sans-serif; font-weight: 700; font-size: 34px; color: #111; white-space: nowrap; }
+      .ios p { margin: 0; font-family: Inter, sans-serif; font-size: 24px; color: #444; white-space: nowrap; }
+      .xmark { top: 200px; }
+      .xmark svg { width: 140px; height: 140px; }
+      .phones-img {
+        position: absolute; left: 0; top: 0; width: 1080px; height: 1920px;
+      }
+      .cap { position: absolute; left: 0; width: 1080px; top: 1280px; text-align: center; }
+      .cap-text {
+        font-family: "Playfair Display", "EB Garamond", serif;
+        font-weight: 500; font-style: normal; font-size: 64px; color: #fff;
+        letter-spacing: 0; white-space: nowrap;
+        text-shadow: 0 2px 16px rgba(0,0,0,0.35);
+      }
+
+    </style>
+  </head>
+  <body>
+    <div id="root" data-composition-id="main" data-start="0" data-duration="35.617" data-width="1080" data-height="1920" data-fps="30">
+      <div id="cam">
+        <video id="talk" class="clip" src="assets/talk.mp4" data-start="0" data-duration="35.617" data-track-index="0" data-has-audio="true" data-fade-out="0.25" playsinline></video>
+      </div>
+      <div class="layer">
+      <div id="hook" class="clip" data-start="0.10" data-duration="2.550" data-track-index="2" data-layout-allow-overflow="true"><div class="box hook" id="hook-in" data-layout-allow-overlap="true"><div class="hook-row"><div class="hook-dot"></div><div class="hook-top">CLAUDE EDITED</div></div><div class="hook-sub">this entire video</div></div></div>
+      <div id="g0" class="clip" data-start="2.830" data-duration="1.800" data-track-index="3" data-layout-allow-overflow="true"><div class="box lock lg" id="g0-in">HOURS</div></div>
+      <div id="g1" class="clip" data-start="4.910" data-duration="1.700" data-track-index="4" data-layout-allow-overflow="true"><div class="box lock" id="g1-in">FLOP</div></div>
+      <div id="g2" class="clip" data-start="14.376" data-duration="3.800" data-track-index="3" data-layout-allow-overflow="true"><div class="notes" id="g2-in"><div class="notes-head"><div class="notes-date">October 26, 2026 at 12:16 PM</div></div><div class="notes-title">Claude's edit list</div><div class="notes-row"><span class="chk">✓</span>Cut the hours</div><div class="notes-row"><span class="chk">✓</span>Keep the thinking</div><div class="notes-row"><span class="chk">✓</span>Place edits on words</div><div class="notes-foot">All done by Claude.</div></div><div class="aside" id="g2-as">like this one!</div></div>
+      <div id="g3" class="clip" data-start="26.406" data-duration="2.200" data-track-index="4" data-layout-allow-overflow="true"><div class="box lock lg" id="g3-in">ON WORDS</div></div>
+      <div id="g4" class="clip" data-start="32.620" data-duration="2.947" data-track-index="3" data-layout-allow-overflow="true"><div class="ios" id="g4-in"><div class="play"></div><div><div class="ios-meta"><span>CLAUDE</span><span>now</span></div><h3>Your video is ready!</h3><p>Edits done. Tap to watch &amp; post.</p></div></div></div>
+      <div id="c0" class="clip cap" data-start="3.479" data-duration="0.700" data-track-index="8" data-layout-allow-overflow="true"><div class="cap-text">only</div></div>
+      <div id="c1" class="clip cap" data-start="4.799" data-duration="0.340" data-track-index="8" data-layout-allow-overflow="true"><div class="cap-text">watch</div></div>
+      <div id="c2" class="clip cap" data-start="4.984" data-duration="0.700" data-track-index="8" data-layout-allow-overflow="true"><div class="cap-text">tried</div></div>
+      <div id="c3" class="clip cap" data-start="5.914" data-duration="0.700" data-track-index="8" data-layout-allow-overflow="true"><div class="cap-text">using</div></div>
+      <div id="c4" class="clip cap" data-start="7.094" data-duration="0.340" data-track-index="8" data-layout-allow-overflow="true"><div class="cap-text">AI</div></div>
+      <div id="c5" class="clip cap" data-start="7.794" data-duration="0.490" data-track-index="8" data-layout-allow-overflow="true"><div class="cap-text">killed</div></div>
+      <div id="c6" class="clip cap" data-start="8.304" data-duration="0.340" data-track-index="8" data-layout-allow-overflow="true"><div class="cap-text">creative</div></div>
+      <div id="c7" class="clip cap" data-start="8.517" data-duration="0.700" data-track-index="8" data-layout-allow-overflow="true"><div class="cap-text">wanted</div></div>
+      <div id="c8" class="clip cap" data-start="9.357" data-duration="0.340" data-track-index="8" data-layout-allow-overflow="true"><div class="cap-text">way</div></div>
+      <div id="c9" class="clip cap" data-start="9.957" data-duration="0.700" data-track-index="8" data-layout-allow-overflow="true"><div class="cap-text">express</div></div>
+      <div id="c10" class="clip cap" data-start="11.037" data-duration="0.700" data-track-index="8" data-layout-allow-overflow="true"><div class="cap-text">creativity</div></div>
+      <div id="c11" class="clip cap" data-start="12.227" data-duration="0.340" data-track-index="8" data-layout-allow-overflow="true"><div class="cap-text">without</div></div>
+      <div id="c12" class="clip cap" data-start="12.817" data-duration="0.340" data-track-index="8" data-layout-allow-overflow="true"><div class="cap-text">out</div></div>
+      <div id="c13" class="clip cap" data-start="13.527" data-duration="0.340" data-track-index="8" data-layout-allow-overflow="true"><div class="cap-text">outsourcing</div></div>
+      <div id="c14" class="clip cap" data-start="13.668" data-duration="0.340" data-track-index="8" data-layout-allow-overflow="true"><div class="cap-text">thinking</div></div>
+      <div id="c15" class="clip cap" data-start="14.376" data-duration="0.700" data-track-index="8" data-layout-allow-overflow="true"><div class="cap-text">decided</div></div>
+      <div id="c16" class="clip cap" data-start="16.226" data-duration="0.340" data-track-index="8" data-layout-allow-overflow="true"><div class="cap-text">build</div></div>
+      <div id="c17" class="clip cap" data-start="16.494" data-duration="0.340" data-track-index="8" data-layout-allow-overflow="true"><div class="cap-text">own</div></div>
+      <div id="c18" class="clip cap" data-start="16.840" data-duration="0.480" data-track-index="8" data-layout-allow-overflow="true"><div class="cap-text">doesn't</div></div>
+      <div id="c19" class="clip cap" data-start="17.340" data-duration="0.340" data-track-index="8" data-layout-allow-overflow="true"><div class="cap-text">have</div></div>
+      <div id="c20" class="clip cap" data-start="17.760" data-duration="0.340" data-track-index="8" data-layout-allow-overflow="true"><div class="cap-text">many</div></div>
+      <div id="c21" class="clip cap" data-start="18.060" data-duration="0.550" data-track-index="8" data-layout-allow-overflow="true"><div class="cap-text">features</div></div>
+      <div id="c22" class="clip cap" data-start="18.990" data-duration="0.340" data-track-index="8" data-layout-allow-overflow="true"><div class="cap-text">other</div></div>
+      <div id="c23" class="clip cap" data-start="19.130" data-duration="0.413" data-track-index="8" data-layout-allow-overflow="true"><div class="cap-text">editors</div></div>
+      <div id="c24" class="clip cap" data-start="20.003" data-duration="0.566" data-track-index="8" data-layout-allow-overflow="true"><div class="cap-text">that's</div></div>
+      <div id="c25" class="clip cap" data-start="20.589" data-duration="0.340" data-track-index="8" data-layout-allow-overflow="true"><div class="cap-text">kind</div></div>
+      <div id="c26" class="clip cap" data-start="20.858" data-duration="0.470" data-track-index="8" data-layout-allow-overflow="true"><div class="cap-text">take</div></div>
+      <div id="c27" class="clip cap" data-start="21.718" data-duration="0.700" data-track-index="8" data-layout-allow-overflow="true"><div class="cap-text">features</div></div>
+      <div id="c28" class="clip cap" data-start="23.028" data-duration="0.340" data-track-index="8" data-layout-allow-overflow="true"><div class="cap-text">do</div></div>
+      <div id="c29" class="clip cap" data-start="23.928" data-duration="0.340" data-track-index="8" data-layout-allow-overflow="true"><div class="cap-text">make</div></div>
+      <div id="c30" class="clip cap" data-start="24.258" data-duration="0.340" data-track-index="8" data-layout-allow-overflow="true"><div class="cap-text">super</div></div>
+      <div id="c31" class="clip cap" data-start="24.403" data-duration="0.340" data-track-index="8" data-layout-allow-overflow="true"><div class="cap-text">use</div></div>
+      <div id="c32" class="clip cap" data-start="24.616" data-duration="0.510" data-track-index="8" data-layout-allow-overflow="true"><div class="cap-text">Every</div></div>
+      <div id="c33" class="clip cap" data-start="25.146" data-duration="0.400" data-track-index="8" data-layout-allow-overflow="true"><div class="cap-text">edit</div></div>
+      <div id="c34" class="clip cap" data-start="25.766" data-duration="0.620" data-track-index="8" data-layout-allow-overflow="true"><div class="cap-text">placed</div></div>
+      <div id="c35" class="clip cap" data-start="26.906" data-duration="0.340" data-track-index="8" data-layout-allow-overflow="true"><div class="cap-text">words</div></div>
+      <div id="c36" class="clip cap" data-start="27.146" data-duration="0.700" data-track-index="8" data-layout-allow-overflow="true"><div class="cap-text">instead</div></div>
+      <div id="c37" class="clip cap" data-start="28.087" data-duration="0.340" data-track-index="8" data-layout-allow-overflow="true"><div class="cap-text">complicated</div></div>
+      <div id="c38" class="clip cap" data-start="28.712" data-duration="0.490" data-track-index="8" data-layout-allow-overflow="true"><div class="cap-text">lets</div></div>
+      <div id="c39" class="clip cap" data-start="29.472" data-duration="0.700" data-track-index="8" data-layout-allow-overflow="true"><div class="cap-text">make</div></div>
+      <div id="c40" class="clip cap" data-start="30.492" data-duration="0.360" data-track-index="8" data-layout-allow-overflow="true"><div class="cap-text">minimal</div></div>
+      <div id="c41" class="clip cap" data-start="30.872" data-duration="0.620" data-track-index="8" data-layout-allow-overflow="true"><div class="cap-text">edits</div></div>
+      <div id="c42" class="clip cap" data-start="31.672" data-duration="0.340" data-track-index="8" data-layout-allow-overflow="true"><div class="cap-text">minutes</div></div>
+      <div id="c43" class="clip cap" data-start="31.980" data-duration="0.340" data-track-index="8" data-layout-allow-overflow="true"><div class="cap-text">can</div></div>
+      <div id="c44" class="clip cap" data-start="32.170" data-duration="0.340" data-track-index="8" data-layout-allow-overflow="true"><div class="cap-text">focus</div></div>
+      <div id="c45" class="clip cap" data-start="32.770" data-duration="0.340" data-track-index="8" data-layout-allow-overflow="true"><div class="cap-text">fun</div></div>
+      <div id="c46" class="clip cap" data-start="32.950" data-duration="0.340" data-track-index="8" data-layout-allow-overflow="true"><div class="cap-text">parts</div></div>
+      <div id="c47" class="clip cap" data-start="33.370" data-duration="0.340" data-track-index="8" data-layout-allow-overflow="true"><div class="cap-text">content</div></div>
+      <div id="c48" class="clip cap" data-start="33.720" data-duration="0.700" data-track-index="8" data-layout-allow-overflow="true"><div class="cap-text">creation</div></div>
+      </div>
+      <audio id="sfx-hook" src="assets/sfx/whoosh-short.mp3" data-start="0.12" data-duration="0.5" data-volume="0.15" data-track-index="10"></audio>
+      <audio id="sfx-g0" src="assets/sfx/pop.mp3" data-start="2.830" data-duration="0.35" data-volume="0.16" data-track-index="11"></audio>
+      <audio id="sfx-g1" src="assets/sfx/pop.mp3" data-start="4.910" data-duration="0.35" data-volume="0.16" data-track-index="11"></audio>
+      <audio id="sfx-g2" src="assets/sfx/pop.mp3" data-start="14.376" data-duration="0.35" data-volume="0.16" data-track-index="11"></audio>
+      <audio id="sfx-g3" src="assets/sfx/pop.mp3" data-start="26.406" data-duration="0.35" data-volume="0.16" data-track-index="11"></audio>
+      <audio id="sfx-g4" src="assets/sfx/pop.mp3" data-start="32.620" data-duration="0.35" data-volume="0.16" data-track-index="11"></audio>
+    </div>
+    <script>
+      const tl = gsap.timeline({ paused: true });
+      tl.set({}, {}, 35.617);
+      tl.fromTo("#hook-in", {opacity:0, y:8}, {opacity:1, y:0, duration:0.46, ease:"expo.out"}, 0.100);
+      tl.to("#hook-in", {opacity:0, duration:0.24, ease:"power2.in"}, 2.410);
+      tl.fromTo("#g0-in", {opacity:0, y:14}, {opacity:1, y:0, duration:0.38, ease:"expo.out"}, 2.830);
+      tl.to("#g0-in", {opacity:0, duration:0.2, ease:"power2.in"}, 4.430);
+      tl.fromTo("#g1-in", {opacity:0, y:14}, {opacity:1, y:0, duration:0.38, ease:"expo.out"}, 4.910);
+      tl.to("#g1-in", {opacity:0, duration:0.2, ease:"power2.in"}, 6.410);
+      tl.fromTo("#g2-in", {opacity:0, y:18}, {opacity:1, y:0, duration:0.48, ease:"expo.out"}, 14.376);
+      tl.to("#g2-in", {opacity:0, duration:0.2, ease:"power2.in"}, 17.976);
+      tl.fromTo("#g2-as", {opacity:0, y:8}, {opacity:1, y:0, duration:0.3, ease:"expo.out"}, 14.726);
+      tl.to("#g2-as", {opacity:0, duration:0.2, ease:"power2.in"}, 17.976);
+      tl.fromTo("#g3-in", {opacity:0, y:14}, {opacity:1, y:0, duration:0.38, ease:"expo.out"}, 26.406);
+      tl.to("#g3-in", {opacity:0, duration:0.2, ease:"power2.in"}, 28.406);
+      tl.fromTo("#g4-in", {opacity:0, y:16}, {opacity:1, y:0, duration:0.42, ease:"expo.out"}, 32.620);
+      tl.to("#g4-in", {opacity:0, duration:0.2, ease:"power2.in"}, 35.367);
+      tl.fromTo("#c0 .cap-text", {opacity:0}, {opacity:1, duration:0.060, ease:"power2.out"}, 3.479);
+      tl.to("#c0 .cap-text", {opacity:0, duration:0.060, ease:"power2.in"}, 4.119);
+      tl.fromTo("#c1 .cap-text", {opacity:0}, {opacity:1, duration:0.060, ease:"power2.out"}, 4.799);
+      tl.to("#c1 .cap-text", {opacity:0, duration:0.060, ease:"power2.in"}, 5.079);
+      tl.fromTo("#c2 .cap-text", {opacity:0}, {opacity:1, duration:0.060, ease:"power2.out"}, 4.984);
+      tl.to("#c2 .cap-text", {opacity:0, duration:0.060, ease:"power2.in"}, 5.624);
+      tl.fromTo("#c3 .cap-text", {opacity:0}, {opacity:1, duration:0.060, ease:"power2.out"}, 5.914);
+      tl.to("#c3 .cap-text", {opacity:0, duration:0.060, ease:"power2.in"}, 6.554);
+      tl.fromTo("#c4 .cap-text", {opacity:0}, {opacity:1, duration:0.060, ease:"power2.out"}, 7.094);
+      tl.to("#c4 .cap-text", {opacity:0, duration:0.060, ease:"power2.in"}, 7.374);
+      tl.fromTo("#c5 .cap-text", {opacity:0}, {opacity:1, duration:0.060, ease:"power2.out"}, 7.794);
+      tl.to("#c5 .cap-text", {opacity:0, duration:0.060, ease:"power2.in"}, 8.224);
+      tl.fromTo("#c6 .cap-text", {opacity:0}, {opacity:1, duration:0.060, ease:"power2.out"}, 8.304);
+      tl.to("#c6 .cap-text", {opacity:0, duration:0.060, ease:"power2.in"}, 8.584);
+      tl.fromTo("#c7 .cap-text", {opacity:0}, {opacity:1, duration:0.060, ease:"power2.out"}, 8.517);
+      tl.to("#c7 .cap-text", {opacity:0, duration:0.060, ease:"power2.in"}, 9.157);
+      tl.fromTo("#c8 .cap-text", {opacity:0}, {opacity:1, duration:0.060, ease:"power2.out"}, 9.357);
+      tl.to("#c8 .cap-text", {opacity:0, duration:0.060, ease:"power2.in"}, 9.637);
+      tl.fromTo("#c9 .cap-text", {opacity:0}, {opacity:1, duration:0.060, ease:"power2.out"}, 9.957);
+      tl.to("#c9 .cap-text", {opacity:0, duration:0.060, ease:"power2.in"}, 10.597);
+      tl.fromTo("#c10 .cap-text", {opacity:0}, {opacity:1, duration:0.060, ease:"power2.out"}, 11.037);
+      tl.to("#c10 .cap-text", {opacity:0, duration:0.060, ease:"power2.in"}, 11.677);
+      tl.fromTo("#c11 .cap-text", {opacity:0}, {opacity:1, duration:0.060, ease:"power2.out"}, 12.227);
+      tl.to("#c11 .cap-text", {opacity:0, duration:0.060, ease:"power2.in"}, 12.507);
+      tl.fromTo("#c12 .cap-text", {opacity:0}, {opacity:1, duration:0.060, ease:"power2.out"}, 12.817);
+      tl.to("#c12 .cap-text", {opacity:0, duration:0.060, ease:"power2.in"}, 13.097);
+      tl.fromTo("#c13 .cap-text", {opacity:0}, {opacity:1, duration:0.060, ease:"power2.out"}, 13.527);
+      tl.to("#c13 .cap-text", {opacity:0, duration:0.060, ease:"power2.in"}, 13.807);
+      tl.fromTo("#c14 .cap-text", {opacity:0}, {opacity:1, duration:0.060, ease:"power2.out"}, 13.668);
+      tl.to("#c14 .cap-text", {opacity:0, duration:0.060, ease:"power2.in"}, 13.948);
+      tl.fromTo("#c15 .cap-text", {opacity:0}, {opacity:1, duration:0.060, ease:"power2.out"}, 14.376);
+      tl.to("#c15 .cap-text", {opacity:0, duration:0.060, ease:"power2.in"}, 15.016);
+      tl.fromTo("#c16 .cap-text", {opacity:0}, {opacity:1, duration:0.060, ease:"power2.out"}, 16.226);
+      tl.to("#c16 .cap-text", {opacity:0, duration:0.060, ease:"power2.in"}, 16.506);
+      tl.fromTo("#c17 .cap-text", {opacity:0}, {opacity:1, duration:0.060, ease:"power2.out"}, 16.494);
+      tl.to("#c17 .cap-text", {opacity:0, duration:0.060, ease:"power2.in"}, 16.774);
+      tl.fromTo("#c18 .cap-text", {opacity:0}, {opacity:1, duration:0.060, ease:"power2.out"}, 16.840);
+      tl.to("#c18 .cap-text", {opacity:0, duration:0.060, ease:"power2.in"}, 17.260);
+      tl.fromTo("#c19 .cap-text", {opacity:0}, {opacity:1, duration:0.060, ease:"power2.out"}, 17.340);
+      tl.to("#c19 .cap-text", {opacity:0, duration:0.060, ease:"power2.in"}, 17.620);
+      tl.fromTo("#c20 .cap-text", {opacity:0}, {opacity:1, duration:0.060, ease:"power2.out"}, 17.760);
+      tl.to("#c20 .cap-text", {opacity:0, duration:0.060, ease:"power2.in"}, 18.040);
+      tl.fromTo("#c21 .cap-text", {opacity:0}, {opacity:1, duration:0.060, ease:"power2.out"}, 18.060);
+      tl.to("#c21 .cap-text", {opacity:0, duration:0.060, ease:"power2.in"}, 18.550);
+      tl.fromTo("#c22 .cap-text", {opacity:0}, {opacity:1, duration:0.060, ease:"power2.out"}, 18.990);
+      tl.to("#c22 .cap-text", {opacity:0, duration:0.060, ease:"power2.in"}, 19.270);
+      tl.fromTo("#c23 .cap-text", {opacity:0}, {opacity:1, duration:0.060, ease:"power2.out"}, 19.130);
+      tl.to("#c23 .cap-text", {opacity:0, duration:0.060, ease:"power2.in"}, 19.483);
+      tl.fromTo("#c24 .cap-text", {opacity:0}, {opacity:1, duration:0.060, ease:"power2.out"}, 20.003);
+      tl.to("#c24 .cap-text", {opacity:0, duration:0.060, ease:"power2.in"}, 20.509);
+      tl.fromTo("#c25 .cap-text", {opacity:0}, {opacity:1, duration:0.060, ease:"power2.out"}, 20.589);
+      tl.to("#c25 .cap-text", {opacity:0, duration:0.060, ease:"power2.in"}, 20.869);
+      tl.fromTo("#c26 .cap-text", {opacity:0}, {opacity:1, duration:0.060, ease:"power2.out"}, 20.858);
+      tl.to("#c26 .cap-text", {opacity:0, duration:0.060, ease:"power2.in"}, 21.268);
+      tl.fromTo("#c27 .cap-text", {opacity:0}, {opacity:1, duration:0.060, ease:"power2.out"}, 21.718);
+      tl.to("#c27 .cap-text", {opacity:0, duration:0.060, ease:"power2.in"}, 22.358);
+      tl.fromTo("#c28 .cap-text", {opacity:0}, {opacity:1, duration:0.060, ease:"power2.out"}, 23.028);
+      tl.to("#c28 .cap-text", {opacity:0, duration:0.060, ease:"power2.in"}, 23.308);
+      tl.fromTo("#c29 .cap-text", {opacity:0}, {opacity:1, duration:0.060, ease:"power2.out"}, 23.928);
+      tl.to("#c29 .cap-text", {opacity:0, duration:0.060, ease:"power2.in"}, 24.208);
+      tl.fromTo("#c30 .cap-text", {opacity:0}, {opacity:1, duration:0.060, ease:"power2.out"}, 24.258);
+      tl.to("#c30 .cap-text", {opacity:0, duration:0.060, ease:"power2.in"}, 24.538);
+      tl.fromTo("#c31 .cap-text", {opacity:0}, {opacity:1, duration:0.060, ease:"power2.out"}, 24.403);
+      tl.to("#c31 .cap-text", {opacity:0, duration:0.060, ease:"power2.in"}, 24.683);
+      tl.fromTo("#c32 .cap-text", {opacity:0}, {opacity:1, duration:0.060, ease:"power2.out"}, 24.616);
+      tl.to("#c32 .cap-text", {opacity:0, duration:0.060, ease:"power2.in"}, 25.066);
+      tl.fromTo("#c33 .cap-text", {opacity:0}, {opacity:1, duration:0.060, ease:"power2.out"}, 25.146);
+      tl.to("#c33 .cap-text", {opacity:0, duration:0.060, ease:"power2.in"}, 25.486);
+      tl.fromTo("#c34 .cap-text", {opacity:0}, {opacity:1, duration:0.060, ease:"power2.out"}, 25.766);
+      tl.to("#c34 .cap-text", {opacity:0, duration:0.060, ease:"power2.in"}, 26.326);
+      tl.fromTo("#c35 .cap-text", {opacity:0}, {opacity:1, duration:0.060, ease:"power2.out"}, 26.906);
+      tl.to("#c35 .cap-text", {opacity:0, duration:0.060, ease:"power2.in"}, 27.186);
+      tl.fromTo("#c36 .cap-text", {opacity:0}, {opacity:1, duration:0.060, ease:"power2.out"}, 27.146);
+      tl.to("#c36 .cap-text", {opacity:0, duration:0.060, ease:"power2.in"}, 27.786);
+      tl.fromTo("#c37 .cap-text", {opacity:0}, {opacity:1, duration:0.060, ease:"power2.out"}, 28.087);
+      tl.to("#c37 .cap-text", {opacity:0, duration:0.060, ease:"power2.in"}, 28.367);
+      tl.fromTo("#c38 .cap-text", {opacity:0}, {opacity:1, duration:0.060, ease:"power2.out"}, 28.712);
+      tl.to("#c38 .cap-text", {opacity:0, duration:0.060, ease:"power2.in"}, 29.142);
+      tl.fromTo("#c39 .cap-text", {opacity:0}, {opacity:1, duration:0.060, ease:"power2.out"}, 29.472);
+      tl.to("#c39 .cap-text", {opacity:0, duration:0.060, ease:"power2.in"}, 30.112);
+      tl.fromTo("#c40 .cap-text", {opacity:0}, {opacity:1, duration:0.060, ease:"power2.out"}, 30.492);
+      tl.to("#c40 .cap-text", {opacity:0, duration:0.060, ease:"power2.in"}, 30.792);
+      tl.fromTo("#c41 .cap-text", {opacity:0}, {opacity:1, duration:0.060, ease:"power2.out"}, 30.872);
+      tl.to("#c41 .cap-text", {opacity:0, duration:0.060, ease:"power2.in"}, 31.432);
+      tl.fromTo("#c42 .cap-text", {opacity:0}, {opacity:1, duration:0.060, ease:"power2.out"}, 31.672);
+      tl.to("#c42 .cap-text", {opacity:0, duration:0.060, ease:"power2.in"}, 31.952);
+      tl.fromTo("#c43 .cap-text", {opacity:0}, {opacity:1, duration:0.060, ease:"power2.out"}, 31.980);
+      tl.to("#c43 .cap-text", {opacity:0, duration:0.060, ease:"power2.in"}, 32.260);
+      tl.fromTo("#c44 .cap-text", {opacity:0}, {opacity:1, duration:0.060, ease:"power2.out"}, 32.170);
+      tl.to("#c44 .cap-text", {opacity:0, duration:0.060, ease:"power2.in"}, 32.450);
+      tl.fromTo("#c45 .cap-text", {opacity:0}, {opacity:1, duration:0.060, ease:"power2.out"}, 32.770);
+      tl.to("#c45 .cap-text", {opacity:0, duration:0.060, ease:"power2.in"}, 33.050);
+      tl.fromTo("#c46 .cap-text", {opacity:0}, {opacity:1, duration:0.060, ease:"power2.out"}, 32.950);
+      tl.to("#c46 .cap-text", {opacity:0, duration:0.060, ease:"power2.in"}, 33.230);
+      tl.fromTo("#c47 .cap-text", {opacity:0}, {opacity:1, duration:0.060, ease:"power2.out"}, 33.370);
+      tl.to("#c47 .cap-text", {opacity:0, duration:0.060, ease:"power2.in"}, 33.650);
+      tl.fromTo("#c48 .cap-text", {opacity:0}, {opacity:1, duration:0.060, ease:"power2.out"}, 33.720);
+      tl.to("#c48 .cap-text", {opacity:0, duration:0.060, ease:"power2.in"}, 34.360);
+      window.__timelines["main"] = tl;
+    </script>
+  </body>
+</html>

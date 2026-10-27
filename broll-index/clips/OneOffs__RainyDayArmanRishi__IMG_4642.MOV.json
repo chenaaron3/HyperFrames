@@ -1,0 +1,81 @@
+{
+  "path": "OneOffs/RainyDayArmanRishi/IMG_4642.MOV",
+  "folder": "OneOffs/RainyDayArmanRishi",
+  "fingerprint": "18e6d43bb5a88592",
+  "width": 1080,
+  "height": 1920,
+  "fps": 30.0,
+  "duration": 5.265,
+  "model": "gemini-3.8-flash",
+  "annotatedAt": "2026-10-24T18:36:41+00:00",
+  "summary": "Handheld pan across a cozy florist shop, moving from a wooden display shelf of potted plants and decor to a chilled glass case filled with colorful cut flowers.",
+  "location": "flower shop",
+  "setting": "indoor",
+  "time_of_day": "indoor_unknown",
+  "weather": "n/a",
+  "people": {
+    "count": 0,
+    "creator_visible": false,
+    "description": "Nobody visible on screen"
+  },
+  "camera": {
+    "style": "pov_first_person",
+    "framing": "medium",
+    "movement": "pan",
+    "angle": "eye level"
+  },
+  "quality": {
+    "usable": true,
+    "stability": "steady",
+    "exposure": "good",
+    "issues": ""
+  },
+  "mood": [
+    "aesthetic",
+    "peaceful",
+    "romantic",
+    "cozy"
+  ],
+  "energy": "low",
+  "tags": [
+    "flower shop",
+    "florist",
+    "flowers",
+    "bouquets",
+    "plants",
+    "indoor plants",
+    "refrigerator",
+    "glass display",
+    "aesthetic",
+    "cozy vibes",
+    "romantic date",
+    "retail",
+    "marshall speaker"
+  ],
+  "moments": [
+    {
+      "start": 0.0,
+      "end": 2.5,
+      "action": "Camera slowly pans right past a wooden shelf with house plants, small lamps, and a Marshall speaker toward flower arrangements",
+      "emotion": "calm and welcoming",
+      "good_for": [
+        "romanticizing little moments",
+        "aesthetic weekend stroll",
+        "support local shops"
+      ],
+      "score": 4
+    },
+    {
+      "start": 2.5,
+      "end": 5.26,
+      "action": "Camera settles on a vibrant glass-encased flower display case packed with colorful fresh blossoms and bouquets",
+      "emotion": "cheerful and peaceful",
+      "good_for": [
+        "buying yourself flowers",
+        "date day inspiration",
+        "finding beauty in the everyday"
+      ],
+      "score": 4
+    }
+  ]
+}

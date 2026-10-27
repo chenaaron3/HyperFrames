@@ -1,0 +1,108 @@
+{
+  "path": "OneOffs/BrooklynNight/IMG_4547 3.MOV",
+  "folder": "OneOffs/BrooklynNight",
+  "fingerprint": "0e72de9267c6e2c3",
+  "width": 1080,
+  "height": 1920,
+  "fps": 30.0,
+  "duration": 28.168,
+  "model": "gemini-3.8-flash",
+  "annotatedAt": "2026-10-24T18:23:30+00:00",
+  "summary": "A young man performs barbell bench press repetitions on a flat bench inside a spacious gym, racks the weight, and sits up fatigued.",
+  "location": "gym",
+  "setting": "indoor",
+  "time_of_day": "day",
+  "weather": "n/a",
+  "people": {
+    "count": 4,
+    "creator_visible": true,
+    "description": "Young East Asian man with floppy dark hair in a brown button-up shirt and dark pants bench pressing; another man in a black cap and shirt nearby, other gym-goers in the background"
+  },
+  "camera": {
+    "style": "filmed_by_friend",
+    "framing": "medium",
+    "movement": "static",
+    "angle": "eye level"
+  },
+  "quality": {
+    "usable": true,
+    "stability": "steady",
+    "exposure": "good",
+    "issues": ""
+  },
+  "mood": [
+    "determined",
+    "athletic",
+    "focused",
+    "exhausted"
+  ],
+  "energy": "medium",
+  "tags": [
+    "gym",
+    "bench press",
+    "workout",
+    "lifting",
+    "strength training",
+    "barbell",
+    "rogue",
+    "chest day",
+    "fitness",
+    "exercise",
+    "reps",
+    "gym buddy"
+  ],
+  "moments": [
+    {
+      "start": 3.0,
+      "end": 7.0,
+      "action": "Unracking the barbell and performing the first smooth bench press repetition",
+      "emotion": "focused",
+      "good_for": [
+        "pushing through",
+        "first rep feeling",
+        "consistency pays off",
+        "chest day routine"
+      ],
+      "score": 4
+    },
+    {
+      "start": 7.0,
+      "end": 14.0,
+      "action": "Completing multiple steady bench press reps with good control",
+      "emotion": "determined",
+      "good_for": [
+        "showing up every day",
+        "putting in the work",
+        "trust the process",
+        "gym progress"
+      ],
+      "score": 4
+    },
+    {
+      "start": 19.5,
+      "end": 25.5,
+      "action": "Struggling through the final rep and locking out the barbell to rack it",
+      "emotion": "intense effort",
+      "good_for": [
+        "last rep struggle",
+        "fighting for the lockout",
+        "one more rep",
+        "failure is progress"
+      ],
+      "score": 4
+    },
+    {
+      "start": 25.0,
+      "end": 28.17,
+      "action": "Racking the barbell and sitting up on the bench exhaling heavily",
+      "emotion": "exhausted relief",
+      "good_for": [
+        "post-set exhaustion",
+        "surviving chest day",
+        "done with that set",
+        "when the weight wins"
+      ],
+      "score": 3
+    }
+  ]
+}

@@ -1,0 +1,162 @@
+{
+  "id": "relatable-16",
+  "name": "“God, I’m walking into a shift where one mistake could cost ",
+  "reference": "references/viral-formats/relatable-16.mp4",
+  "source": "/Users/aaron/Downloads/100 Viral Formats (Format Book)/Relatable/#16/$16.mp4",
+  "duration": 9.633,
+  "music": {
+    "from": "reference",
+    "title": "Love Me Not - Ravyn Lenae"
+  },
+  "text": {
+    "y": 0.2,
+    "size": 46,
+    "weight": 700,
+    "lineHeight": 1.4,
+    "maxWidth": 900,
+    "style": "outline"
+  },
+  "lines": [
+    {
+      "id": "l1",
+      "start": 0.0,
+      "end": 4.567,
+      "ref": "“God, I’m walking into a shift\nwhere one mistake could cost my license.\n\nI don’t know what to do next”",
+      "y": 0.2,
+      "measuredSize": 39,
+      "style": "plain_white_shadow",
+      "guide": ""
+    }
+  ],
+  "shots": [
+    {
+      "id": "s1",
+      "start": 0.0,
+      "end": 4.567,
+      "brief": "stressed person sitting in a chair at work or desk with head in hands (ref: Healthcare worker in dark blue scrubs sits in a break room chair rubbing his temples and resting his forehead on his hand, looking overwhelmed.; tripod)",
+      "line": "l1"
+    },
+    {
+      "id": "s2",
+      "start": 4.567,
+      "end": 4.833,
+      "brief": "rapid photo montage of highlighted book or Scripture verses (ref: Rapid succession of macro close-up photos of Bible pages, each centered on a highlighted occurrence of the word 'Trust'.; POV)",
+      "line": null
+    },
+    {
+      "id": "s3",
+      "start": 4.833,
+      "end": 5.0,
+      "brief": "rapid photo montage of highlighted book or Scripture verses (ref: Rapid succession of macro close-up photos of Bible pages, each centered on a highlighted occurrence of the word 'Trust'.; POV)",
+      "line": null
+    },
+    {
+      "id": "s4",
+      "start": 5.0,
+      "end": 5.167,
+      "brief": "rapid photo montage of highlighted book or Scripture verses (ref: Rapid succession of macro close-up photos of Bible pages, each centered on a highlighted occurrence of the word 'Trust'.; POV)",
+      "line": null
+    },
+    {
+      "id": "s5",
+      "start": 5.167,
+      "end": 5.667,
+      "brief": "rapid photo montage of highlighted book or Scripture verses (ref: Rapid succession of macro close-up photos of Bible pages, each centered on a highlighted occurrence of the word 'Trust'.; POV)",
+      "line": null
+    },
+    {
+      "id": "s6",
+      "start": 5.667,
+      "end": 6.2,
+      "brief": "rapid photo montage of highlighted book or Scripture verses (ref: Rapid succession of macro close-up photos of Bible pages, each centered on a highlighted occurrence of the word 'Trust'.; POV)",
+      "line": null
+    },
+    {
+      "id": "s7",
+      "start": 6.2,
+      "end": 6.367,
+      "brief": "rapid photo montage of highlighted book or Scripture verses (ref: Rapid succession of macro close-up photos of Bible pages, each centered on a highlighted occurrence of the word 'Trust'.; POV)",
+      "line": null
+    },
+    {
+      "id": "s8",
+      "start": 6.5,
+      "end": 6.833,
+      "brief": "rapid photo montage of highlighted book or Scripture verses (ref: Rapid succession of macro close-up photos of Bible pages, each centered on a highlighted occurrence of the word 'Trust'.; POV)",
+      "line": null
+    },
+    {
+      "id": "s9",
+      "start": 6.833,
+      "end": 7.0,
+      "brief": "rapid photo montage of highlighted book or Scripture verses (ref: Rapid succession of macro close-up photos of Bible pages, each centered on a highlighted occurrence of the word 'Trust'.; POV)",
+      "line": null
+    },
+    {
+      "id": "s10",
+      "start": 7.0,
+      "end": 7.2,
+      "brief": "rapid photo montage of highlighted book or Scripture verses (ref: Rapid succession of macro close-up photos of Bible pages, each centered on a highlighted occurrence of the word 'Trust'.; POV)",
+      "line": null
+    },
+    {
+      "id": "s11",
+      "start": 7.333,
+      "end": 7.5,
+      "brief": "rapid photo montage of highlighted book or Scripture verses (ref: Rapid succession of macro close-up photos of Bible pages, each centered on a highlighted occurrence of the word 'Trust'.; POV)",
+      "line": null
+    },
+    {
+      "id": "s12",
+      "start": 7.5,
+      "end": 7.667,
+      "brief": "rapid photo montage of highlighted book or Scripture verses (ref: Rapid succession of macro close-up photos of Bible pages, each centered on a highlighted occurrence of the word 'Trust'.; POV)",
+      "line": null
+    },
+    {
+      "id": "s13",
+      "start": 7.667,
+      "end": 8.7,
+      "brief": "rapid photo montage of highlighted book or Scripture verses (ref: Rapid succession of macro close-up photos of Bible pages, each centered on a highlighted occurrence of the word 'Trust'.; POV)",
+      "line": null
+    },
+    {
+      "id": "s14",
+      "start": 8.7,
+      "end": 9.0,
+      "brief": "rapid photo montage of highlighted book or Scripture verses (ref: Rapid succession of macro close-up photos of Bible pages, each centered on a highlighted occurrence of the word 'Trust'.; POV)",
+      "line": null
+    },
+    {
+      "id": "s15",
+      "start": 9.0,
+      "end": 9.333,
+      "brief": "rapid photo montage of highlighted book or Scripture verses (ref: Rapid succession of macro close-up photos of Bible pages, each centered on a highlighted occurrence of the word 'Trust'.; POV)",
+      "line": null
+    },
+    {
+      "id": "s16",
+      "start": 9.333,
+      "end": 9.633,
+      "brief": "rapid photo montage of highlighted book or Scripture verses (ref: Rapid succession of macro close-up photos of Bible pages, each centered on a highlighted occurrence of the word 'Trust'.; POV)",
+      "line": null
+    }
+  ],
+  "audit": {
+    "kind": "broll_with_text",
+    "creatorSpeaks": false,
+    "audio": "music only",
+    "special": [
+      "A Bible with multiple verses highlighted around a single repeated word (e.g., 'Trust')",
+      "Medical scrubs or specific professional uniform / work setting"
+    ],
+    "reusable": false,
+    "notes": "While the opening shot could be substituted with a stressed clip at a laptop, the payoff relies on a custom series of photos showing highlighted passages in a physical Bible or book centered on a keyword ('Trust').",
+    "summary": "A stressed healthcare worker in scrubs sits with his head in his hands before a shift, followed by a rapid montage of Bible verses highlighting the word 'Trust'."
+  },
+  "caption": {
+    "ref": "",
+    "guide": ""
+  },
+  "draft": true
+}

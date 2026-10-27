@@ -1,0 +1,68 @@
+{
+  "path": "OneOffs/BrooklynNight/IMG_4529 3.MOV",
+  "folder": "OneOffs/BrooklynNight",
+  "fingerprint": "8a7ffefbcda9ffd3",
+  "width": 1080,
+  "height": 1920,
+  "fps": 30.0,
+  "duration": 2.5,
+  "model": "gemini-3.8-flash",
+  "annotatedAt": "2026-10-24T18:22:56+00:00",
+  "summary": "A glass display case inside a bakery filled with fresh pastries and buns, while a worker moves behind the counter.",
+  "location": "bakery",
+  "setting": "indoor",
+  "time_of_day": "day",
+  "weather": "n/a",
+  "people": {
+    "count": 1,
+    "creator_visible": false,
+    "description": "Bakery employee working behind the counter in a casual shirt and cap"
+  },
+  "camera": {
+    "style": "pov_first_person",
+    "framing": "medium",
+    "movement": "static",
+    "angle": "eye level"
+  },
+  "quality": {
+    "usable": true,
+    "stability": "steady",
+    "exposure": "good",
+    "issues": ""
+  },
+  "mood": [
+    "cozy",
+    "appetizing",
+    "calm",
+    "casual"
+  ],
+  "energy": "low",
+  "tags": [
+    "bakery",
+    "cafe",
+    "pastries",
+    "buns",
+    "bread",
+    "display case",
+    "food",
+    "asian bakery",
+    "treats",
+    "counter",
+    "morning"
+  ],
+  "moments": [
+    {
+      "start": 0.0,
+      "end": 2.5,
+      "action": "View of a bakery glass display counter showing assorted fresh buns including pineapple, scallion, coconut, and red bean buns",
+      "emotion": "calm",
+      "good_for": [
+        "morning bakery run",
+        "sweet treats",
+        "supporting local spots",
+        "little joys in life"
+      ],
+      "score": 3
+    }
+  ]
+}

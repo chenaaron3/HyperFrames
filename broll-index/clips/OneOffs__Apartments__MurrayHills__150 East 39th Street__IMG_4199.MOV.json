@@ -1,0 +1,78 @@
+{
+  "path": "OneOffs/Apartments/MurrayHills/150 East 39th Street/IMG_4199.MOV",
+  "folder": "OneOffs/Apartments/MurrayHills/150 East 39th Street",
+  "fingerprint": "4bf0e63b87b8165b",
+  "width": 1080,
+  "height": 1920,
+  "fps": 30.0,
+  "duration": 5.4,
+  "model": "gemini-3.8-flash",
+  "annotatedAt": "2026-10-24T18:21:20+00:00",
+  "summary": "A handheld pan through an apartment building basement laundry room, showing stacked dryers, commercial washing machines, and a woman standing doing laundry.",
+  "location": "laundry room",
+  "setting": "indoor",
+  "time_of_day": "indoor_unknown",
+  "weather": "n/a",
+  "people": {
+    "count": 1,
+    "creator_visible": true,
+    "description": "A woman seen from the back wearing a black hoodie, yellow shorts, and sandals, standing in front of commercial washing machines."
+  },
+  "camera": {
+    "style": "handheld_cinematic",
+    "framing": "wide",
+    "movement": "pan",
+    "angle": "eye level"
+  },
+  "quality": {
+    "usable": true,
+    "stability": "handheld",
+    "exposure": "good",
+    "issues": "Quick panning causing brief motion blur"
+  },
+  "mood": [
+    "mundane",
+    "routine",
+    "casual"
+  ],
+  "energy": "medium",
+  "tags": [
+    "laundry room",
+    "washing machine",
+    "dryer",
+    "apartment tour",
+    "nyc apartment",
+    "chores",
+    "laundry day",
+    "building amenities",
+    "basement",
+    "everyday routine"
+  ],
+  "moments": [
+    {
+      "start": 0.8,
+      "end": 2.6,
+      "action": "Camera pans across a row of commercial washing machines where a woman in yellow shorts stands waiting for her laundry",
+      "emotion": "casual",
+      "good_for": [
+        "laundry day",
+        "apartment building perks",
+        "sunday reset",
+        "nyc apartment realities"
+      ],
+      "score": 3
+    },
+    {
+      "start": 2.8,
+      "end": 4.5,
+      "action": "Camera pans past a tall bank of stacked commercial clothes dryers toward the hallway",
+      "emotion": "neutral",
+      "good_for": [
+        "apartment tour",
+        "checking out the amenities",
+        "chore day"
+      ],
+      "score": 2
+    }
+  ]
+}

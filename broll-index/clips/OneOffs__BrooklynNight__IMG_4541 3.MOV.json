@@ -1,0 +1,92 @@
+{
+  "path": "OneOffs/BrooklynNight/IMG_4541 3.MOV",
+  "folder": "OneOffs/BrooklynNight",
+  "fingerprint": "d0335718267a0932",
+  "width": 1080,
+  "height": 1920,
+  "fps": 30.0,
+  "duration": 21.067,
+  "model": "gemini-3.8-flash",
+  "annotatedAt": "2026-10-24T18:23:17+00:00",
+  "summary": "A young man climbs a bouldering wall at an indoor climbing gym, reaches the top hold, jumps down, and celebrates excitedly with the person filming.",
+  "location": "bouldering gym",
+  "setting": "indoor",
+  "time_of_day": "indoor_unknown",
+  "weather": "n/a",
+  "people": {
+    "count": 1,
+    "creator_visible": true,
+    "description": "A young East Asian man wearing a brown textured button-down shirt and black pants, climbing and then celebrating on the mat."
+  },
+  "camera": {
+    "style": "filmed_by_friend",
+    "framing": "medium",
+    "movement": "tracking",
+    "angle": "low angle looking up"
+  },
+  "quality": {
+    "usable": true,
+    "stability": "handheld",
+    "exposure": "good",
+    "issues": ""
+  },
+  "mood": [
+    "energetic",
+    "accomplished",
+    "playful",
+    "focused"
+  ],
+  "energy": "high",
+  "tags": [
+    "bouldering",
+    "rock climbing",
+    "climbing gym",
+    "fitness",
+    "athletic",
+    "achievement",
+    "celebration",
+    "sports",
+    "indoor activities",
+    "workout",
+    "let's go"
+  ],
+  "moments": [
+    {
+      "start": 0.0,
+      "end": 3.0,
+      "action": "Climber dynamically leaps up to catch holds higher on the bouldering wall",
+      "emotion": "focused and intense",
+      "good_for": [
+        "taking a leap of faith",
+        "trying hard",
+        "new hobbies"
+      ],
+      "score": 3
+    },
+    {
+      "start": 7.5,
+      "end": 13.5,
+      "action": "Climber maneuvers feet and hands carefully to reach the final top hold of the boulder problem",
+      "emotion": "determined and focused",
+      "good_for": [
+        "almost there",
+        "trust the process",
+        "working towards goals"
+      ],
+      "score": 4
+    },
+    {
+      "start": 16.5,
+      "end": 20.0,
+      "action": "Climber drops down onto the crash pad, turns to the camera smiling, pumps his fist, and yells celebratory words",
+      "emotion": "hyped and proud",
+      "good_for": [
+        "sending the project",
+        "little victories",
+        "finally achieved it",
+        "celebrating wins"
+      ],
+      "score": 5
+    }
+  ]
+}

@@ -1,0 +1,93 @@
+{
+  "format": "relatable-21",
+  "title": "“Aren’t you afraid of doing things alone??”",
+  "lines": {
+    "l1": "“Aren’t you afraid of doing\nthings alone??”",
+    "l2": "Aren't you afraid of being\ndependent on others for the rest\nof your life??"
+  },
+  "shots": {
+    "s1": {
+      "clip": "SelfShots/Working/IMG_5002.MOV",
+      "in": 3.67,
+      "speed": 1.0,
+      "note": "hand pick",
+      "query": "cafe drink sitting alone table",
+      "motion": {
+        "speed": 0.1,
+        "jitter": 0.08,
+        "verdict": "ok"
+      }
+    },
+    "s2": {
+      "clip": "SelfShots/Walking/1stPerson/IMG_5158.MOV",
+      "in": 4.98,
+      "speed": 1.0,
+      "note": "Creator walks across the crosswalk while looking forward and slightly up at city surroundings as a yellow taxi stops behind him. (thoughtful)",
+      "query": "walking street alone city",
+      "alts": [
+        "SelfShots/Walking/1stPerson/IMG_4942.MOV @4.5-7.3: Creator continues walking under the scaffolding, glancing away and dow",
+        "OneOffs/BrooklynNight/IMG_4553 3.MOV @0.0-3.5: Subject walks away down a city sidewalk past a school crosswalk sign c",
+        "OneOffs/BrooklynNight/IMG_4507 3.MOV @0.0-2.7: Creator walks down the sidewalk while looking directly into the camera",
+        "SelfShots/Walking/1stPerson/IMG_4965.MOV @0.5-4.5: Creator holds phone walking along a sidewalk past a colorful storefron",
+        "SelfShots/Walking/1stPerson/IMG_4965.MOV @6.8-11.5: Creator steps off the curb and crosses the street past parked cars."
+      ],
+      "motion": {
+        "speed": 8.8,
+        "jitter": 4.0,
+        "verdict": "ok"
+      }
+    },
+    "s3": {
+      "clip": "SelfShots/Walking/1stPerson/IMG_4931.MOV",
+      "in": 0.93,
+      "speed": 1.0,
+      "note": "hand pick",
+      "query": "rain umbrella standing street",
+      "motion": {
+        "speed": 8.2,
+        "jitter": 6.84,
+        "verdict": "ok"
+      }
+    },
+    "s4": {
+      "clip": "OneOffs/Eating/IMG_4865.MOV",
+      "in": 48.52,
+      "speed": 1.0,
+      "note": "Young man takes another deep bite of his sandwich and looks up toward the camera while chewing contentedly (content, relaxed)",
+      "query": "eating alone restaurant meal",
+      "alts": [
+        "SelfShots/ClimbingGym/OnTheWall/10:22:26_Red_x25/IMG_5244.MOV @38.5-44.0: Climber attempts the final reach, slips off the hold, and falls backwa",
+        "SelfShots/MorningRoutine/2.5_IMG_4922.MOV @47.0-56.0: Man picks up a large folded toasted wrap, inspects the filling, and pr",
+        "OneOffs/Cooking/IMG_4833.MOV @30.0-37.0: Man scoops another spoonful of seasoned meat onto a second bowl",
+        "SelfShots/Chilling/IMG_4436.MOV @7.0-15.5: Man lies peacefully on the grass with his hands behind his head restin",
+        "SelfShots/Eating/IMG_5163.MOV @13.5-17.5: Creator lifts the colorful bowl up to show it closely to the camera le"
+      ],
+      "motion": {
+        "speed": 0.2,
+        "jitter": 0.09,
+        "verdict": "ok"
+      }
+    },
+    "s5": {
+      "clip": "OneOffs/BrooklynNight/IMG_4510 3.MOV",
+      "in": 0.99,
+      "speed": 1.0,
+      "note": "Creator holds phone up in a selfie while walking along a subway platform, looking directly into the camera with a gentle smirk (calm, relaxed, understated confidence)",
+      "query": "subway coffee selfie",
+      "alts": [
+        "SelfShots/Subway/IMG_4951.MOV @0.0-3.8: Creator holds phone in selfie mode, looking calmly at the lens while t",
+        "OneOffs/RainyDayArmanRishi/IMG_4627.MOV @0.0-2.3: Creator holds phone in selfie view on the subway, looking into the len",
+        "OneOffs/BrooklynNight/IMG_4509 3.MOV @0.0-4.3: Creator films a walking selfie while walking along the subway platform",
+        "SelfShots/Subway/IMG_4954.MOV @0.0-2.5: Creator walks up the subway exit stairs filming a front-facing selfie ",
+        "OneOffs/BrooklynNight/IMG_4512 3.MOV @0.0-1.8: Creator films a handheld selfie inside a crowded subway car while main"
+      ],
+      "motion": {
+        "speed": 1.7,
+        "jitter": 1.03,
+        "verdict": "ok"
+      }
+    }
+  },
+  "caption": "Table for one, every time.",
+  "textY": 0.5
+}

@@ -1,0 +1,156 @@
+{
+  "id": "advice-18",
+  "name": "what the eldest daughter truly wants",
+  "reference": "references/viral-formats/advice-18.mp4",
+  "source": "/Users/aaron/Downloads/100 Viral Formats (Format Book)/Advice/#18/#18.mp4",
+  "duration": 27.833,
+  "music": {
+    "from": "reference",
+    "title": "Original Audio"
+  },
+  "text": {
+    "y": 0.654,
+    "size": 46,
+    "weight": 700,
+    "lineHeight": 1.4,
+    "maxWidth": 900,
+    "style": "outline"
+  },
+  "lines": [
+    {
+      "id": "l1",
+      "start": 0.0,
+      "end": 0.267,
+      "ref": "what the eldest daughter truly wants",
+      "y": 0.654,
+      "measuredSize": 36,
+      "style": "plain_white_shadow",
+      "guide": ""
+    },
+    {
+      "id": "l2",
+      "start": 0.267,
+      "end": 1.6,
+      "ref": "You wanna know what the\neldest daughter wants?",
+      "y": 0.654,
+      "measuredSize": 36,
+      "style": "plain_white_shadow",
+      "guide": ""
+    },
+    {
+      "id": "l3",
+      "start": 1.733,
+      "end": 3.0,
+      "ref": "I'm gonna tell you what the\neldest daughter wants.",
+      "y": 0.654,
+      "measuredSize": 36,
+      "style": "plain_white_shadow",
+      "guide": ""
+    },
+    {
+      "id": "l4",
+      "start": 3.5,
+      "end": 5.6,
+      "ref": "She wants things that will\nmake her life easier.",
+      "y": 0.673,
+      "measuredSize": 28,
+      "style": "plain_white_shadow",
+      "guide": ""
+    },
+    {
+      "id": "l5",
+      "start": 5.75,
+      "end": 7.6,
+      "ref": "She wants her brain to turn\noff.",
+      "y": 0.654,
+      "measuredSize": 36,
+      "style": "plain_white_shadow",
+      "guide": ""
+    },
+    {
+      "id": "l6",
+      "start": 8.0,
+      "end": 10.6,
+      "ref": "She wants, consistency,\nemotional safety,",
+      "y": 0.654,
+      "measuredSize": 36,
+      "style": "plain_white_shadow",
+      "guide": ""
+    },
+    {
+      "id": "l7",
+      "start": 11.0,
+      "end": 12.6,
+      "ref": "financial security and stability.",
+      "y": 0.704,
+      "measuredSize": 22,
+      "style": "plain_white_shadow",
+      "guide": ""
+    },
+    {
+      "id": "l8",
+      "start": 12.8,
+      "end": 16.2,
+      "ref": "She wants people to take her\nseriously and for people to\nadvocate for her.",
+      "y": 0.669,
+      "measuredSize": 28,
+      "style": "plain_white_shadow",
+      "guide": ""
+    },
+    {
+      "id": "l9",
+      "start": 16.5,
+      "end": 20.0,
+      "ref": "She spent so much of her life\nbeing \"on,\" holding it\ntogether,",
+      "y": 0.669,
+      "measuredSize": 29,
+      "style": "plain_white_shadow",
+      "guide": ""
+    },
+    {
+      "id": "l10",
+      "start": 20.25,
+      "end": 24.8,
+      "ref": "taking care of everyone. She\njust wants a second to\nbreathe and to feel like, okay,",
+      "y": 0.654,
+      "measuredSize": 36,
+      "style": "plain_white_shadow",
+      "guide": ""
+    },
+    {
+      "id": "l11",
+      "start": 25.0,
+      "end": 27.833,
+      "ref": "I can take a backseat. That's\nwhat she wants.",
+      "y": 0.673,
+      "measuredSize": 28,
+      "style": "plain_white_shadow",
+      "guide": ""
+    }
+  ],
+  "shots": [
+    {
+      "id": "s1",
+      "start": 0.0,
+      "end": 27.833,
+      "brief": "talking head monologue to camera (ref: Creator sitting at a desk indoors talking earnestly directly to the camera; tripod)",
+      "line": "l8"
+    }
+  ],
+  "audit": {
+    "kind": "talking_head",
+    "creatorSpeaks": true,
+    "audio": "speech",
+    "special": [
+      "Talking head delivering direct-to-camera psychological/relatable monologue"
+    ],
+    "reusable": false,
+    "notes": "This video relies entirely on an original talking head delivery with spoken audio. It cannot be replicated using silent b-roll and text overlays alone without completely altering the format.",
+    "summary": "A creator speaks directly to the camera explaining what eldest daughters truly want and need, validating their feelings of emotional exhaustion and responsibility."
+  },
+  "caption": {
+    "ref": "",
+    "guide": ""
+  },
+  "draft": true
+}

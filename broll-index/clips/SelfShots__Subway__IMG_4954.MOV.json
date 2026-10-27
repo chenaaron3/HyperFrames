@@ -1,0 +1,69 @@
+{
+  "path": "SelfShots/Subway/IMG_4954.MOV",
+  "folder": "SelfShots/Subway",
+  "fingerprint": "6b45a58bf3ad44eb",
+  "width": 1080,
+  "height": 1920,
+  "fps": 30.0,
+  "duration": 2.533,
+  "model": "gemini-3.8-flash",
+  "annotatedAt": "2026-10-24T19:01:01+00:00",
+  "summary": "A young man holds the camera in selfie mode while walking up tiled stairs in a subway station with other commuters behind him.",
+  "location": "subway station staircase",
+  "setting": "indoor",
+  "time_of_day": "indoor_unknown",
+  "weather": "n/a",
+  "people": {
+    "count": 4,
+    "creator_visible": true,
+    "description": "Young East Asian man with wavy black hair, wearing an unbuttoned brown shirt, thin chain necklace, and backpack, filming himself on the move; other passengers walk behind him."
+  },
+  "camera": {
+    "style": "selfie",
+    "framing": "close",
+    "movement": "walking",
+    "angle": "eye level"
+  },
+  "quality": {
+    "usable": true,
+    "stability": "handheld",
+    "exposure": "good",
+    "issues": "slight walking bounce and motion blur"
+  },
+  "mood": [
+    "casual",
+    "urban",
+    "everyday",
+    "focused"
+  ],
+  "energy": "medium",
+  "tags": [
+    "subway",
+    "metro",
+    "stairs",
+    "commute",
+    "transit",
+    "selfie",
+    "city life",
+    "walking",
+    "backpack",
+    "daily routine",
+    "underground"
+  ],
+  "moments": [
+    {
+      "start": 0.0,
+      "end": 2.53,
+      "action": "Creator walks up the subway exit stairs filming a front-facing selfie while looking into the lens",
+      "emotion": "neutral, focused, casual",
+      "good_for": [
+        "daily commute",
+        "on my way to see you",
+        "city living",
+        "heading into the day",
+        "subway rush"
+      ],
+      "score": 3
+    }
+  ]
+}

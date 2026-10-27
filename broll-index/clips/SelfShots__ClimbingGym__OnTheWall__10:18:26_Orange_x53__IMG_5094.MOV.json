@@ -1,0 +1,108 @@
+{
+  "path": "SelfShots/ClimbingGym/OnTheWall/10:18:26_Orange_x53/IMG_5094.MOV",
+  "folder": "SelfShots/ClimbingGym/OnTheWall/10:18:26_Orange_x53",
+  "fingerprint": "7ccd8bbf214907bc",
+  "width": 1080,
+  "height": 1920,
+  "fps": 30.0,
+  "duration": 53.505,
+  "model": "gemini-3.8-flash",
+  "annotatedAt": "2026-10-24T18:40:24+00:00",
+  "summary": "A young man in casual attire attempts an indoor bouldering route on a climbing wall, scaling up carefully before dropping down onto the safety mat.",
+  "location": "indoor climbing gym",
+  "setting": "indoor",
+  "time_of_day": "indoor_unknown",
+  "weather": "n/a",
+  "people": {
+    "count": 1,
+    "creator_visible": true,
+    "description": "Young East Asian male with dark hair wearing a light blue short-sleeved button-up shirt, baggy jeans, and climbing shoes"
+  },
+  "camera": {
+    "style": "tripod_static",
+    "framing": "wide",
+    "movement": "static",
+    "angle": "low angle looking up"
+  },
+  "quality": {
+    "usable": true,
+    "stability": "locked",
+    "exposure": "good",
+    "issues": ""
+  },
+  "mood": [
+    "focused",
+    "active",
+    "casual",
+    "determined"
+  ],
+  "energy": "medium",
+  "tags": [
+    "bouldering",
+    "rock climbing",
+    "climbing gym",
+    "indoor climbing",
+    "workout",
+    "fitness",
+    "problem solving",
+    "holds",
+    "chalk",
+    "athletic",
+    "casual climber",
+    "hobby"
+  ],
+  "moments": [
+    {
+      "start": 2.5,
+      "end": 7.5,
+      "action": "Man approaches the climbing wall, grabs the lower holds, and establishes his feet on the start",
+      "emotion": "focused",
+      "good_for": [
+        "showing up",
+        "first step",
+        "starting something new",
+        "trying a new hobby"
+      ],
+      "score": 4
+    },
+    {
+      "start": 13.0,
+      "end": 20.0,
+      "action": "Man extends his body horizontally across the wall to reach distant yellow and purple holds",
+      "emotion": "concentrated effort",
+      "good_for": [
+        "pushing boundaries",
+        "reaching for goals",
+        "stretching out of comfort zone",
+        "trusting your grip"
+      ],
+      "score": 4
+    },
+    {
+      "start": 32.0,
+      "end": 40.0,
+      "action": "Man navigates holds higher up the wall, shifting his footing and reaching higher",
+      "emotion": "determined",
+      "good_for": [
+        "climbing higher",
+        "working through the hard part",
+        "making progress",
+        "staying focused"
+      ],
+      "score": 4
+    },
+    {
+      "start": 44.0,
+      "end": 50.5,
+      "action": "Man struggles to hold a top grip, drops down onto the crash pad, and walks toward the camera",
+      "emotion": "relief and acceptance",
+      "good_for": [
+        "falling and getting back up",
+        "humbling experiences",
+        "laugh at your mistakes",
+        "resetting for another try"
+      ],
+      "score": 4
+    }
+  ]
+}

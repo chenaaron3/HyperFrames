@@ -1,0 +1,92 @@
+{
+  "path": "OneOffs/Apartments/MurrayHills/150 East 39th Street/IMG_4211.MOV",
+  "folder": "OneOffs/Apartments/MurrayHills/150 East 39th Street",
+  "fingerprint": "1059a62171539a8e",
+  "width": 1080,
+  "height": 1920,
+  "fps": 30.0,
+  "duration": 10.575,
+  "model": "gemini-3.8-flash",
+  "annotatedAt": "2026-10-24T18:21:50+00:00",
+  "summary": "Handheld walkthrough tour of an empty New York City studio apartment, showcasing the kitchenette, parquet wood floors, bathroom, and bright windows.",
+  "location": "apartment",
+  "setting": "indoor",
+  "time_of_day": "day",
+  "weather": "overcast",
+  "people": {
+    "count": 1,
+    "creator_visible": false,
+    "description": "Person in dark pants walking past the window at the very end of the clip"
+  },
+  "camera": {
+    "style": "pov_first_person",
+    "framing": "wide",
+    "movement": "pan",
+    "angle": "eye level"
+  },
+  "quality": {
+    "usable": true,
+    "stability": "handheld",
+    "exposure": "mixed",
+    "issues": "Quick pans, occasional motion blur and low light in bathroom doorway"
+  },
+  "mood": [
+    "anticipatory",
+    "curious",
+    "neutral",
+    "busy"
+  ],
+  "energy": "medium",
+  "tags": [
+    "apartment hunting",
+    "nyc apartment",
+    "studio apartment",
+    "apartment tour",
+    "real estate",
+    "parquet floor",
+    "kitchenette",
+    "moving day",
+    "empty apartment",
+    "new beginnings",
+    "murray hill"
+  ],
+  "moments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "action": "Camera pans quickly across compact apartment kitchen with wood cabinets and stainless steel appliances",
+      "emotion": "busy",
+      "good_for": [
+        "apartment hunting in nyc",
+        "small kitchen realities",
+        "city living"
+      ],
+      "score": 2
+    },
+    {
+      "start": 2.0,
+      "end": 4.5,
+      "action": "Camera reveals the empty studio main room with parquet floors and large street-facing windows",
+      "emotion": "curious",
+      "good_for": [
+        "new beginnings",
+        "empty apartment vibes",
+        "finding a place",
+        "first apartment"
+      ],
+      "score": 3
+    },
+    {
+      "start": 8.8,
+      "end": 10.57,
+      "action": "Camera swings back toward the sunlit studio room with checkerboard parquet floor and windows",
+      "emotion": "anticipatory",
+      "good_for": [
+        "apartment hunt check",
+        "moving into my first place",
+        "nyc living"
+      ],
+      "score": 3
+    }
+  ]
+}

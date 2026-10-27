@@ -1,0 +1,71 @@
+{
+  "path": "OneOffs/BrooklynNight/IMG_4589 3.MOV",
+  "folder": "OneOffs/BrooklynNight",
+  "fingerprint": "bce949a1fdc8b470",
+  "width": 2160,
+  "height": 3840,
+  "fps": 59.94,
+  "duration": 4.402,
+  "model": "gemini-3.8-flash",
+  "annotatedAt": "2026-10-24T18:24:24+00:00",
+  "summary": "A vintage carousel glowing with bright warm lights spins slowly at night in Brooklyn.",
+  "location": "park",
+  "setting": "outdoor",
+  "time_of_day": "night",
+  "weather": "n/a",
+  "people": {
+    "count": 0,
+    "creator_visible": false,
+    "description": "Indistinct dark silhouettes seated on the moving carousel horses in the distance"
+  },
+  "camera": {
+    "style": "handheld_cinematic",
+    "framing": "wide",
+    "movement": "static",
+    "angle": "eye level"
+  },
+  "quality": {
+    "usable": true,
+    "stability": "steady",
+    "exposure": "mixed",
+    "issues": "Slight low-light noise/grain in dark sky"
+  },
+  "mood": [
+    "nostalgic",
+    "dreamy",
+    "whimsical",
+    "romantic",
+    "calm"
+  ],
+  "energy": "low",
+  "tags": [
+    "carousel",
+    "merry go round",
+    "jane's carousel",
+    "brooklyn",
+    "dumbo",
+    "night lights",
+    "vintage",
+    "nostalgia",
+    "carnival",
+    "night walk",
+    "date night",
+    "city nights"
+  ],
+  "moments": [
+    {
+      "start": 0.0,
+      "end": 4.4,
+      "action": "A brilliantly illuminated carousel spins steadily in the dark night",
+      "emotion": "nostalgic wonder",
+      "good_for": [
+        "romanticizing life",
+        "late night walks",
+        "feeling like a kid again",
+        "brooklyn nights",
+        "nostalgia"
+      ],
+      "score": 4
+    }
+  ]
+}

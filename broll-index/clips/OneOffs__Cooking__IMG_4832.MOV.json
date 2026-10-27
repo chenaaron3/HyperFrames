@@ -1,0 +1,80 @@
+{
+  "path": "OneOffs/Cooking/IMG_4832.MOV",
+  "folder": "OneOffs/Cooking",
+  "fingerprint": "bb6ed33077283944",
+  "width": 1080,
+  "height": 1920,
+  "fps": 30.0,
+  "duration": 21.235,
+  "model": "gemini-3.8-flash",
+  "annotatedAt": "2026-10-24T18:34:16+00:00",
+  "summary": "Friends assemble and plate homemade rice bowls topped with fried eggs and stir-fried minced meat on a kitchen counter.",
+  "location": "kitchen",
+  "setting": "indoor",
+  "time_of_day": "night",
+  "weather": "n/a",
+  "people": {
+    "count": 2,
+    "creator_visible": false,
+    "description": "A man in a navy polo shirt and watch serving food; the creator's arm with a silver bracelet is visible reaching in."
+  },
+  "camera": {
+    "style": "pov_first_person",
+    "framing": "medium",
+    "movement": "handheld",
+    "angle": "high angle"
+  },
+  "quality": {
+    "usable": true,
+    "stability": "handheld",
+    "exposure": "good",
+    "issues": "Quick whip pan and motion blur in the first two seconds."
+  },
+  "mood": [
+    "cozy",
+    "casual",
+    "domestic",
+    "friendly"
+  ],
+  "energy": "low",
+  "tags": [
+    "cooking",
+    "plating",
+    "kitchen",
+    "home cooked meal",
+    "dinner prep",
+    "rice bowl",
+    "stir fry",
+    "friends cooking",
+    "apartment life",
+    "meal prep"
+  ],
+  "moments": [
+    {
+      "start": 5.5,
+      "end": 11.5,
+      "action": "A friend uses a large spoon to scoop seasoned minced meat onto a bowl of white rice and fried egg",
+      "emotion": "focused",
+      "good_for": [
+        "food on my plate",
+        "home cooked dinner",
+        "cooking with friends",
+        "simple pleasures"
+      ],
+      "score": 4
+    },
+    {
+      "start": 11.5,
+      "end": 16.5,
+      "action": "The creator rotates the bowl and they garnish or arrange the meal on the counter",
+      "emotion": "casual satisfaction",
+      "good_for": [
+        "dinner is served",
+        "apartment nights",
+        "effortless meals",
+        "gratitude"
+      ],
+      "score": 3
+    }
+  ]
+}

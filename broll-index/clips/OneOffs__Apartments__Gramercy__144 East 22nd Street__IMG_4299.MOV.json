@@ -1,0 +1,90 @@
+{
+  "path": "OneOffs/Apartments/Gramercy/144 East 22nd Street/IMG_4299.MOV",
+  "folder": "OneOffs/Apartments/Gramercy/144 East 22nd Street",
+  "fingerprint": "5947a433c0faf759",
+  "width": 1080,
+  "height": 1920,
+  "fps": 30.0,
+  "duration": 11.968,
+  "model": "gemini-3.8-flash",
+  "annotatedAt": "2026-10-24T18:20:53+00:00",
+  "summary": "POV tour panning across an empty apartment room with hardwood floors, windows, and cardboard taped to the floor, as someone takes measurements.",
+  "location": "apartment",
+  "setting": "indoor",
+  "time_of_day": "day",
+  "weather": "n/a",
+  "people": {
+    "count": 1,
+    "creator_visible": false,
+    "description": "A person partially seen from the side wearing khaki pants, a dark long sleeve, and white sneakers, holding a phone."
+  },
+  "camera": {
+    "style": "pov_first_person",
+    "framing": "wide",
+    "movement": "pan",
+    "angle": "eye level"
+  },
+  "quality": {
+    "usable": true,
+    "stability": "handheld",
+    "exposure": "good",
+    "issues": ""
+  },
+  "mood": [
+    "anticipation",
+    "casual",
+    "mundane"
+  ],
+  "energy": "low",
+  "tags": [
+    "apartment hunt",
+    "empty room",
+    "hardwood floors",
+    "moving in",
+    "apartment tour",
+    "real estate",
+    "nyc apartment",
+    "measuring room",
+    "new home",
+    "interior"
+  ],
+  "moments": [
+    {
+      "start": 0.0,
+      "end": 4.0,
+      "action": "Camera pans from an empty corner of the room across the hardwood floor toward a window and air conditioner unit",
+      "emotion": "anticipatory",
+      "good_for": [
+        "finding a new apartment",
+        "blank canvas",
+        "moving to new city",
+        "apartment hunting in nyc"
+      ],
+      "score": 3
+    },
+    {
+      "start": 4.0,
+      "end": 9.0,
+      "action": "Camera views window and radiator unit, panning right to reveal the kitchen opening and a backpack on the floor",
+      "emotion": "neutral",
+      "good_for": [
+        "moving day",
+        "first apartment tour",
+        "inspecting the space"
+      ],
+      "score": 2
+    },
+    {
+      "start": 9.0,
+      "end": 11.97,
+      "action": "Wide view of the room showing protective cardboard on the floor and someone holding up their phone to measure the wall",
+      "emotion": "focused",
+      "good_for": [
+        "measuring for furniture",
+        "preparing to move",
+        "blank slate"
+      ],
+      "score": 3
+    }
+  ]
+}

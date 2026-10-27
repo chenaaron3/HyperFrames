@@ -1,0 +1,81 @@
+{
+  "path": "OneOffs/Cooking/IMG_4808.MOV",
+  "folder": "OneOffs/Cooking",
+  "fingerprint": "75a4f10fb8624f09",
+  "width": 1080,
+  "height": 1920,
+  "fps": 30.0,
+  "duration": 17.368,
+  "model": "gemini-3.8-flash",
+  "annotatedAt": "2026-10-24T18:24:47+00:00",
+  "summary": "A person pours canned chicken broth into a saucepan simmering on a gas stove and stirs it with a spatula.",
+  "location": "kitchen",
+  "setting": "indoor",
+  "time_of_day": "indoor_unknown",
+  "weather": "n/a",
+  "people": {
+    "count": 1,
+    "creator_visible": false,
+    "description": "Only the person's hand is visible while pouring broth and stirring"
+  },
+  "camera": {
+    "style": "pov_first_person",
+    "framing": "close",
+    "movement": "handheld_cinematic",
+    "angle": "high angle"
+  },
+  "quality": {
+    "usable": true,
+    "stability": "steady",
+    "exposure": "good",
+    "issues": ""
+  },
+  "mood": [
+    "cozy",
+    "domestic",
+    "casual",
+    "culinary"
+  ],
+  "energy": "low",
+  "tags": [
+    "cooking",
+    "stove",
+    "saucepan",
+    "chicken broth",
+    "soup",
+    "sauce",
+    "kitchen",
+    "recipe",
+    "home cooking",
+    "flame",
+    "stirring"
+  ],
+  "moments": [
+    {
+      "start": 3.5,
+      "end": 8.0,
+      "action": "Pouring canned chicken broth into a simmering saucepan over gas flame",
+      "emotion": "focused",
+      "good_for": [
+        "cooking from scratch",
+        "home cooked meal",
+        "the secret ingredient",
+        "making dinner"
+      ],
+      "score": 4
+    },
+    {
+      "start": 11.5,
+      "end": 17.0,
+      "action": "Stirring the creamy sauce and broth together with a spatula",
+      "emotion": "calm",
+      "good_for": [
+        "cooking dinner",
+        "comfort food",
+        "slow evenings at home",
+        "food on my plate"
+      ],
+      "score": 4
+    }
+  ]
+}

@@ -1,0 +1,95 @@
+{
+  "path": "OneOffs/RainyDayArmanRishi/IMG_4635.MOV",
+  "folder": "OneOffs/RainyDayArmanRishi",
+  "fingerprint": "db621de7c361fbdb",
+  "width": 1080,
+  "height": 1920,
+  "fps": 30.0,
+  "duration": 19.11,
+  "model": "gemini-3.8-flash",
+  "annotatedAt": "2026-10-24T18:36:29+00:00",
+  "summary": "Friends arrive outside a plant-filled cafe and flower shop called Rosecrans on a rainy day, walking inside to warm ambient lighting.",
+  "location": "cafe",
+  "setting": "mixed",
+  "time_of_day": "day",
+  "weather": "rain",
+  "people": {
+    "count": 4,
+    "creator_visible": true,
+    "description": "Two young men in dark casual jackets and grey jeans entering the cafe; one smiles warmly back at the camera as he holds the door."
+  },
+  "camera": {
+    "style": "filmed_by_friend",
+    "framing": "medium",
+    "movement": "walking",
+    "angle": "eye level"
+  },
+  "quality": {
+    "usable": true,
+    "stability": "handheld",
+    "exposure": "good",
+    "issues": ""
+  },
+  "mood": [
+    "cozy",
+    "friendly",
+    "happy",
+    "relaxed"
+  ],
+  "energy": "medium",
+  "tags": [
+    "cafe",
+    "coffee shop",
+    "rainy day",
+    "friends",
+    "plants",
+    "florist",
+    "nyc",
+    "walking in",
+    "weekend vibes",
+    "cozy aesthetic",
+    "chalkboard sign",
+    "urban life"
+  ],
+  "moments": [
+    {
+      "start": 0.0,
+      "end": 3.8,
+      "action": "A chalkboard sign for Rosecrans cafe outside surrounded by potted plants, while friends smile by the entrance",
+      "emotion": "anticipation",
+      "good_for": [
+        "rainy day plans",
+        "favorite local spot",
+        "coffee and wine",
+        "weekend coffee run"
+      ],
+      "score": 3
+    },
+    {
+      "start": 6.8,
+      "end": 11.5,
+      "action": "Man opens the glass door into the cozy cafe, looks back at the camera and gives a genuine, warm smile",
+      "emotion": "happy",
+      "good_for": [
+        "come inside",
+        "coffee date with friends",
+        "people who make you smile",
+        "simple joys"
+      ],
+      "score": 4
+    },
+    {
+      "start": 13.5,
+      "end": 19.1,
+      "action": "Camera pans across the cozy interior filled with hanging plants, shelves of greenery, warm lights, and floral displays",
+      "emotion": "cozy",
+      "good_for": [
+        "aesthetic cafes",
+        "safe spaces",
+        "escaping the rain",
+        "cozy coffee shops"
+      ],
+      "score": 3
+    }
+  ]
+}

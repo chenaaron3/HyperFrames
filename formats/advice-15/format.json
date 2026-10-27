@@ -1,0 +1,184 @@
+{
+  "id": "advice-15",
+  "name": "Hey,",
+  "reference": "references/viral-formats/advice-15.mp4",
+  "source": "/Users/aaron/Downloads/100 Viral Formats (Format Book)/Advice/#15/#15.mp4",
+  "duration": 17.917,
+  "music": {
+    "from": "reference",
+    "title": "Slow music.. Pick one that you like as long as it doesn't over power your voice"
+  },
+  "text": {
+    "y": 0.602,
+    "size": 46,
+    "weight": 700,
+    "lineHeight": 1.4,
+    "maxWidth": 900,
+    "style": "outline"
+  },
+  "lines": [
+    {
+      "id": "l1",
+      "start": 0.5,
+      "end": 1.0,
+      "ref": "Hey,",
+      "y": 0.602,
+      "measuredSize": 41,
+      "style": "plain_white_shadow",
+      "guide": ""
+    },
+    {
+      "id": "l2",
+      "start": 1.5,
+      "end": 2.8,
+      "ref": "\"What you do",
+      "y": 0.598,
+      "measuredSize": 60,
+      "style": "plain_white_shadow",
+      "guide": ""
+    },
+    {
+      "id": "l3",
+      "start": 3.0,
+      "end": 4.8,
+      "ref": "speaks so loudly",
+      "y": 0.602,
+      "measuredSize": 43,
+      "style": "plain_white_shadow",
+      "guide": ""
+    },
+    {
+      "id": "l4",
+      "start": 5.5,
+      "end": 6.0,
+      "ref": "that I cannot",
+      "y": 0.599,
+      "measuredSize": 52,
+      "style": "plain_white_shadow",
+      "guide": ""
+    },
+    {
+      "id": "l5",
+      "start": 6.0,
+      "end": 6.5,
+      "ref": "hear what",
+      "y": 0.602,
+      "measuredSize": 41,
+      "style": "plain_white_shadow",
+      "guide": ""
+    },
+    {
+      "id": "l6",
+      "start": 6.5,
+      "end": 7.0,
+      "ref": "you say\"",
+      "y": 0.602,
+      "measuredSize": 41,
+      "style": "plain_white_shadow",
+      "guide": ""
+    },
+    {
+      "id": "l7",
+      "start": 9.5,
+      "end": 10.0,
+      "ref": "It's just another",
+      "y": 0.6,
+      "measuredSize": 54,
+      "style": "plain_white_shadow",
+      "guide": ""
+    },
+    {
+      "id": "l8",
+      "start": 10.3,
+      "end": 11.0,
+      "ref": "way of saying our",
+      "y": 0.602,
+      "measuredSize": 43,
+      "style": "plain_white_shadow",
+      "guide": ""
+    },
+    {
+      "id": "l9",
+      "start": 11.2,
+      "end": 12.0,
+      "ref": "actions are",
+      "y": 0.602,
+      "measuredSize": 41,
+      "style": "plain_white_shadow",
+      "guide": ""
+    },
+    {
+      "id": "l10",
+      "start": 12.2,
+      "end": 13.0,
+      "ref": "louder than",
+      "y": 0.601,
+      "measuredSize": 43,
+      "style": "plain_white_shadow",
+      "guide": ""
+    },
+    {
+      "id": "l11",
+      "start": 13.0,
+      "end": 13.733,
+      "ref": "our words.",
+      "y": 0.602,
+      "measuredSize": 41,
+      "style": "plain_white_shadow",
+      "guide": ""
+    },
+    {
+      "id": "l12",
+      "start": 14.5,
+      "end": 15.8,
+      "ref": "And that's always true",
+      "y": 0.599,
+      "measuredSize": 58,
+      "style": "plain_white_shadow",
+      "guide": ""
+    },
+    {
+      "id": "l13",
+      "start": 16.5,
+      "end": 17.0,
+      "ref": "I hope you",
+      "y": 0.602,
+      "measuredSize": 43,
+      "style": "plain_white_shadow",
+      "guide": ""
+    },
+    {
+      "id": "l14",
+      "start": 17.2,
+      "end": 17.917,
+      "ref": "have a great day.",
+      "y": 0.602,
+      "measuredSize": 43,
+      "style": "plain_white_shadow",
+      "guide": ""
+    }
+  ],
+  "shots": [
+    {
+      "id": "s1",
+      "start": 0.0,
+      "end": 17.917,
+      "brief": "talking directly to camera seated indoors (ref: Young man wearing glasses and a grey hoodie sitting in front of a bookshelf, speaking softly and thoughtfully directly into camera.; tripod)",
+      "line": null
+    }
+  ],
+  "audit": {
+    "kind": "talking_head",
+    "creatorSpeaks": true,
+    "audio": "music + speech",
+    "special": [],
+    "reusable": false,
+    "notes": "This video relies entirely on direct, intimate eye contact and synchronous spoken delivery straight to camera. It cannot be recreated using silent B-roll footage.",
+    "summary": "A creator speaks calmly directly to the camera, reciting a Ralph Waldo Emerson quote about actions speaking louder than words and wishing viewers a great day."
+  },
+  "caption": {
+    "ref": "",
+    "guide": ""
+  },
+  "draft": true
+}

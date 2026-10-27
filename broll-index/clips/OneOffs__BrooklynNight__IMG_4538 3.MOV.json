@@ -1,0 +1,91 @@
+{
+  "path": "OneOffs/BrooklynNight/IMG_4538 3.MOV",
+  "folder": "OneOffs/BrooklynNight",
+  "fingerprint": "a5e4c32e2a287d61",
+  "width": 1920,
+  "height": 1080,
+  "fps": 30.0,
+  "duration": 30.702,
+  "model": "gemini-3.8-flash",
+  "annotatedAt": "2026-10-24T18:23:18+00:00",
+  "summary": "A young man climbs a traverse bouldering route at an indoor rock climbing gym, completes the problem, and drops down to the mat smiling.",
+  "location": "climbing gym",
+  "setting": "indoor",
+  "time_of_day": "indoor_unknown",
+  "weather": "n/a",
+  "people": {
+    "count": 1,
+    "creator_visible": true,
+    "description": "Young Asian man with dark wavy hair in a brown short-sleeved shirt and black trousers, wearing climbing shoes"
+  },
+  "camera": {
+    "style": "filmed_by_friend",
+    "framing": "wide",
+    "movement": "handheld",
+    "angle": "eye level"
+  },
+  "quality": {
+    "usable": true,
+    "stability": "handheld",
+    "exposure": "good",
+    "issues": "Video is oriented 90 degrees sideways"
+  },
+  "mood": [
+    "focused",
+    "athletic",
+    "accomplished",
+    "playful"
+  ],
+  "energy": "medium",
+  "tags": [
+    "bouldering",
+    "rock climbing",
+    "climbing gym",
+    "indoor climbing",
+    "boulder problem",
+    "fitness",
+    "workout",
+    "active lifestyle",
+    "chalk",
+    "send"
+  ],
+  "moments": [
+    {
+      "start": 11.5,
+      "end": 20.5,
+      "action": "Climber stretches across holds, maneuvering his feet on the angled wall",
+      "emotion": "focused, concentrated",
+      "good_for": [
+        "trust the process",
+        "working hard",
+        "finding your balance",
+        "new hobbies"
+      ],
+      "score": 3
+    },
+    {
+      "start": 21.0,
+      "end": 27.5,
+      "action": "Climber reaches for the final hold and matches hands to complete the route",
+      "emotion": "determined, triumphant",
+      "good_for": [
+        "reaching the goal",
+        "finishing what you started",
+        "small wins"
+      ],
+      "score": 4
+    },
+    {
+      "start": 27.5,
+      "end": 30.7,
+      "action": "Climber drops down onto the crash pad and turns around with a wide smile",
+      "emotion": "happy, relieved, proud",
+      "good_for": [
+        "that feeling when you finally get it",
+        "pure relief",
+        "proud of myself"
+      ],
+      "score": 4
+    }
+  ]
+}

@@ -1,0 +1,70 @@
+{
+  "path": "SelfShots/Walking/1stPerson/IMG_4934.MOV",
+  "folder": "SelfShots/Walking/1stPerson",
+  "fingerprint": "9dc1ea95eb691285",
+  "width": 1080,
+  "height": 1920,
+  "fps": 30.0,
+  "duration": 4.267,
+  "model": "gemini-3.8-flash",
+  "annotatedAt": "2026-10-24T19:01:33+00:00",
+  "summary": "First-person point-of-view shot looking down at black pants and boots walking along a concrete sidewalk.",
+  "location": "city street",
+  "setting": "outdoor",
+  "time_of_day": "day",
+  "weather": "overcast",
+  "people": {
+    "count": 1,
+    "creator_visible": true,
+    "description": "Creator's legs and boots visible in first-person POV, wearing dark trousers and brown boots"
+  },
+  "camera": {
+    "style": "pov_first_person",
+    "framing": "medium",
+    "movement": "walking",
+    "angle": "top-down"
+  },
+  "quality": {
+    "usable": true,
+    "stability": "handheld",
+    "exposure": "good",
+    "issues": ""
+  },
+  "mood": [
+    "contemplative",
+    "casual",
+    "mundane",
+    "grounded"
+  ],
+  "energy": "low",
+  "tags": [
+    "walking",
+    "pov",
+    "shoes",
+    "boots",
+    "sidewalk",
+    "pavement",
+    "concrete",
+    "steps",
+    "city walk",
+    "footsteps",
+    "commute",
+    "street"
+  ],
+  "moments": [
+    {
+      "start": 0.0,
+      "end": 4.27,
+      "action": "POV walking forward on concrete sidewalk with boots stepping into frame",
+      "emotion": "reflective",
+      "good_for": [
+        "one step at a time",
+        "hot girl walk",
+        "daily commute",
+        "moving forward",
+        "clearing my head"
+      ],
+      "score": 3
+    }
+  ]
+}

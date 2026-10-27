@@ -1,0 +1,84 @@
+{
+  "path": "OneOffs/Eating/IMG_4895.MOV",
+  "folder": "OneOffs/Eating",
+  "fingerprint": "9a25ed0f72f3de51",
+  "width": 1080,
+  "height": 1920,
+  "fps": 30.0,
+  "duration": 3.698,
+  "model": "gemini-3.8-flash",
+  "annotatedAt": "2026-10-24T18:35:26+00:00",
+  "summary": "Friends clinking colorful cocktails together in a toast over a wooden table at a restaurant or bar.",
+  "location": "restaurant",
+  "setting": "indoor",
+  "time_of_day": "night",
+  "weather": "n/a",
+  "people": {
+    "count": 3,
+    "creator_visible": false,
+    "description": "Friends sitting across and around a wooden table, one person partially visible wearing a black shirt, others holding drinks"
+  },
+  "camera": {
+    "style": "pov_first_person",
+    "framing": "medium",
+    "movement": "handheld_cinematic",
+    "angle": "high angle"
+  },
+  "quality": {
+    "usable": true,
+    "stability": "handheld",
+    "exposure": "good",
+    "issues": ""
+  },
+  "mood": [
+    "festive",
+    "cheerful",
+    "social",
+    "relaxed"
+  ],
+  "energy": "medium",
+  "tags": [
+    "toast",
+    "cheers",
+    "cocktails",
+    "drinks",
+    "bar",
+    "night out",
+    "soju",
+    "friends",
+    "happy hour",
+    "alcohol",
+    "hangout",
+    "nightlife",
+    "socializing"
+  ],
+  "moments": [
+    {
+      "start": 0.0,
+      "end": 2.2,
+      "action": "First-person perspective clinking vibrant green, pink, and red cocktails together in a toast over a wooden table with soju glasses",
+      "emotion": "celebratory",
+      "good_for": [
+        "drinks with friends",
+        "friday night plans",
+        "celebrating the little things",
+        "weekend recap",
+        "cheers to making it through the week"
+      ],
+      "score": 4
+    },
+    {
+      "start": 2.2,
+      "end": 3.7,
+      "action": "Hands pull back after toasting colorful drinks over shot glasses and a soju bottle on the table",
+      "emotion": "relaxed",
+      "good_for": [
+        "girls night out",
+        "unwinding",
+        "weekend vibe",
+        "cheers"
+      ],
+      "score": 3
+    }
+  ]
+}

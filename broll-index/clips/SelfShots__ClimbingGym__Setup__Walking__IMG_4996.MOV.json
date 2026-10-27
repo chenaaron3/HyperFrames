@@ -1,0 +1,96 @@
+{
+  "path": "SelfShots/ClimbingGym/Setup/Walking/IMG_4996.MOV",
+  "folder": "SelfShots/ClimbingGym/Setup/Walking",
+  "fingerprint": "6e7fc5298e231b81",
+  "width": 1080,
+  "height": 1920,
+  "fps": 29.97,
+  "duration": 32.483,
+  "model": "gemini-3.8-flash",
+  "annotatedAt": "2026-10-24T18:55:02+00:00",
+  "summary": "A static low-angle view of a modern indoor concrete staircase flanked by lush green plants, where people walk up and down under a wooden slatted ceiling.",
+  "location": "modern atrium",
+  "setting": "indoor",
+  "time_of_day": "day",
+  "weather": "n/a",
+  "people": {
+    "count": 2,
+    "creator_visible": true,
+    "description": "A young Asian man in a brown polo shirt and black trousers walking with a backpack, and an older man in a red cardigan and light jeans carrying a beverage."
+  },
+  "camera": {
+    "style": "tripod_static",
+    "framing": "wide",
+    "movement": "static",
+    "angle": "low angle looking up"
+  },
+  "quality": {
+    "usable": true,
+    "stability": "locked",
+    "exposure": "good",
+    "issues": ""
+  },
+  "mood": [
+    "aesthetic",
+    "calm",
+    "routine",
+    "peaceful",
+    "modern"
+  ],
+  "energy": "low",
+  "tags": [
+    "stairs",
+    "staircase",
+    "indoor plants",
+    "modern architecture",
+    "walking",
+    "commute",
+    "daily routine",
+    "b-roll",
+    "aesthetic interior",
+    "atrium",
+    "climbing gym"
+  ],
+  "moments": [
+    {
+      "start": 2.5,
+      "end": 7.5,
+      "action": "Young man in a brown polo shirt and backpack walks up the wide concrete stairs away from camera.",
+      "emotion": "casual",
+      "good_for": [
+        "heading into the gym",
+        "on my way",
+        "climbing up",
+        "daily commute"
+      ],
+      "score": 3
+    },
+    {
+      "start": 15.0,
+      "end": 22.0,
+      "action": "Older man in a bright red cardigan holding a paper coffee cup walks down the staircase.",
+      "emotion": "relaxed",
+      "good_for": [
+        "morning coffee run",
+        "slow lifestyle",
+        "peaceful morning",
+        "taking things slow"
+      ],
+      "score": 3
+    },
+    {
+      "start": 23.5,
+      "end": 29.0,
+      "action": "Young man walks down the staircase towards the camera alongside lush foliage.",
+      "emotion": "composed",
+      "good_for": [
+        "heading out",
+        "leaving the building",
+        "another day done",
+        "walking into the day",
+        "aesthetic b-roll"
+      ],
+      "score": 4
+    }
+  ]
+}

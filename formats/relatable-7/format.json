@@ -1,0 +1,64 @@
+{
+  "id": "relatable-7",
+  "name": "I'm 23 and I'm a bit ashamed to admit that...",
+  "reference": "references/viral-formats/relatable-7.mp4",
+  "source": "/Users/aaron/Downloads/100 Viral Formats (Format Book)/Relatable/#7/#7.mp4",
+  "duration": 6.033,
+  "music": {
+    "from": "reference",
+    "title": "Original Audio"
+  },
+  "text": {
+    "y": 0.497,
+    "size": 46,
+    "weight": 700,
+    "lineHeight": 1.4,
+    "maxWidth": 900,
+    "style": "outline"
+  },
+  "lines": [
+    {
+      "id": "l1",
+      "start": 0.0,
+      "end": 6.033,
+      "ref": "I'm 23\nand I'm a bit ashamed\nto admit that...",
+      "y": 0.497,
+      "measuredSize": 56,
+      "style": "plain_white_shadow",
+      "guide": ""
+    },
+    {
+      "id": "l2",
+      "start": 0.0,
+      "end": 6.033,
+      "ref": "(eldest immigrant\ndaughter edition)",
+      "y": 0.741,
+      "measuredSize": 29,
+      "style": "plain_white_shadow",
+      "guide": ""
+    }
+  ],
+  "shots": [
+    {
+      "id": "s1",
+      "start": 0.0,
+      "end": 6.033,
+      "brief": "walking at night, selfie (ref: Young woman in glasses, winter scarf, and AirPods walks along a bustling city sidewalk at night in a handheld selfie shot.; selfie)",
+      "line": "l1"
+    }
+  ],
+  "audit": {
+    "kind": "broll_with_text",
+    "creatorSpeaks": false,
+    "audio": "music only",
+    "special": [],
+    "reusable": true,
+    "notes": "Very easy to recreate using any casual walking selfie or city b-roll from the library. The core retention and engagement driver is the relatable, vulnerable hook paired with a detailed confessional list in the caption.",
+    "summary": "A creator walks down a city street at night in selfie view with an on-screen vulnerability hook directing viewers to read the confessional caption."
+  },
+  "caption": {
+    "ref": "",
+    "guide": ""
+  },
+  "draft": true
+}

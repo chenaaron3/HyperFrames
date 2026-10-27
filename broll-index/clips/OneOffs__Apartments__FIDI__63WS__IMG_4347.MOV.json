@@ -1,0 +1,82 @@
+{
+  "path": "OneOffs/Apartments/FIDI/63WS/IMG_4347.MOV",
+  "folder": "OneOffs/Apartments/FIDI/63WS",
+  "fingerprint": "040e7b75898fed76",
+  "width": 1080,
+  "height": 1920,
+  "fps": 29.97,
+  "duration": 6.302,
+  "model": "gemini-3.8-flash",
+  "annotatedAt": "2026-10-24T18:20:24+00:00",
+  "summary": "Handheld wide-angle pull-back tour of a stylish apartment amenity lounge featuring built-in wooden bookshelves, comfortable seating, and a pool table.",
+  "location": "apartment lounge",
+  "setting": "indoor",
+  "time_of_day": "day",
+  "weather": "sunny",
+  "people": {
+    "count": 0,
+    "creator_visible": false,
+    "description": "No people present in the room."
+  },
+  "camera": {
+    "style": "handheld_cinematic",
+    "framing": "wide",
+    "movement": "walking",
+    "angle": "eye level"
+  },
+  "quality": {
+    "usable": true,
+    "stability": "steady",
+    "exposure": "good",
+    "issues": ""
+  },
+  "mood": [
+    "peaceful",
+    "luxurious",
+    "modern",
+    "aspirational"
+  ],
+  "energy": "low",
+  "tags": [
+    "apartment tour",
+    "amenity space",
+    "lounge",
+    "living room",
+    "interior design",
+    "bookshelf",
+    "pool table",
+    "luxury apartment",
+    "modern decor",
+    "fidi",
+    "nyc living",
+    "real estate"
+  ],
+  "moments": [
+    {
+      "start": 0.0,
+      "end": 3.0,
+      "action": "Camera frames the built-in wooden media center and bookshelves with decorative objects and seating area.",
+      "emotion": "calm",
+      "good_for": [
+        "apartment hunting",
+        "dream aesthetic",
+        "interior inspo",
+        "cozy spaces"
+      ],
+      "score": 3
+    },
+    {
+      "start": 3.0,
+      "end": 6.3,
+      "action": "Camera steps back smoothly revealing the entire open lounge layout including the pool table and large windows.",
+      "emotion": "aspirational",
+      "good_for": [
+        "apartment building amenities",
+        "finding an apartment in nyc",
+        "luxury living",
+        "peace and quiet"
+      ],
+      "score": 4
+    }
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "path": "Cinematic/CentralPark/IMG_4468.MOV",
+  "folder": "Cinematic/CentralPark",
+  "fingerprint": "9f313626fa5acbe8",
+  "width": 1080,
+  "height": 1920,
+  "fps": 29.97,
+  "duration": 2.633,
+  "model": "gemini-3.8-flash",
+  "annotatedAt": "2026-10-24T18:18:46+00:00",
+  "summary": "A peaceful close-up of a small waterfall cascading over dark stones surrounded by green foliage in a wooded park area.",
+  "location": "park",
+  "setting": "outdoor",
+  "time_of_day": "day",
+  "weather": "sunny",
+  "people": {
+    "count": 0,
+    "creator_visible": false,
+    "description": "No people visible"
+  },
+  "camera": {
+    "style": "handheld_cinematic",
+    "framing": "medium",
+    "movement": "static",
+    "angle": "eye level"
+  },
+  "quality": {
+    "usable": true,
+    "stability": "steady",
+    "exposure": "good",
+    "issues": ""
+  },
+  "mood": [
+    "peaceful",
+    "calm",
+    "serene",
+    "refreshing",
+    "natural"
+  ],
+  "energy": "low",
+  "tags": [
+    "central park",
+    "waterfall",
+    "cascade",
+    "stream",
+    "rocks",
+    "trees",
+    "nature",
+    "woodland",
+    "peaceful",
+    "flowing water",
+    "autumn leaves",
+    "outdoor"
+  ],
+  "moments": [
+    {
+      "start": 0.0,
+      "end": 2.63,
+      "action": "Water cascades steadily down stone tiers surrounded by lush tree branches and rocks",
+      "emotion": "calm",
+      "good_for": [
+        "finding peace in the city",
+        "nature walks",
+        "peace of mind",
+        "quiet moments",
+        "disconnect to reconnect"
+      ],
+      "score": 4
+    }
+  ]
+}

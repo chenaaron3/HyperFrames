@@ -1,0 +1,189 @@
+{
+  "id": "relatable-9",
+  "name": "\"I failed\"",
+  "reference": "references/viral-formats/relatable-9.mp4",
+  "source": "/Users/aaron/Downloads/100 Viral Formats (Format Book)/Relatable/#9/#9.mp4",
+  "duration": 19.2,
+  "music": {
+    "from": "reference",
+    "title": "Love Me Not - Ravyn Lenae"
+  },
+  "text": {
+    "y": 0.498,
+    "size": 64,
+    "weight": 700,
+    "lineHeight": 1.4,
+    "maxWidth": 900,
+    "style": "outline"
+  },
+  "lines": [
+    {
+      "id": "l1",
+      "start": 0.0,
+      "end": 1.633,
+      "ref": "\"I failed\"",
+      "y": 0.498,
+      "measuredSize": 64,
+      "style": "plain_white_shadow",
+      "guide": ""
+    },
+    {
+      "id": "l2",
+      "start": 1.633,
+      "end": 3.5,
+      "ref": "I'm proud that I tried",
+      "y": 0.498,
+      "measuredSize": 64,
+      "style": "plain_white_shadow",
+      "guide": ""
+    },
+    {
+      "id": "l3",
+      "start": 3.5,
+      "end": 5.1,
+      "ref": "\"I didn't get the job\"",
+      "y": 0.502,
+      "measuredSize": 82,
+      "style": "plain_white_shadow",
+      "guide": ""
+    },
+    {
+      "id": "l4",
+      "start": 5.1,
+      "end": 6.967,
+      "ref": "It's not the right time",
+      "y": 0.502,
+      "measuredSize": 82,
+      "style": "plain_white_shadow",
+      "guide": ""
+    },
+    {
+      "id": "l5",
+      "start": 6.967,
+      "end": 8.5,
+      "ref": "\"I don't fit in\"",
+      "y": 0.498,
+      "measuredSize": 64,
+      "style": "plain_white_shadow",
+      "guide": ""
+    },
+    {
+      "id": "l6",
+      "start": 8.5,
+      "end": 10.467,
+      "ref": "They're not my people",
+      "y": 0.498,
+      "measuredSize": 64,
+      "style": "plain_white_shadow",
+      "guide": ""
+    },
+    {
+      "id": "l7",
+      "start": 10.467,
+      "end": 13.933,
+      "ref": "\"I made a mistake\"",
+      "y": 0.498,
+      "measuredSize": 64,
+      "style": "plain_white_shadow",
+      "guide": ""
+    },
+    {
+      "id": "l8",
+      "start": 12.067,
+      "end": 13.933,
+      "ref": "I learned something\nvaluable",
+      "y": 0.6,
+      "measuredSize": 72,
+      "style": "plain_white_shadow",
+      "guide": ""
+    },
+    {
+      "id": "l9",
+      "start": 13.933,
+      "end": 17.433,
+      "ref": "\"I'm so behind\"",
+      "y": 0.498,
+      "measuredSize": 64,
+      "style": "plain_white_shadow",
+      "guide": ""
+    },
+    {
+      "id": "l10",
+      "start": 15.5,
+      "end": 17.433,
+      "ref": "So cool I get to walk\nmy own path",
+      "y": 0.6,
+      "measuredSize": 55,
+      "style": "plain_white_shadow",
+      "guide": ""
+    },
+    {
+      "id": "l11",
+      "start": 17.433,
+      "end": 19.2,
+      "ref": "Welcome to my page",
+      "y": 0.5,
+      "measuredSize": 66,
+      "style": "plain_white_shadow",
+      "guide": ""
+    }
+  ],
+  "shots": [
+    {
+      "id": "s1",
+      "start": 0.0,
+      "end": 3.5,
+      "brief": "sitting at desk looking at camera, smiling or gesturing (ref: Young man sitting at desk holding sunglasses, smiling and giving a thumbs up to camera; tripod)",
+      "line": "l2"
+    },
+    {
+      "id": "s2",
+      "start": 3.5,
+      "end": 6.967,
+      "brief": "drinking coffee or tea in kitchen (ref: Young man leaning against kitchen counter holding a coffee mug, taking a sip and chatting; tripod)",
+      "line": "l4"
+    },
+    {
+      "id": "s3",
+      "start": 6.967,
+      "end": 10.467,
+      "brief": "walking outdoors at sunset, selfie (ref: Young man filming selfie while walking outside near playground at golden hour sunset with friend, flashing peace sign; selfie)",
+      "line": "l6"
+    },
+    {
+      "id": "s4",
+      "start": 10.467,
+      "end": 13.933,
+      "brief": "working on laptop or desktop computer (ref: Side profile of young man sitting at desk typing and editing on computer monitor; tripod)",
+      "line": "l7"
+    },
+    {
+      "id": "s5",
+      "start": 13.933,
+      "end": 17.433,
+      "brief": "walking selfie smiling or gesturing (ref: Young man walking indoors past indoor plants, smiling and giving a peace sign to selfie camera; selfie)",
+      "line": "l9"
+    },
+    {
+      "id": "s6",
+      "start": 17.433,
+      "end": 19.2,
+      "brief": "walking selfie with a friend smiling (ref: Young man walking through a hallway with a friend, smiling into selfie camera; selfie)",
+      "line": "l11"
+    }
+  ],
+  "audit": {
+    "kind": "broll_with_text",
+    "creatorSpeaks": false,
+    "audio": "music only",
+    "special": [],
+    "reusable": true,
+    "notes": "This video relies entirely on standard aesthetic lifestyle clips (working at desk, drinking coffee, walking selfies) paired with on-screen reframing text over trending audio. Any creator can recreate this using 6 short cuts from their own existing b-roll library.",
+    "summary": "A creator shares positive mindset reframes over various everyday lifestyle clips, concluding with a welcome hook for new followers."
+  },
+  "caption": {
+    "ref": "",
+    "guide": ""
+  },
+  "draft": true
+}

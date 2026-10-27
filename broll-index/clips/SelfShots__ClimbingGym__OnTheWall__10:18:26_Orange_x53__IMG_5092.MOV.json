@@ -1,0 +1,79 @@
+{
+  "path": "SelfShots/ClimbingGym/OnTheWall/10:18:26_Orange_x53/IMG_5092.MOV",
+  "folder": "SelfShots/ClimbingGym/OnTheWall/10:18:26_Orange_x53",
+  "fingerprint": "c810748968821cbb",
+  "width": 1080,
+  "height": 1920,
+  "fps": 120.0,
+  "duration": 4.482,
+  "model": "gemini-3.8-flash",
+  "annotatedAt": "2026-10-24T18:39:36+00:00",
+  "summary": "A young man holds up a can of Celsius energy drink to the camera in a modern indoor lobby before taking a sip.",
+  "location": "gym",
+  "setting": "indoor",
+  "time_of_day": "indoor_unknown",
+  "weather": "n/a",
+  "people": {
+    "count": 2,
+    "creator_visible": true,
+    "description": "Young East Asian man with wavy dark hair, wearing a light blue short-sleeved button-down shirt and earrings; another person blurred in the background."
+  },
+  "camera": {
+    "style": "selfie",
+    "framing": "medium",
+    "movement": "handheld",
+    "angle": "eye level"
+  },
+  "quality": {
+    "usable": true,
+    "stability": "handheld",
+    "exposure": "good",
+    "issues": "Brief motion blur and whip around 00:02.0"
+  },
+  "mood": [
+    "casual",
+    "energetic",
+    "relatable"
+  ],
+  "energy": "medium",
+  "tags": [
+    "celsius",
+    "energy drink",
+    "drinking",
+    "pre workout",
+    "climbing gym",
+    "caffeine",
+    "selfie",
+    "lifestyle",
+    "hydration",
+    "fitness"
+  ],
+  "moments": [
+    {
+      "start": 0.0,
+      "end": 1.7,
+      "action": "Creator holds up a can of Celsius energy drink directly toward the camera",
+      "emotion": "focused",
+      "good_for": [
+        "caffeine addiction",
+        "pre-workout ritual",
+        "sponsored by celsius",
+        "staying fueled"
+      ],
+      "score": 3
+    },
+    {
+      "start": 2.5,
+      "end": 4.48,
+      "action": "Creator tilts head back and drinks from the energy drink can",
+      "emotion": "satisfied",
+      "good_for": [
+        "energy boost",
+        "sipping through the day",
+        "pre gym ritual",
+        "caffeine hit"
+      ],
+      "score": 4
+    }
+  ]
+}

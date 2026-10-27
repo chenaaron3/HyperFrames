@@ -1,0 +1,70 @@
+{
+  "path": "Cinematic/IMG_4603.MOV",
+  "folder": "Cinematic",
+  "fingerprint": "67ff4e5473174c65",
+  "width": 1080,
+  "height": 1920,
+  "fps": 30.0,
+  "duration": 2.567,
+  "model": "gemini-3.8-flash",
+  "annotatedAt": "2026-10-24T18:19:50+00:00",
+  "summary": "Pedestrians walk with yellow umbrellas along a rainy New York City street lined with American flags and tall buildings.",
+  "location": "city street",
+  "setting": "outdoor",
+  "time_of_day": "day",
+  "weather": "rain",
+  "people": {
+    "count": 5,
+    "creator_visible": false,
+    "description": "Pedestrians in dark coats and jackets walking on the sidewalk under yellow and black umbrellas."
+  },
+  "camera": {
+    "style": "pov_first_person",
+    "framing": "wide",
+    "movement": "handheld",
+    "angle": "eye level"
+  },
+  "quality": {
+    "usable": true,
+    "stability": "handheld",
+    "exposure": "good",
+    "issues": ""
+  },
+  "mood": [
+    "moody",
+    "urban",
+    "atmospheric",
+    "melancholy",
+    "peaceful"
+  ],
+  "energy": "low",
+  "tags": [
+    "new york city",
+    "nyc",
+    "rain",
+    "rainy day",
+    "umbrella",
+    "yellow umbrella",
+    "american flag",
+    "library way",
+    "city sidewalk",
+    "manhattan",
+    "urban aesthetic",
+    "gloomy weather"
+  ],
+  "moments": [
+    {
+      "start": 0.0,
+      "end": 2.57,
+      "action": "American flag flutters in the foreground as pedestrians walk along a rain-slicked New York City sidewalk holding umbrellas.",
+      "emotion": "calm",
+      "good_for": [
+        "rainy days in new york",
+        "romanticizing the rain",
+        "city travel diary",
+        "gloomy day aesthetics"
+      ],
+      "score": 4
+    }
+  ]
+}

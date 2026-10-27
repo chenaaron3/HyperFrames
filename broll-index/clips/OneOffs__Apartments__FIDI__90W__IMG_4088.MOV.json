@@ -1,0 +1,95 @@
+{
+  "path": "OneOffs/Apartments/FIDI/90W/IMG_4088.MOV",
+  "folder": "OneOffs/Apartments/FIDI/90W",
+  "fingerprint": "87902e96060b0846",
+  "width": 1080,
+  "height": 1920,
+  "fps": 30.0,
+  "duration": 22.535,
+  "model": "gemini-3.8-flash",
+  "annotatedAt": "2026-10-24T18:20:49+00:00",
+  "summary": "A first-person walk-through of an empty high-rise apartment in NYC's Financial District, showing the kitchen, bathroom, and impressive city and river views.",
+  "location": "apartment",
+  "setting": "indoor",
+  "time_of_day": "day",
+  "weather": "sunny",
+  "people": {
+    "count": 1,
+    "creator_visible": false,
+    "description": "A man in a light blue button-down shirt and dark pants standing by the living room window looking out."
+  },
+  "camera": {
+    "style": "pov_first_person",
+    "framing": "wide",
+    "movement": "walking",
+    "angle": "eye level"
+  },
+  "quality": {
+    "usable": true,
+    "stability": "handheld",
+    "exposure": "good",
+    "issues": "Brief jerky camera motion when turning between rooms around 00:07-00:08."
+  },
+  "mood": [
+    "aspirational",
+    "curious",
+    "urban",
+    "relaxed"
+  ],
+  "energy": "medium",
+  "tags": [
+    "apartment hunt",
+    "nyc apartment",
+    "real estate",
+    "fidi",
+    "city view",
+    "hudson river",
+    "kitchen",
+    "financial district",
+    "high rise",
+    "window view",
+    "relocating",
+    "manhattan"
+  ],
+  "moments": [
+    {
+      "start": 1.5,
+      "end": 4.0,
+      "action": "Camera approaches the kitchen counter and sink, showcasing a large window overlooking Financial District high-rises",
+      "emotion": "curious",
+      "good_for": [
+        "apartment hunting in nyc",
+        "kitchen view goals",
+        "new beginnings",
+        "moving to new york"
+      ],
+      "score": 4
+    },
+    {
+      "start": 10.0,
+      "end": 14.5,
+      "action": "Camera focuses on large bright windows displaying high-rise architecture and a view extending toward the water",
+      "emotion": "awe",
+      "good_for": [
+        "city views",
+        "concrete jungle",
+        "apartment hunting",
+        "views like this"
+      ],
+      "score": 4
+    },
+    {
+      "start": 16.5,
+      "end": 22.5,
+      "action": "Pan across a high-floor corner window revealing scenic river views and neighboring downtown skyscrapers under a blue sky",
+      "emotion": "impressed",
+      "good_for": [
+        "water view apartment",
+        "high rise living",
+        "nyc skyline",
+        "manifesting this apartment"
+      ],
+      "score": 5
+    }
+  ]
+}

@@ -1,0 +1,70 @@
+{
+  "path": "OneOffs/Eating/IMG_4892.MOV",
+  "folder": "OneOffs/Eating",
+  "fingerprint": "f31548cce9a9ff02",
+  "width": 1080,
+  "height": 1920,
+  "fps": 30.0,
+  "duration": 3.498,
+  "model": "gemini-3.8-flash",
+  "annotatedAt": "2026-10-24T18:35:25+00:00",
+  "summary": "A split hot pot with boiling spicy and mild broths simmers on a restaurant table while a companion sits opposite holding chopsticks.",
+  "location": "restaurant",
+  "setting": "indoor",
+  "time_of_day": "indoor_unknown",
+  "weather": "n/a",
+  "people": {
+    "count": 1,
+    "creator_visible": false,
+    "description": "Diner seated opposite wearing a light top and a black protective bib apron, holding wooden chopsticks."
+  },
+  "camera": {
+    "style": "pov_first_person",
+    "framing": "medium",
+    "movement": "static",
+    "angle": "high angle"
+  },
+  "quality": {
+    "usable": true,
+    "stability": "steady",
+    "exposure": "good",
+    "issues": ""
+  },
+  "mood": [
+    "cozy",
+    "appetizing",
+    "casual",
+    "comforting"
+  ],
+  "energy": "medium",
+  "tags": [
+    "hot pot",
+    "chinese food",
+    "asian cuisine",
+    "soup",
+    "broth",
+    "spicy",
+    "boiling",
+    "dinner",
+    "restaurant",
+    "eating out",
+    "foodie",
+    "chopsticks"
+  ],
+  "moments": [
+    {
+      "start": 0.0,
+      "end": 3.5,
+      "action": "Twin-flavor hot pot boils briskly in an inset table stove as a diner holds chopsticks ready to eat",
+      "emotion": "anticipatory",
+      "good_for": [
+        "food on my plate",
+        "hot pot nights",
+        "dinner dates",
+        "comfort food",
+        "eating good"
+      ],
+      "score": 4
+    }
+  ]
+}

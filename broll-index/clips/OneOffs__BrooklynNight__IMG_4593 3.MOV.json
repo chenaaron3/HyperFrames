@@ -1,0 +1,69 @@
+{
+  "path": "OneOffs/BrooklynNight/IMG_4593 3.MOV",
+  "folder": "OneOffs/BrooklynNight",
+  "fingerprint": "844dab79063c013d",
+  "width": 1080,
+  "height": 1920,
+  "fps": 30.0,
+  "duration": 3.498,
+  "model": "gemini-3.8-flash",
+  "annotatedAt": "2026-10-24T18:24:29+00:00",
+  "summary": "Close-up view of a Texas-style barbecue platter served on butcher paper, featuring sliced smoked brisket, pulled meat, mac and cheese, and dipping sauces on a restaurant table.",
+  "location": "barbecue restaurant",
+  "setting": "indoor",
+  "time_of_day": "indoor_unknown",
+  "weather": "n/a",
+  "people": {
+    "count": 0,
+    "creator_visible": false,
+    "description": "No one is visibly seen in the frame; filmed from a diner's point of view."
+  },
+  "camera": {
+    "style": "pov_first_person",
+    "framing": "close",
+    "movement": "static",
+    "angle": "high angle"
+  },
+  "quality": {
+    "usable": true,
+    "stability": "steady",
+    "exposure": "good",
+    "issues": ""
+  },
+  "mood": [
+    "appetizing",
+    "comforting",
+    "casual"
+  ],
+  "energy": "low",
+  "tags": [
+    "bbq",
+    "barbecue",
+    "brisket",
+    "mac and cheese",
+    "dinner",
+    "restaurant",
+    "foodie",
+    "smoked meat",
+    "food",
+    "comfort food",
+    "eating out",
+    "dining"
+  ],
+  "moments": [
+    {
+      "start": 0.0,
+      "end": 3.5,
+      "action": "A static top-down view of a barbecue platter with sliced brisket, pulled pork, macaroni and cheese, and sauce cups on brown butcher paper.",
+      "emotion": "craving",
+      "good_for": [
+        "food on my plate",
+        "dinner date",
+        "comfort food cravings",
+        "eating good tonight",
+        "cheat meal"
+      ],
+      "score": 4
+    }
+  ]
+}

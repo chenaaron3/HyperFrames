@@ -1,0 +1,67 @@
+{
+  "path": "SelfShots/ClimbingGym/IMG_5281.MOV",
+  "folder": "SelfShots/ClimbingGym",
+  "fingerprint": "e67abc8b42eea67b",
+  "width": 1080,
+  "height": 1920,
+  "fps": 30.0,
+  "duration": 2.132,
+  "model": "gemini-3.8-flash",
+  "annotatedAt": "2026-10-24T18:38:48+00:00",
+  "summary": "A close-up shot of a bouldering grade 'V-SCALE CONVERSION' chart mounted on a climbing gym wall, showing colored circles corresponding to grade difficulties.",
+  "location": "climbing gym",
+  "setting": "indoor",
+  "time_of_day": "indoor_unknown",
+  "weather": "n/a",
+  "people": {
+    "count": 0,
+    "creator_visible": false,
+    "description": "None visible"
+  },
+  "camera": {
+    "style": "pov_first_person",
+    "framing": "close",
+    "movement": "static",
+    "angle": "eye level"
+  },
+  "quality": {
+    "usable": true,
+    "stability": "steady",
+    "exposure": "good",
+    "issues": ""
+  },
+  "mood": [
+    "informative",
+    "focused",
+    "neutral"
+  ],
+  "energy": "low",
+  "tags": [
+    "climbing gym",
+    "bouldering",
+    "v-scale",
+    "grades",
+    "chart",
+    "difficulty",
+    "indoor climbing",
+    "rock climbing",
+    "sign",
+    "training"
+  ],
+  "moments": [
+    {
+      "start": 0.0,
+      "end": 2.13,
+      "action": "A steady close-up shot focused on a bouldering V-scale conversion chart showing colored tags from VB to V10",
+      "emotion": "focused",
+      "good_for": [
+        "leveling up",
+        "progress check",
+        "bouldering grades",
+        "trying a new hobby",
+        "measuring growth"
+      ],
+      "score": 3
+    }
+  ]
+}

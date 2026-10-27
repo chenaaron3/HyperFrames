@@ -1,0 +1,678 @@
+{
+  "id": "advice-17",
+  "name": "Explaining Credit Cards but we were both business majors",
+  "reference": "references/viral-formats/advice-17.mp4",
+  "source": "/Users/aaron/Downloads/100 Viral Formats (Format Book)/Advice/#17/#17.mp4",
+  "duration": 59.125,
+  "music": {
+    "from": "reference",
+    "title": "Original Audio"
+  },
+  "text": {
+    "y": 0.177,
+    "size": 64,
+    "weight": 700,
+    "lineHeight": 1.4,
+    "maxWidth": 900,
+    "style": "outline"
+  },
+  "lines": [
+    {
+      "id": "l1",
+      "start": 0.0,
+      "end": 59.125,
+      "ref": "Explaining Credit Cards\nbut we were both business majors",
+      "y": 0.177,
+      "measuredSize": 69,
+      "style": "plain_white_shadow",
+      "guide": ""
+    },
+    {
+      "id": "l2",
+      "start": 0.0,
+      "end": 0.75,
+      "ref": "Credit cards",
+      "y": 0.554,
+      "measuredSize": 62,
+      "style": "plain_white_shadow",
+      "guide": ""
+    },
+    {
+      "id": "l3",
+      "start": 0.75,
+      "end": 1.75,
+      "ref": "good",
+      "y": 0.556,
+      "measuredSize": 55,
+      "style": "plain_white_shadow",
+      "guide": ""
+    },
+    {
+      "id": "l4",
+      "start": 1.75,
+      "end": 2.5,
+      "ref": "Debit cards",
+      "y": 0.557,
+      "measuredSize": 69,
+      "style": "plain_white_shadow",
+      "guide": ""
+    },
+    {
+      "id": "l5",
+      "start": 2.5,
+      "end": 3.5,
+      "ref": "bad",
+      "y": 0.56,
+      "measuredSize": 65,
+      "style": "plain_white_shadow",
+      "guide": ""
+    },
+    {
+      "id": "l6",
+      "start": 3.5,
+      "end": 4.0,
+      "ref": "Credit cards",
+      "y": 0.559,
+      "measuredSize": 74,
+      "style": "plain_white_shadow",
+      "guide": ""
+    },
+    {
+      "id": "l7",
+      "start": 4.0,
+      "end": 4.75,
+      "ref": "free money",
+      "y": 0.562,
+      "measuredSize": 68,
+      "style": "plain_white_shadow",
+      "guide": ""
+    },
+    {
+      "id": "l8",
+      "start": 4.75,
+      "end": 6.0,
+      "ref": "free travel",
+      "y": 0.561,
+      "measuredSize": 73,
+      "style": "plain_white_shadow",
+      "guide": ""
+    },
+    {
+      "id": "l9",
+      "start": 6.0,
+      "end": 6.75,
+      "ref": "Debit cards",
+      "y": 0.557,
+      "measuredSize": 69,
+      "style": "plain_white_shadow",
+      "guide": ""
+    },
+    {
+      "id": "l10",
+      "start": 6.75,
+      "end": 7.75,
+      "ref": "no free money",
+      "y": 0.562,
+      "measuredSize": 68,
+      "style": "plain_white_shadow",
+      "guide": ""
+    },
+    {
+      "id": "l11",
+      "start": 7.75,
+      "end": 9.133,
+      "ref": "no free travel",
+      "y": 0.561,
+      "measuredSize": 73,
+      "style": "plain_white_shadow",
+      "guide": ""
+    },
+    {
+      "id": "l12",
+      "start": 9.133,
+      "end": 9.5,
+      "ref": "Credit cards",
+      "y": 0.563,
+      "measuredSize": 82,
+      "style": "plain_white_shadow",
+      "guide": ""
+    },
+    {
+      "id": "l13",
+      "start": 9.5,
+      "end": 10.333,
+      "ref": "dangerous?",
+      "y": 0.563,
+      "measuredSize": 82,
+      "style": "plain_white_shadow",
+      "guide": ""
+    },
+    {
+      "id": "l14",
+      "start": 10.333,
+      "end": 11.5,
+      "ref": "No unless",
+      "y": 0.536,
+      "measuredSize": 45,
+      "style": "plain_white_shadow",
+      "guide": ""
+    },
+    {
+      "id": "l15",
+      "start": 11.5,
+      "end": 13.0,
+      "ref": "you degenerate",
+      "y": 0.56,
+      "measuredSize": 65,
+      "style": "plain_white_shadow",
+      "guide": ""
+    },
+    {
+      "id": "l16",
+      "start": 13.0,
+      "end": 13.75,
+      "ref": "Real danger",
+      "y": 0.558,
+      "measuredSize": 70,
+      "style": "plain_white_shadow",
+      "guide": ""
+    },
+    {
+      "id": "l17",
+      "start": 13.75,
+      "end": 14.4,
+      "ref": "spend money",
+      "y": 0.56,
+      "measuredSize": 65,
+      "style": "plain_white_shadow",
+      "guide": ""
+    },
+    {
+      "id": "l18",
+      "start": 14.4,
+      "end": 15.5,
+      "ref": "you don't have",
+      "y": 0.559,
+      "measuredSize": 68,
+      "style": "plain_white_shadow",
+      "guide": ""
+    },
+    {
+      "id": "l19",
+      "start": 15.5,
+      "end": 16.75,
+      "ref": "real danger you",
+      "y": 0.563,
+      "measuredSize": 72,
+      "style": "plain_white_shadow",
+      "guide": ""
+    },
+    {
+      "id": "l20",
+      "start": 16.75,
+      "end": 18.0,
+      "ref": "have no budget",
+      "y": 0.56,
+      "measuredSize": 77,
+      "style": "plain_white_shadow",
+      "guide": ""
+    },
+    {
+      "id": "l21",
+      "start": 18.0,
+      "end": 18.75,
+      "ref": "Credit card",
+      "y": 0.564,
+      "measuredSize": 85,
+      "style": "plain_white_shadow",
+      "guide": ""
+    },
+    {
+      "id": "l22",
+      "start": 18.75,
+      "end": 20.0,
+      "ref": "not the problem",
+      "y": 0.56,
+      "measuredSize": 77,
+      "style": "plain_white_shadow",
+      "guide": ""
+    },
+    {
+      "id": "l23",
+      "start": 20.0,
+      "end": 21.75,
+      "ref": "Credit card stolen?",
+      "y": 0.557,
+      "measuredSize": 71,
+      "style": "plain_white_shadow",
+      "guide": ""
+    },
+    {
+      "id": "l24",
+      "start": 21.75,
+      "end": 22.5,
+      "ref": "No real",
+      "y": 0.558,
+      "measuredSize": 70,
+      "style": "plain_white_shadow",
+      "guide": ""
+    },
+    {
+      "id": "l25",
+      "start": 22.5,
+      "end": 23.25,
+      "ref": "money gone",
+      "y": 0.56,
+      "measuredSize": 65,
+      "style": "plain_white_shadow",
+      "guide": ""
+    },
+    {
+      "id": "l26",
+      "start": 23.25,
+      "end": 24.0,
+      "ref": "Call bank",
+      "y": 0.557,
+      "measuredSize": 71,
+      "style": "plain_white_shadow",
+      "guide": ""
+    },
+    {
+      "id": "l27",
+      "start": 24.0,
+      "end": 25.233,
+      "ref": "problem solved",
+      "y": 0.557,
+      "measuredSize": 71,
+      "style": "plain_white_shadow",
+      "guide": ""
+    },
+    {
+      "id": "l28",
+      "start": 25.233,
+      "end": 26.75,
+      "ref": "Debit card stolen?",
+      "y": 0.559,
+      "measuredSize": 76,
+      "style": "plain_white_shadow",
+      "guide": ""
+    },
+    {
+      "id": "l29",
+      "start": 26.75,
+      "end": 27.833,
+      "ref": "Real money gone",
+      "y": 0.565,
+      "measuredSize": 87,
+      "style": "plain_white_shadow",
+      "guide": ""
+    },
+    {
+      "id": "l30",
+      "start": 27.833,
+      "end": 29.733,
+      "ref": "while bank investigate",
+      "y": 0.536,
+      "measuredSize": 47,
+      "style": "plain_white_shadow",
+      "guide": ""
+    },
+    {
+      "id": "l31",
+      "start": 29.733,
+      "end": 31.0,
+      "ref": "You broke",
+      "y": 0.566,
+      "measuredSize": 91,
+      "style": "plain_white_shadow",
+      "guide": ""
+    },
+    {
+      "id": "l32",
+      "start": 31.0,
+      "end": 31.633,
+      "ref": "Book flight",
+      "y": 0.558,
+      "measuredSize": 73,
+      "style": "plain_white_shadow",
+      "guide": ""
+    },
+    {
+      "id": "l33",
+      "start": 31.633,
+      "end": 32.6,
+      "ref": "with credit card",
+      "y": 0.561,
+      "measuredSize": 80,
+      "style": "plain_white_shadow",
+      "guide": ""
+    },
+    {
+      "id": "l34",
+      "start": 32.6,
+      "end": 33.933,
+      "ref": "airline cancels?",
+      "y": 0.574,
+      "measuredSize": 47,
+      "style": "plain_white_shadow",
+      "guide": ""
+    },
+    {
+      "id": "l35",
+      "start": 33.933,
+      "end": 34.7,
+      "ref": "No problem",
+      "y": 0.558,
+      "measuredSize": 71,
+      "style": "plain_white_shadow",
+      "guide": ""
+    },
+    {
+      "id": "l36",
+      "start": 34.7,
+      "end": 35.6,
+      "ref": "full refund",
+      "y": 0.557,
+      "measuredSize": 71,
+      "style": "plain_white_shadow",
+      "guide": ""
+    },
+    {
+      "id": "l37",
+      "start": 35.6,
+      "end": 36.533,
+      "ref": "Book flight with",
+      "y": 0.558,
+      "measuredSize": 72,
+      "style": "plain_white_shadow",
+      "guide": ""
+    },
+    {
+      "id": "l38",
+      "start": 36.533,
+      "end": 37.0,
+      "ref": "debit card",
+      "y": 0.557,
+      "measuredSize": 69,
+      "style": "plain_white_shadow",
+      "guide": ""
+    },
+    {
+      "id": "l39",
+      "start": 37.0,
+      "end": 38.25,
+      "ref": "airline cancels?",
+      "y": 0.56,
+      "measuredSize": 77,
+      "style": "plain_white_shadow",
+      "guide": ""
+    },
+    {
+      "id": "l40",
+      "start": 38.25,
+      "end": 39.5,
+      "ref": "You broke",
+      "y": 0.56,
+      "measuredSize": 75,
+      "style": "plain_white_shadow",
+      "guide": ""
+    },
+    {
+      "id": "l41",
+      "start": 39.5,
+      "end": 40.3,
+      "ref": "But credit card",
+      "y": 0.567,
+      "measuredSize": 95,
+      "style": "plain_white_shadow",
+      "guide": ""
+    },
+    {
+      "id": "l42",
+      "start": 40.3,
+      "end": 40.75,
+      "ref": "company make",
+      "y": 0.538,
+      "measuredSize": 34,
+      "style": "plain_white_shadow",
+      "guide": ""
+    },
+    {
+      "id": "l43",
+      "start": 40.75,
+      "end": 41.75,
+      "ref": "money on interest",
+      "y": 0.538,
+      "measuredSize": 34,
+      "style": "plain_white_shadow",
+      "guide": ""
+    },
+    {
+      "id": "l44",
+      "start": 41.75,
+      "end": 42.267,
+      "ref": "and fees?",
+      "y": 0.536,
+      "measuredSize": 45,
+      "style": "plain_white_shadow",
+      "guide": ""
+    },
+    {
+      "id": "l45",
+      "start": 42.267,
+      "end": 43.5,
+      "ref": "No company make",
+      "y": 0.536,
+      "measuredSize": 45,
+      "style": "plain_white_shadow",
+      "guide": ""
+    },
+    {
+      "id": "l46",
+      "start": 43.5,
+      "end": 44.267,
+      "ref": "way more",
+      "y": 0.538,
+      "measuredSize": 34,
+      "style": "plain_white_shadow",
+      "guide": ""
+    },
+    {
+      "id": "l47",
+      "start": 44.267,
+      "end": 45.0,
+      "ref": "money every",
+      "y": 0.538,
+      "measuredSize": 34,
+      "style": "plain_white_shadow",
+      "guide": ""
+    },
+    {
+      "id": "l48",
+      "start": 45.0,
+      "end": 45.5,
+      "ref": "time you tap",
+      "y": 0.538,
+      "measuredSize": 34,
+      "style": "plain_white_shadow",
+      "guide": ""
+    },
+    {
+      "id": "l49",
+      "start": 45.5,
+      "end": 46.75,
+      "ref": "Forget to pay",
+      "y": 0.52,
+      "measuredSize": 51,
+      "style": "plain_white_shadow",
+      "guide": ""
+    },
+    {
+      "id": "l50",
+      "start": 46.75,
+      "end": 48.0,
+      "ref": "interest and fees",
+      "y": 0.536,
+      "measuredSize": 47,
+      "style": "plain_white_shadow",
+      "guide": ""
+    },
+    {
+      "id": "l51",
+      "start": 48.0,
+      "end": 48.5,
+      "ref": "Auto pay",
+      "y": 0.538,
+      "measuredSize": 36,
+      "style": "plain_white_shadow",
+      "guide": ""
+    },
+    {
+      "id": "l52",
+      "start": 48.5,
+      "end": 49.5,
+      "ref": "every month?",
+      "y": 0.536,
+      "measuredSize": 43,
+      "style": "plain_white_shadow",
+      "guide": ""
+    },
+    {
+      "id": "l53",
+      "start": 49.5,
+      "end": 50.5,
+      "ref": "Simple",
+      "y": 0.536,
+      "measuredSize": 45,
+      "style": "plain_white_shadow",
+      "guide": ""
+    },
+    {
+      "id": "l54",
+      "start": 50.5,
+      "end": 51.0,
+      "ref": "Oooh but",
+      "y": 0.557,
+      "measuredSize": 71,
+      "style": "plain_white_shadow",
+      "guide": ""
+    },
+    {
+      "id": "l55",
+      "start": 51.0,
+      "end": 51.5,
+      "ref": "credit cards",
+      "y": 0.559,
+      "measuredSize": 74,
+      "style": "plain_white_shadow",
+      "guide": ""
+    },
+    {
+      "id": "l56",
+      "start": 51.5,
+      "end": 52.75,
+      "ref": "complicated",
+      "y": 0.569,
+      "measuredSize": 47,
+      "style": "plain_white_shadow",
+      "guide": ""
+    },
+    {
+      "id": "l57",
+      "start": 52.75,
+      "end": 54.0,
+      "ref": "No, just use",
+      "y": 0.558,
+      "measuredSize": 70,
+      "style": "plain_white_shadow",
+      "guide": ""
+    },
+    {
+      "id": "l58",
+      "start": 54.0,
+      "end": 55.25,
+      "ref": "like debit card",
+      "y": 0.558,
+      "measuredSize": 73,
+      "style": "plain_white_shadow",
+      "guide": ""
+    },
+    {
+      "id": "l59",
+      "start": 55.25,
+      "end": 55.75,
+      "ref": "Only spend",
+      "y": 0.56,
+      "measuredSize": 75,
+      "style": "plain_white_shadow",
+      "guide": ""
+    },
+    {
+      "id": "l60",
+      "start": 55.75,
+      "end": 56.5,
+      "ref": "what you have",
+      "y": 0.564,
+      "measuredSize": 81,
+      "style": "plain_white_shadow",
+      "guide": ""
+    },
+    {
+      "id": "l61",
+      "start": 56.5,
+      "end": 57.5,
+      "ref": "Good",
+      "y": 0.536,
+      "measuredSize": 43,
+      "style": "plain_white_shadow",
+      "guide": ""
+    },
+    {
+      "id": "l62",
+      "start": 57.5,
+      "end": 58.25,
+      "ref": "Also good?",
+      "y": 0.566,
+      "measuredSize": 91,
+      "style": "plain_white_shadow",
+      "guide": ""
+    },
+    {
+      "id": "l63",
+      "start": 58.25,
+      "end": 59.125,
+      "ref": "Follow",
+      "y": 0.559,
+      "measuredSize": 73,
+      "style": "plain_white_shadow",
+      "guide": ""
+    }
+  ],
+  "shots": [
+    {
+      "id": "s1",
+      "start": 0.0,
+      "end": 59.125,
+      "brief": "creator talking to camera at desk holding laptop presentation, pointing with pen (ref: Creator sits behind a laptop, presenting slides and pointing to illustrations with a pen while speaking directly to the camera in rapid jump cuts.; tripod)",
+      "line": "l1"
+    }
+  ],
+  "audit": {
+    "kind": "talking_head",
+    "creatorSpeaks": true,
+    "audio": "speech",
+    "special": [
+      "Laptop displaying custom prepared slides/graphics",
+      "Pen for pointing at the screen",
+      "Direct-to-camera comedic speech and performance"
+    ],
+    "reusable": false,
+    "notes": "This video relies entirely on the creator's spoken delivery, facial comedic timing, and specific synchronized visual slides shown on a laptop screen. It cannot be replicated using generic lifestyle b-roll.",
+    "summary": "A creator presents a simplified, caveman-style explanation of credit cards vs. debit cards, pointing to visual slides on a laptop screen with a pen."
+  },
+  "caption": {
+    "ref": "",
+    "guide": ""
+  },
+  "draft": true
+}

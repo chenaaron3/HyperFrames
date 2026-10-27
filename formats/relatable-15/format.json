@@ -1,0 +1,180 @@
+{
+  "id": "relatable-15",
+  "name": "“Will I be rich as a nurse?”",
+  "reference": "references/viral-formats/relatable-15.mp4",
+  "source": "/Users/aaron/Downloads/100 Viral Formats (Format Book)/Relatable/#15/#15.mp4",
+  "duration": 13.367,
+  "music": {
+    "from": "reference",
+    "title": "Desclocado - NAPA"
+  },
+  "text": {
+    "y": 0.498,
+    "size": 52,
+    "weight": 700,
+    "lineHeight": 1.4,
+    "maxWidth": 900,
+    "style": "outline"
+  },
+  "lines": [
+    {
+      "id": "l1",
+      "start": 0.0,
+      "end": 3.833,
+      "ref": "“Will I be rich as a nurse?”",
+      "y": 0.498,
+      "measuredSize": 54,
+      "style": "plain_white_shadow",
+      "guide": ""
+    },
+    {
+      "id": "l2",
+      "start": 3.833,
+      "end": 5.167,
+      "ref": "Rich in Compassion",
+      "y": 0.455,
+      "measuredSize": 52,
+      "style": "plain_white_shadow",
+      "guide": ""
+    },
+    {
+      "id": "l3",
+      "start": 5.167,
+      "end": 6.633,
+      "ref": "Rich in Community",
+      "y": 0.455,
+      "measuredSize": 52,
+      "style": "plain_white_shadow",
+      "guide": ""
+    },
+    {
+      "id": "l4",
+      "start": 6.633,
+      "end": 8.0,
+      "ref": "Rich in Health",
+      "y": 0.455,
+      "measuredSize": 52,
+      "style": "plain_white_shadow",
+      "guide": ""
+    },
+    {
+      "id": "l5",
+      "start": 8.0,
+      "end": 9.467,
+      "ref": "Rich in Experiences",
+      "y": 0.456,
+      "measuredSize": 54,
+      "style": "plain_white_shadow",
+      "guide": ""
+    },
+    {
+      "id": "l6",
+      "start": 9.467,
+      "end": 10.7,
+      "ref": "Rich in Discipline",
+      "y": 0.455,
+      "measuredSize": 52,
+      "style": "plain_white_shadow",
+      "guide": ""
+    },
+    {
+      "id": "l7",
+      "start": 10.7,
+      "end": 12.133,
+      "ref": "Rich in Faith",
+      "y": 0.455,
+      "measuredSize": 52,
+      "style": "plain_white_shadow",
+      "guide": ""
+    },
+    {
+      "id": "l8",
+      "start": 12.133,
+      "end": 13.367,
+      "ref": "Rich in Purpose",
+      "y": 0.65,
+      "measuredSize": 54,
+      "style": "plain_white_shadow",
+      "guide": ""
+    }
+  ],
+  "shots": [
+    {
+      "id": "s1",
+      "start": 0.0,
+      "end": 1.433,
+      "brief": "Changing into work uniform/outfit, looking confident (ref: Jump cut transition to wearing navy scrubs, adjusting the uniform, crossing arms, and turning around.; tripod)",
+      "line": "l1"
+    },
+    {
+      "id": "s2",
+      "start": 1.433,
+      "end": 3.833,
+      "brief": "Changing into work uniform/outfit, looking confident (ref: Jump cut transition to wearing navy scrubs, adjusting the uniform, crossing arms, and turning around.; tripod)",
+      "line": "l1"
+    },
+    {
+      "id": "s3",
+      "start": 3.833,
+      "end": 5.167,
+      "brief": "Putting on work gear or prepping for work (ref: Medium shot of the creator putting on blue nitrile gloves in a clinic/hospital room.; tripod)",
+      "line": "l2"
+    },
+    {
+      "id": "s4",
+      "start": 5.167,
+      "end": 6.633,
+      "brief": "Laughing or talking with friends / community (ref: Sitting in a podcast studio armchair, laughing and chatting with two peers.; filmed by friend)",
+      "line": "l3"
+    },
+    {
+      "id": "s5",
+      "start": 6.633,
+      "end": 8.0,
+      "brief": "Working out at the gym or climbing (ref: Low-angle shot exercising on a lat pulldown machine at the gym.; tripod)",
+      "line": "l4"
+    },
+    {
+      "id": "s6",
+      "start": 8.0,
+      "end": 9.467,
+      "brief": "Outdoor landmark or travel clip showing joy/freedom (ref: Outdoor wide shot walking across the lawn in front of the Washington Monument with arms open wide.; tripod)",
+      "line": "l5"
+    },
+    {
+      "id": "s7",
+      "start": 9.467,
+      "end": 10.7,
+      "brief": "Active outdoor hobby clip (swimming, running, climbing) (ref: Jumping and diving into a swimming pool during a colorful sunset.; tripod)",
+      "line": "l6"
+    },
+    {
+      "id": "s8",
+      "start": 10.7,
+      "end": 12.133,
+      "brief": "Spiritual, reflective, or meaningful personal milestone (ref: Indoor pool ceremony where creator is being baptized with pastors raising hands.; filmed by friend)",
+      "line": "l7"
+    },
+    {
+      "id": "s9",
+      "start": 12.133,
+      "end": 13.367,
+      "brief": "Smiling selfie dressed up for an event or graduation (ref: Selfie video smiling warmly wearing traditional formal attire and event lanyard at a conference.; selfie)",
+      "line": "l8"
+    }
+  ],
+  "audit": {
+    "kind": "broll_with_text",
+    "creatorSpeaks": false,
+    "audio": "music only",
+    "special": [],
+    "reusable": true,
+    "notes": "This template works for any profession, hobby, or creative path (e.g., 'Will I be rich as a software engineer / designer / climber?'). You can use existing b-roll clips from your library (gym/climbing for Health, friends/coffee for Community, park/travel for Experiences, laptop/morning routine for Discipline, etc.) paired with quick hook text and a long-form reflective caption.",
+    "summary": "A motivational montage answering whether nursing makes you rich, redefining wealth through clips showing compassion, community, fitness, travel experiences, discipline, faith, and purpose."
+  },
+  "caption": {
+    "ref": "",
+    "guide": ""
+  },
+  "draft": true
+}

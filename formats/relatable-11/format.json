@@ -1,0 +1,209 @@
+{
+  "id": "relatable-11",
+  "name": "life is too short to dwell on the past ... so make sure that",
+  "reference": "references/viral-formats/relatable-11.mp4",
+  "source": "/Users/aaron/Downloads/100 Viral Formats (Format Book)/Relatable/#11/#11.mp4",
+  "duration": 18.1,
+  "music": {
+    "from": "reference",
+    "title": "Yellow - coldplay"
+  },
+  "text": {
+    "y": 0.573,
+    "size": 51,
+    "weight": 700,
+    "lineHeight": 1.4,
+    "maxWidth": 900,
+    "style": "outline"
+  },
+  "lines": [
+    {
+      "id": "l1",
+      "start": 0.0,
+      "end": 5.667,
+      "ref": "life is too short to dwell\non the past ... so make\nsure that you ...",
+      "y": 0.573,
+      "measuredSize": 36,
+      "style": "plain_white_shadow",
+      "guide": ""
+    },
+    {
+      "id": "l2",
+      "start": 5.667,
+      "end": 7.067,
+      "ref": "laugh at your mistakes",
+      "y": 0.644,
+      "measuredSize": 52,
+      "style": "plain_white_shadow",
+      "guide": ""
+    },
+    {
+      "id": "l3",
+      "start": 7.067,
+      "end": 8.433,
+      "ref": "laugh at your failures",
+      "y": 0.631,
+      "measuredSize": 51,
+      "style": "plain_white_shadow",
+      "guide": ""
+    },
+    {
+      "id": "l4",
+      "start": 8.433,
+      "end": 9.833,
+      "ref": "laugh at your rejections",
+      "y": 0.645,
+      "measuredSize": 56,
+      "style": "plain_white_shadow",
+      "guide": ""
+    },
+    {
+      "id": "l5",
+      "start": 9.833,
+      "end": 11.2,
+      "ref": "laugh at your friends",
+      "y": 0.647,
+      "measuredSize": 51,
+      "style": "plain_white_shadow",
+      "guide": ""
+    },
+    {
+      "id": "l6",
+      "start": 11.2,
+      "end": 12.567,
+      "ref": "laugh when you get teased",
+      "y": 0.636,
+      "measuredSize": 52,
+      "style": "plain_white_shadow",
+      "guide": ""
+    },
+    {
+      "id": "l7",
+      "start": 12.567,
+      "end": 13.967,
+      "ref": "laugh when you're\nembarrassed",
+      "y": 0.657,
+      "measuredSize": 35,
+      "style": "plain_white_shadow",
+      "guide": ""
+    },
+    {
+      "id": "l8",
+      "start": 13.967,
+      "end": 15.333,
+      "ref": "laugh when it's awkward",
+      "y": 0.626,
+      "measuredSize": 41,
+      "style": "plain_white_shadow",
+      "guide": ""
+    },
+    {
+      "id": "l9",
+      "start": 15.333,
+      "end": 16.733,
+      "ref": "laugh after you cry",
+      "y": 0.575,
+      "measuredSize": 51,
+      "style": "plain_white_shadow",
+      "guide": ""
+    },
+    {
+      "id": "l10",
+      "start": 16.733,
+      "end": 18.1,
+      "ref": "laugh because it happened",
+      "y": 0.599,
+      "measuredSize": 54,
+      "style": "plain_white_shadow",
+      "guide": ""
+    }
+  ],
+  "shots": [
+    {
+      "id": "s1",
+      "start": 0.0,
+      "end": 5.667,
+      "brief": "eating a meal, filmed by friend (ref: Creator sitting at a restaurant preparing a wrap with lettuce and chopsticks, looking content.; filmed by friend)",
+      "line": "l1"
+    },
+    {
+      "id": "s2",
+      "start": 5.667,
+      "end": 7.067,
+      "brief": "laughing naturally at a restaurant (ref: Creator bursting out laughing at a restaurant table.; filmed by friend)",
+      "line": "l2"
+    },
+    {
+      "id": "s3",
+      "start": 7.067,
+      "end": 8.433,
+      "brief": "laughing while eating noodles/food (ref: Creator holding chopsticks over a bowl of noodles and laughing heartily.; filmed by friend)",
+      "line": "l3"
+    },
+    {
+      "id": "s4",
+      "start": 8.433,
+      "end": 9.833,
+      "brief": "laughing and talking with friends at dinner (ref: Creator laughing and turning to a friend at an Asian restaurant table.; filmed by friend)",
+      "line": "l4"
+    },
+    {
+      "id": "s5",
+      "start": 9.833,
+      "end": 11.2,
+      "brief": "pointing and laughing at a bar or party (ref: Creator pointing and laughing while standing at a pub/bar in front of a sports screen.; filmed by friend)",
+      "line": "l5"
+    },
+    {
+      "id": "s6",
+      "start": 11.2,
+      "end": 12.567,
+      "brief": "laughing with drinks at dinner (ref: Creator smiling and laughing behind a cocktail glass at a table.; filmed by friend)",
+      "line": "l6"
+    },
+    {
+      "id": "s7",
+      "start": 12.567,
+      "end": 13.967,
+      "brief": "candid embarrassed laughter covering face (ref: Creator laughing and covering their face/mouth with one hand while seated at dinner.; filmed by friend)",
+      "line": "l7"
+    },
+    {
+      "id": "s8",
+      "start": 13.967,
+      "end": 15.333,
+      "brief": "smiling and laughing across the table (ref: Creator laughing openly while sitting across from the camera at a restaurant.; filmed by friend)",
+      "line": "l8"
+    },
+    {
+      "id": "s9",
+      "start": 15.333,
+      "end": 16.733,
+      "brief": "outdoor candid laughter in casual setting (ref: Creator sitting outside in a lawn chair wearing a soccer jersey, laughing and talking.; filmed by friend)",
+      "line": "l9"
+    },
+    {
+      "id": "s10",
+      "start": 16.733,
+      "end": 18.1,
+      "brief": "celebrating and laughing at computer desk (ref: Creator sitting at a desk wearing gaming headphones, laughing with arms raised in victory/joy.; tripod)",
+      "line": "l10"
+    }
+  ],
+  "audit": {
+    "kind": "broll_with_text",
+    "creatorSpeaks": false,
+    "audio": "music only",
+    "special": [
+      "Multiple clips of creator naturally laughing or smiling in different outfits/settings"
+    ],
+    "reusable": true,
+    "notes": "Easily recreate by sourcing 1 intro clip of eating/chilling and 9 quick 1-1.5s cuts of yourself smiling or laughing naturally with friends, at cafes, or chilling at home, then overlaying the template text.",
+    "summary": "A montage video showing the creator laughing heartily in different casual dining and social settings, paired with uplifting text reminders encouraging the viewer to laugh through mistakes and awkward moments in life."
+  },
+  "caption": {
+    "ref": "",
+    "guide": ""
+  },
+  "draft": true
+}

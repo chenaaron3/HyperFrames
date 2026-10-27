@@ -1,0 +1,73 @@
+{
+  "path": "Cinematic/CentralPark/IMG_4406.MOV",
+  "folder": "Cinematic/CentralPark",
+  "fingerprint": "1e3025ad7ce7688e",
+  "width": 1080,
+  "height": 1920,
+  "fps": 30.0,
+  "duration": 3.833,
+  "model": "gemini-3.8-flash",
+  "annotatedAt": "2026-10-24T18:17:30+00:00",
+  "summary": "A smooth handheld pan across sunlit grassy lawns and lush trees in Central Park, revealing glimpses of Manhattan skyscrapers and a person walking a dog on a trail.",
+  "location": "Central Park",
+  "setting": "outdoor",
+  "time_of_day": "day",
+  "weather": "sunny",
+  "people": {
+    "count": 3,
+    "creator_visible": false,
+    "description": "Distant park-goers in the background on the grass, and a person walking a small dog on a leash along a dirt trail"
+  },
+  "camera": {
+    "style": "handheld_cinematic",
+    "framing": "wide",
+    "movement": "pan",
+    "angle": "eye level"
+  },
+  "quality": {
+    "usable": true,
+    "stability": "steady",
+    "exposure": "good",
+    "issues": ""
+  },
+  "mood": [
+    "peaceful",
+    "serene",
+    "calm",
+    "sunny",
+    "refreshing"
+  ],
+  "energy": "low",
+  "tags": [
+    "central park",
+    "new york city",
+    "nyc",
+    "park",
+    "trees",
+    "sunlight",
+    "sun flare",
+    "nature",
+    "city park",
+    "morning walk",
+    "dog walking",
+    "skyscrapers",
+    "green lawn",
+    "peaceful"
+  ],
+  "moments": [
+    {
+      "start": 0.0,
+      "end": 3.83,
+      "action": "Camera pans right across lush green park lawns and trees bathed in bright sunlight to reveal city towers and a person walking a dog on a path",
+      "emotion": "calm",
+      "good_for": [
+        "morning walks",
+        "peace in the city",
+        "gratitude for simple moments",
+        "city breaks",
+        "romanticizing your life"
+      ],
+      "score": 4
+    }
+  ]
+}

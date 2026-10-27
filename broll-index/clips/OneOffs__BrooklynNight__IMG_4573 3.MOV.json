@@ -1,0 +1,70 @@
+{
+  "path": "OneOffs/BrooklynNight/IMG_4573 3.MOV",
+  "folder": "OneOffs/BrooklynNight",
+  "fingerprint": "f1b17677d54e76d6",
+  "width": 1080,
+  "height": 1920,
+  "fps": 30.0,
+  "duration": 2.567,
+  "model": "gemini-3.8-flash",
+  "annotatedAt": "2026-10-24T18:24:06+00:00",
+  "summary": "Crowds of pedestrians walk along the Brooklyn Bridge pedestrian path at night, illuminated by bridge lights with the iconic stone tower glowing in the background.",
+  "location": "brooklyn bridge walkway",
+  "setting": "outdoor",
+  "time_of_day": "night",
+  "weather": "n/a",
+  "people": {
+    "count": 15,
+    "creator_visible": false,
+    "description": "Diverse crowd of tourists and locals walking, taking photos, and chatting along the bridge deck"
+  },
+  "camera": {
+    "style": "pov_first_person",
+    "framing": "wide",
+    "movement": "static",
+    "angle": "eye level"
+  },
+  "quality": {
+    "usable": true,
+    "stability": "steady",
+    "exposure": "good",
+    "issues": ""
+  },
+  "mood": [
+    "lively",
+    "urban",
+    "scenic",
+    "atmospheric"
+  ],
+  "energy": "medium",
+  "tags": [
+    "brooklyn bridge",
+    "new york city",
+    "nyc",
+    "night",
+    "bridge lights",
+    "pedestrian",
+    "walkway",
+    "crowd",
+    "city life",
+    "travel",
+    "sightseeing",
+    "skyline"
+  ],
+  "moments": [
+    {
+      "start": 0.0,
+      "end": 2.57,
+      "action": "Static eye-level perspective of people walking along the illuminated Brooklyn Bridge deck toward the glowing stone arch at night",
+      "emotion": "bustling and lively",
+      "good_for": [
+        "late nights in new york",
+        "city that never sleeps",
+        "traveling to nyc",
+        "evening stroll",
+        "feeling alive in the city"
+      ],
+      "score": 4
+    }
+  ]
+}

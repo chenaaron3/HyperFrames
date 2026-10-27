@@ -1,0 +1,79 @@
+{
+  "path": "OneOffs/BrooklynNight/IMG_4534 3.MOV",
+  "folder": "OneOffs/BrooklynNight",
+  "fingerprint": "aef416eb67aee43b",
+  "width": 1080,
+  "height": 1920,
+  "fps": 30.0,
+  "duration": 4.832,
+  "model": "gemini-3.8-flash",
+  "annotatedAt": "2026-10-24T18:23:03+00:00",
+  "summary": "A man bouldering in an indoor climbing gym reaches for a handhold before letting go and dropping onto the crash pad.",
+  "location": "gym",
+  "setting": "indoor",
+  "time_of_day": "indoor_unknown",
+  "weather": "n/a",
+  "people": {
+    "count": 1,
+    "creator_visible": true,
+    "description": "Black man wearing glasses, a black graphic t-shirt, black shorts, and climbing shoes."
+  },
+  "camera": {
+    "style": "filmed_by_friend",
+    "framing": "medium",
+    "movement": "static",
+    "angle": "eye level"
+  },
+  "quality": {
+    "usable": true,
+    "stability": "steady",
+    "exposure": "good",
+    "issues": ""
+  },
+  "mood": [
+    "active",
+    "focused",
+    "athletic"
+  ],
+  "energy": "medium",
+  "tags": [
+    "bouldering",
+    "rock climbing",
+    "climbing gym",
+    "indoor climbing",
+    "fitness",
+    "workout",
+    "training",
+    "crash pad",
+    "holds",
+    "active lifestyle"
+  ],
+  "moments": [
+    {
+      "start": 0.0,
+      "end": 3.8,
+      "action": "Man gripping holds on the bouldering wall, adjusting his footing and reaching upward",
+      "emotion": "focused, determined",
+      "good_for": [
+        "trying new hobbies",
+        "staying active",
+        "stepping out of comfort zone",
+        "working out"
+      ],
+      "score": 4
+    },
+    {
+      "start": 3.8,
+      "end": 4.83,
+      "action": "Man releases his grip and drops safely down onto the padded floor",
+      "emotion": "letting go, giving up",
+      "good_for": [
+        "knowing when to quit",
+        "accepting defeat",
+        "relatable gym fail",
+        "giving it your best shot"
+      ],
+      "score": 3
+    }
+  ]
+}

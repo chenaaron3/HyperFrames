@@ -1,0 +1,70 @@
+{
+  "path": "OneOffs/RainyDayArmanRishi/IMG_4622.MOV",
+  "folder": "OneOffs/RainyDayArmanRishi",
+  "fingerprint": "1a08dd60e6543074",
+  "width": 1080,
+  "height": 1920,
+  "fps": 30.0,
+  "duration": 4.632,
+  "model": "gemini-3.8-flash",
+  "annotatedAt": "2026-10-24T18:36:07+00:00",
+  "summary": "Two young men walk down a wet city sidewalk side by side holding umbrellas past storefronts on a rainy day.",
+  "location": "city street",
+  "setting": "outdoor",
+  "time_of_day": "day",
+  "weather": "rain",
+  "people": {
+    "count": 3,
+    "creator_visible": false,
+    "description": "Two men seen from behind walking together in casual jackets and pants, each holding an umbrella, with other pedestrians visible ahead."
+  },
+  "camera": {
+    "style": "pov_first_person",
+    "framing": "medium",
+    "movement": "walking",
+    "angle": "eye level"
+  },
+  "quality": {
+    "usable": true,
+    "stability": "handheld",
+    "exposure": "good",
+    "issues": ""
+  },
+  "mood": [
+    "rainy",
+    "calm",
+    "urban",
+    "nostalgic",
+    "gloomy"
+  ],
+  "energy": "low",
+  "tags": [
+    "rain",
+    "umbrella",
+    "city street",
+    "sidewalk",
+    "friends",
+    "walking",
+    "rainy day",
+    "commute",
+    "nyc",
+    "puddle",
+    "wet weather",
+    "moody"
+  ],
+  "moments": [
+    {
+      "start": 0.0,
+      "end": 4.5,
+      "action": "Camera tracks behind two friends walking side-by-side holding umbrellas on a wet NYC sidewalk past a Dunkin' shop.",
+      "emotion": "calm",
+      "good_for": [
+        "rainy days in the city",
+        "friendship through every storm",
+        "commute aesthetic",
+        "rainy day playlist"
+      ],
+      "score": 4
+    }
+  ]
+}

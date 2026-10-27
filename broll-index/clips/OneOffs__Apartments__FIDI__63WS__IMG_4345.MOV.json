@@ -1,0 +1,116 @@
+{
+  "path": "OneOffs/Apartments/FIDI/63WS/IMG_4345.MOV",
+  "folder": "OneOffs/Apartments/FIDI/63WS",
+  "fingerprint": "de7c757650708493",
+  "width": 1080,
+  "height": 1920,
+  "fps": 30.0,
+  "duration": 30.817,
+  "model": "gemini-3.8-flash",
+  "annotatedAt": "2026-10-24T18:20:31+00:00",
+  "summary": "First-person POV walkthrough of an empty high-rise apartment in New York City, showing the city views, kitchen, in-unit laundry closet, and bathroom.",
+  "location": "apartment",
+  "setting": "indoor",
+  "time_of_day": "day",
+  "weather": "sunny",
+  "people": {
+    "count": 1,
+    "creator_visible": false,
+    "description": "A woman in dark clothing standing in the hallway looking at her phone; only the creator's hand is visible when closing the laundry closet door."
+  },
+  "camera": {
+    "style": "pov_first_person",
+    "framing": "wide",
+    "movement": "walking",
+    "angle": "eye level"
+  },
+  "quality": {
+    "usable": true,
+    "stability": "handheld",
+    "exposure": "good",
+    "issues": "Occasional quick pans and informal walking motion."
+  },
+  "mood": [
+    "neutral",
+    "curious",
+    "exploratory"
+  ],
+  "energy": "medium",
+  "tags": [
+    "apartment hunt",
+    "nyc apartment",
+    "city view",
+    "financial district",
+    "empty apartment",
+    "tour",
+    "real estate",
+    "open house",
+    "kitchen",
+    "washer dryer",
+    "hardwood floors",
+    "bathroom",
+    "moving in"
+  ],
+  "moments": [
+    {
+      "start": 0.0,
+      "end": 3.0,
+      "action": "Looking out the large apartment window at classic New York City skyscrapers against a bright blue sky",
+      "emotion": "calm",
+      "good_for": [
+        "city views",
+        "apartment hunting in nyc",
+        "dream apartment view"
+      ],
+      "score": 4
+    },
+    {
+      "start": 3.5,
+      "end": 8.5,
+      "action": "Panning across the bright empty room with hardwood floors and multiple sunny windows",
+      "emotion": "anticipation",
+      "good_for": [
+        "empty apartment vibes",
+        "blank canvas",
+        "moving to new york"
+      ],
+      "score": 3
+    },
+    {
+      "start": 10.0,
+      "end": 14.5,
+      "action": "Walking past the modern kitchen nook with black and white cabinets towards the laundry closet",
+      "emotion": "focused",
+      "good_for": [
+        "compact living",
+        "nyc studio tour",
+        "apartment hunting"
+      ],
+      "score": 3
+    },
+    {
+      "start": 14.5,
+      "end": 17.5,
+      "action": "Revealing stacked in-unit washer and dryer inside a closet and closing the door",
+      "emotion": "satisfied",
+      "good_for": [
+        "in-unit laundry flex",
+        "apartment checklist",
+        "nyc living luxury"
+      ],
+      "score": 4
+    },
+    {
+      "start": 25.5,
+      "end": 30.82,
+      "action": "Panning into the tiled bathroom showing the mirror vanity, toilet, and bathtub with tiled surround",
+      "emotion": "neutral",
+      "good_for": [
+        "bathroom tour",
+        "apartment hunting",
+        "moving day prep"
+      ],
+      "score": 3
+    }
+  ]
+}

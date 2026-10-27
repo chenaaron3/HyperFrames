@@ -1,0 +1,103 @@
+{
+  "path": "SelfShots/ClimbingGym/OnTheWall/10:17:26_x9/IMG_4987.MOV",
+  "folder": "SelfShots/ClimbingGym/OnTheWall/10:17:26_x9",
+  "fingerprint": "c52a30b500faeefc",
+  "width": 1080,
+  "height": 1920,
+  "fps": 30.0,
+  "duration": 63.638,
+  "model": "gemini-3.8-flash",
+  "annotatedAt": "2026-10-24T18:39:41+00:00",
+  "summary": "A young man practices bouldering on a tall indoor climbing wall with colorful holds, attempting routes and dropping back onto the safety mat.",
+  "location": "climbing gym",
+  "setting": "indoor",
+  "time_of_day": "indoor_unknown",
+  "weather": "n/a",
+  "people": {
+    "count": 1,
+    "creator_visible": true,
+    "description": "Young man with dark hair wearing a brown short-sleeve shirt, black trousers, and blue climbing shoes"
+  },
+  "camera": {
+    "style": "tripod_static",
+    "framing": "wide",
+    "movement": "static",
+    "angle": "eye level"
+  },
+  "quality": {
+    "usable": true,
+    "stability": "locked",
+    "exposure": "good",
+    "issues": ""
+  },
+  "mood": [
+    "focused",
+    "active",
+    "athletic",
+    "persistent"
+  ],
+  "energy": "medium",
+  "tags": [
+    "climbing gym",
+    "bouldering",
+    "rock climbing",
+    "indoor climbing",
+    "workout",
+    "fitness",
+    "sports",
+    "training",
+    "holds",
+    "climbing wall",
+    "determination"
+  ],
+  "moments": [
+    {
+      "start": 11.5,
+      "end": 18.0,
+      "action": "Man starts a low traverse problem, gripping holds near the bottom of the wall",
+      "emotion": "focused",
+      "good_for": [
+        "starting from the bottom",
+        "learning a new hobby",
+        "embracing the challenge"
+      ],
+      "score": 3
+    },
+    {
+      "start": 21.0,
+      "end": 38.5,
+      "action": "Man holds static positions while working his footwork along the lower bouldering wall before slipping off",
+      "emotion": "determined",
+      "good_for": [
+        "trust the process",
+        "practicing patience",
+        "failing forward"
+      ],
+      "score": 4
+    },
+    {
+      "start": 42.0,
+      "end": 50.0,
+      "action": "Man begins a new climbing attempt, stepping up and reaching smoothly for blue and yellow holds",
+      "emotion": "focused",
+      "good_for": [
+        "trying again",
+        "workout routine",
+        "physical progress"
+      ],
+      "score": 4
+    },
+    {
+      "start": 50.0,
+      "end": 59.5,
+      "action": "Man reaches the higher sequence of the route and then safely drops down onto the gym mat",
+      "emotion": "accomplished",
+      "good_for": [
+        "reaching new heights",
+        "giving it everything",
+        "sticking with the grind"
+      ],
+      "score": 4
+    }
+  ]
+}

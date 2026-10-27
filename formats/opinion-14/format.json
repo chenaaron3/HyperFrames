@@ -1,0 +1,63 @@
+{
+  "id": "opinion-14",
+  "name": "3 reasons why traveling in your late 20s isn’t fun anymore (",
+  "reference": "references/viral-formats/opinion-14.mp4",
+  "source": "/Users/aaron/Downloads/100 Viral Formats (Format Book)/Opinion/#14/#14.mp4",
+  "duration": 7.167,
+  "music": {
+    "from": "reference",
+    "title": "Outro - M83"
+  },
+  "text": {
+    "y": 0.498,
+    "size": 46,
+    "weight": 700,
+    "lineHeight": 1.4,
+    "maxWidth": 900,
+    "style": "outline"
+  },
+  "lines": [
+    {
+      "id": "l1",
+      "start": 0.0,
+      "end": 7.167,
+      "ref": "3 reasons why traveling\nin your late 20s\nisn’t fun anymore\n(read caption)",
+      "y": 0.498,
+      "measuredSize": 29,
+      "style": "plain_white_shadow",
+      "guide": ""
+    }
+  ],
+  "shots": [
+    {
+      "id": "s1",
+      "start": 0.0,
+      "end": 3.667,
+      "brief": "sitting in transit or at a desk, setting camera down and looking/waving at camera (ref: Creator places their phone on the airplane tray table, settles into their seat, and waves at the camera; selfie)",
+      "line": "l1"
+    },
+    {
+      "id": "s2",
+      "start": 3.667,
+      "end": 7.167,
+      "brief": "airplane window view or contemplative travel scenery (ref: POV looking out of the airplane window at the wing and clouds in the blue sky; POV)",
+      "line": "l1"
+    }
+  ],
+  "audit": {
+    "kind": "broll_with_text",
+    "creatorSpeaks": false,
+    "audio": "music only",
+    "special": [
+      "Airplane interior and airplane window footage"
+    ],
+    "reusable": true,
+    "notes": "This hook-and-caption format can easily be adapted using existing b-roll (such as sitting on the subway, walking in NYC, or working at home) by changing the text hook to '3 reasons why [living in NYC / freelancing / dating in your late 20s] isn't fun anymore (read caption)' paired with a detailed reflective caption.",
+    "summary": "A creator sets up the camera on an airplane tray table, sits back and waves, followed by a cut to a view out the plane window with an on-screen hook directing viewers to read the caption."
+  },
+  "caption": {
+    "ref": "",
+    "guide": ""
+  },
+  "draft": true
+}

@@ -1,0 +1,97 @@
+<template>
+  <style>
+    #ft-root { position: absolute; inset: 0; pointer-events: none; }
+    #ft-parent { position: absolute; left: 420px; top: 250px; width: 240px; transform-origin: 50% 60%; }
+    .ft-folder { position: relative; width: 100%; }
+    .ft-folder .tab { width: 42%; height: 26px; border-radius: 10px 10px 0 0; background: #141414; }
+    .ft-folder .body { height: 150px; border-radius: 6px 18px 18px 18px; background: #141414; position: relative; overflow: hidden; }
+    .ft-folder .body::after {
+      content: ""; position: absolute; left: 0; right: 0; bottom: 0; height: 64%;
+      background: #2A2A2A; border-radius: 16px 16px 18px 18px;
+    }
+    #ft-label {
+      position: absolute; left: 0; right: 0; top: 448px; text-align: center;
+      font-family: "Inter", sans-serif; font-weight: 800; font-size: 36px; color: #141414; letter-spacing: -0.01em;
+    }
+    #ft-label i { font-style: normal; display: inline-block; white-space: pre; }
+    #ft-lines { position: absolute; left: 0; top: 0; width: 1080px; height: 883px; }
+    #ft-lines path { fill: none; stroke: #B8452F; stroke-width: 4; stroke-linecap: round; stroke-dasharray: 6 12; }
+    .ft-card {
+      position: absolute; top: 540px; width: 280px; height: 200px; border-radius: 22px; background: #FFFFFF;
+      box-shadow: 0 22px 44px rgba(20, 20, 20, 0.14), 0 0 0 1px rgba(20, 20, 20, 0.05);
+      padding: 22px 24px; box-sizing: border-box; transform-origin: 50% 100%;
+    }
+    .ft-card .n { font-family: "IBM Plex Mono", monospace; font-weight: 600; font-size: 26px; color: #B8452F; letter-spacing: 0.08em; }
+    .ft-card .glyph { position: absolute; right: 24px; top: 22px; width: 54px; }
+    .ft-card .glyph .tab { height: 9px; width: 45%; border-radius: 4px 4px 0 0; background: #141414; }
+    .ft-card .glyph .body { height: 36px; border-radius: 3px 8px 8px 8px; background: #141414; }
+    .ft-card .t { position: absolute; left: 24px; bottom: 22px; font-family: "Inter", sans-serif; font-weight: 800; font-size: 34px; color: #141414; letter-spacing: -0.01em; }
+    .ft-card.hot { background: #B8452F; }
+    .ft-card.hot .n, .ft-card.hot .t { color: #FFFFFF; }
+    .ft-card.hot .glyph .tab, .ft-card.hot .glyph .body { background: #FFFFFF; }
+    #ft-c1 { left: 70px; }
+    #ft-c2 { left: 400px; }
+    #ft-c3 { left: 730px; }
+  </style>
+  <div id="ft-root" data-composition-id="folder-tree" data-start="0" data-duration="30" data-width="1080" data-height="1920"
+    data-composition-variables='[
+      {"id":"root","type":"string","label":"Parent folder","default":"AI Video Editor"},
+      {"id":"labelAt","type":"number","label":"Type parent name at (s)","default":0.4},
+      {"id":"branchAt","type":"number","label":"Draw branches at (s)","default":2},
+      {"id":"c1","type":"string","label":"Folder 1","default":"Raw footage"},
+      {"id":"c2","type":"string","label":"Folder 2","default":"References"},
+      {"id":"c3","type":"string","label":"Folder 3","default":"Exports"},
+      {"id":"at1","type":"number","label":"Folder 1 lands at (s)","default":3},
+      {"id":"at2","type":"number","label":"Folder 2 lands at (s)","default":4},
+      {"id":"at3","type":"number","label":"Folder 3 lands at (s)","default":5},
+      {"id":"out","type":"number","label":"Exit at (s)","default":29}
+    ]'>
+    <svg id="ft-lines" viewBox="0 0 1080 883">
+      <path id="ft-p1" d="M540 496 C540 520, 210 510, 210 534"/>
+      <path id="ft-p2" d="M540 496 L540 534"/>
+      <path id="ft-p3" d="M540 496 C540 520, 870 510, 870 534"/>
+    </svg>
+    <div id="ft-parent" class="ft-folder"><div class="tab"></div><div class="body"></div></div>
+    <div id="ft-label"></div>
+    <div class="ft-card" id="ft-c1"><div class="n">01</div><div class="glyph"><div class="tab"></div><div class="body"></div></div><div class="t" id="ft-t1"></div></div>
+    <div class="ft-card" id="ft-c2"><div class="n">02</div><div class="glyph"><div class="tab"></div><div class="body"></div></div><div class="t" id="ft-t2"></div></div>
+    <div class="ft-card hot" id="ft-c3"><div class="n">03</div><div class="glyph"><div class="tab"></div><div class="body"></div></div><div class="t" id="ft-t3"></div></div>
+    <audio id="ft-s0" class="clip" src="assets/sfx/pop.mp3" data-start="0" data-duration="0.4" data-volume="0.18" data-track-index="9"></audio>
+  </div>
+  <script>
+    (function () {
+      var v = (window.__hyperframes && window.__hyperframes.getVariables) ? window.__hyperframes.getVariables() : {};
+      function num(k, d) { return typeof v[k] === "number" ? v[k] : d; }
+      var labelAt = num("labelAt", 0.4), branchAt = num("branchAt", 2);
+      var at = [num("at1", 3), num("at2", 4), num("at3", 5)];
+      var out = num("out", 29);
+      document.getElementById("ft-t1").textContent = v.c1 || "Raw footage";
+      document.getElementById("ft-t2").textContent = v.c2 || "References";
+      document.getElementById("ft-t3").textContent = v.c3 || "Exports";
+      var lab = document.getElementById("ft-label");
+      (v.root || "AI Video Editor").split("").forEach(function (ch) {
+        var i = document.createElement("i"); i.textContent = ch; lab.appendChild(i);
+      });
+
+      var tl = gsap.timeline({ paused: true });
+      tl.fromTo("#ft-parent", { opacity: 0, scale: 0.55, y: 40 }, { opacity: 1, scale: 1.2, y: -10, duration: 0.6, ease: "expo.out" }, 0);
+      tl.fromTo("#ft-parent .body", { scaleY: 0.7, transformOrigin: "50% 100%" }, { scaleY: 1, duration: 0.5, ease: "expo.out" }, 0.05);
+      tl.fromTo("#ft-label i", { opacity: 0, y: 6 }, { opacity: 1, y: 0, duration: 0.05, stagger: 0.04, ease: "none" }, labelAt);
+      tl.to("#ft-parent", { scale: 1, y: 0, duration: 0.6, ease: "power3.inOut" }, branchAt);
+      ["#ft-p1", "#ft-p2", "#ft-p3"].forEach(function (sel, k) {
+        var len = document.querySelector(sel).getTotalLength();
+        tl.fromTo(sel, { strokeDasharray: len + " " + len, strokeDashoffset: len },
+          { strokeDashoffset: 0, duration: 0.5, ease: "power2.out" }, Math.min(branchAt + 0.35 + k * 0.08, at[k] - 0.15));
+        tl.set(sel, { strokeDasharray: "6 12", strokeDashoffset: 0 }, Math.max(at[k] + 0.2, branchAt + 1.0 + k * 0.08));
+      });
+      ["#ft-c1", "#ft-c2", "#ft-c3"].forEach(function (sel, k) {
+        var rot = [-5, 0, 5][k];
+        tl.fromTo(sel, { opacity: 0, y: 70, scale: 0.8, rotate: rot * 2.4 },
+          { opacity: 1, y: 0, scale: 1, rotate: rot, duration: 0.6, ease: "back.out(1.1)" }, at[k]);
+        tl.fromTo(sel + " .t", { opacity: 0, filter: "blur(6px)" }, { opacity: 1, filter: "blur(0px)", duration: 0.3, ease: "power2.out" }, at[k] + 0.12);
+      });
+      tl.to("#ft-root > *", { opacity: 0, y: -30, duration: 0.3, stagger: 0.03, ease: "power2.in" }, out);
+      window.__timelines["folder-tree"] = tl;
+    })();
+  </script>
+</template>

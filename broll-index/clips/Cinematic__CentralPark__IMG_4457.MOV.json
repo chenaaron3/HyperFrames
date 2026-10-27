@@ -1,0 +1,73 @@
+{
+  "path": "Cinematic/CentralPark/IMG_4457.MOV",
+  "folder": "Cinematic/CentralPark",
+  "fingerprint": "34cac372ee1b66de",
+  "width": 1080,
+  "height": 1920,
+  "fps": 30.0,
+  "duration": 4.2,
+  "model": "gemini-3.8-flash",
+  "annotatedAt": "2026-10-24T18:18:29+00:00",
+  "summary": "A peaceful stream of water flows over rocky beds surrounded by lush green trees and foliage in Central Park.",
+  "location": "park",
+  "setting": "outdoor",
+  "time_of_day": "day",
+  "weather": "sunny",
+  "people": {
+    "count": 0,
+    "creator_visible": false,
+    "description": ""
+  },
+  "camera": {
+    "style": "handheld_cinematic",
+    "framing": "medium",
+    "movement": "static",
+    "angle": "high angle"
+  },
+  "quality": {
+    "usable": true,
+    "stability": "steady",
+    "exposure": "good",
+    "issues": ""
+  },
+  "mood": [
+    "peaceful",
+    "calm",
+    "serene",
+    "reflective",
+    "grounding"
+  ],
+  "energy": "low",
+  "tags": [
+    "central park",
+    "nature",
+    "stream",
+    "creek",
+    "flowing water",
+    "rocks",
+    "trees",
+    "foliage",
+    "greenery",
+    "peaceful",
+    "outdoor",
+    "scenic",
+    "summer",
+    "walk"
+  ],
+  "moments": [
+    {
+      "start": 0.0,
+      "end": 4.2,
+      "action": "Water trickles gently down a small rocky stream flanked by lush green ferns and trees",
+      "emotion": "calm",
+      "good_for": [
+        "finding peace in the city",
+        "taking a mental break",
+        "nature sounds",
+        "clearing my mind",
+        "gratitude for simple things"
+      ],
+      "score": 4
+    }
+  ]
+}

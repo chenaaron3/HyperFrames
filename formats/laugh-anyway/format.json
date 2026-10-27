@@ -1,0 +1,34 @@
+{
+  "id": "laugh-anyway",
+  "name": "Life is too short, so laugh",
+  "reference": "references/viral-formats/laugh-anyway.mp4",
+  "source": "references/viral-formats/laugh-anyway.mp4 (not in the format book)",
+  "duration": 18.1,
+  "music": { "from": "reference", "title": "Back to friends - sombr" },
+  "text": { "y": 0.644, "size": 36, "weight": 700, "lineHeight": 1.55, "maxWidth": 900 },
+  "lines": [
+    { "id": "l1", "start": 0, "end": 5.667, "ref": "life is too short to dwell\non the past … so make\nsure that you …", "guide": "Keep verbatim. Three lines.", "y": 0.573 },
+    { "id": "l2", "start": 5.667, "end": 7.067, "ref": "laugh at your mistakes", "guide": "'laugh at/when …' item." },
+    { "id": "l3", "start": 7.067, "end": 8.433, "ref": "laugh at your failures", "guide": "'laugh at/when …' item." },
+    { "id": "l4", "start": 8.433, "end": 9.833, "ref": "laugh at your rejections", "guide": "'laugh at/when …' item." },
+    { "id": "l5", "start": 9.833, "end": 11.2, "ref": "laugh at your friends", "guide": "'laugh at/when …' item." },
+    { "id": "l6", "start": 11.2, "end": 12.567, "ref": "laugh when you get teased", "guide": "'laugh at/when …' item." },
+    { "id": "l7", "start": 12.567, "end": 13.967, "ref": "laugh when you're embarrassed", "guide": "'laugh at/when …' item." },
+    { "id": "l8", "start": 13.967, "end": 15.333, "ref": "laugh when it's awkward", "guide": "'laugh at/when …' item." },
+    { "id": "l9", "start": 15.333, "end": 16.733, "ref": "laugh after you cry", "guide": "'laugh at/when …' item." },
+    { "id": "l10", "start": 16.733, "end": 18.1, "ref": "laugh because it happened", "guide": "Closing item." }
+  ],
+  "shots": [
+    { "id": "s1", "start": 0, "end": 5.667, "line": "l1", "brief": "Candid at a restaurant table: eating / building food, smiling, filmed by a friend across the table. Calm setup before the laughs." },
+    { "id": "s2", "start": 5.667, "end": 7.067, "line": "l2", "brief": "Big genuine laugh, medium close-up, candid, filmed by a friend." },
+    { "id": "s3", "start": 7.067, "end": 8.433, "line": "l3", "brief": "Big genuine laugh, different place/outfit." },
+    { "id": "s4", "start": 8.433, "end": 9.833, "line": "l4", "brief": "Laughing while eating with friends." },
+    { "id": "s5", "start": 9.833, "end": 11.2, "line": "l5", "brief": "Laughing and pointing at / with friends." },
+    { "id": "s6", "start": 11.2, "end": 12.567, "line": "l6", "brief": "Laughing, slightly embarrassed, at a table." },
+    { "id": "s7", "start": 12.567, "end": 13.967, "line": "l7", "brief": "Covering face / cringe-laughing." },
+    { "id": "s8", "start": 13.967, "end": 15.333, "line": "l8", "brief": "Awkward grin / laugh to camera." },
+    { "id": "s9", "start": 15.333, "end": 16.733, "line": "l9", "brief": "Laughing outdoors, sitting, relaxed." },
+    { "id": "s10", "start": 16.733, "end": 18.1, "line": "l10", "brief": "Laughing hard at home, arm raised or doubled over." }
+  ],
+  "caption": { "ref": "🙂 you can do it", "guide": "One short encouraging line." }
+}

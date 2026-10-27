@@ -1,0 +1,83 @@
+{
+  "path": "Cinematic/CentralPark/IMG_4437.MOV",
+  "folder": "Cinematic/CentralPark",
+  "fingerprint": "53dec48d1109f727",
+  "width": 1080,
+  "height": 1920,
+  "fps": 30.0,
+  "duration": 9.467,
+  "model": "gemini-3.8-flash",
+  "annotatedAt": "2026-10-24T18:18:12+00:00",
+  "summary": "Handheld panoramic view sweeping across the sunny Great Lawn in Central Park, showing people relaxing on the grass with the distant Manhattan skyline.",
+  "location": "park",
+  "setting": "outdoor",
+  "time_of_day": "day",
+  "weather": "sunny",
+  "people": {
+    "count": 15,
+    "creator_visible": false,
+    "description": "Distant park-goers enjoying the day, including a group standing and chatting, and people lying down on blankets on the grass."
+  },
+  "camera": {
+    "style": "handheld_cinematic",
+    "framing": "wide",
+    "movement": "pan",
+    "angle": "eye level"
+  },
+  "quality": {
+    "usable": true,
+    "stability": "steady",
+    "exposure": "good",
+    "issues": ""
+  },
+  "mood": [
+    "peaceful",
+    "relaxing",
+    "serene",
+    "sunny"
+  ],
+  "energy": "low",
+  "tags": [
+    "central park",
+    "new york city",
+    "manhattan",
+    "park",
+    "lawn",
+    "sunny day",
+    "grass",
+    "skyline",
+    "summer",
+    "nature in city",
+    "relaxation",
+    "picnic",
+    "outdoors"
+  ],
+  "moments": [
+    {
+      "start": 0.0,
+      "end": 3.5,
+      "action": "Camera pans across the lush green grass and baseball dirt infield under a wide open blue sky",
+      "emotion": "peaceful",
+      "good_for": [
+        "sunny days in the city",
+        "outdoor peace",
+        "favorite places",
+        "weekend vibes"
+      ],
+      "score": 3
+    },
+    {
+      "start": 6.5,
+      "end": 9.47,
+      "action": "Camera pans across people lying on the lawn, revealing trees and skyscrapers rising in the distance",
+      "emotion": "relaxed",
+      "good_for": [
+        "a day in central park",
+        "city breaks",
+        "living in nyc",
+        "summer in the city"
+      ],
+      "score": 4
+    }
+  ]
+}

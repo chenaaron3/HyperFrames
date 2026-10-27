@@ -1,0 +1,54 @@
+{
+  "id": "opinion-6",
+  "name": "pov: no one knows my next move... not even me",
+  "reference": "references/viral-formats/opinion-6.mp4",
+  "source": "/Users/aaron/Downloads/100 Viral Formats (Format Book)/Opinion/#6/#6.mp4",
+  "duration": 9.833,
+  "music": {
+    "from": "reference",
+    "title": "Feel Good Inc. - Gorillaz, De La Soul"
+  },
+  "text": {
+    "y": 0.543,
+    "size": 46,
+    "weight": 700,
+    "lineHeight": 1.4,
+    "maxWidth": 900,
+    "style": "outline"
+  },
+  "lines": [
+    {
+      "id": "l1",
+      "start": 0.0,
+      "end": 9.833,
+      "ref": "pov: no one knows my\nnext move... not even me",
+      "y": 0.543,
+      "measuredSize": 21,
+      "style": "plain_white_shadow",
+      "guide": ""
+    }
+  ],
+  "shots": [
+    {
+      "id": "s1",
+      "start": 0.0,
+      "end": 9.833,
+      "brief": "smiling selfie outdoors or travel b-roll (ref: Young woman in a knit beanie and sweater filming a handheld selfie outdoors in a gravel lot with a snowy mountain peak behind her; she smiles, tilts the camera, laughs, and points back toward the mountain.; selfie)",
+      "line": "l1"
+    }
+  ],
+  "audit": {
+    "kind": "broll_with_text",
+    "creatorSpeaks": false,
+    "audio": "music only",
+    "special": [],
+    "reusable": true,
+    "notes": "Easily recreated with any casual selfie video (walking through the city, chilling in the park, or traveling) paired with the relatable POV text overlay.",
+    "summary": "A creator smiling and pointing at a scenic snowy mountain behind her in a selfie clip with a relatable hook about not knowing her next move."
+  },
+  "caption": {
+    "ref": "",
+    "guide": ""
+  },
+  "draft": true
+}

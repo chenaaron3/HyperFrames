@@ -1,0 +1,68 @@
+{
+  "path": "OneOffs/RainyDayArmanRishi/IMG_4628.MOV",
+  "folder": "OneOffs/RainyDayArmanRishi",
+  "fingerprint": "b69d56a94982ecae",
+  "width": 1080,
+  "height": 1920,
+  "fps": 30.0,
+  "duration": 3.633,
+  "model": "gemini-3.8-flash",
+  "annotatedAt": "2026-10-24T18:36:14+00:00",
+  "summary": "POV footage walking behind two friends carrying umbrellas along a wet city sidewalk on a rainy day.",
+  "location": "city street",
+  "setting": "outdoor",
+  "time_of_day": "day",
+  "weather": "rain",
+  "people": {
+    "count": 2,
+    "creator_visible": false,
+    "description": "Two young men seen from behind walking away down the sidewalk under umbrellas, dressed in casual jacket and pants"
+  },
+  "camera": {
+    "style": "pov_first_person",
+    "framing": "medium",
+    "movement": "walking",
+    "angle": "eye level"
+  },
+  "quality": {
+    "usable": true,
+    "stability": "handheld",
+    "exposure": "good",
+    "issues": ""
+  },
+  "mood": [
+    "cozy",
+    "calm",
+    "melancholic",
+    "urban"
+  ],
+  "energy": "low",
+  "tags": [
+    "rain",
+    "rainy day",
+    "umbrella",
+    "sidewalk",
+    "walking",
+    "city life",
+    "wet street",
+    "friends",
+    "nyc vibes",
+    "autumn",
+    "brownstones"
+  ],
+  "moments": [
+    {
+      "start": 0.0,
+      "end": 3.63,
+      "action": "Walking behind two friends holding umbrellas along a wet tree-lined city sidewalk",
+      "emotion": "peaceful",
+      "good_for": [
+        "rainy day in the city",
+        "walking with friends",
+        "moody autumn vibes",
+        "embracing bad weather"
+      ],
+      "score": 3
+    }
+  ]
+}

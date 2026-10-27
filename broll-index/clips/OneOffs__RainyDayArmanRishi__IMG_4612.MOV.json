@@ -1,0 +1,71 @@
+{
+  "path": "OneOffs/RainyDayArmanRishi/IMG_4612.MOV",
+  "folder": "OneOffs/RainyDayArmanRishi",
+  "fingerprint": "c85b76e96962a9d6",
+  "width": 1080,
+  "height": 1920,
+  "fps": 30.0,
+  "duration": 3.932,
+  "model": "gemini-3.8-flash",
+  "annotatedAt": "2026-10-24T18:35:46+00:00",
+  "summary": "Two friends walk under a city sidewalk scaffolding during a rainy day while one carries an umbrella.",
+  "location": "city street",
+  "setting": "outdoor",
+  "time_of_day": "day",
+  "weather": "rain",
+  "people": {
+    "count": 5,
+    "creator_visible": true,
+    "description": "Two young men seen from behind walking away down a city sidewalk, one holding a blue and white umbrella; pedestrians with umbrellas pass going the other way."
+  },
+  "camera": {
+    "style": "filmed_by_friend",
+    "framing": "medium",
+    "movement": "walking",
+    "angle": "eye level"
+  },
+  "quality": {
+    "usable": true,
+    "stability": "steady",
+    "exposure": "good",
+    "issues": ""
+  },
+  "mood": [
+    "gloomy",
+    "urban",
+    "calm",
+    "nostalgic"
+  ],
+  "energy": "low",
+  "tags": [
+    "rain",
+    "umbrella",
+    "city",
+    "nyc",
+    "sidewalk",
+    "scaffolding",
+    "commute",
+    "walking",
+    "friends",
+    "gloomy",
+    "overcast",
+    "wet street",
+    "pedestrians"
+  ],
+  "moments": [
+    {
+      "start": 0.0,
+      "end": 3.93,
+      "action": "Following two friends from behind as they walk under sidewalk scaffolding in the rain, passing other pedestrians holding umbrellas",
+      "emotion": "calm",
+      "good_for": [
+        "rainy day in the city",
+        "city commute",
+        "walking through the storm",
+        "friendship b-roll",
+        "gloomy day mood"
+      ],
+      "score": 4
+    }
+  ]
+}

@@ -1,0 +1,863 @@
+{
+  "id": "story-5",
+  "name": "4 words",
+  "reference": "references/viral-formats/story-5.mp4",
+  "source": "/Users/aaron/Downloads/100 Viral Formats (Format Book)/Storytelling/#5/#5.mp4",
+  "duration": 41.767,
+  "music": {
+    "from": "reference",
+    "title": "Original Audio"
+  },
+  "text": {
+    "y": 0.547,
+    "size": 64,
+    "weight": 700,
+    "lineHeight": 1.4,
+    "maxWidth": 900,
+    "style": "outline"
+  },
+  "lines": [
+    {
+      "id": "l1",
+      "start": 0.0,
+      "end": 0.733,
+      "ref": "4 words",
+      "y": 0.547,
+      "measuredSize": 68,
+      "style": "plain_white_shadow",
+      "guide": ""
+    },
+    {
+      "id": "l2",
+      "start": 0.733,
+      "end": 1.0,
+      "ref": "that will",
+      "y": 0.546,
+      "measuredSize": 69,
+      "style": "plain_white_shadow",
+      "guide": ""
+    },
+    {
+      "id": "l3",
+      "start": 1.0,
+      "end": 1.9,
+      "ref": "change your life",
+      "y": 0.55,
+      "measuredSize": 88,
+      "style": "plain_white_shadow",
+      "guide": ""
+    },
+    {
+      "id": "l4",
+      "start": 1.9,
+      "end": 2.5,
+      "ref": "I",
+      "y": 0.15,
+      "measuredSize": 86,
+      "style": "other",
+      "guide": ""
+    },
+    {
+      "id": "l5",
+      "start": 2.5,
+      "end": 2.733,
+      "ref": "I Do",
+      "y": 0.15,
+      "measuredSize": 86,
+      "style": "other",
+      "guide": ""
+    },
+    {
+      "id": "l6",
+      "start": 2.733,
+      "end": 3.233,
+      "ref": "I Do It",
+      "y": 0.15,
+      "measuredSize": 86,
+      "style": "other",
+      "guide": ""
+    },
+    {
+      "id": "l7",
+      "start": 3.233,
+      "end": 3.867,
+      "ref": "I Do It\nAnyways.",
+      "y": 0.2,
+      "measuredSize": 86,
+      "style": "other",
+      "guide": ""
+    },
+    {
+      "id": "l8",
+      "start": 3.867,
+      "end": 4.667,
+      "ref": "it's really insane",
+      "y": 0.546,
+      "measuredSize": 69,
+      "style": "plain_white_shadow",
+      "guide": ""
+    },
+    {
+      "id": "l9",
+      "start": 4.667,
+      "end": 5.333,
+      "ref": "that you CAN",
+      "y": 0.546,
+      "measuredSize": 71,
+      "style": "plain_white_shadow",
+      "guide": ""
+    },
+    {
+      "id": "l10",
+      "start": 5.333,
+      "end": 5.767,
+      "ref": "just change",
+      "y": 0.554,
+      "measuredSize": 71,
+      "style": "plain_white_shadow",
+      "guide": ""
+    },
+    {
+      "id": "l11",
+      "start": 5.767,
+      "end": 6.133,
+      "ref": "your life",
+      "y": 0.55,
+      "measuredSize": 51,
+      "style": "plain_white_shadow",
+      "guide": ""
+    },
+    {
+      "id": "l12",
+      "start": 6.133,
+      "end": 6.467,
+      "ref": "in such",
+      "y": 0.55,
+      "measuredSize": 51,
+      "style": "plain_white_shadow",
+      "guide": ""
+    },
+    {
+      "id": "l13",
+      "start": 6.467,
+      "end": 7.033,
+      "ref": "a short period",
+      "y": 0.546,
+      "measuredSize": 69,
+      "style": "plain_white_shadow",
+      "guide": ""
+    },
+    {
+      "id": "l14",
+      "start": 7.033,
+      "end": 7.4,
+      "ref": "of time",
+      "y": 0.55,
+      "measuredSize": 52,
+      "style": "plain_white_shadow",
+      "guide": ""
+    },
+    {
+      "id": "l15",
+      "start": 7.4,
+      "end": 8.233,
+      "ref": "proof of that",
+      "y": 0.539,
+      "measuredSize": 45,
+      "style": "plain_white_shadow",
+      "guide": ""
+    },
+    {
+      "id": "l16",
+      "start": 8.233,
+      "end": 9.133,
+      "ref": "4 months ago",
+      "y": 0.547,
+      "measuredSize": 66,
+      "style": "plain_white_shadow",
+      "guide": ""
+    },
+    {
+      "id": "l17",
+      "start": 9.133,
+      "end": 9.467,
+      "ref": "I was sitting",
+      "y": 0.547,
+      "measuredSize": 68,
+      "style": "plain_white_shadow",
+      "guide": ""
+    },
+    {
+      "id": "l18",
+      "start": 9.467,
+      "end": 10.0,
+      "ref": "in a corporate",
+      "y": 0.55,
+      "measuredSize": 51,
+      "style": "plain_white_shadow",
+      "guide": ""
+    },
+    {
+      "id": "l19",
+      "start": 10.0,
+      "end": 10.567,
+      "ref": "job that I",
+      "y": 0.546,
+      "measuredSize": 69,
+      "style": "plain_white_shadow",
+      "guide": ""
+    },
+    {
+      "id": "l20",
+      "start": 10.567,
+      "end": 11.367,
+      "ref": "f**cking hated",
+      "y": 0.546,
+      "measuredSize": 69,
+      "style": "plain_white_shadow",
+      "guide": ""
+    },
+    {
+      "id": "l21",
+      "start": 11.367,
+      "end": 11.8,
+      "ref": "wondering",
+      "y": 0.55,
+      "measuredSize": 51,
+      "style": "plain_white_shadow",
+      "guide": ""
+    },
+    {
+      "id": "l22",
+      "start": 11.8,
+      "end": 12.433,
+      "ref": "when my life",
+      "y": 0.546,
+      "measuredSize": 69,
+      "style": "plain_white_shadow",
+      "guide": ""
+    },
+    {
+      "id": "l23",
+      "start": 12.433,
+      "end": 13.067,
+      "ref": "would change",
+      "y": 0.55,
+      "measuredSize": 51,
+      "style": "plain_white_shadow",
+      "guide": ""
+    },
+    {
+      "id": "l24",
+      "start": 13.067,
+      "end": 13.4,
+      "ref": "and it",
+      "y": 0.55,
+      "measuredSize": 51,
+      "style": "plain_white_shadow",
+      "guide": ""
+    },
+    {
+      "id": "l25",
+      "start": 13.4,
+      "end": 14.133,
+      "ref": "wasn't until",
+      "y": 0.539,
+      "measuredSize": 44,
+      "style": "plain_white_shadow",
+      "guide": ""
+    },
+    {
+      "id": "l26",
+      "start": 14.133,
+      "end": 14.567,
+      "ref": "I just",
+      "y": 0.538,
+      "measuredSize": 37,
+      "style": "plain_white_shadow",
+      "guide": ""
+    },
+    {
+      "id": "l27",
+      "start": 14.567,
+      "end": 15.2,
+      "ref": "went for it",
+      "y": 0.538,
+      "measuredSize": 45,
+      "style": "plain_white_shadow",
+      "guide": ""
+    },
+    {
+      "id": "l28",
+      "start": 15.2,
+      "end": 16.0,
+      "ref": "I was SO",
+      "y": 0.546,
+      "measuredSize": 71,
+      "style": "plain_white_shadow",
+      "guide": ""
+    },
+    {
+      "id": "l29",
+      "start": 16.0,
+      "end": 16.3,
+      "ref": "scared",
+      "y": 0.55,
+      "measuredSize": 51,
+      "style": "plain_white_shadow",
+      "guide": ""
+    },
+    {
+      "id": "l30",
+      "start": 16.3,
+      "end": 16.6,
+      "ref": "when I quit",
+      "y": 0.546,
+      "measuredSize": 69,
+      "style": "plain_white_shadow",
+      "guide": ""
+    },
+    {
+      "id": "l31",
+      "start": 16.6,
+      "end": 16.933,
+      "ref": "my job",
+      "y": 0.55,
+      "measuredSize": 51,
+      "style": "plain_white_shadow",
+      "guide": ""
+    },
+    {
+      "id": "l32",
+      "start": 16.933,
+      "end": 17.3,
+      "ref": "I didn't know",
+      "y": 0.546,
+      "measuredSize": 69,
+      "style": "plain_white_shadow",
+      "guide": ""
+    },
+    {
+      "id": "l33",
+      "start": 17.3,
+      "end": 17.767,
+      "ref": "if any of this",
+      "y": 0.546,
+      "measuredSize": 71,
+      "style": "plain_white_shadow",
+      "guide": ""
+    },
+    {
+      "id": "l34",
+      "start": 17.767,
+      "end": 18.167,
+      "ref": "was gonna",
+      "y": 0.55,
+      "measuredSize": 51,
+      "style": "plain_white_shadow",
+      "guide": ""
+    },
+    {
+      "id": "l35",
+      "start": 18.167,
+      "end": 18.767,
+      "ref": "work out",
+      "y": 0.55,
+      "measuredSize": 51,
+      "style": "plain_white_shadow",
+      "guide": ""
+    },
+    {
+      "id": "l36",
+      "start": 18.767,
+      "end": 19.667,
+      "ref": "the only thing",
+      "y": 0.543,
+      "measuredSize": 54,
+      "style": "plain_white_shadow",
+      "guide": ""
+    },
+    {
+      "id": "l37",
+      "start": 19.667,
+      "end": 20.0,
+      "ref": "in the back",
+      "y": 0.539,
+      "measuredSize": 45,
+      "style": "plain_white_shadow",
+      "guide": ""
+    },
+    {
+      "id": "l38",
+      "start": 20.0,
+      "end": 20.567,
+      "ref": "of my mind",
+      "y": 0.539,
+      "measuredSize": 36,
+      "style": "plain_white_shadow",
+      "guide": ""
+    },
+    {
+      "id": "l39",
+      "start": 20.567,
+      "end": 21.167,
+      "ref": "I need to",
+      "y": 0.548,
+      "measuredSize": 64,
+      "style": "plain_white_shadow",
+      "guide": ""
+    },
+    {
+      "id": "l40",
+      "start": 21.167,
+      "end": 21.6,
+      "ref": "keep putting",
+      "y": 0.551,
+      "measuredSize": 84,
+      "style": "plain_white_shadow",
+      "guide": ""
+    },
+    {
+      "id": "l41",
+      "start": 21.6,
+      "end": 22.2,
+      "ref": "in that work",
+      "y": 0.547,
+      "measuredSize": 68,
+      "style": "plain_white_shadow",
+      "guide": ""
+    },
+    {
+      "id": "l42",
+      "start": 22.2,
+      "end": 22.833,
+      "ref": "and slowly",
+      "y": 0.539,
+      "measuredSize": 45,
+      "style": "plain_white_shadow",
+      "guide": ""
+    },
+    {
+      "id": "l43",
+      "start": 22.833,
+      "end": 23.5,
+      "ref": "but surely",
+      "y": 0.539,
+      "measuredSize": 42,
+      "style": "plain_white_shadow",
+      "guide": ""
+    },
+    {
+      "id": "l44",
+      "start": 23.5,
+      "end": 23.967,
+      "ref": "I've started",
+      "y": 0.539,
+      "measuredSize": 45,
+      "style": "plain_white_shadow",
+      "guide": ""
+    },
+    {
+      "id": "l45",
+      "start": 23.967,
+      "end": 25.0,
+      "ref": "a life that",
+      "y": 0.712,
+      "measuredSize": 67,
+      "style": "plain_white_shadow",
+      "guide": ""
+    },
+    {
+      "id": "l46",
+      "start": 25.0,
+      "end": 25.733,
+      "ref": "I'm actually",
+      "y": 0.704,
+      "measuredSize": 68,
+      "style": "plain_white_shadow",
+      "guide": ""
+    },
+    {
+      "id": "l47",
+      "start": 25.733,
+      "end": 26.233,
+      "ref": "happy with",
+      "y": 0.698,
+      "measuredSize": 68,
+      "style": "plain_white_shadow",
+      "guide": ""
+    },
+    {
+      "id": "l48",
+      "start": 26.233,
+      "end": 26.733,
+      "ref": "I have the",
+      "y": 0.62,
+      "measuredSize": null,
+      "style": "plain_white_shadow",
+      "guide": ""
+    },
+    {
+      "id": "l49",
+      "start": 26.733,
+      "end": 27.233,
+      "ref": "time luxury",
+      "y": 0.62,
+      "measuredSize": null,
+      "style": "plain_white_shadow",
+      "guide": ""
+    },
+    {
+      "id": "l50",
+      "start": 27.233,
+      "end": 28.367,
+      "ref": "to just travel",
+      "y": 0.547,
+      "measuredSize": 66,
+      "style": "plain_white_shadow",
+      "guide": ""
+    },
+    {
+      "id": "l51",
+      "start": 28.367,
+      "end": 29.5,
+      "ref": "luxury to",
+      "y": 0.524,
+      "measuredSize": 57,
+      "style": "plain_white_shadow",
+      "guide": ""
+    },
+    {
+      "id": "l52",
+      "start": 29.5,
+      "end": 30.0,
+      "ref": "just hang out",
+      "y": 0.62,
+      "measuredSize": 84,
+      "style": "plain_white_shadow",
+      "guide": ""
+    },
+    {
+      "id": "l53",
+      "start": 30.0,
+      "end": 30.933,
+      "ref": "and do nothing",
+      "y": 0.692,
+      "measuredSize": 28,
+      "style": "plain_white_shadow",
+      "guide": ""
+    },
+    {
+      "id": "l54",
+      "start": 30.933,
+      "end": 31.967,
+      "ref": "this only happened",
+      "y": 0.543,
+      "measuredSize": 54,
+      "style": "plain_white_shadow",
+      "guide": ""
+    },
+    {
+      "id": "l55",
+      "start": 31.967,
+      "end": 32.5,
+      "ref": "because I",
+      "y": 0.539,
+      "measuredSize": 36,
+      "style": "plain_white_shadow",
+      "guide": ""
+    },
+    {
+      "id": "l56",
+      "start": 32.5,
+      "end": 32.933,
+      "ref": "showed up",
+      "y": 0.539,
+      "measuredSize": 36,
+      "style": "plain_white_shadow",
+      "guide": ""
+    },
+    {
+      "id": "l57",
+      "start": 32.933,
+      "end": 33.433,
+      "ref": "you might think",
+      "y": 0.55,
+      "measuredSize": 88,
+      "style": "plain_white_shadow",
+      "guide": ""
+    },
+    {
+      "id": "l58",
+      "start": 33.433,
+      "end": 34.1,
+      "ref": "\"I'm not",
+      "y": 0.546,
+      "measuredSize": 69,
+      "style": "plain_white_shadow",
+      "guide": ""
+    },
+    {
+      "id": "l59",
+      "start": 34.1,
+      "end": 34.9,
+      "ref": "\"I just",
+      "y": 0.547,
+      "measuredSize": 68,
+      "style": "plain_white_shadow",
+      "guide": ""
+    },
+    {
+      "id": "l60",
+      "start": 34.9,
+      "end": 35.5,
+      "ref": "stop giving",
+      "y": 0.543,
+      "measuredSize": 45,
+      "style": "plain_white_shadow",
+      "guide": ""
+    },
+    {
+      "id": "l61",
+      "start": 35.5,
+      "end": 36.467,
+      "ref": "your brain excuses",
+      "y": 0.539,
+      "measuredSize": 36,
+      "style": "plain_white_shadow",
+      "guide": ""
+    },
+    {
+      "id": "l62",
+      "start": 36.467,
+      "end": 37.0,
+      "ref": "and just",
+      "y": 0.55,
+      "measuredSize": 51,
+      "style": "plain_white_shadow",
+      "guide": ""
+    },
+    {
+      "id": "l63",
+      "start": 37.0,
+      "end": 37.733,
+      "ref": "do it anyways",
+      "y": 0.547,
+      "measuredSize": 77,
+      "style": "plain_white_shadow",
+      "guide": ""
+    },
+    {
+      "id": "l64",
+      "start": 37.733,
+      "end": 38.233,
+      "ref": "you will",
+      "y": 0.543,
+      "measuredSize": 88,
+      "style": "plain_white_shadow",
+      "guide": ""
+    },
+    {
+      "id": "l65",
+      "start": 38.233,
+      "end": 38.867,
+      "ref": "surprise yourself",
+      "y": 0.547,
+      "measuredSize": 99,
+      "style": "plain_white_shadow",
+      "guide": ""
+    },
+    {
+      "id": "l66",
+      "start": 38.867,
+      "end": 39.5,
+      "ref": "by how much",
+      "y": 0.546,
+      "measuredSize": 88,
+      "style": "plain_white_shadow",
+      "guide": ""
+    },
+    {
+      "id": "l67",
+      "start": 39.5,
+      "end": 40.033,
+      "ref": "you can grow",
+      "y": 0.552,
+      "measuredSize": 82,
+      "style": "plain_white_shadow",
+      "guide": ""
+    },
+    {
+      "id": "l68",
+      "start": 40.033,
+      "end": 40.433,
+      "ref": "if you just",
+      "y": 0.539,
+      "measuredSize": 36,
+      "style": "plain_white_shadow",
+      "guide": ""
+    },
+    {
+      "id": "l69",
+      "start": 40.433,
+      "end": 41.1,
+      "ref": "show up",
+      "y": 0.539,
+      "measuredSize": 36,
+      "style": "plain_white_shadow",
+      "guide": ""
+    },
+    {
+      "id": "l70",
+      "start": 41.1,
+      "end": 41.767,
+      "ref": "every single day",
+      "y": 0.543,
+      "measuredSize": 45,
+      "style": "plain_white_shadow",
+      "guide": ""
+    }
+  ],
+  "shots": [
+    {
+      "id": "s1",
+      "start": 0.0,
+      "end": 1.9,
+      "brief": "speaking to camera outdoors, medium shot (ref: Creator standing on a foggy rooftop/parking deck speaking directly into camera.; tripod)",
+      "line": "l2"
+    },
+    {
+      "id": "s2",
+      "start": 1.9,
+      "end": 3.867,
+      "brief": "lifting heavy weights / squatting in gym (ref: Creator straining under a heavy barbell squat in a gym rack.; tripod)",
+      "line": "l6"
+    },
+    {
+      "id": "s3",
+      "start": 3.867,
+      "end": 7.4,
+      "brief": "sitting in nature/park looking at view at sunset (ref: Creator sitting peacefully under a tree on a grassy hill overlooking a sunset cityscape.; tripod)",
+      "line": "l10"
+    },
+    {
+      "id": "s4",
+      "start": 7.4,
+      "end": 8.233,
+      "brief": "speaking to camera outdoors (ref: Creator speaking to camera on the foggy rooftop.; tripod)",
+      "line": "l15"
+    },
+    {
+      "id": "s5",
+      "start": 8.233,
+      "end": 13.067,
+      "brief": "exhausted/sleeping at an office desk (ref: Creator slumped over sleeping on an office desk wearing headphones, then waking up exhausted.; tripod)",
+      "line": "l20"
+    },
+    {
+      "id": "s6",
+      "start": 13.067,
+      "end": 15.2,
+      "brief": "speaking to camera outdoors (ref: Creator speaking to camera on the foggy rooftop.; tripod)",
+      "line": "l26"
+    },
+    {
+      "id": "s7",
+      "start": 15.2,
+      "end": 18.767,
+      "brief": "walking into elevator with backpack leaving building (ref: Low-angle shot of creator carrying a backpack walking into an elevator and turning around.; tripod)",
+      "line": "l32"
+    },
+    {
+      "id": "s8",
+      "start": 18.767,
+      "end": 20.567,
+      "brief": "speaking to camera outdoors (ref: Creator speaking to camera on the foggy rooftop.; tripod)",
+      "line": "l37"
+    },
+    {
+      "id": "s9",
+      "start": 20.567,
+      "end": 22.2,
+      "brief": "working on laptop or monitor at desk at home (ref: Creator working at a home desk setup typing on a computer monitor at night.; tripod)",
+      "line": "l40"
+    },
+    {
+      "id": "s10",
+      "start": 22.2,
+      "end": 23.967,
+      "brief": "speaking to camera outdoors (ref: Creator speaking to camera on the foggy rooftop.; tripod)",
+      "line": "l43"
+    },
+    {
+      "id": "s11",
+      "start": 23.967,
+      "end": 26.233,
+      "brief": "hanging out casually on city street (ref: Creator relaxing on an outdoor couch on an NYC city sidewalk, flashing a peace sign.; filmed by friend)",
+      "line": "l46"
+    },
+    {
+      "id": "s12",
+      "start": 26.233,
+      "end": 28.367,
+      "brief": "walking through airport / boarding plane selfie (ref: Creator walking down an airport jet bridge boarding a plane, smiling with a travel bag.; selfie)",
+      "line": "l50"
+    },
+    {
+      "id": "s13",
+      "start": 28.367,
+      "end": 30.933,
+      "brief": "pushing shopping cart in big box store / grocery (ref: Low angle from a shopping cart as creator pushes it down an aisle in a wholesale warehouse/store.; tripod)",
+      "line": "l52"
+    },
+    {
+      "id": "s14",
+      "start": 30.933,
+      "end": 32.933,
+      "brief": "speaking to camera outdoors (ref: Creator speaking to camera on the foggy rooftop.; tripod)",
+      "line": "l54"
+    },
+    {
+      "id": "s15",
+      "start": 32.933,
+      "end": 34.9,
+      "brief": "stressed/frustrated working at desk (ref: Creator sitting at desk holding head in hands, rubbing face in frustration/fatigue.; tripod)",
+      "line": "l58"
+    },
+    {
+      "id": "s16",
+      "start": 34.9,
+      "end": 36.467,
+      "brief": "speaking to camera outdoors (ref: Creator speaking to camera on the foggy rooftop.; tripod)",
+      "line": "l61"
+    },
+    {
+      "id": "s17",
+      "start": 36.467,
+      "end": 40.033,
+      "brief": "completing a squat lift in gym (ref: Creator completing a heavy squat and standing up to rerack the barbell.; tripod)",
+      "line": "l65"
+    },
+    {
+      "id": "s18",
+      "start": 40.033,
+      "end": 41.767,
+      "brief": "speaking to camera outdoors (ref: Creator speaking to camera on the foggy rooftop giving concluding advice.; tripod)",
+      "line": "l69"
+    }
+  ],
+  "audit": {
+    "kind": "talking_head",
+    "creatorSpeaks": true,
+    "audio": "music + speech",
+    "special": [],
+    "reusable": false,
+    "notes": "This video depends on direct on-camera talking head delivery synced to original spoken speech across 8 separate camera cuts. It cannot be recreated using existing silent b-roll without newly recorded talking head footage or converting the video into an entirely different voiceover/b-roll format.",
+    "summary": "A creator shares an inspirational reflection on the four words 'I do it anyways' that enabled him to quit his hated corporate desk job and build a life of freedom, cutting between speaking to camera and lifestyle/gym b-roll."
+  },
+  "caption": {
+    "ref": "",
+    "guide": ""
+  },
+  "draft": true
+}

@@ -1,0 +1,1182 @@
+{
+  "id": "story-3",
+  "name": "Guys I haven't been",
+  "reference": "references/viral-formats/story-3.mp4",
+  "source": "/Users/aaron/Downloads/100 Viral Formats (Format Book)/Storytelling/#3/#3.mp4",
+  "duration": 81.133,
+  "music": {
+    "from": "reference",
+    "title": "One Piece Live Action Main Theme"
+  },
+  "text": {
+    "y": 0.565,
+    "size": 46,
+    "weight": 700,
+    "lineHeight": 1.4,
+    "maxWidth": 900,
+    "style": "outline"
+  },
+  "lines": [
+    {
+      "id": "l1",
+      "start": 0.0,
+      "end": 0.633,
+      "ref": "Guys I haven't been",
+      "y": 0.565,
+      "measuredSize": 49,
+      "style": "plain_white_shadow",
+      "guide": ""
+    },
+    {
+      "id": "l2",
+      "start": 0.633,
+      "end": 1.267,
+      "ref": "to my math class",
+      "y": 0.568,
+      "measuredSize": 36,
+      "style": "plain_white_shadow",
+      "guide": ""
+    },
+    {
+      "id": "l3",
+      "start": 1.267,
+      "end": 1.967,
+      "ref": "in 4 weeks 💀",
+      "y": 0.565,
+      "measuredSize": 51,
+      "style": "plain_white_shadow",
+      "guide": ""
+    },
+    {
+      "id": "l4",
+      "start": 1.967,
+      "end": 2.633,
+      "ref": "and the midterm",
+      "y": 0.565,
+      "measuredSize": 49,
+      "style": "plain_white_shadow",
+      "guide": ""
+    },
+    {
+      "id": "l5",
+      "start": 2.633,
+      "end": 3.8,
+      "ref": "is in 3 hours 😭",
+      "y": 0.568,
+      "measuredSize": 36,
+      "style": "plain_white_shadow",
+      "guide": ""
+    },
+    {
+      "id": "l6",
+      "start": 3.8,
+      "end": 4.367,
+      "ref": "I would be",
+      "y": 0.565,
+      "measuredSize": 49,
+      "style": "plain_white_shadow",
+      "guide": ""
+    },
+    {
+      "id": "l7",
+      "start": 4.367,
+      "end": 4.7,
+      "ref": "black licorice",
+      "y": 0.568,
+      "measuredSize": 36,
+      "style": "plain_white_shadow",
+      "guide": ""
+    },
+    {
+      "id": "l8",
+      "start": 4.7,
+      "end": 5.233,
+      "ref": "my pants rn",
+      "y": 0.568,
+      "measuredSize": 36,
+      "style": "plain_white_shadow",
+      "guide": ""
+    },
+    {
+      "id": "l9",
+      "start": 5.233,
+      "end": 6.0,
+      "ref": "but I have a plan",
+      "y": 0.565,
+      "measuredSize": 47,
+      "style": "plain_white_shadow",
+      "guide": ""
+    },
+    {
+      "id": "l10",
+      "start": 6.0,
+      "end": 6.967,
+      "ref": "to thug it out and",
+      "y": 0.566,
+      "measuredSize": 45,
+      "style": "plain_white_shadow",
+      "guide": ""
+    },
+    {
+      "id": "l11",
+      "start": 6.967,
+      "end": 7.533,
+      "ref": "get a good grade",
+      "y": 0.57,
+      "measuredSize": 49,
+      "style": "plain_white_shadow",
+      "guide": ""
+    },
+    {
+      "id": "l12",
+      "start": 7.533,
+      "end": 8.133,
+      "ref": "So the last time",
+      "y": 0.565,
+      "measuredSize": 49,
+      "style": "plain_white_shadow",
+      "guide": ""
+    },
+    {
+      "id": "l13",
+      "start": 8.133,
+      "end": 8.733,
+      "ref": "we did this for",
+      "y": 0.565,
+      "measuredSize": 49,
+      "style": "plain_white_shadow",
+      "guide": ""
+    },
+    {
+      "id": "l14",
+      "start": 8.733,
+      "end": 9.433,
+      "ref": "my CS class",
+      "y": 0.564,
+      "measuredSize": 51,
+      "style": "plain_white_shadow",
+      "guide": ""
+    },
+    {
+      "id": "l15",
+      "start": 9.433,
+      "end": 10.0,
+      "ref": "we got a",
+      "y": 0.568,
+      "measuredSize": 36,
+      "style": "plain_white_shadow",
+      "guide": ""
+    },
+    {
+      "id": "l16",
+      "start": 10.0,
+      "end": 11.2,
+      "ref": "96% ⁉️⁉️",
+      "y": 0.566,
+      "measuredSize": 49,
+      "style": "plain_white_shadow",
+      "guide": ""
+    },
+    {
+      "id": "l17",
+      "start": 11.2,
+      "end": 13.533,
+      "ref": "Hey man quick question how do you\ncram for your tests?",
+      "y": 0.28,
+      "measuredSize": 36,
+      "style": "white_box_black_text",
+      "guide": ""
+    },
+    {
+      "id": "l18",
+      "start": 11.2,
+      "end": 11.967,
+      "ref": "And I've gotten",
+      "y": 0.565,
+      "measuredSize": 49,
+      "style": "plain_white_shadow",
+      "guide": ""
+    },
+    {
+      "id": "l19",
+      "start": 11.967,
+      "end": 12.467,
+      "ref": "questions about",
+      "y": 0.568,
+      "measuredSize": 36,
+      "style": "plain_white_shadow",
+      "guide": ""
+    },
+    {
+      "id": "l20",
+      "start": 12.467,
+      "end": 12.967,
+      "ref": "how I cram",
+      "y": 0.568,
+      "measuredSize": 36,
+      "style": "plain_white_shadow",
+      "guide": ""
+    },
+    {
+      "id": "l21",
+      "start": 12.967,
+      "end": 13.533,
+      "ref": "so here it is",
+      "y": 0.567,
+      "measuredSize": 34,
+      "style": "plain_white_shadow",
+      "guide": ""
+    },
+    {
+      "id": "l22",
+      "start": 13.533,
+      "end": 14.2,
+      "ref": "since we only",
+      "y": 0.701,
+      "measuredSize": 38,
+      "style": "plain_white_shadow",
+      "guide": ""
+    },
+    {
+      "id": "l23",
+      "start": 14.2,
+      "end": 14.8,
+      "ref": "have 3 hours",
+      "y": 0.698,
+      "measuredSize": 52,
+      "style": "plain_white_shadow",
+      "guide": ""
+    },
+    {
+      "id": "l24",
+      "start": 14.8,
+      "end": 15.4,
+      "ref": "each hour needs",
+      "y": 0.701,
+      "measuredSize": 38,
+      "style": "plain_white_shadow",
+      "guide": ""
+    },
+    {
+      "id": "l25",
+      "start": 15.4,
+      "end": 16.033,
+      "ref": "to have a goal",
+      "y": 0.701,
+      "measuredSize": 38,
+      "style": "plain_white_shadow",
+      "guide": ""
+    },
+    {
+      "id": "l26",
+      "start": 16.033,
+      "end": 16.833,
+      "ref": "so I don't waste it",
+      "y": 0.698,
+      "measuredSize": 49,
+      "style": "plain_white_shadow",
+      "guide": ""
+    },
+    {
+      "id": "l27",
+      "start": 16.833,
+      "end": 17.6,
+      "ref": "the first hour is",
+      "y": 0.698,
+      "measuredSize": 51,
+      "style": "plain_white_shadow",
+      "guide": ""
+    },
+    {
+      "id": "l28",
+      "start": 17.6,
+      "end": 18.4,
+      "ref": "just about covering",
+      "y": 0.701,
+      "measuredSize": 38,
+      "style": "plain_white_shadow",
+      "guide": ""
+    },
+    {
+      "id": "l29",
+      "start": 18.4,
+      "end": 19.167,
+      "ref": "surface area",
+      "y": 0.701,
+      "measuredSize": 38,
+      "style": "plain_white_shadow",
+      "guide": ""
+    },
+    {
+      "id": "l30",
+      "start": 19.167,
+      "end": 20.033,
+      "ref": "I'm just exposing",
+      "y": 0.701,
+      "measuredSize": 38,
+      "style": "plain_white_shadow",
+      "guide": ""
+    },
+    {
+      "id": "l31",
+      "start": 20.033,
+      "end": 21.033,
+      "ref": "myself to as much",
+      "y": 0.698,
+      "measuredSize": 51,
+      "style": "plain_white_shadow",
+      "guide": ""
+    },
+    {
+      "id": "l32",
+      "start": 21.033,
+      "end": 22.067,
+      "ref": "concepts as I can",
+      "y": 0.7,
+      "measuredSize": 39,
+      "style": "plain_white_shadow",
+      "guide": ""
+    },
+    {
+      "id": "l33",
+      "start": 22.067,
+      "end": 23.067,
+      "ref": "that I haven't learned",
+      "y": 0.698,
+      "measuredSize": 52,
+      "style": "plain_white_shadow",
+      "guide": ""
+    },
+    {
+      "id": "l34",
+      "start": 23.067,
+      "end": 23.5,
+      "ref": "so I'm not asking",
+      "y": 0.698,
+      "measuredSize": 49,
+      "style": "plain_white_shadow",
+      "guide": ""
+    },
+    {
+      "id": "l35",
+      "start": 23.5,
+      "end": 24.75,
+      "ref": "any questions",
+      "y": 0.701,
+      "measuredSize": 38,
+      "style": "plain_white_shadow",
+      "guide": ""
+    },
+    {
+      "id": "l36",
+      "start": 24.75,
+      "end": 25.4,
+      "ref": "like why something",
+      "y": 0.698,
+      "measuredSize": 52,
+      "style": "plain_white_shadow",
+      "guide": ""
+    },
+    {
+      "id": "l37",
+      "start": 25.4,
+      "end": 25.967,
+      "ref": "is used or",
+      "y": 0.701,
+      "measuredSize": 38,
+      "style": "plain_white_shadow",
+      "guide": ""
+    },
+    {
+      "id": "l38",
+      "start": 25.967,
+      "end": 26.667,
+      "ref": "how it works",
+      "y": 0.701,
+      "measuredSize": 38,
+      "style": "plain_white_shadow",
+      "guide": ""
+    },
+    {
+      "id": "l39",
+      "start": 26.667,
+      "end": 27.167,
+      "ref": "I just need to",
+      "y": 0.698,
+      "measuredSize": 49,
+      "style": "plain_white_shadow",
+      "guide": ""
+    },
+    {
+      "id": "l40",
+      "start": 27.167,
+      "end": 27.967,
+      "ref": "know what it is",
+      "y": 0.701,
+      "measuredSize": 38,
+      "style": "plain_white_shadow",
+      "guide": ""
+    },
+    {
+      "id": "l41",
+      "start": 27.967,
+      "end": 28.467,
+      "ref": "actually the most",
+      "y": 0.698,
+      "measuredSize": 49,
+      "style": "plain_white_shadow",
+      "guide": ""
+    },
+    {
+      "id": "l42",
+      "start": 28.467,
+      "end": 29.2,
+      "ref": "important tip",
+      "y": 0.701,
+      "measuredSize": 38,
+      "style": "plain_white_shadow",
+      "guide": ""
+    },
+    {
+      "id": "l43",
+      "start": 29.2,
+      "end": 30.0,
+      "ref": "when studying",
+      "y": 0.701,
+      "measuredSize": 38,
+      "style": "plain_white_shadow",
+      "guide": ""
+    },
+    {
+      "id": "l44",
+      "start": 30.0,
+      "end": 31.467,
+      "ref": "especially cramming",
+      "y": 0.701,
+      "measuredSize": 38,
+      "style": "plain_white_shadow",
+      "guide": ""
+    },
+    {
+      "id": "l45",
+      "start": 31.467,
+      "end": 32.6,
+      "ref": "that no one mentions",
+      "y": 0.698,
+      "measuredSize": 49,
+      "style": "plain_white_shadow",
+      "guide": ""
+    },
+    {
+      "id": "l46",
+      "start": 32.6,
+      "end": 33.867,
+      "ref": "is you have to avoid",
+      "y": 0.701,
+      "measuredSize": 38,
+      "style": "plain_white_shadow",
+      "guide": ""
+    },
+    {
+      "id": "l47",
+      "start": 33.867,
+      "end": 35.2,
+      "ref": "the \"I'm cooked\" syndrome",
+      "y": 0.687,
+      "measuredSize": 51,
+      "style": "plain_white_shadow",
+      "guide": ""
+    },
+    {
+      "id": "l48",
+      "start": 35.2,
+      "end": 35.8,
+      "ref": "because I used to",
+      "y": 0.701,
+      "measuredSize": 38,
+      "style": "plain_white_shadow",
+      "guide": ""
+    },
+    {
+      "id": "l49",
+      "start": 35.8,
+      "end": 36.7,
+      "ref": "always get overwhelmed",
+      "y": 0.698,
+      "measuredSize": 49,
+      "style": "plain_white_shadow",
+      "guide": ""
+    },
+    {
+      "id": "l50",
+      "start": 36.7,
+      "end": 37.4,
+      "ref": "and literally just",
+      "y": 0.698,
+      "measuredSize": 52,
+      "style": "plain_white_shadow",
+      "guide": ""
+    },
+    {
+      "id": "l51",
+      "start": 37.4,
+      "end": 38.1,
+      "ref": "tune out of",
+      "y": 0.701,
+      "measuredSize": 38,
+      "style": "plain_white_shadow",
+      "guide": ""
+    },
+    {
+      "id": "l52",
+      "start": 38.1,
+      "end": 38.767,
+      "ref": "the study session",
+      "y": 0.7,
+      "measuredSize": 39,
+      "style": "plain_white_shadow",
+      "guide": ""
+    },
+    {
+      "id": "l53",
+      "start": 38.767,
+      "end": 39.467,
+      "ref": "and learn nothing then",
+      "y": 0.698,
+      "measuredSize": 49,
+      "style": "plain_white_shadow",
+      "guide": ""
+    },
+    {
+      "id": "l54",
+      "start": 39.467,
+      "end": 39.933,
+      "ref": "I just also",
+      "y": 0.85,
+      "measuredSize": 49,
+      "style": "plain_white_shadow",
+      "guide": ""
+    },
+    {
+      "id": "l55",
+      "start": 39.933,
+      "end": 40.75,
+      "ref": "make sure to",
+      "y": 0.85,
+      "measuredSize": 38,
+      "style": "plain_white_shadow",
+      "guide": ""
+    },
+    {
+      "id": "l56",
+      "start": 40.75,
+      "end": 41.1,
+      "ref": "take a break",
+      "y": 0.85,
+      "measuredSize": 49,
+      "style": "plain_white_shadow",
+      "guide": ""
+    },
+    {
+      "id": "l57",
+      "start": 41.1,
+      "end": 41.833,
+      "ref": "and clear my",
+      "y": 0.85,
+      "measuredSize": 38,
+      "style": "plain_white_shadow",
+      "guide": ""
+    },
+    {
+      "id": "l58",
+      "start": 41.833,
+      "end": 42.467,
+      "ref": "head and finally",
+      "y": 0.698,
+      "measuredSize": 52,
+      "style": "plain_white_shadow",
+      "guide": ""
+    },
+    {
+      "id": "l59",
+      "start": 42.467,
+      "end": 43.0,
+      "ref": "since it's a math",
+      "y": 0.698,
+      "measuredSize": 49,
+      "style": "plain_white_shadow",
+      "guide": ""
+    },
+    {
+      "id": "l60",
+      "start": 43.0,
+      "end": 44.067,
+      "ref": "test I just spam",
+      "y": 0.698,
+      "measuredSize": 49,
+      "style": "plain_white_shadow",
+      "guide": ""
+    },
+    {
+      "id": "l61",
+      "start": 44.067,
+      "end": 44.767,
+      "ref": "practice questions",
+      "y": 0.701,
+      "measuredSize": 38,
+      "style": "plain_white_shadow",
+      "guide": ""
+    },
+    {
+      "id": "l62",
+      "start": 44.767,
+      "end": 45.4,
+      "ref": "to deepen my",
+      "y": 0.701,
+      "measuredSize": 38,
+      "style": "plain_white_shadow",
+      "guide": ""
+    },
+    {
+      "id": "l63",
+      "start": 45.4,
+      "end": 46.1,
+      "ref": "understanding",
+      "y": 0.701,
+      "measuredSize": 38,
+      "style": "plain_white_shadow",
+      "guide": ""
+    },
+    {
+      "id": "l64",
+      "start": 46.1,
+      "end": 47.9,
+      "ref": "my brain is absolutely fried",
+      "y": 0.698,
+      "measuredSize": 52,
+      "style": "plain_white_shadow",
+      "guide": ""
+    },
+    {
+      "id": "l65",
+      "start": 47.9,
+      "end": 49.25,
+      "ref": "but I feel confident",
+      "y": 0.698,
+      "measuredSize": 52,
+      "style": "plain_white_shadow",
+      "guide": ""
+    },
+    {
+      "id": "l66",
+      "start": 49.25,
+      "end": 50.633,
+      "ref": "so I'm just gonna",
+      "y": 0.701,
+      "measuredSize": 38,
+      "style": "plain_white_shadow",
+      "guide": ""
+    },
+    {
+      "id": "l67",
+      "start": 50.633,
+      "end": 51.6,
+      "ref": "go get a big lunch",
+      "y": 0.701,
+      "measuredSize": 66,
+      "style": "plain_white_shadow",
+      "guide": ""
+    },
+    {
+      "id": "l68",
+      "start": 51.6,
+      "end": 52.8,
+      "ref": "with my girlfriend",
+      "y": 0.75,
+      "measuredSize": null,
+      "style": "plain_white_shadow",
+      "guide": ""
+    },
+    {
+      "id": "l69",
+      "start": 52.8,
+      "end": 53.75,
+      "ref": "right before the test",
+      "y": 0.698,
+      "measuredSize": 52,
+      "style": "plain_white_shadow",
+      "guide": ""
+    },
+    {
+      "id": "l70",
+      "start": 53.75,
+      "end": 54.233,
+      "ref": "cause I'm",
+      "y": 0.701,
+      "measuredSize": 38,
+      "style": "plain_white_shadow",
+      "guide": ""
+    },
+    {
+      "id": "l71",
+      "start": 54.233,
+      "end": 55.033,
+      "ref": "fat as hell",
+      "y": 0.782,
+      "measuredSize": 47,
+      "style": "plain_white_shadow",
+      "guide": ""
+    },
+    {
+      "id": "l72",
+      "start": 55.033,
+      "end": 55.8,
+      "ref": "Alright we're here I'm",
+      "y": 0.698,
+      "measuredSize": 52,
+      "style": "plain_white_shadow",
+      "guide": ""
+    },
+    {
+      "id": "l73",
+      "start": 55.8,
+      "end": 56.5,
+      "ref": "kind of sh🙂tting",
+      "y": 0.698,
+      "measuredSize": 52,
+      "style": "plain_white_shadow",
+      "guide": ""
+    },
+    {
+      "id": "l74",
+      "start": 56.5,
+      "end": 57.0,
+      "ref": "my pants",
+      "y": 0.701,
+      "measuredSize": 38,
+      "style": "plain_white_shadow",
+      "guide": ""
+    },
+    {
+      "id": "l75",
+      "start": 57.0,
+      "end": 57.5,
+      "ref": "at this point",
+      "y": 0.689,
+      "measuredSize": 36,
+      "style": "plain_white_shadow",
+      "guide": ""
+    },
+    {
+      "id": "l76",
+      "start": 57.5,
+      "end": 58.7,
+      "ref": "cause I can't",
+      "y": 0.688,
+      "measuredSize": 47,
+      "style": "plain_white_shadow",
+      "guide": ""
+    },
+    {
+      "id": "l77",
+      "start": 58.7,
+      "end": 59.233,
+      "ref": "recall anything",
+      "y": 0.682,
+      "measuredSize": 141,
+      "style": "plain_white_shadow",
+      "guide": ""
+    },
+    {
+      "id": "l78",
+      "start": 59.233,
+      "end": 59.733,
+      "ref": "and cause I had a",
+      "y": 0.687,
+      "measuredSize": 51,
+      "style": "plain_white_shadow",
+      "guide": ""
+    },
+    {
+      "id": "l79",
+      "start": 59.733,
+      "end": 60.3,
+      "ref": "spicy chicken poutine",
+      "y": 0.687,
+      "measuredSize": 51,
+      "style": "plain_white_shadow",
+      "guide": ""
+    },
+    {
+      "id": "l80",
+      "start": 60.3,
+      "end": 61.1,
+      "ref": "from Osmows 🥲",
+      "y": 0.691,
+      "measuredSize": 38,
+      "style": "plain_white_shadow",
+      "guide": ""
+    },
+    {
+      "id": "l81",
+      "start": 61.1,
+      "end": 62.167,
+      "ref": "finished the test",
+      "y": 0.698,
+      "measuredSize": 52,
+      "style": "plain_white_shadow",
+      "guide": ""
+    },
+    {
+      "id": "l82",
+      "start": 62.167,
+      "end": 62.933,
+      "ref": "and I think we",
+      "y": 0.698,
+      "measuredSize": 52,
+      "style": "plain_white_shadow",
+      "guide": ""
+    },
+    {
+      "id": "l83",
+      "start": 62.933,
+      "end": 64.0,
+      "ref": "might have actually",
+      "y": 0.698,
+      "measuredSize": 52,
+      "style": "plain_white_shadow",
+      "guide": ""
+    },
+    {
+      "id": "l84",
+      "start": 64.0,
+      "end": 64.967,
+      "ref": "cooked up a storm",
+      "y": 0.701,
+      "measuredSize": 38,
+      "style": "plain_white_shadow",
+      "guide": ""
+    },
+    {
+      "id": "l85",
+      "start": 64.967,
+      "end": 66.0,
+      "ref": "like the questions",
+      "y": 0.698,
+      "measuredSize": 52,
+      "style": "plain_white_shadow",
+      "guide": ""
+    },
+    {
+      "id": "l86",
+      "start": 66.0,
+      "end": 67.2,
+      "ref": "actually weren't that hard",
+      "y": 0.698,
+      "measuredSize": 52,
+      "style": "plain_white_shadow",
+      "guide": ""
+    },
+    {
+      "id": "l87",
+      "start": 67.2,
+      "end": 68.367,
+      "ref": "the some of the",
+      "y": 0.701,
+      "measuredSize": 38,
+      "style": "plain_white_shadow",
+      "guide": ""
+    },
+    {
+      "id": "l88",
+      "start": 68.367,
+      "end": 68.75,
+      "ref": "questions on",
+      "y": 0.701,
+      "measuredSize": 38,
+      "style": "plain_white_shadow",
+      "guide": ""
+    },
+    {
+      "id": "l89",
+      "start": 68.75,
+      "end": 69.25,
+      "ref": "the practice",
+      "y": 0.701,
+      "measuredSize": 38,
+      "style": "plain_white_shadow",
+      "guide": ""
+    },
+    {
+      "id": "l90",
+      "start": 69.25,
+      "end": 69.767,
+      "ref": "I did was",
+      "y": 0.701,
+      "measuredSize": 38,
+      "style": "plain_white_shadow",
+      "guide": ""
+    },
+    {
+      "id": "l91",
+      "start": 69.767,
+      "end": 70.767,
+      "ref": "actually way harder",
+      "y": 0.698,
+      "measuredSize": 52,
+      "style": "plain_white_shadow",
+      "guide": ""
+    },
+    {
+      "id": "l92",
+      "start": 70.767,
+      "end": 71.8,
+      "ref": "so yeah feels",
+      "y": 0.701,
+      "measuredSize": 38,
+      "style": "plain_white_shadow",
+      "guide": ""
+    },
+    {
+      "id": "l93",
+      "start": 71.8,
+      "end": 72.733,
+      "ref": "pretty good",
+      "y": 0.701,
+      "measuredSize": 38,
+      "style": "plain_white_shadow",
+      "guide": ""
+    },
+    {
+      "id": "l94",
+      "start": 72.733,
+      "end": 73.333,
+      "ref": "but you never",
+      "y": 0.701,
+      "measuredSize": 38,
+      "style": "plain_white_shadow",
+      "guide": ""
+    },
+    {
+      "id": "l95",
+      "start": 73.333,
+      "end": 74.0,
+      "ref": "know I never",
+      "y": 0.701,
+      "measuredSize": 38,
+      "style": "plain_white_shadow",
+      "guide": ""
+    },
+    {
+      "id": "l96",
+      "start": 74.0,
+      "end": 74.867,
+      "ref": "went to class",
+      "y": 0.701,
+      "measuredSize": 38,
+      "style": "plain_white_shadow",
+      "guide": ""
+    },
+    {
+      "id": "l97",
+      "start": 74.867,
+      "end": 76.0,
+      "ref": "so maybe I",
+      "y": 0.698,
+      "measuredSize": 52,
+      "style": "plain_white_shadow",
+      "guide": ""
+    },
+    {
+      "id": "l98",
+      "start": 76.0,
+      "end": 76.75,
+      "ref": "didn't do it",
+      "y": 0.701,
+      "measuredSize": 38,
+      "style": "plain_white_shadow",
+      "guide": ""
+    },
+    {
+      "id": "l99",
+      "start": 76.75,
+      "end": 77.2,
+      "ref": "the way he",
+      "y": 0.701,
+      "measuredSize": 38,
+      "style": "plain_white_shadow",
+      "guide": ""
+    },
+    {
+      "id": "l100",
+      "start": 77.2,
+      "end": 77.75,
+      "ref": "wanted me",
+      "y": 0.701,
+      "measuredSize": 38,
+      "style": "plain_white_shadow",
+      "guide": ""
+    },
+    {
+      "id": "l101",
+      "start": 77.9,
+      "end": 79.0,
+      "ref": "um follow to",
+      "y": 0.698,
+      "measuredSize": 52,
+      "style": "plain_white_shadow",
+      "guide": ""
+    },
+    {
+      "id": "l102",
+      "start": 79.0,
+      "end": 81.133,
+      "ref": "see what I got",
+      "y": 0.699,
+      "measuredSize": 47,
+      "style": "plain_white_shadow",
+      "guide": ""
+    }
+  ],
+  "shots": [
+    {
+      "id": "s1",
+      "start": 0.0,
+      "end": 3.8,
+      "brief": "pacing stressed in a room, then sitting down at a desk (ref: Creator paces frantically around his dorm room, stretches his arms, sits down at his desk, and grabs an Apple Pencil.; tripod)",
+      "line": "l3"
+    },
+    {
+      "id": "s2",
+      "start": 3.8,
+      "end": 7.533,
+      "brief": "talking to camera while holding an iPad or tablet (ref: Talking head shot of creator presenting an iPad showing his 'Secret Technique' study schedule.; tripod)",
+      "line": "l9"
+    },
+    {
+      "id": "s3",
+      "start": 7.533,
+      "end": 11.2,
+      "brief": "pointing at high test score on a computer screen (ref: Close-up of laptop screen displaying a high test grade of 96%.; POV)",
+      "line": "l14"
+    },
+    {
+      "id": "s4",
+      "start": 11.2,
+      "end": 13.533,
+      "brief": "desk setup with study supplies and energy drinks (ref: Side desk view with a squirrel plushie perched on Red Bull cans in the foreground while creator studies in background.; tripod)",
+      "line": "l17"
+    },
+    {
+      "id": "s5",
+      "start": 13.533,
+      "end": 16.833,
+      "brief": "setting a digital timer on an iPad or phone (ref: Close-up on iPad setting a 60-minute countdown timer.; POV)",
+      "line": "l24"
+    },
+    {
+      "id": "s6",
+      "start": 16.833,
+      "end": 19.167,
+      "brief": "scrolling study notes or syllabus on laptop screen (ref: Screen view scrolling down a detailed study outline checklist on a laptop.; POV)",
+      "line": "l28"
+    },
+    {
+      "id": "s7",
+      "start": 19.167,
+      "end": 23.5,
+      "brief": "presenting digital handwritten notes on tablet (ref: Medium shot of creator holding an iPad and flipping through handwriting slides of math definitions.; tripod)",
+      "line": "l32"
+    },
+    {
+      "id": "s8",
+      "start": 23.5,
+      "end": 26.667,
+      "brief": "writing notes intensely on a tablet (ref: Angled desk shot of creator rapidly writing notes on the tablet with a stylus, looking overwhelmed.; tripod)",
+      "line": "l36"
+    },
+    {
+      "id": "s9",
+      "start": 26.667,
+      "end": 32.6,
+      "brief": "thinking and studying at desk (ref: Side view at desk tapping temple with pen and typing on a mechanical keyboard.; tripod)",
+      "line": "l43"
+    },
+    {
+      "id": "s10",
+      "start": 32.6,
+      "end": 35.2,
+      "brief": "talking head showing stress with hands on head (ref: Talking head framing of creator grabbing his hair in distress about feeling 'cooked'.; tripod)",
+      "line": "l47"
+    },
+    {
+      "id": "s11",
+      "start": 35.2,
+      "end": 38.1,
+      "brief": "studying at desk from low keyboard perspective (ref: Desk POV over keyboard showing creator writing on iPad and resting his chin in his hand.; tripod)",
+      "line": "l49"
+    },
+    {
+      "id": "s12",
+      "start": 38.1,
+      "end": 39.467,
+      "brief": "studying at desk from low keyboard perspective (ref: Desk POV over keyboard showing creator writing on iPad and resting his chin in his hand.; tripod)",
+      "line": "l53"
+    },
+    {
+      "id": "s13",
+      "start": 39.467,
+      "end": 41.833,
+      "brief": "typing repeatedly on a computer document (ref: POV of laptop screen with creator repeatedly typing 'I'm cooked'.; POV)",
+      "line": "l55"
+    },
+    {
+      "id": "s14",
+      "start": 41.833,
+      "end": 46.1,
+      "brief": "studying and writing on tablet with headphones on (ref: Side angle shot of creator wearing over-ear headphones and doing math practice problems on tablet.; filmed by friend)",
+      "line": "l60"
+    },
+    {
+      "id": "s15",
+      "start": 46.1,
+      "end": 55.033,
+      "brief": "walking outside in daylight talking to camera (ref: Handheld selfie walking outdoors in daylight talking directly into camera.; selfie)",
+      "line": "l66"
+    },
+    {
+      "id": "s16",
+      "start": 55.033,
+      "end": 61.1,
+      "brief": "sitting in a lecture hall or exam desk POV (ref: POV looking down at exam desk in classroom with tumbler, pencil, and jittery legs.; POV)",
+      "line": "l76"
+    },
+    {
+      "id": "s17",
+      "start": 61.1,
+      "end": 81.133,
+      "brief": "walking outdoors at night talking to camera after an event (ref: Handheld selfie walking at night, smiling and debriefing the exam experience.; selfie)",
+      "line": "l92"
+    }
+  ],
+  "audit": {
+    "kind": "voiceover_over_broll",
+    "creatorSpeaks": true,
+    "audio": "music + speech",
+    "special": [
+      "iPad with Apple Pencil showing math notes/diagrams",
+      "Laptop with syllabus/Notion notes",
+      "University lecture hall desk with exam pen and large tumbler",
+      "Plush toys and Red Bull cans desk prop",
+      "Nighttime outdoor walking selfie location"
+    ],
+    "reusable": false,
+    "notes": "This video relies entirely on an unfolding chronological story with original creator dialogue, specific contextual props (math notes, exam syllabus, lecture hall exam desk), and live reactions before and after taking an actual midterm exam. Generic lifestyle b-roll cannot reproduce this format.",
+    "summary": "A college student shares his intense 3-hour cramming technique to pass a math midterm after missing four weeks of class, walking viewers through his hourly study method, exam room nerves, and post-test recap."
+  },
+  "caption": {
+    "ref": "",
+    "guide": ""
+  },
+  "draft": true
+}

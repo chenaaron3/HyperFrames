@@ -1,0 +1,107 @@
+{
+  "path": "SelfShots/ClimbingGym/Setup/Shoes/IMG_4971.MOV",
+  "folder": "SelfShots/ClimbingGym/Setup/Shoes",
+  "fingerprint": "3ebe96052c41d874",
+  "width": 1080,
+  "height": 1920,
+  "fps": 30.0,
+  "duration": 47.237,
+  "model": "gemini-3.8-flash",
+  "annotatedAt": "2026-10-24T18:54:15+00:00",
+  "summary": "A young man enters the lobby area of a climbing gym, sets down his backpack on a wooden bench, unpacks his climbing shoes and chalk bag, takes off his coat, and prepares for a session.",
+  "location": "climbing gym",
+  "setting": "indoor",
+  "time_of_day": "indoor_unknown",
+  "weather": "n/a",
+  "people": {
+    "count": 1,
+    "creator_visible": true,
+    "description": "Young East Asian man wearing a long black coat over a brown collared short-sleeve shirt and dark pants"
+  },
+  "camera": {
+    "style": "tripod_static",
+    "framing": "medium",
+    "movement": "static",
+    "angle": "eye level"
+  },
+  "quality": {
+    "usable": true,
+    "stability": "locked",
+    "exposure": "good",
+    "issues": ""
+  },
+  "mood": [
+    "focused",
+    "anticipation",
+    "routine",
+    "casual"
+  ],
+  "energy": "low",
+  "tags": [
+    "climbing gym",
+    "bouldering",
+    "setup",
+    "climbing shoes",
+    "chalk bag",
+    "unpacking",
+    "pre-workout",
+    "routine",
+    "coat",
+    "backpack",
+    "sports preparation",
+    "active lifestyle"
+  ],
+  "moments": [
+    {
+      "start": 2.0,
+      "end": 5.0,
+      "action": "Creator walks into frame and places his black backpack onto the wooden bench",
+      "emotion": "calm routine",
+      "good_for": [
+        "showing up",
+        "gym routine",
+        "after work unwind",
+        "making time for yourself"
+      ],
+      "score": 3
+    },
+    {
+      "start": 10.5,
+      "end": 14.5,
+      "action": "Creator pulls a yellow chalk bag and yellow climbing shoes out of his bag and lines them up on the bench",
+      "emotion": "focused preparation",
+      "good_for": [
+        "climbing essentials",
+        "gear check",
+        "hobby time",
+        "getting ready to climb"
+      ],
+      "score": 4
+    },
+    {
+      "start": 33.0,
+      "end": 39.0,
+      "action": "Creator slips off his long black trench coat to reveal his gym shirt underneath",
+      "emotion": "ready to move",
+      "good_for": [
+        "transitioning from work to play",
+        "locking in",
+        "switch modes",
+        "workout prep"
+      ],
+      "score": 3
+    },
+    {
+      "start": 41.5,
+      "end": 46.5,
+      "action": "Creator places his folded coat onto his backpack and walks out of frame leaving the gear staged on the bench",
+      "emotion": "settled",
+      "good_for": [
+        "time to send",
+        "climbing day",
+        "clean setup aesthetic"
+      ],
+      "score": 4
+    }
+  ]
+}

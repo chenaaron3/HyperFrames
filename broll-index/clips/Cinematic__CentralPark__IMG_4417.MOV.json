@@ -1,0 +1,68 @@
+{
+  "path": "Cinematic/CentralPark/IMG_4417.MOV",
+  "folder": "Cinematic/CentralPark",
+  "fingerprint": "07b93e7193e9118a",
+  "width": 1080,
+  "height": 1920,
+  "fps": 30.0,
+  "duration": 1.833,
+  "model": "gemini-3.8-flash",
+  "annotatedAt": "2026-10-24T18:17:43+00:00",
+  "summary": "A close static shot of an outdoor art cart in Central Park displaying scenic cityscape paintings of New York City.",
+  "location": "park",
+  "setting": "outdoor",
+  "time_of_day": "day",
+  "weather": "sunny",
+  "people": {
+    "count": 0,
+    "creator_visible": false,
+    "description": "No people visible."
+  },
+  "camera": {
+    "style": "pov_first_person",
+    "framing": "medium",
+    "movement": "static",
+    "angle": "eye level"
+  },
+  "quality": {
+    "usable": true,
+    "stability": "steady",
+    "exposure": "good",
+    "issues": ""
+  },
+  "mood": [
+    "peaceful",
+    "artistic",
+    "nostalgic"
+  ],
+  "energy": "low",
+  "tags": [
+    "central park",
+    "new york city",
+    "nyc art",
+    "paintings",
+    "skyline",
+    "manhattan",
+    "cart",
+    "pond",
+    "sunny",
+    "city life",
+    "outdoor market"
+  ],
+  "moments": [
+    {
+      "start": 0.0,
+      "end": 1.83,
+      "action": "Steady view of an art display cart featuring aerial perspective paintings of New York City next to a park pond",
+      "emotion": "calm",
+      "good_for": [
+        "falling in love with nyc",
+        "city walking",
+        "local artists",
+        "central park strolls",
+        "concrete jungle dreams"
+      ],
+      "score": 3
+    }
+  ]
+}

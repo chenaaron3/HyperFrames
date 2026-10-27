@@ -1,0 +1,92 @@
+{
+  "id": "easy-6",
+  "name": "🧠: I'm still young I have time...",
+  "reference": "references/viral-formats/easy-6.mp4",
+  "source": "/Users/aaron/Downloads/100 Viral Formats (Format Book)/Easy to use format/#6/#6.mp4",
+  "duration": 12.9,
+  "music": {
+    "from": "reference",
+    "title": "Original Audio"
+  },
+  "text": {
+    "y": 0.49,
+    "size": 46,
+    "weight": 700,
+    "lineHeight": 1.4,
+    "maxWidth": 900,
+    "style": "outline"
+  },
+  "lines": [
+    {
+      "id": "l1",
+      "start": 0.0,
+      "end": 7.7,
+      "ref": "🧠: I'm still young I have time...",
+      "y": 0.49,
+      "measuredSize": null,
+      "style": "plain_white_shadow",
+      "guide": ""
+    },
+    {
+      "id": "l2",
+      "start": 7.7,
+      "end": 12.9,
+      "ref": "🫀: I wish I would've started earlier",
+      "y": 0.49,
+      "measuredSize": null,
+      "style": "plain_white_shadow",
+      "guide": ""
+    }
+  ],
+  "shots": [
+    {
+      "id": "s1",
+      "start": 0.0,
+      "end": 8.8,
+      "brief": "warming up or stretching before a workout (ref: Woman stretching her shoulders with a red resistance band in a dim gym, then rolling it up and adjusting her oversized hoodie; tripod)",
+      "line": "l1"
+    },
+    {
+      "id": "s2",
+      "start": 8.8,
+      "end": 9.7,
+      "brief": "running on a treadmill or track (ref: Low angle tracking shot of running on a gym treadmill; tripod)",
+      "line": "l2"
+    },
+    {
+      "id": "s3",
+      "start": 9.7,
+      "end": 10.633,
+      "brief": "taking off warm-up layers or tying athletic shoes (ref: Low-angle shot in a locker room stripping off sweatpants before a workout; tripod)",
+      "line": "l2"
+    },
+    {
+      "id": "s4",
+      "start": 10.633,
+      "end": 11.467,
+      "brief": "cycling or cardio exercise machine (ref: Rear view of woman pedaling on a stationary spin bike; tripod)",
+      "line": "l2"
+    },
+    {
+      "id": "s5",
+      "start": 11.467,
+      "end": 12.9,
+      "brief": "POV climbing stairs or stairmaster (ref: POV looking down at feet climbing steps on a stairmaster; POV)",
+      "line": "l2"
+    }
+  ],
+  "audit": {
+    "kind": "broll_with_text",
+    "creatorSpeaks": false,
+    "audio": "music only",
+    "special": [],
+    "reusable": true,
+    "notes": "Perfect format for any fitness, climbing, or self-improvement b-roll library. Pair 1 longer contemplative shot (stretching/chalking up) with 6-7 rapid 0.5-second cuts of intense training (bouldering, hangboard, lifting, running).",
+    "summary": "A fitness motivation reel contrasting casual procrastination thoughts with the regret of not starting earlier, set over a montage of gym training clips."
+  },
+  "caption": {
+    "ref": "",
+    "guide": ""
+  },
+  "draft": true
+}

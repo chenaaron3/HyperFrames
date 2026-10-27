@@ -1,0 +1,66 @@
+{
+  "path": "OneOffs/Apartments/LES/197 East 3rd St/IMG_4104.MOV",
+  "folder": "OneOffs/Apartments/LES/197 East 3rd St",
+  "fingerprint": "bd9c4e24d476f98a",
+  "width": 1080,
+  "height": 1920,
+  "fps": 29.97,
+  "duration": 3.502,
+  "model": "gemini-3.8-flash",
+  "annotatedAt": "2026-10-24T18:21:01+00:00",
+  "summary": "First-person walkthrough panning from an apartment kitchenette counter towards the open front door showing unit number 2 and the hallway.",
+  "location": "apartment",
+  "setting": "indoor",
+  "time_of_day": "indoor_unknown",
+  "weather": "n/a",
+  "people": {
+    "count": 0,
+    "creator_visible": false,
+    "description": "No people visible"
+  },
+  "camera": {
+    "style": "pov_first_person",
+    "framing": "medium",
+    "movement": "pan",
+    "angle": "eye level"
+  },
+  "quality": {
+    "usable": true,
+    "stability": "handheld",
+    "exposure": "good",
+    "issues": "slight motion blur while turning"
+  },
+  "mood": [
+    "neutral",
+    "curious",
+    "anticipatory"
+  ],
+  "energy": "low",
+  "tags": [
+    "apartment tour",
+    "new apartment",
+    "front door",
+    "kitchenette",
+    "cabinets",
+    "hallway",
+    "nyc apartment",
+    "lower east side",
+    "moving in",
+    "real estate"
+  ],
+  "moments": [
+    {
+      "start": 0.0,
+      "end": 3.5,
+      "action": "Camera pans right from the kitchen counter and cabinets to an open apartment front door numbered 2",
+      "emotion": "anticipatory",
+      "good_for": [
+        "moving into my first apartment",
+        "apartment hunting in NYC",
+        "new beginnings",
+        "place of my own"
+      ],
+      "score": 3
+    }
+  ]
+}

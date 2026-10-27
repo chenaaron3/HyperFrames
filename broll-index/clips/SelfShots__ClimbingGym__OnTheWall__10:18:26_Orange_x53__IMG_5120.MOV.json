@@ -1,0 +1,95 @@
+{
+  "path": "SelfShots/ClimbingGym/OnTheWall/10:18:26_Orange_x53/IMG_5120.MOV",
+  "folder": "SelfShots/ClimbingGym/OnTheWall/10:18:26_Orange_x53",
+  "fingerprint": "0c8097eda808b5de",
+  "width": 1080,
+  "height": 1920,
+  "fps": 30.0,
+  "duration": 22.968,
+  "model": "gemini-3.8-flash",
+  "annotatedAt": "2026-10-24T18:42:24+00:00",
+  "summary": "A young man climbs an indoor bouldering wall, navigating up toward a large blue volume before slipping and falling onto the crash mat.",
+  "location": "climbing gym",
+  "setting": "indoor",
+  "time_of_day": "indoor_unknown",
+  "weather": "n/a",
+  "people": {
+    "count": 1,
+    "creator_visible": true,
+    "description": "Young man with dark wavy hair wearing a grey tank top and baggy denim pants"
+  },
+  "camera": {
+    "style": "tripod_static",
+    "framing": "wide",
+    "movement": "static",
+    "angle": "eye level"
+  },
+  "quality": {
+    "usable": true,
+    "stability": "locked",
+    "exposure": "good",
+    "issues": ""
+  },
+  "mood": [
+    "athletic",
+    "focused",
+    "challenging",
+    "active"
+  ],
+  "energy": "medium",
+  "tags": [
+    "bouldering",
+    "rock climbing",
+    "climbing gym",
+    "indoor climbing",
+    "fitness",
+    "workout",
+    "training",
+    "sports",
+    "fail",
+    "falling",
+    "climbing wall",
+    "holds"
+  ],
+  "moments": [
+    {
+      "start": 4.5,
+      "end": 11.5,
+      "action": "Man starts the bouldering route and climbs up the lower section of holds",
+      "emotion": "focused",
+      "good_for": [
+        "trusting the process",
+        "starting a new hobby",
+        "climbing progression",
+        "workout routine"
+      ],
+      "score": 4
+    },
+    {
+      "start": 11.5,
+      "end": 17.5,
+      "action": "Man balances and steps up onto a large blue semicircular volume while reaching for higher grips",
+      "emotion": "determined",
+      "good_for": [
+        "almost there",
+        "stepping out of comfort zone",
+        "pushing limits",
+        "staying focused"
+      ],
+      "score": 4
+    },
+    {
+      "start": 17.5,
+      "end": 19.5,
+      "action": "Man slips off the top holds and falls backward onto the mat",
+      "emotion": "surprised",
+      "good_for": [
+        "so close yet so far",
+        "learning from failure",
+        "trusting the fall",
+        "try again tomorrow"
+      ],
+      "score": 4
+    }
+  ]
+}

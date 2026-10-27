@@ -1,0 +1,83 @@
+{
+  "path": "OneOffs/RainyDayArmanRishi/IMG_4631.MOV",
+  "folder": "OneOffs/RainyDayArmanRishi",
+  "fingerprint": "ec28d7ef1151457b",
+  "width": 1080,
+  "height": 1920,
+  "fps": 30.0,
+  "duration": 6.565,
+  "model": "gemini-3.8-flash",
+  "annotatedAt": "2026-10-24T18:36:22+00:00",
+  "summary": "A young man walks up the stoop into a cozy brownstone tea shop, and the camera pans over to the shop's front window display.",
+  "location": "city street",
+  "setting": "outdoor",
+  "time_of_day": "day",
+  "weather": "overcast",
+  "people": {
+    "count": 1,
+    "creator_visible": true,
+    "description": "Young man with short dark hair wearing a black jacket and grey pants walking into a shop."
+  },
+  "camera": {
+    "style": "filmed_by_friend",
+    "framing": "medium",
+    "movement": "pan",
+    "angle": "eye level"
+  },
+  "quality": {
+    "usable": true,
+    "stability": "handheld",
+    "exposure": "good",
+    "issues": ""
+  },
+  "mood": [
+    "cozy",
+    "peaceful",
+    "chill",
+    "urban"
+  ],
+  "energy": "low",
+  "tags": [
+    "tea shop",
+    "cafe",
+    "brownstone",
+    "nyc",
+    "stoop",
+    "manhattan",
+    "walking",
+    "coffee run",
+    "hidden gem",
+    "city life",
+    "plants",
+    "aesthetic"
+  ],
+  "moments": [
+    {
+      "start": 0.0,
+      "end": 2.5,
+      "action": "Man walks up the brownstone steps past potted pine trees to enter the tea shop door.",
+      "emotion": "relaxed",
+      "good_for": [
+        "favorite local spot",
+        "coffee run",
+        "rainy day routine",
+        "finding hidden gems",
+        "weekend errands"
+      ],
+      "score": 4
+    },
+    {
+      "start": 2.8,
+      "end": 6.5,
+      "action": "Camera pans right to reveal the tea shop's large glass window with yellow flowers and a teapot motif.",
+      "emotion": "cozy",
+      "good_for": [
+        "romanticizing your life",
+        "cozy cafe aesthetic",
+        "tea time",
+        "peaceful afternoons"
+      ],
+      "score": 3
+    }
+  ]
+}

@@ -1,0 +1,91 @@
+{
+  "path": "OneOffs/Apartments/MurrayHills/150 East 39th Street/IMG_4215.MOV",
+  "folder": "OneOffs/Apartments/MurrayHills/150 East 39th Street",
+  "fingerprint": "441a57ccc99573e1",
+  "width": 1080,
+  "height": 1920,
+  "fps": 30.0,
+  "duration": 11.233,
+  "model": "gemini-3.8-flash",
+  "annotatedAt": "2026-10-24T18:21:58+00:00",
+  "summary": "A handheld walkthrough tour showing an apartment building basement, featuring the communal laundry room, a hallway with someone walking past, and the recycling/trash bin room.",
+  "location": "apartment building basement",
+  "setting": "indoor",
+  "time_of_day": "indoor_unknown",
+  "weather": "n/a",
+  "people": {
+    "count": 1,
+    "creator_visible": true,
+    "description": "A woman with dark hair in a low bun wearing a black leather jacket and dark pants, walking past the doorway"
+  },
+  "camera": {
+    "style": "pov_first_person",
+    "framing": "medium",
+    "movement": "pan",
+    "angle": "eye level"
+  },
+  "quality": {
+    "usable": true,
+    "stability": "handheld",
+    "exposure": "good",
+    "issues": "Quick whip pans and camera motion blur between rooms"
+  },
+  "mood": [
+    "mundane",
+    "practical",
+    "urban",
+    "documentary"
+  ],
+  "energy": "medium",
+  "tags": [
+    "laundry room",
+    "washing machines",
+    "apartment tour",
+    "basement",
+    "trash room",
+    "nyc apartment",
+    "chores",
+    "appliances",
+    "amenities",
+    "walking"
+  ],
+  "moments": [
+    {
+      "start": 0.0,
+      "end": 4.5,
+      "action": "Camera pans across the communal laundry room lined with white front-load washing machines",
+      "emotion": "neutral",
+      "good_for": [
+        "apartment hunting checklist",
+        "in-building laundry",
+        "adulting chores",
+        "nyc living reality"
+      ],
+      "score": 3
+    },
+    {
+      "start": 7.0,
+      "end": 8.5,
+      "action": "A woman in a black leather jacket walks briskly past the doorway in the basement hallway",
+      "emotion": "focused",
+      "good_for": [
+        "on the go",
+        "city errands",
+        "heading out"
+      ],
+      "score": 3
+    },
+    {
+      "start": 8.5,
+      "end": 10.5,
+      "action": "Camera reveals the organized building trash and recycling room with labeled plastic bins",
+      "emotion": "neutral",
+      "good_for": [
+        "apartment building amenities",
+        "recycling area",
+        "apartment tour details"
+      ],
+      "score": 2
+    }
+  ]
+}

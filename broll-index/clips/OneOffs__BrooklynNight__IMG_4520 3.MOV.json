@@ -1,0 +1,69 @@
+{
+  "path": "OneOffs/BrooklynNight/IMG_4520 3.MOV",
+  "folder": "OneOffs/BrooklynNight",
+  "fingerprint": "029f118f5e0f8b5c",
+  "width": 1080,
+  "height": 1920,
+  "fps": 29.97,
+  "duration": 2.533,
+  "model": "gemini-3.8-flash",
+  "annotatedAt": "2026-10-24T18:22:44+00:00",
+  "summary": "Customers stand at the black marble checkout counter in front of a golden Kith logo inside a retail store.",
+  "location": "clothing store",
+  "setting": "indoor",
+  "time_of_day": "indoor_unknown",
+  "weather": "n/a",
+  "people": {
+    "count": 3,
+    "creator_visible": false,
+    "description": "A staff member behind the counter and two shoppers waiting at the register with their backs to the camera"
+  },
+  "camera": {
+    "style": "pov_first_person",
+    "framing": "medium",
+    "movement": "static",
+    "angle": "eye level"
+  },
+  "quality": {
+    "usable": true,
+    "stability": "steady",
+    "exposure": "good",
+    "issues": ""
+  },
+  "mood": [
+    "trendy",
+    "urban",
+    "casual",
+    "luxurious"
+  ],
+  "energy": "low",
+  "tags": [
+    "kith",
+    "shopping",
+    "retail",
+    "streetwear",
+    "fashion",
+    "store",
+    "brooklyn",
+    "new york",
+    "boutique",
+    "counter",
+    "marble",
+    "errands"
+  ],
+  "moments": [
+    {
+      "start": 0.0,
+      "end": 2.53,
+      "action": "Customers stand at the Kith marble counter while being assisted by store staff under the golden emblem",
+      "emotion": "calm",
+      "good_for": [
+        "retail therapy",
+        "shopping day",
+        "city errands",
+        "treating myself"
+      ],
+      "score": 3
+    }
+  ]
+}

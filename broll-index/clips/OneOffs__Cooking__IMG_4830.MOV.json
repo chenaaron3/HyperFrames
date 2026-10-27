@@ -1,0 +1,109 @@
+{
+  "path": "OneOffs/Cooking/IMG_4830.MOV",
+  "folder": "OneOffs/Cooking",
+  "fingerprint": "c3de15d034c039b3",
+  "width": 1080,
+  "height": 1920,
+  "fps": 30.0,
+  "duration": 42.77,
+  "model": "gemini-3.8-flash",
+  "annotatedAt": "2026-10-24T18:34:21+00:00",
+  "summary": "First-person POV of cooking ground meat in a skillet on a gas stove, adding chopped fresh herbs and stirring with a metal spatula.",
+  "location": "kitchen",
+  "setting": "indoor",
+  "time_of_day": "indoor_unknown",
+  "weather": "n/a",
+  "people": {
+    "count": 1,
+    "creator_visible": false,
+    "description": "Person's hands and forearm visible wearing a silver bracelet while cooking"
+  },
+  "camera": {
+    "style": "pov_first_person",
+    "framing": "close",
+    "movement": "handheld",
+    "angle": "high angle"
+  },
+  "quality": {
+    "usable": true,
+    "stability": "steady",
+    "exposure": "good",
+    "issues": ""
+  },
+  "mood": [
+    "calm",
+    "domestic",
+    "productive",
+    "satisfying"
+  ],
+  "energy": "medium",
+  "tags": [
+    "cooking",
+    "kitchen",
+    "meal prep",
+    "stir fry",
+    "ground chicken",
+    "herbs",
+    "basil",
+    "skillet",
+    "wok",
+    "gas stove",
+    "dinner prep",
+    "home cooked",
+    "foodie"
+  ],
+  "moments": [
+    {
+      "start": 0.5,
+      "end": 3.5,
+      "action": "Dropping a generous handful of chopped green herbs into the sizzling ground meat in the pan",
+      "emotion": "focused",
+      "good_for": [
+        "cooking from scratch",
+        "adding fresh ingredients",
+        "home cooked meals",
+        "healthy routines"
+      ],
+      "score": 5
+    },
+    {
+      "start": 6.5,
+      "end": 10.5,
+      "action": "Starting to stir and fold the fresh green herbs into the hot meat with a metal spatula",
+      "emotion": "calm",
+      "good_for": [
+        "dinner time",
+        "food on my plate",
+        "unwinding by cooking",
+        "kitchen therapy"
+      ],
+      "score": 4
+    },
+    {
+      "start": 13.0,
+      "end": 18.0,
+      "action": "Vigorously tossing and stir-frying the meat and herbs as steam rises",
+      "emotion": "productive",
+      "good_for": [
+        "quick weeknight dinner",
+        "healthy eating habits",
+        "cooking skills",
+        "daily life"
+      ],
+      "score": 4
+    },
+    {
+      "start": 35.0,
+      "end": 41.5,
+      "action": "Finishing stirring the well-combined stir fry and resting the metal spatula in the pan",
+      "emotion": "satisfied",
+      "good_for": [
+        "dinner is ready",
+        "nourishing meals",
+        "cozy evening routine",
+        "food prep done"
+      ],
+      "score": 4
+    }
+  ]
+}

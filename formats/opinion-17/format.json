@@ -1,0 +1,56 @@
+{
+  "id": "opinion-17",
+  "name": "You vs. You",
+  "reference": "references/viral-formats/opinion-17.mp4",
+  "source": "/Users/aaron/Downloads/100 Viral Formats (Format Book)/Opinion/#17/#17.mp4",
+  "duration": 10.7,
+  "music": {
+    "from": "reference",
+    "title": "END OF BEGINNING (SHILOHS VERSION)"
+  },
+  "text": {
+    "y": 0.529,
+    "size": 46,
+    "weight": 700,
+    "lineHeight": 1.4,
+    "maxWidth": 900,
+    "style": "outline"
+  },
+  "lines": [
+    {
+      "id": "l1",
+      "start": 0.0,
+      "end": 10.7,
+      "ref": "You vs. You",
+      "y": 0.529,
+      "measuredSize": 34,
+      "style": "plain_white_shadow",
+      "guide": ""
+    }
+  ],
+  "shots": [
+    {
+      "id": "s1",
+      "start": 0.0,
+      "end": 10.7,
+      "brief": "locked-off tripod shot with composited ghost overlay racing yourself (ref: Static locked-off shot of a running track. A runner stops, looks back as a transparent clone of himself sprints past, and then starts sprinting alongside his ghost self.; tripod)",
+      "line": "l1"
+    }
+  ],
+  "audit": {
+    "kind": "broll_with_text",
+    "creatorSpeaks": false,
+    "audio": "music only",
+    "special": [
+      "Locked-off tripod composite shot filmed twice in the same setting (one run overlayed with lowered opacity to create a ghost clone)"
+    ],
+    "reusable": false,
+    "notes": "This visual trick requires a locked-off tripod setup filmed twice in identical conditions so one clip can be layered over the other with reduced opacity. It cannot be recreated using generic handheld lifestyle b-roll.",
+    "summary": "A runner on an outdoor track begins racing against a translucent 'ghost' clone of himself, visually representing 'You vs. You'."
+  },
+  "caption": {
+    "ref": "",
+    "guide": ""
+  },
+  "draft": true
+}

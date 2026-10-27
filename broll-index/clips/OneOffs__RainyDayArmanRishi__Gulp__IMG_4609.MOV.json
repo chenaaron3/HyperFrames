@@ -1,0 +1,70 @@
+{
+  "path": "OneOffs/RainyDayArmanRishi/Gulp/IMG_4609.MOV",
+  "folder": "OneOffs/RainyDayArmanRishi/Gulp",
+  "fingerprint": "ca8d813c1b25273c",
+  "width": 1080,
+  "height": 1920,
+  "fps": 29.97,
+  "duration": 2.067,
+  "model": "gemini-3.8-flash",
+  "annotatedAt": "2026-10-24T18:35:41+00:00",
+  "summary": "A close-up shot of a bowl of braised pork rice topped with pickled radish and a boiled egg, sitting on a green marble restaurant table.",
+  "location": "restaurant",
+  "setting": "indoor",
+  "time_of_day": "indoor_unknown",
+  "weather": "n/a",
+  "people": {
+    "count": 0,
+    "creator_visible": false,
+    "description": "No people visible on screen."
+  },
+  "camera": {
+    "style": "pov_first_person",
+    "framing": "close",
+    "movement": "static",
+    "angle": "high angle"
+  },
+  "quality": {
+    "usable": true,
+    "stability": "steady",
+    "exposure": "good",
+    "issues": ""
+  },
+  "mood": [
+    "cozy",
+    "casual",
+    "satisfying",
+    "appetizing"
+  ],
+  "energy": "low",
+  "tags": [
+    "food",
+    "braised pork rice",
+    "lu rou fan",
+    "asian food",
+    "restaurant",
+    "dinner",
+    "lunch",
+    "comfort food",
+    "table",
+    "marble",
+    "pickled radish",
+    "boiled egg"
+  ],
+  "moments": [
+    {
+      "start": 0.0,
+      "end": 2.07,
+      "action": "A steady close-up shot of a bowl of braised pork over rice with a half egg and pickled radish on a green marble table.",
+      "emotion": "calm",
+      "good_for": [
+        "food on my plate",
+        "comfort meal",
+        "eating good food",
+        "little daily joys",
+        "dinner dates"
+      ],
+      "score": 4
+    }
+  ]
+}

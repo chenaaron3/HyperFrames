@@ -1,0 +1,69 @@
+{
+  "path": "Cinematic/Chinatown/IMG_4779.mov",
+  "folder": "Cinematic/Chinatown",
+  "fingerprint": "b3d3d5722fea7479",
+  "width": 1080,
+  "height": 1920,
+  "fps": 30.0,
+  "duration": 4.6,
+  "model": "gemini-3.8-flash",
+  "annotatedAt": "2026-10-24T18:19:17+00:00",
+  "summary": "A street view looking down a bustling road in Chinatown on an overcast day, showing pedestrians on sidewalks, parked vehicles, and overhead signs.",
+  "location": "city street",
+  "setting": "outdoor",
+  "time_of_day": "day",
+  "weather": "overcast",
+  "people": {
+    "count": 20,
+    "creator_visible": false,
+    "description": "Pedestrians walking along sidewalks and crossing the street in a busy urban neighborhood"
+  },
+  "camera": {
+    "style": "pov_first_person",
+    "framing": "wide",
+    "movement": "static",
+    "angle": "eye level"
+  },
+  "quality": {
+    "usable": true,
+    "stability": "steady",
+    "exposure": "good",
+    "issues": ""
+  },
+  "mood": [
+    "urban",
+    "calm",
+    "atmospheric",
+    "moody"
+  ],
+  "energy": "low",
+  "tags": [
+    "chinatown",
+    "new york city",
+    "manhattan",
+    "city street",
+    "street photography",
+    "cloudy day",
+    "urban aesthetic",
+    "pedestrians",
+    "traffic",
+    "city vibes",
+    "downtown"
+  ],
+  "moments": [
+    {
+      "start": 0.0,
+      "end": 4.6,
+      "action": "A static wide view looking straight down a Chinatown street with pedestrians and stopped traffic under an overcast sky",
+      "emotion": "calm",
+      "good_for": [
+        "city wandering",
+        "rainy day aesthetic",
+        "new york moments",
+        "exploring the city",
+        "peace in the chaos"
+      ],
+      "score": 3
+    }
+  ]
+}

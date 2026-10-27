@@ -1,0 +1,54 @@
+{
+  "id": "opinion-18",
+  "name": "My toxic trait is loving my alone time a little too much",
+  "reference": "references/viral-formats/opinion-18.mp4",
+  "source": "/Users/aaron/Downloads/100 Viral Formats (Format Book)/Opinion/#18/#18.mp4",
+  "duration": 6.9,
+  "music": {
+    "from": "reference",
+    "title": "Aphex Twin - QKThr"
+  },
+  "text": {
+    "y": 0.305,
+    "size": 46,
+    "weight": 700,
+    "lineHeight": 1.4,
+    "maxWidth": 900,
+    "style": "outline"
+  },
+  "lines": [
+    {
+      "id": "l1",
+      "start": 0.0,
+      "end": 6.9,
+      "ref": "My toxic trait is loving my alone\ntime a little too much",
+      "y": 0.305,
+      "measuredSize": 46,
+      "style": "plain_white_shadow",
+      "guide": ""
+    }
+  ],
+  "shots": [
+    {
+      "id": "s1",
+      "start": 0.0,
+      "end": 6.9,
+      "brief": "wide shot chilling alone at home or cooking in apartment at night (ref: Static wide shot looking through an apartment living space into the warmly lit kitchen and dining nook as a woman moves around preparing food in solitude.; tripod)",
+      "line": "l1"
+    }
+  ],
+  "audit": {
+    "kind": "broll_with_text",
+    "creatorSpeaks": false,
+    "audio": "music only",
+    "special": [],
+    "reusable": true,
+    "notes": "Can be easily recreated with any atmospheric clip of spending peaceful solo time at home, such as cooking dinner, making coffee, or relaxing in an apartment at night.",
+    "summary": "A wide, cozy shot of an apartment in the evening where the creator moves around the kitchen and dining area, paired with relatable text about loving alone time."
+  },
+  "caption": {
+    "ref": "",
+    "guide": ""
+  },
+  "draft": true
+}

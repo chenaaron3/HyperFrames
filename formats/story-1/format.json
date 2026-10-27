@@ -1,0 +1,718 @@
+{
+  "id": "story-1",
+  "name": "“You need jaw surgery”",
+  "reference": "references/viral-formats/story-1.mp4",
+  "source": "/Users/aaron/Downloads/100 Viral Formats (Format Book)/Storytelling/#1/#1.mp4",
+  "duration": 68.1,
+  "music": {
+    "from": "reference",
+    "title": "Attached in this same google drive folder (#1 audio)"
+  },
+  "text": {
+    "y": 0.233,
+    "size": 46,
+    "weight": 700,
+    "lineHeight": 1.4,
+    "maxWidth": 900,
+    "style": "outline"
+  },
+  "lines": [
+    {
+      "id": "l1",
+      "start": 0.0,
+      "end": 3.0,
+      "ref": "“You need jaw surgery”",
+      "y": 0.233,
+      "measuredSize": 45,
+      "style": "plain_white_shadow",
+      "guide": ""
+    },
+    {
+      "id": "l2",
+      "start": 3.0,
+      "end": 6.8,
+      "ref": "I stopped smiling",
+      "y": 0.117,
+      "measuredSize": 26,
+      "style": "plain_white_shadow",
+      "guide": ""
+    },
+    {
+      "id": "l3",
+      "start": 6.8,
+      "end": 9.333,
+      "ref": "Struggled with confidence\nthoughout dental school",
+      "y": 0.454,
+      "measuredSize": 41,
+      "style": "plain_white_shadow",
+      "guide": ""
+    },
+    {
+      "id": "l4",
+      "start": 9.333,
+      "end": 12.2,
+      "ref": "My parents took me to\nseveral doctors",
+      "y": 0.229,
+      "measuredSize": 36,
+      "style": "plain_white_shadow",
+      "guide": ""
+    },
+    {
+      "id": "l5",
+      "start": 12.2,
+      "end": 14.2,
+      "ref": "made plans to\nbreak my jaws",
+      "y": 0.418,
+      "measuredSize": 30,
+      "style": "plain_white_shadow",
+      "guide": ""
+    },
+    {
+      "id": "l6",
+      "start": 14.2,
+      "end": 17.3,
+      "ref": "I was scared but put on\na brave face",
+      "y": 0.448,
+      "measuredSize": 44,
+      "style": "plain_white_shadow",
+      "guide": ""
+    },
+    {
+      "id": "l7",
+      "start": 17.3,
+      "end": 19.167,
+      "ref": "I struggled alone",
+      "y": 0.5,
+      "measuredSize": 33,
+      "style": "plain_white_shadow",
+      "guide": ""
+    },
+    {
+      "id": "l8",
+      "start": 19.167,
+      "end": 21.867,
+      "ref": "Until I met my\northodontist",
+      "y": 0.486,
+      "measuredSize": 35,
+      "style": "plain_white_shadow",
+      "guide": ""
+    },
+    {
+      "id": "l9",
+      "start": 21.867,
+      "end": 24.0,
+      "ref": "I slowly rebuilt\nmy confidence",
+      "y": 0.274,
+      "measuredSize": 48,
+      "style": "plain_white_shadow",
+      "guide": ""
+    },
+    {
+      "id": "l10",
+      "start": 24.0,
+      "end": 25.767,
+      "ref": "Got my smile back",
+      "y": 0.213,
+      "measuredSize": 47,
+      "style": "plain_white_shadow",
+      "guide": ""
+    },
+    {
+      "id": "l11",
+      "start": 25.767,
+      "end": 27.467,
+      "ref": "Graduated from\ndental school",
+      "y": 0.231,
+      "measuredSize": 44,
+      "style": "plain_white_shadow",
+      "guide": ""
+    },
+    {
+      "id": "l12",
+      "start": 27.467,
+      "end": 29.233,
+      "ref": "Accepted to orthodontics\nspecialty training",
+      "y": 0.241,
+      "measuredSize": 41,
+      "style": "plain_white_shadow",
+      "guide": ""
+    },
+    {
+      "id": "l13",
+      "start": 29.233,
+      "end": 30.467,
+      "ref": "Graduated as an\northodontist",
+      "y": 0.183,
+      "measuredSize": 45,
+      "style": "plain_white_shadow",
+      "guide": ""
+    },
+    {
+      "id": "l14",
+      "start": 30.467,
+      "end": 31.567,
+      "ref": "And then...",
+      "y": 0.215,
+      "measuredSize": 33,
+      "style": "plain_white_shadow",
+      "guide": ""
+    },
+    {
+      "id": "l15",
+      "start": 31.567,
+      "end": 33.467,
+      "ref": "1. I perfected my skills",
+      "y": 0.061,
+      "measuredSize": 67,
+      "style": "plain_white_shadow",
+      "guide": ""
+    },
+    {
+      "id": "l16",
+      "start": 33.467,
+      "end": 35.6,
+      "ref": "2. I empathised\nwith patients",
+      "y": 0.19,
+      "measuredSize": 142,
+      "style": "plain_white_shadow",
+      "guide": ""
+    },
+    {
+      "id": "l17",
+      "start": 35.6,
+      "end": 37.467,
+      "ref": "3. I dared to dream",
+      "y": 0.289,
+      "measuredSize": 47,
+      "style": "plain_white_shadow",
+      "guide": ""
+    },
+    {
+      "id": "l18",
+      "start": 37.467,
+      "end": 39.2,
+      "ref": "4. I trusted in God",
+      "y": 0.291,
+      "measuredSize": 47,
+      "style": "plain_white_shadow",
+      "guide": ""
+    },
+    {
+      "id": "l19",
+      "start": 39.2,
+      "end": 43.567,
+      "ref": "Until I eventually...",
+      "y": 0.599,
+      "measuredSize": 21,
+      "style": "plain_white_shadow",
+      "guide": ""
+    },
+    {
+      "id": "l20",
+      "start": 43.567,
+      "end": 45.6,
+      "ref": "Started my dream\northodontic practice",
+      "y": 0.215,
+      "measuredSize": 35,
+      "style": "plain_white_shadow",
+      "guide": ""
+    },
+    {
+      "id": "l21",
+      "start": 45.6,
+      "end": 47.867,
+      "ref": "Transformed many\npatient's smiles",
+      "y": 0.217,
+      "measuredSize": 65,
+      "style": "plain_white_shadow",
+      "guide": ""
+    },
+    {
+      "id": "l22",
+      "start": 47.867,
+      "end": 49.867,
+      "ref": "Helped them find their\nconfidence",
+      "y": 0.226,
+      "measuredSize": 41,
+      "style": "plain_white_shadow",
+      "guide": ""
+    },
+    {
+      "id": "l23",
+      "start": 49.867,
+      "end": 52.333,
+      "ref": "Built an incredible team",
+      "y": 0.212,
+      "measuredSize": 47,
+      "style": "plain_white_shadow",
+      "guide": ""
+    },
+    {
+      "id": "l24",
+      "start": 52.333,
+      "end": 54.3,
+      "ref": "Grew closer to God",
+      "y": 0.226,
+      "measuredSize": 48,
+      "style": "plain_white_shadow",
+      "guide": ""
+    },
+    {
+      "id": "l25",
+      "start": 54.3,
+      "end": 57.9,
+      "ref": "And now we have a\nthriving practice",
+      "y": 0.229,
+      "measuredSize": 30,
+      "style": "plain_white_shadow",
+      "guide": ""
+    },
+    {
+      "id": "l26",
+      "start": 57.9,
+      "end": 60.667,
+      "ref": "An amazing team focused\non growth",
+      "y": 0.228,
+      "measuredSize": 29,
+      "style": "plain_white_shadow",
+      "guide": ""
+    },
+    {
+      "id": "l27",
+      "start": 60.667,
+      "end": 63.1,
+      "ref": "Helping many patients\nsmile their best",
+      "y": 0.229,
+      "measuredSize": 30,
+      "style": "plain_white_shadow",
+      "guide": ""
+    },
+    {
+      "id": "l28",
+      "start": 63.1,
+      "end": 66.467,
+      "ref": "And we're only just\ngetting started!",
+      "y": 0.24,
+      "measuredSize": 30,
+      "style": "plain_white_shadow",
+      "guide": ""
+    },
+    {
+      "id": "l29",
+      "start": 66.467,
+      "end": 68.1,
+      "ref": "Follow to get\nyour dream smile\n#drjessyeo.ortho",
+      "y": 0.377,
+      "measuredSize": 29,
+      "style": "plain_white_shadow",
+      "guide": ""
+    }
+  ],
+  "shots": [
+    {
+      "id": "s1",
+      "start": 0.0,
+      "end": 0.933,
+      "brief": "old archival childhood/teen photos (ref: Montage of archival childhood and teen photos showing creator with glasses and insecure smile; photo)",
+      "line": "l1"
+    },
+    {
+      "id": "s2",
+      "start": 0.933,
+      "end": 1.967,
+      "brief": "old archival childhood/teen photos (ref: Montage of archival childhood and teen photos showing creator with glasses and insecure smile; photo)",
+      "line": "l1"
+    },
+    {
+      "id": "s3",
+      "start": 1.967,
+      "end": 3.0,
+      "brief": "old archival childhood/teen photos (ref: Montage of archival childhood and teen photos showing creator with glasses and insecure smile; photo)",
+      "line": "l1"
+    },
+    {
+      "id": "s4",
+      "start": 3.0,
+      "end": 4.767,
+      "brief": "past photos of self unsmiling or looking insecure (ref: Archival photos of creator looking unsmiling in various settings (outdoors, red lanterns, piano); photo)",
+      "line": "l2"
+    },
+    {
+      "id": "s5",
+      "start": 4.767,
+      "end": 5.8,
+      "brief": "past photos of self unsmiling or looking insecure (ref: Archival photos of creator looking unsmiling in various settings (outdoors, red lanterns, piano); photo)",
+      "line": "l2"
+    },
+    {
+      "id": "s6",
+      "start": 5.8,
+      "end": 6.8,
+      "brief": "past photos of self unsmiling or looking insecure (ref: Archival photos of creator looking unsmiling in various settings (outdoors, red lanterns, piano); photo)",
+      "line": "l2"
+    },
+    {
+      "id": "s7",
+      "start": 6.8,
+      "end": 8.333,
+      "brief": "photos from university / early vocational training days (ref: Photos of creator during dental school posing with dental study models; photo)",
+      "line": "l3"
+    },
+    {
+      "id": "s8",
+      "start": 8.333,
+      "end": 9.333,
+      "brief": "photos from university / early vocational training days (ref: Photos of creator during dental school posing with dental study models; photo)",
+      "line": "l3"
+    },
+    {
+      "id": "s9",
+      "start": 9.333,
+      "end": 10.333,
+      "brief": "medical consultation / hospital visit photos (ref: Photos from hospital visits, mirror selfies in a hospital gown and surgical scrubs; photo)",
+      "line": "l4"
+    },
+    {
+      "id": "s10",
+      "start": 10.333,
+      "end": 11.233,
+      "brief": "medical consultation / hospital visit photos (ref: Photos from hospital visits, mirror selfies in a hospital gown and surgical scrubs; photo)",
+      "line": "l4"
+    },
+    {
+      "id": "s11",
+      "start": 11.233,
+      "end": 12.2,
+      "brief": "medical consultation / hospital visit photos (ref: Photos from hospital visits, mirror selfies in a hospital gown and surgical scrubs; photo)",
+      "line": "l4"
+    },
+    {
+      "id": "s12",
+      "start": 12.2,
+      "end": 13.2,
+      "brief": "candid photos putting on a brave face (ref: Archival selfies and candid dinner/cafe photos trying to look composed; photo)",
+      "line": "l5"
+    },
+    {
+      "id": "s13",
+      "start": 13.2,
+      "end": 14.2,
+      "brief": "candid photos putting on a brave face (ref: Archival selfies and candid dinner/cafe photos trying to look composed; photo)",
+      "line": "l5"
+    },
+    {
+      "id": "s14",
+      "start": 14.2,
+      "end": 15.833,
+      "brief": "candid photos putting on a brave face (ref: Archival selfies and candid dinner/cafe photos trying to look composed; photo)",
+      "line": "l6"
+    },
+    {
+      "id": "s15",
+      "start": 15.833,
+      "end": 17.3,
+      "brief": "candid photos putting on a brave face (ref: Archival selfies and candid dinner/cafe photos trying to look composed; photo)",
+      "line": "l6"
+    },
+    {
+      "id": "s16",
+      "start": 17.3,
+      "end": 19.167,
+      "brief": "clinical before photos and post-op hospital bed documentation (ref: Split comparison photos showing misaligned teeth, braces installation, and hospital recovery bed; photo)",
+      "line": "l7"
+    },
+    {
+      "id": "s17",
+      "start": 19.167,
+      "end": 20.633,
+      "brief": "clinical before photos and post-op hospital bed documentation (ref: Split comparison photos showing misaligned teeth, braces installation, and hospital recovery bed; photo)",
+      "line": "l8"
+    },
+    {
+      "id": "s18",
+      "start": 20.633,
+      "end": 21.867,
+      "brief": "clinical before photos and post-op hospital bed documentation (ref: Split comparison photos showing misaligned teeth, braces installation, and hospital recovery bed; photo)",
+      "line": "l8"
+    },
+    {
+      "id": "s19",
+      "start": 21.867,
+      "end": 22.833,
+      "brief": "recovery / healing progress selfies (ref: Post-surgery selfies showing swollen jaw wrapped in ice packs; photo)",
+      "line": "l9"
+    },
+    {
+      "id": "s20",
+      "start": 22.833,
+      "end": 24.0,
+      "brief": "recovery / healing progress selfies (ref: Post-surgery selfies showing swollen jaw wrapped in ice packs; photo)",
+      "line": "l9"
+    },
+    {
+      "id": "s21",
+      "start": 24.0,
+      "end": 25.767,
+      "brief": "after transformation smile photo (ref: Split comparison photo showing healed full smile and aligned teeth; photo)",
+      "line": "l10"
+    },
+    {
+      "id": "s22",
+      "start": 25.767,
+      "end": 27.467,
+      "brief": "career milestone and graduation photos (ref: Graduation ceremony photos in cap/gown, specialty training model photo, and celebratory dinner; photo)",
+      "line": "l11"
+    },
+    {
+      "id": "s23",
+      "start": 27.467,
+      "end": 29.233,
+      "brief": "career milestone and graduation photos (ref: Graduation ceremony photos in cap/gown, specialty training model photo, and celebratory dinner; photo)",
+      "line": "l12"
+    },
+    {
+      "id": "s24",
+      "start": 29.233,
+      "end": 30.467,
+      "brief": "career milestone and graduation photos (ref: Graduation ceremony photos in cap/gown, specialty training model photo, and celebratory dinner; photo)",
+      "line": "l13"
+    },
+    {
+      "id": "s25",
+      "start": 30.467,
+      "end": 31.567,
+      "brief": "walking outside selfie clip (ref: Handheld selfie video walking outdoors bundled in a jacket; selfie)",
+      "line": "l14"
+    },
+    {
+      "id": "s26",
+      "start": 31.567,
+      "end": 33.467,
+      "brief": "vocational b-roll treating clients/patients (ref: Clips working on patients in clinic and hugging a patient after treatment; tripod)",
+      "line": "l15"
+    },
+    {
+      "id": "s27",
+      "start": 33.467,
+      "end": 35.6,
+      "brief": "vocational b-roll treating clients/patients (ref: Clips working on patients in clinic and hugging a patient after treatment; tripod)",
+      "line": "l16"
+    },
+    {
+      "id": "s28",
+      "start": 35.6,
+      "end": 37.467,
+      "brief": "outdoor street and park walking b-roll (ref: Montage of walking by brick wall, church sign, and walking pensively along park path; filmed by friend)",
+      "line": "l17"
+    },
+    {
+      "id": "s29",
+      "start": 37.467,
+      "end": 39.2,
+      "brief": "outdoor street and park walking b-roll (ref: Montage of walking by brick wall, church sign, and walking pensively along park path; filmed by friend)",
+      "line": "l18"
+    },
+    {
+      "id": "s30",
+      "start": 39.2,
+      "end": 43.567,
+      "brief": "outdoor street and park walking b-roll (ref: Montage of walking by brick wall, church sign, and walking pensively along park path; filmed by friend)",
+      "line": "l19"
+    },
+    {
+      "id": "s31",
+      "start": 43.567,
+      "end": 44.533,
+      "brief": "entering workplace and performing professional duties (ref: Entering private practice clinic door, putting on doctor's coat, and examining patients; tripod)",
+      "line": "l20"
+    },
+    {
+      "id": "s32",
+      "start": 44.533,
+      "end": 45.6,
+      "brief": "entering workplace and performing professional duties (ref: Entering private practice clinic door, putting on doctor's coat, and examining patients; tripod)",
+      "line": "l20"
+    },
+    {
+      "id": "s33",
+      "start": 45.6,
+      "end": 46.3,
+      "brief": "entering workplace and performing professional duties (ref: Entering private practice clinic door, putting on doctor's coat, and examining patients; tripod)",
+      "line": "l21"
+    },
+    {
+      "id": "s34",
+      "start": 46.3,
+      "end": 47.033,
+      "brief": "entering workplace and performing professional duties (ref: Entering private practice clinic door, putting on doctor's coat, and examining patients; tripod)",
+      "line": "l21"
+    },
+    {
+      "id": "s35",
+      "start": 47.033,
+      "end": 47.867,
+      "brief": "entering workplace and performing professional duties (ref: Entering private practice clinic door, putting on doctor's coat, and examining patients; tripod)",
+      "line": "l21"
+    },
+    {
+      "id": "s36",
+      "start": 47.867,
+      "end": 48.733,
+      "brief": "happy celebratory moments with coworkers and clients (ref: Waving happily at camera in scrubs, posing with patients, and blowing bubbles with team; tripod)",
+      "line": "l22"
+    },
+    {
+      "id": "s37",
+      "start": 48.733,
+      "end": 49.233,
+      "brief": "happy celebratory moments with coworkers and clients (ref: Waving happily at camera in scrubs, posing with patients, and blowing bubbles with team; tripod)",
+      "line": "l22"
+    },
+    {
+      "id": "s38",
+      "start": 49.233,
+      "end": 49.867,
+      "brief": "happy celebratory moments with coworkers and clients (ref: Waving happily at camera in scrubs, posing with patients, and blowing bubbles with team; tripod)",
+      "line": "l22"
+    },
+    {
+      "id": "s39",
+      "start": 49.867,
+      "end": 50.3,
+      "brief": "happy celebratory moments with coworkers and clients (ref: Waving happily at camera in scrubs, posing with patients, and blowing bubbles with team; tripod)",
+      "line": "l23"
+    },
+    {
+      "id": "s40",
+      "start": 50.3,
+      "end": 50.733,
+      "brief": "happy celebratory moments with coworkers and clients (ref: Waving happily at camera in scrubs, posing with patients, and blowing bubbles with team; tripod)",
+      "line": "l23"
+    },
+    {
+      "id": "s41",
+      "start": 50.733,
+      "end": 51.233,
+      "brief": "happy celebratory moments with coworkers and clients (ref: Waving happily at camera in scrubs, posing with patients, and blowing bubbles with team; tripod)",
+      "line": "l23"
+    },
+    {
+      "id": "s42",
+      "start": 51.233,
+      "end": 51.7,
+      "brief": "happy celebratory moments with coworkers and clients (ref: Waving happily at camera in scrubs, posing with patients, and blowing bubbles with team; tripod)",
+      "line": "l23"
+    },
+    {
+      "id": "s43",
+      "start": 51.7,
+      "end": 52.333,
+      "brief": "happy celebratory moments with coworkers and clients (ref: Waving happily at camera in scrubs, posing with patients, and blowing bubbles with team; tripod)",
+      "line": "l23"
+    },
+    {
+      "id": "s44",
+      "start": 52.333,
+      "end": 54.3,
+      "brief": "quiet study or reading at a table (ref: Creator sitting at desk quietly reading a book/Bible; tripod)",
+      "line": "l24"
+    },
+    {
+      "id": "s45",
+      "start": 54.3,
+      "end": 56.133,
+      "brief": "team dynamics, high-fiving and celebrating at office (ref: Waving from clinic room, team blowing bubbles, high-fiving assistant, and group selfie video; selfie)",
+      "line": "l25"
+    },
+    {
+      "id": "s46",
+      "start": 56.133,
+      "end": 57.9,
+      "brief": "team dynamics, high-fiving and celebrating at office (ref: Waving from clinic room, team blowing bubbles, high-fiving assistant, and group selfie video; selfie)",
+      "line": "l25"
+    },
+    {
+      "id": "s47",
+      "start": 57.9,
+      "end": 59.467,
+      "brief": "team dynamics, high-fiving and celebrating at office (ref: Waving from clinic room, team blowing bubbles, high-fiving assistant, and group selfie video; selfie)",
+      "line": "l26"
+    },
+    {
+      "id": "s48",
+      "start": 59.467,
+      "end": 60.667,
+      "brief": "team dynamics, high-fiving and celebrating at office (ref: Waving from clinic room, team blowing bubbles, high-fiving assistant, and group selfie video; selfie)",
+      "line": "l26"
+    },
+    {
+      "id": "s49",
+      "start": 60.667,
+      "end": 61.6,
+      "brief": "client satisfaction moments and clinic success portraits (ref: Interactions with smiling patients, holding clinic foil balloons, and sitting proudly in clinic chair; tripod)",
+      "line": "l27"
+    },
+    {
+      "id": "s50",
+      "start": 61.6,
+      "end": 63.1,
+      "brief": "client satisfaction moments and clinic success portraits (ref: Interactions with smiling patients, holding clinic foil balloons, and sitting proudly in clinic chair; tripod)",
+      "line": "l27"
+    },
+    {
+      "id": "s51",
+      "start": 63.1,
+      "end": 63.9,
+      "brief": "client satisfaction moments and clinic success portraits (ref: Interactions with smiling patients, holding clinic foil balloons, and sitting proudly in clinic chair; tripod)",
+      "line": "l28"
+    },
+    {
+      "id": "s52",
+      "start": 63.9,
+      "end": 64.633,
+      "brief": "client satisfaction moments and clinic success portraits (ref: Interactions with smiling patients, holding clinic foil balloons, and sitting proudly in clinic chair; tripod)",
+      "line": "l28"
+    },
+    {
+      "id": "s53",
+      "start": 64.633,
+      "end": 65.433,
+      "brief": "client satisfaction moments and clinic success portraits (ref: Interactions with smiling patients, holding clinic foil balloons, and sitting proudly in clinic chair; tripod)",
+      "line": "l28"
+    },
+    {
+      "id": "s54",
+      "start": 65.433,
+      "end": 66.467,
+      "brief": "client satisfaction moments and clinic success portraits (ref: Interactions with smiling patients, holding clinic foil balloons, and sitting proudly in clinic chair; tripod)",
+      "line": "l28"
+    },
+    {
+      "id": "s55",
+      "start": 66.467,
+      "end": 68.1,
+      "brief": "black graphic screen (ref: Static black screen with social media call-to-action text; POV)",
+      "line": "l29"
+    }
+  ],
+  "audit": {
+    "kind": "photo_slideshow",
+    "creatorSpeaks": false,
+    "audio": "music only",
+    "special": [
+      "Old childhood/adolescent photos of past physical insecurity",
+      "Medical/surgical procedure recovery photos (hospital bed, swollen face)",
+      "Orthodontic/professional school graduation and training photos",
+      "Clinical b-roll working with patients in scrubs",
+      "Staff/team b-roll at an office or clinic"
+    ],
+    "reusable": false,
+    "notes": "This format relies fundamentally on highly specific, personal archival artifacts: childhood/adolescent photos of facial insecurity, medical/hospital recovery photos, dental school graduation, and clinical footage inside an orthodontic practice. Generic lifestyle b-roll cannot substitute for an authentic biographical transformation story.",
+    "summary": "An orthodontist shares her personal transformation story—from childhood insecurity and double jaw surgery to graduating dental school and founding her own thriving orthodontic clinic."
+  },
+  "caption": {
+    "ref": "",
+    "guide": ""
+  },
+  "draft": true
+}

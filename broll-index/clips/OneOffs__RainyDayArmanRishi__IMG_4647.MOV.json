@@ -1,0 +1,71 @@
+{
+  "path": "OneOffs/RainyDayArmanRishi/IMG_4647.MOV",
+  "folder": "OneOffs/RainyDayArmanRishi",
+  "fingerprint": "cb3579cdef050f9d",
+  "width": 1080,
+  "height": 1920,
+  "fps": 30.0,
+  "duration": 4.467,
+  "model": "gemini-3.8-flash",
+  "annotatedAt": "2026-10-24T18:36:51+00:00",
+  "summary": "A static low-angle shot of wooden boutique shelves displaying packaged tea or artisanal products, decorative branches, and a teapot.",
+  "location": "shop",
+  "setting": "indoor",
+  "time_of_day": "indoor_unknown",
+  "weather": "n/a",
+  "people": {
+    "count": 0,
+    "creator_visible": false,
+    "description": "Nobody visible on camera; voices can be heard in the background."
+  },
+  "camera": {
+    "style": "pov_first_person",
+    "framing": "medium",
+    "movement": "static",
+    "angle": "low angle looking up"
+  },
+  "quality": {
+    "usable": true,
+    "stability": "steady",
+    "exposure": "good",
+    "issues": ""
+  },
+  "mood": [
+    "calm",
+    "cozy",
+    "aesthetic",
+    "minimalist"
+  ],
+  "energy": "low",
+  "tags": [
+    "shelves",
+    "tea shop",
+    "boutique",
+    "display",
+    "decor",
+    "branches",
+    "teapot",
+    "packaging",
+    "artisanal",
+    "indoor",
+    "lifestyle",
+    "retail",
+    "aesthetic"
+  ],
+  "moments": [
+    {
+      "start": 0.0,
+      "end": 4.47,
+      "action": "Camera rests in place capturing boutique store shelves featuring packaged goods, a ceramic teapot on books, and curly branches.",
+      "emotion": "calm",
+      "good_for": [
+        "weekend errands",
+        "aesthetic shop visits",
+        "tea lovers",
+        "calm afternoons",
+        "shopping local"
+      ],
+      "score": 3
+    }
+  ]
+}

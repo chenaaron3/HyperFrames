@@ -1,0 +1,85 @@
+{
+  "path": "Cinematic/CentralPark/IMG_4403.MOV",
+  "folder": "Cinematic/CentralPark",
+  "fingerprint": "cd832062e71dec35",
+  "width": 1080,
+  "height": 1920,
+  "fps": 29.97,
+  "duration": 4.035,
+  "model": "gemini-3.8-flash",
+  "annotatedAt": "2026-10-24T18:17:27+00:00",
+  "summary": "Handheld view walking along a tree-lined New York City street next to Central Park, looking up at modern skyscrapers in the distance under a clear blue sky.",
+  "location": "city street",
+  "setting": "outdoor",
+  "time_of_day": "day",
+  "weather": "sunny",
+  "people": {
+    "count": 2,
+    "creator_visible": false,
+    "description": "Distant pedestrians walking along the sidewalk under building awnings"
+  },
+  "camera": {
+    "style": "pov_first_person",
+    "framing": "wide",
+    "movement": "pan",
+    "angle": "low angle looking up"
+  },
+  "quality": {
+    "usable": true,
+    "stability": "steady",
+    "exposure": "good",
+    "issues": ""
+  },
+  "mood": [
+    "peaceful",
+    "aspirational",
+    "urban",
+    "serene"
+  ],
+  "energy": "low",
+  "tags": [
+    "central park",
+    "new york city",
+    "nyc",
+    "skyscrapers",
+    "billionaires row",
+    "street",
+    "architecture",
+    "trees",
+    "sunny day",
+    "blue sky",
+    "sidewalk",
+    "manhattan",
+    "travel",
+    "cityscape"
+  ],
+  "moments": [
+    {
+      "start": 0.0,
+      "end": 2.5,
+      "action": "Camera captures the sidewalk, historic stone facade, parked cars, and towering skyscrapers rising above the green park trees",
+      "emotion": "awe",
+      "good_for": [
+        "city I love",
+        "morning walks in nyc",
+        "chasing dreams",
+        "new york state of mind",
+        "gratitude for where I am"
+      ],
+      "score": 4
+    },
+    {
+      "start": 2.5,
+      "end": 4.04,
+      "action": "Camera pans left showing lush trees across the street with high rises in the background against a blue sky",
+      "emotion": "peaceful",
+      "good_for": [
+        "weekend strolls",
+        "peace in the city",
+        "finding stillness",
+        "city scenery"
+      ],
+      "score": 3
+    }
+  ]
+}

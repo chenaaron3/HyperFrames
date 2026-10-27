@@ -1,0 +1,84 @@
+{
+  "path": "OneOffs/BrooklynNight/IMG_4595 3.MOV",
+  "folder": "OneOffs/BrooklynNight",
+  "fingerprint": "4e76b6e111eafadb",
+  "width": 2160,
+  "height": 3840,
+  "fps": 30.0,
+  "duration": 8.633,
+  "model": "gemini-3.8-flash",
+  "annotatedAt": "2026-10-24T18:24:36+00:00",
+  "summary": "Night view of the Manhattan Bridge and East River skyline lit up with city lights, filmed from a moving boat or ferry.",
+  "location": "ferry on the East River overlooking Manhattan Bridge",
+  "setting": "vehicle",
+  "time_of_day": "night",
+  "weather": "n/a",
+  "people": {
+    "count": 0,
+    "creator_visible": false,
+    "description": "Nobody clearly visible on screen; Spanish voices audible in the background."
+  },
+  "camera": {
+    "style": "pov_first_person",
+    "framing": "wide",
+    "movement": "tracking",
+    "angle": "eye level"
+  },
+  "quality": {
+    "usable": true,
+    "stability": "steady",
+    "exposure": "good",
+    "issues": ""
+  },
+  "mood": [
+    "peaceful",
+    "atmospheric",
+    "cinematic",
+    "nocturnal",
+    "dreamy"
+  ],
+  "energy": "low",
+  "tags": [
+    "brooklyn",
+    "manhattan bridge",
+    "east river",
+    "nyc",
+    "new york city",
+    "night skyline",
+    "city lights",
+    "ferry ride",
+    "boat ride",
+    "reflections",
+    "water",
+    "urban night",
+    "travel"
+  ],
+  "moments": [
+    {
+      "start": 0.0,
+      "end": 4.5,
+      "action": "View of the illuminated Manhattan Bridge and high-rise skyscraper gliding across the water at night.",
+      "emotion": "calm",
+      "good_for": [
+        "late night city thoughts",
+        "romanticizing new york",
+        "ferry rides after dark",
+        "peaceful moments in the city"
+      ],
+      "score": 4
+    },
+    {
+      "start": 4.5,
+      "end": 8.63,
+      "action": "Camera continues to smoothly capture city bridge lights reflecting off the river ripples.",
+      "emotion": "peaceful",
+      "good_for": [
+        "city that never sleeps",
+        "evening vibes",
+        "unwinding after a long day",
+        "places that feel like movie scenes"
+      ],
+      "score": 4
+    }
+  ]
+}

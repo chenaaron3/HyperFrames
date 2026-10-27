@@ -1,0 +1,82 @@
+{
+  "path": "SelfShots/ClimbingGym/IMG_5239.MOV",
+  "folder": "SelfShots/ClimbingGym",
+  "fingerprint": "5512e0b74514956c",
+  "width": 1080,
+  "height": 1920,
+  "fps": 30.0,
+  "duration": 17.2,
+  "model": "gemini-3.8-flash",
+  "annotatedAt": "2026-10-24T18:39:00+00:00",
+  "summary": "A young man sits cross-legged on the mat at an indoor bouldering gym, studying routes on the climbing wall.",
+  "location": "gym",
+  "setting": "indoor",
+  "time_of_day": "indoor_unknown",
+  "weather": "n/a",
+  "people": {
+    "count": 2,
+    "creator_visible": true,
+    "description": "Young Asian man with wavy dark hair, wearing a grey ribbed tank top, baggy jeans, and white earbuds; another climber walks by in the background."
+  },
+  "camera": {
+    "style": "tripod_static",
+    "framing": "medium",
+    "movement": "static",
+    "angle": "eye level"
+  },
+  "quality": {
+    "usable": true,
+    "stability": "steady",
+    "exposure": "good",
+    "issues": ""
+  },
+  "mood": [
+    "focused",
+    "contemplative",
+    "calm",
+    "determined"
+  ],
+  "energy": "low",
+  "tags": [
+    "climbing gym",
+    "bouldering",
+    "climbing wall",
+    "beta reading",
+    "rest period",
+    "workout",
+    "fitness",
+    "tank top",
+    "indoor climbing",
+    "contemplation",
+    "routine"
+  ],
+  "moments": [
+    {
+      "start": 3.0,
+      "end": 7.5,
+      "action": "Man sits cross-legged on the floor looking up at the bouldering wall while rubbing his hands together",
+      "emotion": "focused",
+      "good_for": [
+        "pre-workout focus",
+        "planning your next move",
+        "taking a breather",
+        "climbing session"
+      ],
+      "score": 3
+    },
+    {
+      "start": 7.5,
+      "end": 15.0,
+      "action": "Man rests his hand on his chin, deeply concentrating and reading beta on the climbing wall",
+      "emotion": "contemplative",
+      "good_for": [
+        "overthinking everything",
+        "analyzing the problem",
+        "figuring it out",
+        "patience and process",
+        "active recovery"
+      ],
+      "score": 4
+    }
+  ]
+}

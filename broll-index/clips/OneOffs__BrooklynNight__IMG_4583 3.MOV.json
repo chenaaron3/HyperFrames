@@ -1,0 +1,83 @@
+{
+  "path": "OneOffs/BrooklynNight/IMG_4583 3.MOV",
+  "folder": "OneOffs/BrooklynNight",
+  "fingerprint": "a4ac8b038969112c",
+  "width": 1080,
+  "height": 1920,
+  "fps": 30.0,
+  "duration": 7.367,
+  "model": "gemini-3.8-flash",
+  "annotatedAt": "2026-10-24T18:24:21+00:00",
+  "summary": "A handheld nighttime shot panning across the choppy East River towards distant illuminated city buildings and a glowing bridge.",
+  "location": "waterfront park",
+  "setting": "outdoor",
+  "time_of_day": "night",
+  "weather": "n/a",
+  "people": {
+    "count": 0,
+    "creator_visible": false,
+    "description": "No people visible."
+  },
+  "camera": {
+    "style": "handheld_cinematic",
+    "framing": "wide",
+    "movement": "pan",
+    "angle": "eye level"
+  },
+  "quality": {
+    "usable": true,
+    "stability": "steady",
+    "exposure": "dark",
+    "issues": "Low light grain typical of nighttime phone video"
+  },
+  "mood": [
+    "peaceful",
+    "contemplative",
+    "moody",
+    "nocturnal",
+    "solitary"
+  ],
+  "energy": "low",
+  "tags": [
+    "new york city",
+    "brooklyn",
+    "east river",
+    "night skyline",
+    "city lights",
+    "bridge",
+    "waves",
+    "night walk",
+    "urban night",
+    "waterfront",
+    "dark aesthetic",
+    "peaceful night"
+  ],
+  "moments": [
+    {
+      "start": 0.0,
+      "end": 3.5,
+      "action": "Water waves lap against the rocky shoreline beneath a dark night sky overlooking distant illuminated city buildings across the river",
+      "emotion": "calm",
+      "good_for": [
+        "late night thoughts",
+        "city nights like this",
+        "finding peace in the city",
+        "night walks alone"
+      ],
+      "score": 3
+    },
+    {
+      "start": 3.5,
+      "end": 7.37,
+      "action": "The camera pans right across the river, bringing a brightly lit suspension bridge and rocky shoreline into view",
+      "emotion": "contemplative",
+      "good_for": [
+        "views that heal you",
+        "loving new york",
+        "midnight adventures",
+        "clearing my head"
+      ],
+      "score": 4
+    }
+  ]
+}

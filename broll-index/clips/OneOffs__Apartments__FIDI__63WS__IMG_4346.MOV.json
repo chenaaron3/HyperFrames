@@ -1,0 +1,83 @@
+{
+  "path": "OneOffs/Apartments/FIDI/63WS/IMG_4346.MOV",
+  "folder": "OneOffs/Apartments/FIDI/63WS",
+  "fingerprint": "49265ae72bd56dce",
+  "width": 1080,
+  "height": 1920,
+  "fps": 29.97,
+  "duration": 7.603,
+  "model": "gemini-3.8-flash",
+  "annotatedAt": "2026-10-24T18:20:25+00:00",
+  "summary": "Handheld panning shot across a sunny NYC rooftop terrace featuring lush hedges, outdoor BBQ grills, patio seating, and surrounding skyscrapers under a clear blue sky.",
+  "location": "rooftop terrace",
+  "setting": "outdoor",
+  "time_of_day": "day",
+  "weather": "sunny",
+  "people": {
+    "count": 0,
+    "creator_visible": false,
+    "description": "No people present on the terrace"
+  },
+  "camera": {
+    "style": "handheld_cinematic",
+    "framing": "wide",
+    "movement": "pan",
+    "angle": "eye level"
+  },
+  "quality": {
+    "usable": true,
+    "stability": "steady",
+    "exposure": "good",
+    "issues": ""
+  },
+  "mood": [
+    "peaceful",
+    "aspirational",
+    "sunny",
+    "urban"
+  ],
+  "energy": "low",
+  "tags": [
+    "nyc",
+    "rooftop",
+    "financial district",
+    "fidi",
+    "skyscrapers",
+    "cityscape",
+    "terrace",
+    "outdoor grill",
+    "bbq",
+    "summer",
+    "sunny day",
+    "apartment amenities",
+    "luxury living"
+  ],
+  "moments": [
+    {
+      "start": 0.0,
+      "end": 3.5,
+      "action": "Camera pans slowly across dense green bushes framing high-rise city buildings and bright sun flare in the sky",
+      "emotion": "peaceful",
+      "good_for": [
+        "sunny days in the city",
+        "views like this",
+        "city sanctuary",
+        "summer in nyc"
+      ],
+      "score": 4
+    },
+    {
+      "start": 3.5,
+      "end": 7.6,
+      "action": "Camera pans right over a stainless steel outdoor kitchen grill to reveal patio tables and a towering skyscraper",
+      "emotion": "relaxed",
+      "good_for": [
+        "rooftop season",
+        "apartment hunting in nyc",
+        "dream amenities",
+        "building tour"
+      ],
+      "score": 4
+    }
+  ]
+}

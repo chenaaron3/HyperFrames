@@ -1,0 +1,69 @@
+{
+  "path": "Cinematic/CentralPark/IMG_4408.MOV",
+  "folder": "Cinematic/CentralPark",
+  "fingerprint": "23f1ff0e5eabd485",
+  "width": 1080,
+  "height": 1920,
+  "fps": 30.0,
+  "duration": 2.7,
+  "model": "gemini-3.8-flash",
+  "annotatedAt": "2026-10-24T18:17:30+00:00",
+  "summary": "Wide view across a roadway looking toward the historic Tavern on the Green building and lush autumn trees in Central Park.",
+  "location": "park",
+  "setting": "outdoor",
+  "time_of_day": "day",
+  "weather": "sunny",
+  "people": {
+    "count": 4,
+    "creator_visible": false,
+    "description": "Distant park-goers sitting on a bench and standing near the red entrance awning."
+  },
+  "camera": {
+    "style": "handheld_cinematic",
+    "framing": "wide",
+    "movement": "static",
+    "angle": "eye level"
+  },
+  "quality": {
+    "usable": true,
+    "stability": "steady",
+    "exposure": "good",
+    "issues": ""
+  },
+  "mood": [
+    "peaceful",
+    "calm",
+    "scenic",
+    "nostalgic"
+  ],
+  "energy": "low",
+  "tags": [
+    "central park",
+    "tavern on the green",
+    "new york city",
+    "nyc",
+    "manhattan",
+    "autumn",
+    "park bench",
+    "sunny day",
+    "trees",
+    "architecture",
+    "city walk"
+  ],
+  "moments": [
+    {
+      "start": 0.0,
+      "end": 2.7,
+      "action": "Handheld static shot across a roadway capturing the entrance of Tavern on the Green framed by green and yellow trees under bright sunlight.",
+      "emotion": "calm",
+      "good_for": [
+        "fall in new york",
+        "city walks",
+        "central park spots",
+        "places that feel like home",
+        "quiet afternoon"
+      ],
+      "score": 3
+    }
+  ]
+}

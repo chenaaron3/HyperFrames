@@ -1,0 +1,70 @@
+{
+  "path": "SelfShots/Subway/IMG_4951.MOV",
+  "folder": "SelfShots/Subway",
+  "fingerprint": "5571511a1ab073ad",
+  "width": 1080,
+  "height": 1920,
+  "fps": 30.0,
+  "duration": 3.833,
+  "model": "gemini-3.8-flash",
+  "annotatedAt": "2026-10-24T19:00:56+00:00",
+  "summary": "A young man holds the camera in selfie mode while riding a packed NYC subway car filled with commuters.",
+  "location": "subway car",
+  "setting": "vehicle",
+  "time_of_day": "indoor_unknown",
+  "weather": "n/a",
+  "people": {
+    "count": 12,
+    "creator_visible": true,
+    "description": "An Asian young man with wavy hair wearing a brown button-up shirt and backpack straps, looking into the camera while surrounded by a crowded subway car of diverse commuters."
+  },
+  "camera": {
+    "style": "selfie",
+    "framing": "close",
+    "movement": "handheld",
+    "angle": "eye level"
+  },
+  "quality": {
+    "usable": true,
+    "stability": "handheld",
+    "exposure": "good",
+    "issues": ""
+  },
+  "mood": [
+    "urban",
+    "relatable",
+    "calm",
+    "everyday"
+  ],
+  "energy": "medium",
+  "tags": [
+    "subway",
+    "commute",
+    "crowd",
+    "commuter",
+    "public transit",
+    "nyc",
+    "selfie",
+    "metro",
+    "train",
+    "rush hour",
+    "travel",
+    "daily life"
+  ],
+  "moments": [
+    {
+      "start": 0.0,
+      "end": 3.83,
+      "action": "Creator holds phone in selfie mode, looking calmly at the lens while the crowded subway train moves around him",
+      "emotion": "calm, deadpan, observant",
+      "good_for": [
+        "morning commute",
+        "city life reality",
+        "surviving rush hour",
+        "introvert in public",
+        "living in new york"
+      ],
+      "score": 4
+    }
+  ]
+}

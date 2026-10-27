@@ -1,0 +1,103 @@
+{
+  "path": "SelfShots/ClimbingGym/OnTheWall/10:18:26_Orange_x53/IMG_5117.MOV",
+  "folder": "SelfShots/ClimbingGym/OnTheWall/10:18:26_Orange_x53",
+  "fingerprint": "e581ee261e991fc1",
+  "width": 1080,
+  "height": 1920,
+  "fps": 30.0,
+  "duration": 39.803,
+  "model": "gemini-3.8-flash",
+  "annotatedAt": "2026-10-24T18:42:17+00:00",
+  "summary": "A young man boulder climbs an overhanging route at an indoor climbing gym before falling onto the safety mat.",
+  "location": "climbing gym",
+  "setting": "indoor",
+  "time_of_day": "indoor_unknown",
+  "weather": "n/a",
+  "people": {
+    "count": 1,
+    "creator_visible": true,
+    "description": "Young East Asian man with dark hair wearing a grey tank top and loose blue jeans"
+  },
+  "camera": {
+    "style": "tripod_static",
+    "framing": "wide",
+    "movement": "static",
+    "angle": "low angle looking up"
+  },
+  "quality": {
+    "usable": true,
+    "stability": "locked",
+    "exposure": "good",
+    "issues": ""
+  },
+  "mood": [
+    "focused",
+    "athletic",
+    "determined",
+    "challenging"
+  ],
+  "energy": "medium",
+  "tags": [
+    "bouldering",
+    "rock climbing",
+    "climbing gym",
+    "indoor climbing",
+    "overhang",
+    "fitness",
+    "workout",
+    "training",
+    "fall",
+    "sports"
+  ],
+  "moments": [
+    {
+      "start": 5.5,
+      "end": 12.0,
+      "action": "Climber mounts the bottom holds of the overhanging wall and initiates his sequence",
+      "emotion": "focused and concentrated",
+      "good_for": [
+        "starting a new challenge",
+        "getting to work",
+        "first step"
+      ],
+      "score": 3
+    },
+    {
+      "start": 12.0,
+      "end": 20.5,
+      "action": "Climber maneuvers horizontally across the steep overhang with tension and foot swaps",
+      "emotion": "determined effort",
+      "good_for": [
+        "trust the process",
+        "gym routine",
+        "building strength"
+      ],
+      "score": 4
+    },
+    {
+      "start": 20.5,
+      "end": 28.5,
+      "action": "Climber executes controlled reaches and heel hooks high on the steep wall",
+      "emotion": "intense focus",
+      "good_for": [
+        "holding on",
+        "pushing through resistance",
+        "athletic goals"
+      ],
+      "score": 4
+    },
+    {
+      "start": 28.5,
+      "end": 35.5,
+      "action": "Climber extends for a difficult reach on the upper section and drops off onto the mat",
+      "emotion": "exhaustion and acceptance of failure",
+      "good_for": [
+        "almost had it",
+        "failing forward",
+        "try again tomorrow",
+        "learning from mistakes"
+      ],
+      "score": 5
+    }
+  ]
+}

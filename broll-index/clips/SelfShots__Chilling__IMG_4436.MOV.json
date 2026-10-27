@@ -1,0 +1,95 @@
+{
+  "path": "SelfShots/Chilling/IMG_4436.MOV",
+  "folder": "SelfShots/Chilling",
+  "fingerprint": "6acf41dcef55313d",
+  "width": 1080,
+  "height": 1920,
+  "fps": 30.0,
+  "duration": 21.435,
+  "model": "gemini-3.8-flash",
+  "annotatedAt": "2026-10-24T18:38:03+00:00",
+  "summary": "A young man walks into frame on a sunny park lawn, lies back using his backpack as a pillow, relaxes for a bit, then gets up and walks away.",
+  "location": "park",
+  "setting": "outdoor",
+  "time_of_day": "day",
+  "weather": "sunny",
+  "people": {
+    "count": 1,
+    "creator_visible": true,
+    "description": "Young East Asian man with dark hair wearing a light blue short-sleeved button-up shirt, baggy light-wash jeans, and white sneakers."
+  },
+  "camera": {
+    "style": "tripod_static",
+    "framing": "wide",
+    "movement": "static",
+    "angle": "eye level"
+  },
+  "quality": {
+    "usable": true,
+    "stability": "locked",
+    "exposure": "good",
+    "issues": ""
+  },
+  "mood": [
+    "relaxed",
+    "peaceful",
+    "carefree",
+    "serene",
+    "contemplative"
+  ],
+  "energy": "low",
+  "tags": [
+    "park",
+    "grass",
+    "backpack",
+    "relaxing",
+    "lying down",
+    "sunbathing",
+    "peaceful",
+    "nature",
+    "resting",
+    "unwinding",
+    "chill",
+    "sunny day"
+  ],
+  "moments": [
+    {
+      "start": 2.5,
+      "end": 7.0,
+      "action": "Man walks into frame, sits down on the grass, and lies back onto his backpack",
+      "emotion": "relaxed",
+      "good_for": [
+        "taking a break",
+        "finally logging off",
+        "finding peace outdoors",
+        "stepping away from it all"
+      ],
+      "score": 4
+    },
+    {
+      "start": 7.0,
+      "end": 15.5,
+      "action": "Man lies peacefully on the grass with his hands behind his head resting on his backpack under the sun",
+      "emotion": "calm",
+      "good_for": [
+        "romanticizing life",
+        "doing nothing on a sunny day",
+        "peace of mind",
+        "summer days in the park"
+      ],
+      "score": 5
+    },
+    {
+      "start": 16.0,
+      "end": 19.0,
+      "action": "Man stretches his arms up, sits up from the grass, stands up, and walks out of frame",
+      "emotion": "refreshed",
+      "good_for": [
+        "time to get back to work",
+        "break is over",
+        "moving on"
+      ],
+      "score": 3
+    }
+  ]
+}

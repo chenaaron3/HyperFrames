@@ -1,0 +1,84 @@
+{
+  "path": "OneOffs/Eating/IMG_4855.MOV",
+  "folder": "OneOffs/Eating",
+  "fingerprint": "b7bba0cf33022680",
+  "width": 1080,
+  "height": 1920,
+  "fps": 30.0,
+  "duration": 10.8,
+  "model": "gemini-3.8-flash",
+  "annotatedAt": "2026-10-24T18:34:52+00:00",
+  "summary": "First-person POV looking down as a person in a black coat and dark trousers steps into the entryway and pulls on a pair of brown boots before heading out.",
+  "location": "apartment entryway",
+  "setting": "indoor",
+  "time_of_day": "day",
+  "weather": "n/a",
+  "people": {
+    "count": 1,
+    "creator_visible": true,
+    "description": "Person in a long black overcoat and black trousers, seen from the waist/legs down putting on boots"
+  },
+  "camera": {
+    "style": "pov_first_person",
+    "framing": "medium",
+    "movement": "handheld",
+    "angle": "high angle"
+  },
+  "quality": {
+    "usable": true,
+    "stability": "handheld",
+    "exposure": "good",
+    "issues": "Coat blocks part of the frame momentarily while bending down"
+  },
+  "mood": [
+    "casual",
+    "busy",
+    "routine",
+    "leaving"
+  ],
+  "energy": "medium",
+  "tags": [
+    "entryway",
+    "shoes",
+    "boots",
+    "chelsea boots",
+    "putting on shoes",
+    "getting ready",
+    "leaving the house",
+    "wood floor",
+    "overcoat",
+    "pov",
+    "routine",
+    "errands",
+    "heading out"
+  ],
+  "moments": [
+    {
+      "start": 0.0,
+      "end": 4.8,
+      "action": "Camera looks down at boots waiting on the wooden floor before the person steps up and slides their foot into the first boot",
+      "emotion": "focused",
+      "good_for": [
+        "heading out",
+        "running late",
+        "errands day",
+        "leaving the house",
+        "time to go"
+      ],
+      "score": 3
+    },
+    {
+      "start": 4.8,
+      "end": 9.8,
+      "action": "Person slips into the second boot, adjusts coat, and steps toward the front door",
+      "emotion": "hurried",
+      "good_for": [
+        "out the door",
+        "on the move",
+        "daily routine",
+        "busy morning"
+      ],
+      "score": 2
+    }
+  ]
+}

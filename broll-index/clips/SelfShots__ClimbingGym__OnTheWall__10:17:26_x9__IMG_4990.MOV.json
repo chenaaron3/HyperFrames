@@ -1,0 +1,93 @@
+{
+  "path": "SelfShots/ClimbingGym/OnTheWall/10:17:26_x9/IMG_4990.MOV",
+  "folder": "SelfShots/ClimbingGym/OnTheWall/10:17:26_x9",
+  "fingerprint": "efcf65fb2bbfa397",
+  "width": 1080,
+  "height": 1920,
+  "fps": 30.0,
+  "duration": 35.768,
+  "model": "gemini-3.8-flash",
+  "annotatedAt": "2026-10-24T18:39:53+00:00",
+  "summary": "A young man attempts a bouldering problem at an indoor climbing gym, scaling up toward the top holds before falling back onto the padded mat.",
+  "location": "bouldering gym",
+  "setting": "indoor",
+  "time_of_day": "indoor_unknown",
+  "weather": "n/a",
+  "people": {
+    "count": 1,
+    "creator_visible": true,
+    "description": "Young East Asian man with dark hair, wearing a brown short-sleeved button-up shirt and dark pants"
+  },
+  "camera": {
+    "style": "tripod_static",
+    "framing": "wide",
+    "movement": "static",
+    "angle": "low angle looking up"
+  },
+  "quality": {
+    "usable": true,
+    "stability": "locked",
+    "exposure": "good",
+    "issues": ""
+  },
+  "mood": [
+    "determined",
+    "athletic",
+    "challenging",
+    "frustrated"
+  ],
+  "energy": "medium",
+  "tags": [
+    "bouldering",
+    "climbing",
+    "rock climbing",
+    "climbing gym",
+    "bouldering wall",
+    "indoor sports",
+    "fall",
+    "workout",
+    "fitness",
+    "training",
+    "effort",
+    "holds",
+    "problem solving"
+  ],
+  "moments": [
+    {
+      "start": 6.5,
+      "end": 14.5,
+      "action": "Man mounts the bouldering wall and carefully places his feet on the initial footholds",
+      "emotion": "focused and careful",
+      "good_for": [
+        "starting from the bottom",
+        "trusting the process",
+        "taking the first step"
+      ],
+      "score": 3
+    },
+    {
+      "start": 16.0,
+      "end": 25.5,
+      "action": "Man climbs up along the corner holds, shifting weight and reaching higher holds",
+      "emotion": "determined and concentrated",
+      "good_for": [
+        "working hard",
+        "progress isn't easy",
+        "finding balance"
+      ],
+      "score": 4
+    },
+    {
+      "start": 25.5,
+      "end": 31.5,
+      "action": "Man reaches the large red hold near the top, slips, drops onto the floor mat, and walks away",
+      "emotion": "disappointed but accepting",
+      "good_for": [
+        "so close yet so far",
+        "falling down and trying again",
+        "learning from failure"
+      ],
+      "score": 5
+    }
+  ]
+}

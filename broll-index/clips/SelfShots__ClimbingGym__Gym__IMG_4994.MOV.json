@@ -1,0 +1,95 @@
+{
+  "path": "SelfShots/ClimbingGym/Gym/IMG_4994.MOV",
+  "folder": "SelfShots/ClimbingGym/Gym",
+  "fingerprint": "c86eb90c9c3d8385",
+  "width": 1080,
+  "height": 1920,
+  "fps": 30.0,
+  "duration": 37.903,
+  "model": "gemini-3.8-flash",
+  "annotatedAt": "2026-10-24T18:38:51+00:00",
+  "summary": "A young man walks up to a pull-up rig in a modern gym and completes a full set of pull-ups filmed from behind.",
+  "location": "gym",
+  "setting": "indoor",
+  "time_of_day": "indoor_unknown",
+  "weather": "n/a",
+  "people": {
+    "count": 4,
+    "creator_visible": true,
+    "description": "A young East Asian man wearing a brown collared shirt, black pants, and glasses performing pull-ups, with background gym members."
+  },
+  "camera": {
+    "style": "tripod_static",
+    "framing": "medium",
+    "movement": "static",
+    "angle": "eye level"
+  },
+  "quality": {
+    "usable": true,
+    "stability": "locked",
+    "exposure": "good",
+    "issues": ""
+  },
+  "mood": [
+    "focused",
+    "disciplined",
+    "athletic",
+    "calm"
+  ],
+  "energy": "medium",
+  "tags": [
+    "gym",
+    "pull ups",
+    "workout",
+    "calisthenics",
+    "fitness",
+    "strength",
+    "back workout",
+    "exercise",
+    "training",
+    "rogue",
+    "discipline",
+    "consistency"
+  ],
+  "moments": [
+    {
+      "start": 2.5,
+      "end": 8.0,
+      "action": "Man walks into frame, jumps up to grab the pull-up bar, and begins his first couple of pull-ups",
+      "emotion": "focused",
+      "good_for": [
+        "showing up every day",
+        "starting the workout",
+        "fitness journey",
+        "consistency is key"
+      ],
+      "score": 4
+    },
+    {
+      "start": 11.5,
+      "end": 18.5,
+      "action": "Man performs controlled pull-ups in a steady rhythm seen from the back",
+      "emotion": "determined",
+      "good_for": [
+        "putting in the reps",
+        "building strength",
+        "working in silence",
+        "gym motivation"
+      ],
+      "score": 4
+    },
+    {
+      "start": 25.5,
+      "end": 34.0,
+      "action": "Man completes the final two reps, drops down from the bar, and walks away",
+      "emotion": "accomplished",
+      "good_for": [
+        "finishing strong",
+        "another set done",
+        "earning it",
+        "daily discipline"
+      ],
+      "score": 4
+    }
+  ]
+}

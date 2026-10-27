@@ -1,0 +1,92 @@
+{
+  "path": "SelfShots/ClimbingGym/OnTheWall/10:22:26_Red_x25/IMG_5213.MOV",
+  "folder": "SelfShots/ClimbingGym/OnTheWall/10:22:26_Red_x25",
+  "fingerprint": "79854d612185384b",
+  "width": 1080,
+  "height": 1920,
+  "fps": 120.0,
+  "duration": 8.692,
+  "model": "gemini-3.8-flash",
+  "annotatedAt": "2026-10-24T18:47:15+00:00",
+  "summary": "A young man wearing a tank top drinks a Celsius energy drink in a selfie shot, then turns around to place it on a wooden ledge.",
+  "location": "climbing gym",
+  "setting": "indoor",
+  "time_of_day": "indoor_unknown",
+  "weather": "n/a",
+  "people": {
+    "count": 1,
+    "creator_visible": true,
+    "description": "Young East Asian man with wavy dark hair, wearing a light grey tank top, silver chain necklace, and AirPods."
+  },
+  "camera": {
+    "style": "selfie",
+    "framing": "medium",
+    "movement": "handheld",
+    "angle": "eye level"
+  },
+  "quality": {
+    "usable": true,
+    "stability": "handheld",
+    "exposure": "good",
+    "issues": "Can covers camera lens completely between 0:01 and 0:02"
+  },
+  "mood": [
+    "casual",
+    "active",
+    "chill",
+    "energetic"
+  ],
+  "energy": "medium",
+  "tags": [
+    "celsius",
+    "energy drink",
+    "climbing gym",
+    "tank top",
+    "workout",
+    "caffeine",
+    "pre workout",
+    "bouldering",
+    "hydration",
+    "gym life",
+    "selfie"
+  ],
+  "moments": [
+    {
+      "start": 2.8,
+      "end": 5.2,
+      "action": "Creator takes a long drink from a silver Celsius energy drink can",
+      "emotion": "refreshed",
+      "good_for": [
+        "caffeine fix",
+        "pre-workout ritual",
+        "fueling the session",
+        "staying energized"
+      ],
+      "score": 4
+    },
+    {
+      "start": 5.2,
+      "end": 7.2,
+      "action": "Creator turns around and places the energy drink can on the wooden bar counter behind him",
+      "emotion": "focused",
+      "good_for": [
+        "locking in",
+        "ready to send",
+        "getting down to business"
+      ],
+      "score": 3
+    },
+    {
+      "start": 7.0,
+      "end": 8.69,
+      "action": "Creator turns back to look directly into the camera lens and reaches forward",
+      "emotion": "determined",
+      "good_for": [
+        "game face",
+        "time to climb",
+        "locking in"
+      ],
+      "score": 3
+    }
+  ]
+}

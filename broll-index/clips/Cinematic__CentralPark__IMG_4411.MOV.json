@@ -1,0 +1,70 @@
+{
+  "path": "Cinematic/CentralPark/IMG_4411.MOV",
+  "folder": "Cinematic/CentralPark",
+  "fingerprint": "ecee0c4c8b4b768b",
+  "width": 1080,
+  "height": 1920,
+  "fps": 30.0,
+  "duration": 1.867,
+  "model": "gemini-3.8-flash",
+  "annotatedAt": "2026-10-24T18:17:36+00:00",
+  "summary": "Handheld shot of several branded director's chairs labeled 'WITS' END' set up under a large tree in a park during a film production.",
+  "location": "park",
+  "setting": "outdoor",
+  "time_of_day": "day",
+  "weather": "sunny",
+  "people": {
+    "count": 2,
+    "creator_visible": false,
+    "description": "A crew member partially visible on the right adjusting chairs, and distant park visitors walking and biking in the background"
+  },
+  "camera": {
+    "style": "handheld_cinematic",
+    "framing": "medium",
+    "movement": "static",
+    "angle": "eye level"
+  },
+  "quality": {
+    "usable": true,
+    "stability": "steady",
+    "exposure": "good",
+    "issues": "Brief duration, partial equipment edge in foreground frame right"
+  },
+  "mood": [
+    "productive",
+    "behind the scenes",
+    "creative",
+    "focused"
+  ],
+  "energy": "low",
+  "tags": [
+    "central park",
+    "film set",
+    "directors chair",
+    "filmmaking",
+    "behind the scenes",
+    "production",
+    "crew",
+    "trees",
+    "park",
+    "outdoors",
+    "fall",
+    "new york"
+  ],
+  "moments": [
+    {
+      "start": 0.0,
+      "end": 1.87,
+      "action": "Director's chairs sit under a tree as a crew member handles equipment on the right",
+      "emotion": "focused",
+      "good_for": [
+        "on set today",
+        "behind the scenes",
+        "creative projects",
+        "filmmaking life",
+        "working on my dream"
+      ],
+      "score": 3
+    }
+  ]
+}

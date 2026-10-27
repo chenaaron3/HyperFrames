@@ -1,0 +1,120 @@
+{
+  "path": "SelfShots/ClimbingGym/OnTheWall/10:18:26_Orange_x53/IMG_5115.MOV",
+  "folder": "SelfShots/ClimbingGym/OnTheWall/10:18:26_Orange_x53",
+  "fingerprint": "e05f8793fab7ff63",
+  "width": 1080,
+  "height": 1920,
+  "fps": 30.0,
+  "duration": 49.27,
+  "model": "gemini-3.8-flash",
+  "annotatedAt": "2026-10-24T18:41:59+00:00",
+  "summary": "A young man attempts a bouldering route on an indoor climbing wall, ascending steadily before slipping off right at the finish hold.",
+  "location": "bouldering gym",
+  "setting": "indoor",
+  "time_of_day": "indoor_unknown",
+  "weather": "n/a",
+  "people": {
+    "count": 1,
+    "creator_visible": true,
+    "description": "Young East Asian man with wavy dark hair, wearing a grey sleeveless tank top and loose blue jeans"
+  },
+  "camera": {
+    "style": "tripod_static",
+    "framing": "wide",
+    "movement": "static",
+    "angle": "low angle looking up"
+  },
+  "quality": {
+    "usable": true,
+    "stability": "locked",
+    "exposure": "good",
+    "issues": ""
+  },
+  "mood": [
+    "athletic",
+    "focused",
+    "determined",
+    "challenging"
+  ],
+  "energy": "medium",
+  "tags": [
+    "bouldering",
+    "rock climbing",
+    "climbing gym",
+    "workout",
+    "fitness",
+    "bouldering wall",
+    "chalk",
+    "holds",
+    "training",
+    "fail",
+    "persistence",
+    "sports"
+  ],
+  "moments": [
+    {
+      "start": 2.5,
+      "end": 11.5,
+      "action": "Climber approaches the wall, inspecting the holds and visualizing his route before attempting the climb",
+      "emotion": "focused, analytical",
+      "good_for": [
+        "planning your next move",
+        "trust the process",
+        "visualizing success",
+        "gym routine"
+      ],
+      "score": 3
+    },
+    {
+      "start": 14.0,
+      "end": 22.5,
+      "action": "Climber pulls onto the wall and navigates the initial black holds with precise foot placements",
+      "emotion": "concentrated, determined",
+      "good_for": [
+        "starting strong",
+        "discipline over motivation",
+        "focus on each step",
+        "fitness journey"
+      ],
+      "score": 4
+    },
+    {
+      "start": 23.0,
+      "end": 33.5,
+      "action": "Climber makes powerful reach moves up the middle section of the overhang wall",
+      "emotion": "straining, engaged",
+      "good_for": [
+        "working hard",
+        "pushing through the middle",
+        "physical strength",
+        "boulder project"
+      ],
+      "score": 4
+    },
+    {
+      "start": 36.5,
+      "end": 44.5,
+      "action": "Climber reaches for the top hold, struggles to secure his grip, and falls backwards onto the mat",
+      "emotion": "intense effort followed by defeat",
+      "good_for": [
+        "so close yet so far",
+        "falling before the finish line",
+        "learning from failure",
+        "relatable gym fails"
+      ],
+      "score": 5
+    },
+    {
+      "start": 44.0,
+      "end": 47.0,
+      "action": "Climber lands safely on the padded mat and walks off with a tired, reflective expression",
+      "emotion": "resigned, catching breath",
+      "good_for": [
+        "we try again tomorrow",
+        "dust yourself off",
+        "post-workout exhaustion"
+      ],
+      "score": 3
+    }
+  ]
+}

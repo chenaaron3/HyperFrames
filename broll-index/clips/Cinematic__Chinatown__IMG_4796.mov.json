@@ -1,0 +1,82 @@
+{
+  "path": "Cinematic/Chinatown/IMG_4796.mov",
+  "folder": "Cinematic/Chinatown",
+  "fingerprint": "7a111cf351d3ddd7",
+  "width": 1080,
+  "height": 1920,
+  "fps": 30.0,
+  "duration": 6.734,
+  "model": "gemini-3.8-flash",
+  "annotatedAt": "2026-10-24T18:19:35+00:00",
+  "summary": "Drive-by tracking footage of a bustling NYC Chinatown street showing storefronts, restaurants, scaffolding, parked cars, and pedestrians on the sidewalk.",
+  "location": "city street",
+  "setting": "outdoor",
+  "time_of_day": "day",
+  "weather": "overcast",
+  "people": {
+    "count": 15,
+    "creator_visible": false,
+    "description": "Pedestrians, shoppers, and a food delivery cyclist waiting along the busy sidewalk and storefronts"
+  },
+  "camera": {
+    "style": "handheld_cinematic",
+    "framing": "medium",
+    "movement": "tracking",
+    "angle": "eye level"
+  },
+  "quality": {
+    "usable": true,
+    "stability": "steady",
+    "exposure": "good",
+    "issues": "Slight motion blur from vehicle movement"
+  },
+  "mood": [
+    "urban",
+    "lively",
+    "gritty",
+    "observational"
+  ],
+  "energy": "medium",
+  "tags": [
+    "chinatown",
+    "nyc",
+    "new york city",
+    "city streets",
+    "drive by",
+    "canal street",
+    "storefronts",
+    "restaurants",
+    "urban life",
+    "scaffolding",
+    "street photography",
+    "b-roll"
+  ],
+  "moments": [
+    {
+      "start": 0.0,
+      "end": 3.0,
+      "action": "Camera tracks past building scaffolding, parked cars, and crowded sidewalk stalls",
+      "emotion": "busy urban transit",
+      "good_for": [
+        "city transit",
+        "concrete jungle",
+        "nyc living",
+        "on the go"
+      ],
+      "score": 3
+    },
+    {
+      "start": 3.0,
+      "end": 6.73,
+      "action": "Camera glides past Fluffies Hot Chicken, Five Guys, and a sidewalk souvenir gift shop with a delivery cyclist in view",
+      "emotion": "bustling everyday city atmosphere",
+      "good_for": [
+        "exploring the city",
+        "chinatown vibes",
+        "street culture",
+        "daily commute"
+      ],
+      "score": 4
+    }
+  ]
+}

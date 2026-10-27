@@ -1,0 +1,68 @@
+{
+  "path": "OneOffs/BrooklynNight/IMG_4531 3.MOV",
+  "folder": "OneOffs/BrooklynNight",
+  "fingerprint": "dbd1a4796fce0512",
+  "width": 1080,
+  "height": 1920,
+  "fps": 30.0,
+  "duration": 5.133,
+  "model": "gemini-3.8-flash",
+  "annotatedAt": "2026-10-24T18:23:02+00:00",
+  "summary": "A young man climbs an indoor bouldering wall, navigating holds and adjusting his body position from behind.",
+  "location": "climbing gym",
+  "setting": "indoor",
+  "time_of_day": "indoor_unknown",
+  "weather": "n/a",
+  "people": {
+    "count": 1,
+    "creator_visible": true,
+    "description": "Young athletic man viewed from behind, wearing a black graphic t-shirt, black shorts, and climbing shoes."
+  },
+  "camera": {
+    "style": "filmed_by_friend",
+    "framing": "medium",
+    "movement": "handheld",
+    "angle": "low angle looking up"
+  },
+  "quality": {
+    "usable": true,
+    "stability": "handheld",
+    "exposure": "good",
+    "issues": ""
+  },
+  "mood": [
+    "focused",
+    "athletic",
+    "determined",
+    "active"
+  ],
+  "energy": "medium",
+  "tags": [
+    "bouldering",
+    "rock climbing",
+    "climbing gym",
+    "workout",
+    "fitness",
+    "athletic",
+    "strength",
+    "indoor climbing",
+    "climbing holds",
+    "hobbies"
+  ],
+  "moments": [
+    {
+      "start": 0.0,
+      "end": 5.13,
+      "action": "Man climbs an indoor bouldering wall, shifting his feet and reaching for holds near the top",
+      "emotion": "focused",
+      "good_for": [
+        "pushing through challenges",
+        "staying active",
+        "new hobbies",
+        "fitness journey",
+        "trust the process"
+      ],
+      "score": 4
+    }
+  ]
+}

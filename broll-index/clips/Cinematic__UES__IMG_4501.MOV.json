@@ -1,0 +1,81 @@
+{
+  "path": "Cinematic/UES/IMG_4501.MOV",
+  "folder": "Cinematic/UES",
+  "fingerprint": "3b294f8566533a8c",
+  "width": 1080,
+  "height": 1920,
+  "fps": 30.0,
+  "duration": 5.567,
+  "model": "gemini-3.8-flash",
+  "annotatedAt": "2026-10-24T18:20:07+00:00",
+  "summary": "A handheld shot panning from an AMC movie theater marquee on an Upper East Side sidewalk towards the street traffic and city buildings.",
+  "location": "city street",
+  "setting": "outdoor",
+  "time_of_day": "day",
+  "weather": "overcast",
+  "people": {
+    "count": 8,
+    "creator_visible": false,
+    "description": "Pedestrians walking along the sidewalk outside an AMC theater, wearing casual daywear."
+  },
+  "camera": {
+    "style": "handheld_cinematic",
+    "framing": "medium",
+    "movement": "pan",
+    "angle": "eye level"
+  },
+  "quality": {
+    "usable": true,
+    "stability": "handheld",
+    "exposure": "good",
+    "issues": ""
+  },
+  "mood": [
+    "urban",
+    "everyday",
+    "cinematic",
+    "calm"
+  ],
+  "energy": "low",
+  "tags": [
+    "amc",
+    "movie theater",
+    "nyc",
+    "upper east side",
+    "new york city",
+    "street view",
+    "sidewalk",
+    "pedestrians",
+    "traffic",
+    "city life",
+    "b-roll"
+  ],
+  "moments": [
+    {
+      "start": 0.0,
+      "end": 2.5,
+      "action": "Camera frames the AMC neon sign and entrance marquee with pedestrians walking along the sidewalk underneath",
+      "emotion": "casual",
+      "good_for": [
+        "movie date",
+        "weekend plans",
+        "nyc days",
+        "going to the movies"
+      ],
+      "score": 3
+    },
+    {
+      "start": 2.5,
+      "end": 5.57,
+      "action": "Camera pans left past a tree to reveal the avenue street, bike lane, and oncoming cars and buildings",
+      "emotion": "observant",
+      "good_for": [
+        "city strolling",
+        "upper east side",
+        "exploring new york",
+        "city life"
+      ],
+      "score": 3
+    }
+  ]
+}

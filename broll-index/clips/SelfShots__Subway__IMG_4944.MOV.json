@@ -1,0 +1,95 @@
+{
+  "path": "SelfShots/Subway/IMG_4944.MOV",
+  "folder": "SelfShots/Subway",
+  "fingerprint": "488825d7257fd493",
+  "width": 1080,
+  "height": 1920,
+  "fps": 30.0,
+  "duration": 9.333,
+  "model": "gemini-3.8-flash",
+  "annotatedAt": "2026-10-24T19:00:52+00:00",
+  "summary": "A static shot of an underground subway concourse at Columbus Circle featuring MTA train signs and underground shops as a commuter walks past.",
+  "location": "subway station concourse",
+  "setting": "indoor",
+  "time_of_day": "indoor_unknown",
+  "weather": "n/a",
+  "people": {
+    "count": 1,
+    "creator_visible": false,
+    "description": "A commuter dressed in a black coat and carrying a backpack walking past the camera"
+  },
+  "camera": {
+    "style": "tripod_static",
+    "framing": "medium",
+    "movement": "static",
+    "angle": "eye level"
+  },
+  "quality": {
+    "usable": true,
+    "stability": "locked",
+    "exposure": "good",
+    "issues": ""
+  },
+  "mood": [
+    "urban",
+    "ambient",
+    "transit",
+    "routine",
+    "calm"
+  ],
+  "energy": "low",
+  "tags": [
+    "subway",
+    "nyc",
+    "mta",
+    "columbus circle",
+    "underground",
+    "transit",
+    "train station",
+    "commute",
+    "new york city",
+    "walking",
+    "city life",
+    "urban"
+  ],
+  "moments": [
+    {
+      "start": 0.0,
+      "end": 3.5,
+      "action": "Static view of Columbus Circle underground concourse with prominent A C B D 1 subway signs and storefronts",
+      "emotion": "calm",
+      "good_for": [
+        "nyc living",
+        "morning commute",
+        "city transit",
+        "subway navigation"
+      ],
+      "score": 3
+    },
+    {
+      "start": 3.2,
+      "end": 5.5,
+      "action": "A commuter wearing a dark jacket and backpack walks past the subway sign post across the frame",
+      "emotion": "focused",
+      "good_for": [
+        "on my way",
+        "daily commute",
+        "city routine",
+        "heading to work"
+      ],
+      "score": 3
+    },
+    {
+      "start": 5.5,
+      "end": 9.33,
+      "action": "Empty concourse corridor with subway route indicators and red barrier padding",
+      "emotion": "quiet",
+      "good_for": [
+        "subway b-roll",
+        "nyc vibes",
+        "lost in the city"
+      ],
+      "score": 2
+    }
+  ]
+}

@@ -1,0 +1,115 @@
+{
+  "path": "SelfShots/ClimbingGym/OnTheWall/10:23:26_Red_x8/IMG_5286.MOV",
+  "folder": "SelfShots/ClimbingGym/OnTheWall/10:23:26_Red_x8",
+  "fingerprint": "98e478781ef6e79f",
+  "width": 1080,
+  "height": 1920,
+  "fps": 30.0,
+  "duration": 53.438,
+  "model": "gemini-3.8-flash",
+  "annotatedAt": "2026-10-24T18:52:08+00:00",
+  "summary": "A young man tackles and completes a bouldering route on an indoor climbing gym wall before jumping down onto the mat.",
+  "location": "climbing gym",
+  "setting": "indoor",
+  "time_of_day": "indoor_unknown",
+  "weather": "n/a",
+  "people": {
+    "count": 1,
+    "creator_visible": true,
+    "description": "Young East Asian male with dark wavy hair, wearing a loose dark short-sleeve shirt, baggy jeans/pants, and climbing shoes."
+  },
+  "camera": {
+    "style": "tripod_static",
+    "framing": "wide",
+    "movement": "static",
+    "angle": "low angle looking up"
+  },
+  "quality": {
+    "usable": true,
+    "stability": "locked",
+    "exposure": "good",
+    "issues": ""
+  },
+  "mood": [
+    "focused",
+    "athletic",
+    "determined",
+    "accomplished"
+  ],
+  "energy": "medium",
+  "tags": [
+    "climbing",
+    "bouldering",
+    "bouldering gym",
+    "indoor climbing",
+    "workout",
+    "fitness",
+    "climbing route",
+    "sports",
+    "athletic",
+    "training",
+    "gym session"
+  ],
+  "moments": [
+    {
+      "start": 6.0,
+      "end": 14.5,
+      "action": "Climber mounts the wall and positions his hands and feet to start traversing",
+      "emotion": "focused",
+      "good_for": [
+        "starting a new challenge",
+        "first steps",
+        "getting to work"
+      ],
+      "score": 4
+    },
+    {
+      "start": 14.5,
+      "end": 26.5,
+      "action": "Climber stretches across the climbing wall, carefully shifting weight between holds",
+      "emotion": "concentrated",
+      "good_for": [
+        "finding balance",
+        "stepping out of comfort zone",
+        "trusting the process"
+      ],
+      "score": 4
+    },
+    {
+      "start": 26.5,
+      "end": 39.0,
+      "action": "Climber maneuvers up into the green holds section, working through the crux of the climb",
+      "emotion": "determined",
+      "good_for": [
+        "pushing through difficulty",
+        "one step at a time",
+        "focus on your goals"
+      ],
+      "score": 4
+    },
+    {
+      "start": 39.0,
+      "end": 46.5,
+      "action": "Climber reaches up to securely match the top finish hold",
+      "emotion": "triumphant",
+      "good_for": [
+        "reaching the top",
+        "mission accomplished",
+        "hard work paying off"
+      ],
+      "score": 5
+    },
+    {
+      "start": 46.5,
+      "end": 50.5,
+      "action": "Climber releases his grip, drops down onto the crash pad, and walks toward camera",
+      "emotion": "relieved",
+      "good_for": [
+        "nailed it",
+        "time to celebrate",
+        "done and dusted"
+      ],
+      "score": 4
+    }
+  ]
+}

@@ -1,0 +1,169 @@
+{
+  "id": "opinion-19",
+  "name": "Solo living isn’t Plan B.",
+  "reference": "references/viral-formats/opinion-19.mp4",
+  "source": "/Users/aaron/Downloads/100 Viral Formats (Format Book)/Opinion/#19/#19.mp4",
+  "duration": 13.267,
+  "music": {
+    "from": "reference",
+    "title": "Love story - Indila"
+  },
+  "text": {
+    "y": 0.333,
+    "size": 49,
+    "weight": 700,
+    "lineHeight": 1.4,
+    "maxWidth": 900,
+    "style": "outline"
+  },
+  "lines": [
+    {
+      "id": "l1",
+      "start": 0.0,
+      "end": 2.033,
+      "ref": "Solo living isn’t Plan B.",
+      "y": 0.333,
+      "measuredSize": 47,
+      "style": "plain_white_shadow",
+      "guide": ""
+    },
+    {
+      "id": "l2",
+      "start": 2.033,
+      "end": 13.267,
+      "ref": "It’s the plan.",
+      "y": 0.329,
+      "measuredSize": 51,
+      "style": "plain_white_shadow",
+      "guide": ""
+    }
+  ],
+  "shots": [
+    {
+      "id": "s1",
+      "start": 0.0,
+      "end": 2.033,
+      "brief": "baking or cooking in apartment kitchen, medium shot (ref: Woman in kitchen scraping green matcha cake batter into a lined baking tin.; tripod)",
+      "line": "l1"
+    },
+    {
+      "id": "s2",
+      "start": 2.033,
+      "end": 2.733,
+      "brief": "decorating apartment shelf or wall (ref: Woman arranging small prints and decor on floating shelves.; tripod)",
+      "line": "l2"
+    },
+    {
+      "id": "s3",
+      "start": 2.733,
+      "end": 3.267,
+      "brief": "cozy apartment interior decor detail shot (ref: Close-up of decorative pictures, vase with dried flowers, and cozy clock on a shelf.; tripod)",
+      "line": "l2"
+    },
+    {
+      "id": "s4",
+      "start": 3.267,
+      "end": 3.867,
+      "brief": "drinking tea or coffee alone at a table (ref: Woman sitting alone at table sipping a warm drink next to lit candles.; tripod)",
+      "line": "l2"
+    },
+    {
+      "id": "s5",
+      "start": 3.867,
+      "end": 4.767,
+      "brief": "hanging art or mirror on the wall, DIY home decor (ref: Woman standing on a dining chair hanging a mirror on the wall.; tripod)",
+      "line": "l2"
+    },
+    {
+      "id": "s6",
+      "start": 4.767,
+      "end": 5.033,
+      "brief": "hanging art or mirror on the wall, DIY home decor (ref: Woman standing on a dining chair hanging a mirror on the wall.; tripod)",
+      "line": "l2"
+    },
+    {
+      "id": "s7",
+      "start": 5.033,
+      "end": 5.7,
+      "brief": "mirror selfie at home with or without a pet (ref: Mirror selfie holding a pet cat.; mirror)",
+      "line": "l2"
+    },
+    {
+      "id": "s8",
+      "start": 5.7,
+      "end": 6.433,
+      "brief": "hanging fairy lights or adjusting window plants (ref: Woman adjusting hanging star fairy lights around apartment window frame.; tripod)",
+      "line": "l2"
+    },
+    {
+      "id": "s9",
+      "start": 6.433,
+      "end": 7.067,
+      "brief": "looking out apartment window cozy scene (ref: Woman looking out the decorated window next to a cat looking outside.; tripod)",
+      "line": "l2"
+    },
+    {
+      "id": "s10",
+      "start": 7.067,
+      "end": 7.533,
+      "brief": "aesthetic window or warm lighting b-roll (ref: Static aesthetic shot of the window with warm star string lights glowing.; tripod)",
+      "line": "l2"
+    },
+    {
+      "id": "s11",
+      "start": 7.533,
+      "end": 7.733,
+      "brief": "turning on warm evening lighting in apartment (ref: Woman walking in living room and switching on a warm shelf lamp.; tripod)",
+      "line": "l2"
+    },
+    {
+      "id": "s12",
+      "start": 7.733,
+      "end": 8.567,
+      "brief": "turning on warm evening lighting in apartment (ref: Woman walking in living room and switching on a warm shelf lamp.; tripod)",
+      "line": "l2"
+    },
+    {
+      "id": "s13",
+      "start": 8.567,
+      "end": 10.267,
+      "brief": "lighting a candle in living room (ref: Woman leaning down to light a scented candle on the coffee table.; tripod)",
+      "line": "l2"
+    },
+    {
+      "id": "s14",
+      "start": 10.267,
+      "end": 11.233,
+      "brief": "cooking or prepping food in kitchen (ref: Woman using an immersion blender to mix batter in a kitchen bowl.; tripod)",
+      "line": "l2"
+    },
+    {
+      "id": "s15",
+      "start": 11.233,
+      "end": 12.133,
+      "brief": "cooking or baking detail shot (ref: Pouring blended batter into a bowl.; tripod)",
+      "line": "l2"
+    },
+    {
+      "id": "s16",
+      "start": 12.133,
+      "end": 13.267,
+      "brief": "kitchen cooking or baking shot (ref: Finishing scraping cake batter into baking tin.; tripod)",
+      "line": "l2"
+    }
+  ],
+  "audit": {
+    "kind": "broll_with_text",
+    "creatorSpeaks": false,
+    "audio": "music only",
+    "special": [],
+    "reusable": true,
+    "notes": "Ideal for any solo creator. The creator can assemble 8–12 short cozy lifestyle clips (cooking, morning coffee, apartment routine, relaxing in living room, lighting candles, working) and apply the two-part text hook.",
+    "summary": "A cozy montage of solitary apartment life activities (cooking, decorating, cozying up, relaxing) paired with a bold text affirmation about embracing solo living intentionally."
+  },
+  "caption": {
+    "ref": "",
+    "guide": ""
+  },
+  "draft": true
+}

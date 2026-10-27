@@ -1,0 +1,117 @@
+{
+  "path": "SelfShots/ClimbingGym/OnTheWall/10:18:26_Orange_x53/IMG_5151.MOV",
+  "folder": "SelfShots/ClimbingGym/OnTheWall/10:18:26_Orange_x53",
+  "fingerprint": "93f3e9884c709073",
+  "width": 1080,
+  "height": 1920,
+  "fps": 30.0,
+  "duration": 86.607,
+  "model": "gemini-3.8-flash",
+  "annotatedAt": "2026-10-24T18:47:26+00:00",
+  "summary": "A young man tackles a difficult bouldering problem at an indoor climbing gym, working through tricky holds until he jumps down safely onto the mats.",
+  "location": "bouldering gym",
+  "setting": "indoor",
+  "time_of_day": "indoor_unknown",
+  "weather": "n/a",
+  "people": {
+    "count": 2,
+    "creator_visible": true,
+    "description": "Young Asian man with dark hair wearing a grey tank top, baggy jeans, and climbing shoes; other gym goers walk in the distant background"
+  },
+  "camera": {
+    "style": "tripod_static",
+    "framing": "wide",
+    "movement": "static",
+    "angle": "low angle looking up"
+  },
+  "quality": {
+    "usable": true,
+    "stability": "locked",
+    "exposure": "good",
+    "issues": ""
+  },
+  "mood": [
+    "focused",
+    "athletic",
+    "determined",
+    "resilient"
+  ],
+  "energy": "medium",
+  "tags": [
+    "bouldering",
+    "climbing",
+    "rock climbing",
+    "climbing gym",
+    "indoor climbing",
+    "athletic",
+    "workout",
+    "fitness",
+    "chalk",
+    "climbing holds",
+    "problem solving",
+    "grit",
+    "sports"
+  ],
+  "moments": [
+    {
+      "start": 4.5,
+      "end": 10.0,
+      "action": "Climber approaches the wall, grabs the starting holds, and pulls himself up off the mat",
+      "emotion": "focused",
+      "good_for": [
+        "starting something new",
+        "day 1 vs day 100",
+        "lock in"
+      ],
+      "score": 3
+    },
+    {
+      "start": 20.0,
+      "end": 26.5,
+      "action": "Climber shifts his weight carefully across the large yellow and blue volumes",
+      "emotion": "calculated",
+      "good_for": [
+        "trust the process",
+        "small steps forward",
+        "balance"
+      ],
+      "score": 4
+    },
+    {
+      "start": 46.5,
+      "end": 55.0,
+      "action": "Climber stretches his leg out in a wide split to reach a hold on the opposite volume",
+      "emotion": "straining",
+      "good_for": [
+        "pushing outside comfort zones",
+        "flexibility check",
+        "hard work"
+      ],
+      "score": 4
+    },
+    {
+      "start": 62.0,
+      "end": 71.0,
+      "action": "Climber ascends higher up the overhang toward the top holds",
+      "emotion": "determined",
+      "good_for": [
+        "almost at the finish line",
+        "climbing your mountain",
+        "never giving up"
+      ],
+      "score": 4
+    },
+    {
+      "start": 78.0,
+      "end": 84.5,
+      "action": "Climber attempts the final reach, drops down onto the crash pad, and walks off smiling and catching his breath",
+      "emotion": "relieved and exhausted",
+      "good_for": [
+        "falling and getting back up",
+        "giving it everything",
+        "failed attempt but we move"
+      ],
+      "score": 5
+    }
+  ]
+}

@@ -1,0 +1,92 @@
+{
+  "id": "relatable-21",
+  "name": "“Aren’t you afraid of doing things alone??”",
+  "reference": "references/viral-formats/relatable-21.mp4",
+  "source": "/Users/aaron/Downloads/100 Viral Formats (Format Book)/Relatable/#21/#21.mp4",
+  "duration": 8.0,
+  "music": {
+    "from": "reference",
+    "title": "No One Noticed - The Marias"
+  },
+  "text": {
+    "y": 0.609,
+    "size": 46,
+    "weight": 700,
+    "lineHeight": 1.4,
+    "maxWidth": 900,
+    "style": "outline"
+  },
+  "lines": [
+    {
+      "id": "l1",
+      "start": 0.0,
+      "end": 3.1,
+      "ref": "“Aren’t you afraid of doing\nthings alone??”",
+      "y": 0.609,
+      "measuredSize": 35,
+      "style": "plain_white_shadow",
+      "guide": ""
+    },
+    {
+      "id": "l2",
+      "start": 3.1,
+      "end": 8.0,
+      "ref": "Aren’t you afraid of being\ndependant on others for the rest\nof your life??",
+      "y": 0.544,
+      "measuredSize": 34,
+      "style": "plain_white_shadow",
+      "guide": ""
+    }
+  ],
+  "shots": [
+    {
+      "id": "s1",
+      "start": 0.0,
+      "end": 3.1,
+      "brief": "sitting alone at a coffee shop or cafe with a drink (ref: Woman sitting by a cafe window holding a mug and smiling, looking outside.; tripod)",
+      "line": "l1"
+    },
+    {
+      "id": "s2",
+      "start": 3.1,
+      "end": 4.133,
+      "brief": "walking down a city street alone (ref: Woman walking down a cobblestone European street, looking back and smiling.; filmed by friend)",
+      "line": "l2"
+    },
+    {
+      "id": "s3",
+      "start": 4.133,
+      "end": 5.233,
+      "brief": "standing outdoors in the rain with an umbrella (ref: Woman holding an umbrella in the rain in front of a historic building.; tripod)",
+      "line": "l2"
+    },
+    {
+      "id": "s4",
+      "start": 5.233,
+      "end": 6.2,
+      "brief": "eating alone at a restaurant (ref: Woman eating dinner solo at a restaurant using chopsticks.; tripod)",
+      "line": "l2"
+    },
+    {
+      "id": "s5",
+      "start": 6.2,
+      "end": 8.0,
+      "brief": "holding a coffee cup outdoors or on public transit, selfie (ref: Selfie video on an open-air ferry deck sipping coffee against the sky.; selfie)",
+      "line": "l2"
+    }
+  ],
+  "audit": {
+    "kind": "broll_with_text",
+    "creatorSpeaks": false,
+    "audio": "music only",
+    "special": [],
+    "reusable": true,
+    "notes": "Extremely easy to recreate using existing lifestyle b-roll. Any 4–5 clips showing solo activities (cafe working/drinking coffee, walking in NYC streets, solo dining, subway/ferry transit) will work seamlessly with the original audio and text.",
+    "summary": "A solo lifestyle montage showing various solo activities (coffee shop, walking city streets, dining, ferry ride) with contrasting text questioning the fear of doing things alone."
+  },
+  "caption": {
+    "ref": "",
+    "guide": ""
+  },
+  "draft": true
+}

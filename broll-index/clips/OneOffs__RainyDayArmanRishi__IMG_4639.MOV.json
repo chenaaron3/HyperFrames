@@ -1,0 +1,83 @@
+{
+  "path": "OneOffs/RainyDayArmanRishi/IMG_4639.MOV",
+  "folder": "OneOffs/RainyDayArmanRishi",
+  "fingerprint": "efd085b22586c2ce",
+  "width": 1080,
+  "height": 1920,
+  "fps": 30.0,
+  "duration": 12.233,
+  "model": "gemini-3.8-flash",
+  "annotatedAt": "2026-10-24T18:36:36+00:00",
+  "summary": "A young man sitting in a lush plant-filled cafe takes a sip from his drink and smiles warmly toward the camera.",
+  "location": "coffee shop",
+  "setting": "indoor",
+  "time_of_day": "day",
+  "weather": "n/a",
+  "people": {
+    "count": 1,
+    "creator_visible": true,
+    "description": "Young man wearing glasses and a textured grey-green button-up shirt sitting in a plant-filled cafe"
+  },
+  "camera": {
+    "style": "filmed_by_friend",
+    "framing": "medium",
+    "movement": "static",
+    "angle": "eye level"
+  },
+  "quality": {
+    "usable": true,
+    "stability": "steady",
+    "exposure": "good",
+    "issues": ""
+  },
+  "mood": [
+    "cozy",
+    "relaxed",
+    "peaceful",
+    "happy",
+    "friendly"
+  ],
+  "energy": "low",
+  "tags": [
+    "coffee shop",
+    "cafe",
+    "indoor plants",
+    "drinking coffee",
+    "latte",
+    "smiling",
+    "friendship",
+    "relaxing",
+    "cozy vibes",
+    "date",
+    "hangout",
+    "day off"
+  ],
+  "moments": [
+    {
+      "start": 0.0,
+      "end": 7.8,
+      "action": "Man slowly takes a long sip of his coffee while surrounded by house plants",
+      "emotion": "calm and savoring",
+      "good_for": [
+        "morning coffee ritual",
+        "taking things slow",
+        "self care days",
+        "coffee tastes better on weekends"
+      ],
+      "score": 4
+    },
+    {
+      "start": 7.8,
+      "end": 12.23,
+      "action": "Man sets his cup down on the table, turns toward the camera, and laughs with a bright smile",
+      "emotion": "warm, happy smile",
+      "good_for": [
+        "when you are with the right people",
+        "coffee dates",
+        "caught smiling",
+        "gratitude for good friends"
+      ],
+      "score": 5
+    }
+  ]
+}

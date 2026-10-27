@@ -1,0 +1,66 @@
+{
+  "path": "OneOffs/Apartments/MurrayHills/150 East 39th Street/IMG_4189.MOV",
+  "folder": "OneOffs/Apartments/MurrayHills/150 East 39th Street",
+  "fingerprint": "5fa603eb3aaae49f",
+  "width": 1080,
+  "height": 1920,
+  "fps": 30.0,
+  "duration": 1.8,
+  "model": "gemini-3.8-flash",
+  "annotatedAt": "2026-10-24T18:21:08+00:00",
+  "summary": "Exterior entrance of Dryden East apartment building at 150 East 39th Street, framed under a sidewalk canopy with a promotional sign and glass front doors.",
+  "location": "apartment building entrance",
+  "setting": "outdoor",
+  "time_of_day": "day",
+  "weather": "n/a",
+  "people": {
+    "count": 0,
+    "creator_visible": false,
+    "description": "No people visible."
+  },
+  "camera": {
+    "style": "pov_first_person",
+    "framing": "wide",
+    "movement": "static",
+    "angle": "eye level"
+  },
+  "quality": {
+    "usable": true,
+    "stability": "steady",
+    "exposure": "good",
+    "issues": "Scaffolding pole partially obstructing right foreground."
+  },
+  "mood": [
+    "neutral",
+    "urban",
+    "anticipatory"
+  ],
+  "energy": "low",
+  "tags": [
+    "apartment building",
+    "entrance",
+    "real estate",
+    "apartment hunting",
+    "murray hill",
+    "manhattan",
+    "nyc",
+    "street view",
+    "signage",
+    "moving"
+  ],
+  "moments": [
+    {
+      "start": 0.0,
+      "end": 1.8,
+      "action": "View of the entrance doors and sidewalk sign for Dryden East apartments at 150 East 39th Street.",
+      "emotion": "anticipatory",
+      "good_for": [
+        "apartment hunting",
+        "touring new places",
+        "moving to nyc",
+        "new beginnings"
+      ],
+      "score": 3
+    }
+  ]
+}

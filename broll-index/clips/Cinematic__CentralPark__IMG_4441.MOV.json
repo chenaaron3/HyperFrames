@@ -1,0 +1,70 @@
+{
+  "path": "Cinematic/CentralPark/IMG_4441.MOV",
+  "folder": "Cinematic/CentralPark",
+  "fingerprint": "f89415556bce33ab",
+  "width": 1080,
+  "height": 1920,
+  "fps": 30.0,
+  "duration": 2.3,
+  "model": "gemini-3.8-flash",
+  "annotatedAt": "2026-10-24T18:18:14+00:00",
+  "summary": "A low-angle view of sunlight filtering through tall pine trees and illuminating a classic Central Park lamppost against a partly cloudy sky.",
+  "location": "park",
+  "setting": "outdoor",
+  "time_of_day": "day",
+  "weather": "sunny",
+  "people": {
+    "count": 0,
+    "creator_visible": false,
+    "description": "No people visible."
+  },
+  "camera": {
+    "style": "handheld_cinematic",
+    "framing": "wide",
+    "movement": "static",
+    "angle": "low angle looking up"
+  },
+  "quality": {
+    "usable": true,
+    "stability": "steady",
+    "exposure": "mixed",
+    "issues": ""
+  },
+  "mood": [
+    "peaceful",
+    "serene",
+    "reflective",
+    "calm"
+  ],
+  "energy": "low",
+  "tags": [
+    "central park",
+    "new york city",
+    "trees",
+    "sunlight",
+    "sun flare",
+    "lamppost",
+    "sky",
+    "clouds",
+    "nature",
+    "greenery",
+    "peaceful",
+    "scenic"
+  ],
+  "moments": [
+    {
+      "start": 0.0,
+      "end": 2.3,
+      "action": "Sun flares through pine tree foliage and illuminates a vintage park lantern against a bright sky.",
+      "emotion": "calm",
+      "good_for": [
+        "sun on my face",
+        "getting outside",
+        "peace of mind",
+        "nature walk",
+        "simple moments"
+      ],
+      "score": 3
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "assets/hyperframes-logo-white.svg": "f9f942c43b465616c3af2fb8b07daf1cc05a4776903bbb27beb2bb608060e6c7",
+  "compositions/ai-chat-reveal.html": "b4ce0e31242593d8b8d962bd6b9efd0a44aaa62473ad3405c8ed31948540dcfb",
+  "compositions/components/blur-in.html": "d93d9598c3b00699d9289df3dc19138c1f023fc01c25f4ab6f6e679b09cdb563",
+  "compositions/components/browser-device-stage.html": "59b20814d38bf58ec1c6c7727ed954e89e9f38a7392eddf6d266ce586bad6764",
+  "compositions/components/constellation-hub.html": "6ebed16e6f7d2aff53507fc719639e4b9332b1882c4c4b8e3e8ff0b53011805e",
+  "compositions/components/panel-reveal.html": "0fbb1c9685a80e10e577d405544bf8db35ec1a27cb0c8bed55a4a1f5fd88d376",
+  "compositions/components/spotlight-card.html": "6dc7a87c4e033e8794252aaa117c587230f3d2077c79b1b9a9d85a042f53555e",
+  "compositions/components/stagger-cascade.html": "b5d48fc579fb6fbb8bbcae00b7da6365d1657f15601986e64cac88861b397188",
+  "TEMPLATE.md": "de62e4f1777f21b203701c2efc82ef347b5a03292844b99bc1b0af788b5cb91b"
+}

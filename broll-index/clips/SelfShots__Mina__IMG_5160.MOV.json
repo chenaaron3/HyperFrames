@@ -1,0 +1,81 @@
+{
+  "path": "SelfShots/Mina/IMG_5160.MOV",
+  "folder": "SelfShots/Mina",
+  "fingerprint": "42478f77d51cc00e",
+  "width": 1080,
+  "height": 1920,
+  "fps": 30.0,
+  "duration": 6.567,
+  "model": "gemini-3.8-flash",
+  "annotatedAt": "2026-10-24T18:56:17+00:00",
+  "summary": "A person gives scritches to a fluffy grey cat lying on a wooden floor, who happily rolls over on its back.",
+  "location": "living room",
+  "setting": "indoor",
+  "time_of_day": "indoor_unknown",
+  "weather": "n/a",
+  "people": {
+    "count": 1,
+    "creator_visible": false,
+    "description": "Only the creator's hand and arm are visible petting the cat"
+  },
+  "camera": {
+    "style": "pov_first_person",
+    "framing": "medium",
+    "movement": "handheld",
+    "angle": "high angle"
+  },
+  "quality": {
+    "usable": true,
+    "stability": "steady",
+    "exposure": "good",
+    "issues": ""
+  },
+  "mood": [
+    "cozy",
+    "whimsical",
+    "affectionate",
+    "relaxed"
+  ],
+  "energy": "low",
+  "tags": [
+    "cat",
+    "pet",
+    "fluffy cat",
+    "grey cat",
+    "petting",
+    "belly rubs",
+    "indoor",
+    "wood floor",
+    "cozy vibes",
+    "cute animals",
+    "lazy day",
+    "at home"
+  ],
+  "moments": [
+    {
+      "start": 0.0,
+      "end": 4.5,
+      "action": "A hand gently strokes and scratches a fluffy grey cat who relaxes and rolls onto its back",
+      "emotion": "affectionate and content",
+      "good_for": [
+        "loving my pet",
+        "little daily joys",
+        "coming home to this",
+        "soft life"
+      ],
+      "score": 4
+    },
+    {
+      "start": 4.5,
+      "end": 6.57,
+      "action": "The cat rolls over completely and playfully scoots across the wooden floor",
+      "emotion": "playful and silly",
+      "good_for": [
+        "weird cat things",
+        "goofy pets",
+        "unexpected energy"
+      ],
+      "score": 3
+    }
+  ]
+}

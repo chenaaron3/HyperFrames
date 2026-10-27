@@ -1,0 +1,81 @@
+{
+  "path": "OneOffs/Apartments/LES/197 East 3rd St/IMG_4103.MOV",
+  "folder": "OneOffs/Apartments/LES/197 East 3rd St",
+  "fingerprint": "0dc99579440adb1d",
+  "width": 1080,
+  "height": 1920,
+  "fps": 30.0,
+  "duration": 10.1,
+  "model": "gemini-3.8-flash",
+  "annotatedAt": "2026-10-24T18:21:02+00:00",
+  "summary": "A handheld walkthrough panning across an empty New York City apartment bedroom, showing a closet, sconce light, large windows overlooking a fire escape, and an exposed brick accent wall.",
+  "location": "apartment bedroom",
+  "setting": "indoor",
+  "time_of_day": "day",
+  "weather": "n/a",
+  "people": {
+    "count": 0,
+    "creator_visible": false,
+    "description": "No people visible"
+  },
+  "camera": {
+    "style": "pov_first_person",
+    "framing": "medium",
+    "movement": "pan",
+    "angle": "eye level"
+  },
+  "quality": {
+    "usable": true,
+    "stability": "handheld",
+    "exposure": "good",
+    "issues": "slightly quick handheld panning"
+  },
+  "mood": [
+    "anticipation",
+    "neutral",
+    "urban"
+  ],
+  "energy": "low",
+  "tags": [
+    "apartment tour",
+    "nyc apartment",
+    "exposed brick",
+    "bedroom",
+    "real estate",
+    "fire escape",
+    "lower east side",
+    "empty room",
+    "moving in",
+    "brick wall",
+    "windows",
+    "closet"
+  ],
+  "moments": [
+    {
+      "start": 3.5,
+      "end": 6.8,
+      "action": "Camera pans toward tall multi-pane windows showing courtyard trees and fire escapes against an exposed red brick wall",
+      "emotion": "calm",
+      "good_for": [
+        "apartment hunting in nyc",
+        "finding a place",
+        "new beginnings",
+        "exposed brick obsession"
+      ],
+      "score": 3
+    },
+    {
+      "start": 6.8,
+      "end": 10.1,
+      "action": "Camera pans across the rustic exposed red brick wall in the empty bedroom",
+      "emotion": "contemplative",
+      "good_for": [
+        "blank canvas",
+        "moving into my new space",
+        "aesthetic nyc apartment",
+        "new room"
+      ],
+      "score": 3
+    }
+  ]
+}

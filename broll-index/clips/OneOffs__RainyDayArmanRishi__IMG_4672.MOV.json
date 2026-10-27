@@ -1,0 +1,71 @@
+{
+  "path": "OneOffs/RainyDayArmanRishi/IMG_4672.MOV",
+  "folder": "OneOffs/RainyDayArmanRishi",
+  "fingerprint": "d33a30fda0419360",
+  "width": 1080,
+  "height": 1920,
+  "fps": 30.0,
+  "duration": 4.432,
+  "model": "gemini-3.8-flash",
+  "annotatedAt": "2026-10-24T18:37:51+00:00",
+  "summary": "Steam billows steadily from an orange and white striped street chimney on a wet city street at dusk during the rain.",
+  "location": "city street",
+  "setting": "outdoor",
+  "time_of_day": "night",
+  "weather": "rain",
+  "people": {
+    "count": 0,
+    "creator_visible": false,
+    "description": "No clearly identifiable people; faint distant silhouettes of pedestrians walking down the sidewalk."
+  },
+  "camera": {
+    "style": "handheld_cinematic",
+    "framing": "medium",
+    "movement": "static",
+    "angle": "eye level"
+  },
+  "quality": {
+    "usable": true,
+    "stability": "steady",
+    "exposure": "good",
+    "issues": ""
+  },
+  "mood": [
+    "moody",
+    "atmospheric",
+    "cinematic",
+    "calm",
+    "urban",
+    "melancholy"
+  ],
+  "energy": "low",
+  "tags": [
+    "nyc",
+    "new york city",
+    "steam pipe",
+    "rain",
+    "wet street",
+    "city lights",
+    "urban aesthetic",
+    "night street",
+    "skyscrapers",
+    "rainy day",
+    "moody vibes"
+  ],
+  "moments": [
+    {
+      "start": 0.0,
+      "end": 4.43,
+      "action": "Steam rises continuously out of an orange and white striped ventilation chimney onto a rainy, wet downtown street with headlights reflecting on asphalt.",
+      "emotion": "calm",
+      "good_for": [
+        "rainy city vibes",
+        "moody evenings",
+        "living in new york",
+        "cold rainy days",
+        "city aesthetic b-roll"
+      ],
+      "score": 4
+    }
+  ]
+}

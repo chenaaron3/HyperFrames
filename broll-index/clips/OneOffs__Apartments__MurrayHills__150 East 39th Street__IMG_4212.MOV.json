@@ -1,0 +1,118 @@
+{
+  "path": "OneOffs/Apartments/MurrayHills/150 East 39th Street/IMG_4212.MOV",
+  "folder": "OneOffs/Apartments/MurrayHills/150 East 39th Street",
+  "fingerprint": "de6efa892c71e577",
+  "width": 1080,
+  "height": 1920,
+  "fps": 30.0,
+  "duration": 32.703,
+  "model": "gemini-3.8-flash",
+  "annotatedAt": "2026-10-24T18:21:52+00:00",
+  "summary": "A first-person handheld walkthrough tour of an empty apartment, showing the kitchen, main living area, window views of NYC high-rises, closets, and the bathroom.",
+  "location": "apartment",
+  "setting": "indoor",
+  "time_of_day": "day",
+  "weather": "overcast",
+  "people": {
+    "count": 1,
+    "creator_visible": true,
+    "description": "Young East Asian man with dark hair holding a phone and paper bag, briefly visible in the bathroom mirror reflection"
+  },
+  "camera": {
+    "style": "pov_first_person",
+    "framing": "wide",
+    "movement": "walking",
+    "angle": "eye level"
+  },
+  "quality": {
+    "usable": true,
+    "stability": "handheld",
+    "exposure": "good",
+    "issues": "Frequent motion blur during quick turns"
+  },
+  "mood": [
+    "anticipatory",
+    "curious",
+    "routine"
+  ],
+  "energy": "medium",
+  "tags": [
+    "apartment tour",
+    "nyc apartment",
+    "apartment hunting",
+    "real estate",
+    "parquet floor",
+    "kitchen",
+    "closet space",
+    "city view",
+    "bathroom",
+    "moving in",
+    "renovated",
+    "manhattan"
+  ],
+  "moments": [
+    {
+      "start": 0.0,
+      "end": 2.5,
+      "action": "Camera looks into a compact kitchen with light wood cabinets, dark countertops, and stainless steel appliances",
+      "emotion": "focused",
+      "good_for": [
+        "apartment tour",
+        "first kitchen",
+        "nyc living spaces",
+        "small apartment life"
+      ],
+      "score": 3
+    },
+    {
+      "start": 4.5,
+      "end": 8.0,
+      "action": "Camera pans into the spacious living room featuring parquet wooden floors and a large set of windows",
+      "emotion": "anticipatory",
+      "good_for": [
+        "new beginnings",
+        "empty apartment",
+        "apartment hunting",
+        "blank canvas"
+      ],
+      "score": 4
+    },
+    {
+      "start": 8.0,
+      "end": 11.2,
+      "action": "Camera looks out the window at green treetops and surrounding Manhattan high-rises",
+      "emotion": "peaceful",
+      "good_for": [
+        "city views",
+        "morning view",
+        "living in nyc",
+        "dream apartment"
+      ],
+      "score": 4
+    },
+    {
+      "start": 12.0,
+      "end": 16.5,
+      "action": "Walking through the living room showing the parquet wood floor towards the hallway",
+      "emotion": "exploratory",
+      "good_for": [
+        "touring flats",
+        "moving vlog",
+        "fresh start"
+      ],
+      "score": 3
+    },
+    {
+      "start": 24.5,
+      "end": 28.5,
+      "action": "Camera pans across the tiled bathtub and mirror, briefly catching the creator's reflection while filming",
+      "emotion": "curious",
+      "good_for": [
+        "apartment hunting vlog",
+        "mirror check",
+        "nyc tour"
+      ],
+      "score": 3
+    }
+  ]
+}

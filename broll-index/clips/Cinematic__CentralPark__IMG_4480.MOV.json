@@ -1,0 +1,82 @@
+{
+  "path": "Cinematic/CentralPark/IMG_4480.MOV",
+  "folder": "Cinematic/CentralPark",
+  "fingerprint": "536f92c2ab6d54c9",
+  "width": 1080,
+  "height": 1920,
+  "fps": 30.0,
+  "duration": 8.067,
+  "model": "gemini-3.8-flash",
+  "annotatedAt": "2026-10-24T18:18:58+00:00",
+  "summary": "A smooth handheld pan across a lush garden path in Central Park on a clear day, revealing leafy trees, flower beds, and distant visitors.",
+  "location": "park",
+  "setting": "outdoor",
+  "time_of_day": "day",
+  "weather": "sunny",
+  "people": {
+    "count": 10,
+    "creator_visible": false,
+    "description": "Distant park visitors sitting on benches and strolling along garden paths, including a small group taking formal or wedding photos"
+  },
+  "camera": {
+    "style": "handheld_cinematic",
+    "framing": "wide",
+    "movement": "pan",
+    "angle": "eye level"
+  },
+  "quality": {
+    "usable": true,
+    "stability": "steady",
+    "exposure": "good",
+    "issues": ""
+  },
+  "mood": [
+    "peaceful",
+    "calm",
+    "serene",
+    "scenic"
+  ],
+  "energy": "low",
+  "tags": [
+    "central park",
+    "new york city",
+    "garden",
+    "nature",
+    "trees",
+    "foliage",
+    "stone pathway",
+    "sunny day",
+    "city park",
+    "relaxing",
+    "outdoors",
+    "autumn greenery"
+  ],
+  "moments": [
+    {
+      "start": 0.0,
+      "end": 3.8,
+      "action": "Camera pans right across a wide spreading tree where distant visitors sit and stroll in the park",
+      "emotion": "peaceful",
+      "good_for": [
+        "sunny days in new york",
+        "finding quiet in the city",
+        "romanticizing life",
+        "afternoon walks"
+      ],
+      "score": 4
+    },
+    {
+      "start": 3.8,
+      "end": 8.07,
+      "action": "Camera continues panning over vibrant garden shrubs, lush flowerbeds, and a stone walkway",
+      "emotion": "calm",
+      "good_for": [
+        "taking it all in",
+        "nature heals",
+        "weekend reset",
+        "fall walks"
+      ],
+      "score": 4
+    }
+  ]
+}

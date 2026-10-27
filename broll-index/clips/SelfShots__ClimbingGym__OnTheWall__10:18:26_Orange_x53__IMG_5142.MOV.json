@@ -1,0 +1,116 @@
+{
+  "path": "SelfShots/ClimbingGym/OnTheWall/10:18:26_Orange_x53/IMG_5142.MOV",
+  "folder": "SelfShots/ClimbingGym/OnTheWall/10:18:26_Orange_x53",
+  "fingerprint": "e5de770db564b936",
+  "width": 1080,
+  "height": 1920,
+  "fps": 30.0,
+  "duration": 68.172,
+  "model": "gemini-3.8-flash",
+  "annotatedAt": "2026-10-24T18:45:55+00:00",
+  "summary": "A young man boulder climbs an indoor climbing wall, working through tricky holds before slipping and falling onto the safety mat.",
+  "location": "gym",
+  "setting": "indoor",
+  "time_of_day": "indoor_unknown",
+  "weather": "n/a",
+  "people": {
+    "count": 1,
+    "creator_visible": true,
+    "description": "Young man with curly dark hair wearing a light grey tank top and loose blue jeans with climbing shoes"
+  },
+  "camera": {
+    "style": "tripod_static",
+    "framing": "medium",
+    "movement": "static",
+    "angle": "low angle looking up"
+  },
+  "quality": {
+    "usable": true,
+    "stability": "locked",
+    "exposure": "good",
+    "issues": ""
+  },
+  "mood": [
+    "focused",
+    "athletic",
+    "persistent",
+    "challenging"
+  ],
+  "energy": "medium",
+  "tags": [
+    "bouldering",
+    "rock climbing",
+    "indoor gym",
+    "fitness",
+    "workout",
+    "climbing holds",
+    "chalk",
+    "overhang",
+    "determination",
+    "fall",
+    "trial and error"
+  ],
+  "moments": [
+    {
+      "start": 3.5,
+      "end": 9.5,
+      "action": "Climber mounts the starting low volume and establishes his footing horizontally",
+      "emotion": "focused",
+      "good_for": [
+        "starting a new challenge",
+        "trust the process",
+        "first step"
+      ],
+      "score": 3
+    },
+    {
+      "start": 15.0,
+      "end": 22.0,
+      "action": "Climber shifts weight dynamically across the sloper onto adjacent footholds",
+      "emotion": "intense focus",
+      "good_for": [
+        "finding balance",
+        "testing my limits",
+        "gym progress"
+      ],
+      "score": 4
+    },
+    {
+      "start": 31.0,
+      "end": 38.0,
+      "action": "Climber reaches high and spans his legs across wide volume blocks",
+      "emotion": "straining",
+      "good_for": [
+        "stretching out of comfort zone",
+        "staying flexible",
+        "hard work"
+      ],
+      "score": 4
+    },
+    {
+      "start": 43.0,
+      "end": 51.0,
+      "action": "Climber matches hands on the hold and readjusts his grip while suspended in a split stance",
+      "emotion": "endurance",
+      "good_for": [
+        "hanging in there",
+        "don't give up",
+        "almost there"
+      ],
+      "score": 4
+    },
+    {
+      "start": 57.0,
+      "end": 64.0,
+      "action": "Climber attempts the final reach, loses hold, and drops off screen onto the crash pad",
+      "emotion": "effort and defeat",
+      "good_for": [
+        "failing forward",
+        "laugh at your mistakes",
+        "try again tomorrow",
+        "taking the fall"
+      ],
+      "score": 5
+    }
+  ]
+}

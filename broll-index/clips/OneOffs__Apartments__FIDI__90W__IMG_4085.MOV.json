@@ -1,0 +1,63 @@
+{
+  "path": "OneOffs/Apartments/FIDI/90W/IMG_4085.MOV",
+  "folder": "OneOffs/Apartments/FIDI/90W",
+  "fingerprint": "03e22b2ec26e5969",
+  "width": 1080,
+  "height": 1920,
+  "fps": 30.0,
+  "duration": 0.5,
+  "model": "gemini-3.8-flash",
+  "annotatedAt": "2026-10-24T18:20:44+00:00",
+  "summary": "A person wearing a dark outfit films their reflection inside a mirrored elevator lobby.",
+  "location": "elevator",
+  "setting": "indoor",
+  "time_of_day": "indoor_unknown",
+  "weather": "n/a",
+  "people": {
+    "count": 1,
+    "creator_visible": true,
+    "description": "Person dressed in dark clothing holding a smartphone to capture a mirror reflection in the elevator"
+  },
+  "camera": {
+    "style": "mirror_selfie",
+    "framing": "wide",
+    "movement": "static",
+    "angle": "eye level"
+  },
+  "quality": {
+    "usable": false,
+    "stability": "steady",
+    "exposure": "good",
+    "issues": "Extremely short duration, low resolution"
+  },
+  "mood": [
+    "neutral",
+    "urban",
+    "routine"
+  ],
+  "energy": "low",
+  "tags": [
+    "elevator",
+    "mirror selfie",
+    "fidi",
+    "apartment",
+    "reflection",
+    "lobby",
+    "lifestyle",
+    "nyc"
+  ],
+  "moments": [
+    {
+      "start": 0.0,
+      "end": 0.5,
+      "action": "Person stands in a mirrored elevator holding up a phone taking a quick mirror selfie",
+      "emotion": "neutral",
+      "good_for": [
+        "heading out",
+        "apartment living",
+        "quick fit check"
+      ],
+      "score": 1
+    }
+  ]
+}

@@ -1,0 +1,96 @@
+{
+  "path": "OneOffs/Cooking/IMG_4809.MOV",
+  "folder": "OneOffs/Cooking",
+  "fingerprint": "8882bb004e2f5177",
+  "width": 1080,
+  "height": 1920,
+  "fps": 30.0,
+  "duration": 38.837,
+  "model": "gemini-3.8-flash",
+  "annotatedAt": "2026-10-24T18:24:53+00:00",
+  "summary": "First-person perspective of cooking in a kitchen, adding chopped carrots into a pot of simmering curry or soup on a gas stove and stirring.",
+  "location": "kitchen",
+  "setting": "indoor",
+  "time_of_day": "indoor_unknown",
+  "weather": "n/a",
+  "people": {
+    "count": 1,
+    "creator_visible": false,
+    "description": "Only hands and forearms visible, wearing a bracelet, adding ingredients to the pan."
+  },
+  "camera": {
+    "style": "pov_first_person",
+    "framing": "close",
+    "movement": "handheld",
+    "angle": "high angle"
+  },
+  "quality": {
+    "usable": true,
+    "stability": "steady",
+    "exposure": "good",
+    "issues": ""
+  },
+  "mood": [
+    "cozy",
+    "calm",
+    "domestic",
+    "homey",
+    "relaxed"
+  ],
+  "energy": "low",
+  "tags": [
+    "cooking",
+    "curry",
+    "soup",
+    "carrots",
+    "sauce",
+    "stove",
+    "gas stove",
+    "homemade",
+    "dinner prep",
+    "comfort food",
+    "meal prep",
+    "kitchen"
+  ],
+  "moments": [
+    {
+      "start": 3.5,
+      "end": 10.5,
+      "action": "Picking up chunks of diced carrots from a white bowl and dropping them into the simmering sauce",
+      "emotion": "focused",
+      "good_for": [
+        "cooking dinner",
+        "food on my plate",
+        "home cooked meals",
+        "nourishing myself"
+      ],
+      "score": 4
+    },
+    {
+      "start": 15.0,
+      "end": 20.0,
+      "action": "Dropping the remaining carrot slices into the small saucepan over a lit gas flame",
+      "emotion": "calm",
+      "good_for": [
+        "simple pleasures",
+        "learning to cook",
+        "evening routine",
+        "domestic life"
+      ],
+      "score": 4
+    },
+    {
+      "start": 25.5,
+      "end": 32.0,
+      "action": "Stirring the carrots into the creamy sauce using a heat-resistant spatula",
+      "emotion": "relaxed",
+      "good_for": [
+        "comfort food",
+        "satisfying cooking",
+        "warm dinner nights",
+        "slow living"
+      ],
+      "score": 4
+    }
+  ]
+}

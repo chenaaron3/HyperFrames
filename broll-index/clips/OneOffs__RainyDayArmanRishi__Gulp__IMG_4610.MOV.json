@@ -1,0 +1,69 @@
+{
+  "path": "OneOffs/RainyDayArmanRishi/Gulp/IMG_4610.MOV",
+  "folder": "OneOffs/RainyDayArmanRishi/Gulp",
+  "fingerprint": "8c257882221f0c67",
+  "width": 1080,
+  "height": 1920,
+  "fps": 29.97,
+  "duration": 2.502,
+  "model": "gemini-3.8-flash",
+  "annotatedAt": "2026-10-24T18:35:46+00:00",
+  "summary": "A close-up POV shot of a steaming bowl of beef noodle soup with meat and half an egg served on a green marble restaurant table.",
+  "location": "restaurant",
+  "setting": "indoor",
+  "time_of_day": "indoor_unknown",
+  "weather": "n/a",
+  "people": {
+    "count": 1,
+    "creator_visible": false,
+    "description": "Person sitting across the table wearing a dark short-sleeve button-up shirt and a watch, torso visible."
+  },
+  "camera": {
+    "style": "pov_first_person",
+    "framing": "close",
+    "movement": "static",
+    "angle": "high angle"
+  },
+  "quality": {
+    "usable": true,
+    "stability": "steady",
+    "exposure": "good",
+    "issues": ""
+  },
+  "mood": [
+    "cozy",
+    "comforting",
+    "casual",
+    "appetizing"
+  ],
+  "energy": "low",
+  "tags": [
+    "beef noodle soup",
+    "noodles",
+    "ramen",
+    "asian food",
+    "comfort food",
+    "soup",
+    "restaurant",
+    "dinner",
+    "foodie",
+    "eating out",
+    "table setting"
+  ],
+  "moments": [
+    {
+      "start": 0.0,
+      "end": 2.5,
+      "action": "A warm bowl of beef noodle soup sits on a green marble table with chopsticks and spoon ready.",
+      "emotion": "comforting",
+      "good_for": [
+        "food on my plate",
+        "comfort food",
+        "rainy day comfort",
+        "eating good food",
+        "dinner dates"
+      ],
+      "score": 4
+    }
+  ]
+}

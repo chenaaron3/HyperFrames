@@ -1,0 +1,69 @@
+{
+  "path": "OneOffs/RainyDayArmanRishi/IMG_4627.MOV",
+  "folder": "OneOffs/RainyDayArmanRishi",
+  "fingerprint": "ca2be1f7d6d70bd2",
+  "width": 1080,
+  "height": 1920,
+  "fps": 30.0,
+  "duration": 2.3,
+  "model": "gemini-3.8-flash",
+  "annotatedAt": "2026-10-24T18:36:11+00:00",
+  "summary": "A young creator films a quick selfie video with his friends sitting beside him on a subway car bench.",
+  "location": "subway car",
+  "setting": "vehicle",
+  "time_of_day": "indoor_unknown",
+  "weather": "n/a",
+  "people": {
+    "count": 4,
+    "creator_visible": true,
+    "description": "The creator with curly dark hair and a black jacket holds the camera, seated next to two male friends smiling and looking around on the subway train."
+  },
+  "camera": {
+    "style": "selfie",
+    "framing": "medium",
+    "movement": "handheld",
+    "angle": "eye level"
+  },
+  "quality": {
+    "usable": true,
+    "stability": "handheld",
+    "exposure": "good",
+    "issues": "slightly soft resolution typical of phone front-facing camera"
+  },
+  "mood": [
+    "cheerful",
+    "friendly",
+    "candid",
+    "urban"
+  ],
+  "energy": "medium",
+  "tags": [
+    "subway",
+    "metro",
+    "friends",
+    "train ride",
+    "public transit",
+    "nyc subway",
+    "commute",
+    "smiling",
+    "group selfie",
+    "hangout",
+    "city life"
+  ],
+  "moments": [
+    {
+      "start": 0.0,
+      "end": 2.3,
+      "action": "Creator holds phone in selfie view on the subway, looking into the lens and breaking into a wide friendly smile alongside his friends",
+      "emotion": "happy, amused, cheerful",
+      "good_for": [
+        "subway rides with friends",
+        "city adventures",
+        "people who make you laugh",
+        "good times with the boys",
+        "riding the train home"
+      ],
+      "score": 4
+    }
+  ]
+}

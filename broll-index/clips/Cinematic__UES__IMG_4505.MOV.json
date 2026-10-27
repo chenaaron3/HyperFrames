@@ -1,0 +1,68 @@
+{
+  "path": "Cinematic/UES/IMG_4505.MOV",
+  "folder": "Cinematic/UES",
+  "fingerprint": "2e6235f20d96bb23",
+  "width": 1080,
+  "height": 1920,
+  "fps": 30.0,
+  "duration": 4.398,
+  "model": "gemini-3.8-flash",
+  "annotatedAt": "2026-10-24T18:20:15+00:00",
+  "summary": "POV riding down a long, modern subway station escalator under an arched rib-vault ceiling with commuters ahead.",
+  "location": "subway station",
+  "setting": "indoor",
+  "time_of_day": "indoor_unknown",
+  "weather": "n/a",
+  "people": {
+    "count": 6,
+    "creator_visible": false,
+    "description": "Commuters and a child standing on the right side of the escalator, seen from behind."
+  },
+  "camera": {
+    "style": "pov_first_person",
+    "framing": "wide",
+    "movement": "tracking",
+    "angle": "eye level"
+  },
+  "quality": {
+    "usable": true,
+    "stability": "steady",
+    "exposure": "good",
+    "issues": "slightly low resolution"
+  },
+  "mood": [
+    "urban",
+    "calm",
+    "routine",
+    "modern"
+  ],
+  "energy": "low",
+  "tags": [
+    "subway",
+    "escalator",
+    "commute",
+    "underground",
+    "public transit",
+    "tunnel",
+    "new york city",
+    "architecture",
+    "metro",
+    "city life",
+    "travel"
+  ],
+  "moments": [
+    {
+      "start": 0.0,
+      "end": 4.4,
+      "action": "First-person perspective gliding smoothly down a deep subway escalator under an illuminated arched ceiling.",
+      "emotion": "calm",
+      "good_for": [
+        "daily commute",
+        "city transit routine",
+        "heading into the city",
+        "subway aesthetics"
+      ],
+      "score": 3
+    }
+  ]
+}

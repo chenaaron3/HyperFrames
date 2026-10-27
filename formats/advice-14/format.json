@@ -1,0 +1,199 @@
+{
+  "id": "advice-14",
+  "name": "What do I do as a Product Manager? (in 1 min)",
+  "reference": "references/viral-formats/advice-14.mp4",
+  "source": "/Users/aaron/Downloads/100 Viral Formats (Format Book)/Advice/#14/#14.mp4",
+  "duration": 56.967,
+  "music": {
+    "from": "reference",
+    "title": "Not much. Super light, you can add if you want. She doesn't use much music here."
+  },
+  "text": {
+    "y": 0.207,
+    "size": 46,
+    "weight": 700,
+    "lineHeight": 1.4,
+    "maxWidth": 900,
+    "style": "outline"
+  },
+  "lines": [
+    {
+      "id": "l1",
+      "start": 0.0,
+      "end": 4.0,
+      "ref": "What do I do as a\nProduct Manager?\n(in 1 min)",
+      "y": 0.207,
+      "measuredSize": 60,
+      "style": "plain_white_shadow",
+      "guide": ""
+    },
+    {
+      "id": "l2",
+      "start": 18.8,
+      "end": 19.767,
+      "ref": "PRD",
+      "y": 0.69,
+      "measuredSize": 32,
+      "style": "plain_white_outline",
+      "guide": ""
+    },
+    {
+      "id": "l3",
+      "start": 33.3,
+      "end": 36.667,
+      "ref": "MVP\n\"minimum viable product\"",
+      "y": 0.657,
+      "measuredSize": 24,
+      "style": "plain_white_outline",
+      "guide": ""
+    },
+    {
+      "id": "l4",
+      "start": 36.667,
+      "end": 38.667,
+      "ref": "A/B\nExperimentation",
+      "y": 0.586,
+      "measuredSize": 68,
+      "style": "plain_white_outline",
+      "guide": ""
+    },
+    {
+      "id": "l5",
+      "start": 47.9,
+      "end": 51.5,
+      "ref": "PM salary\nwhat makes a “great” PM\nhow to ship a product\nthe daily life of a PM\nthe not-so-hot aspects",
+      "y": 0.614,
+      "measuredSize": 47,
+      "style": "plain_white_shadow",
+      "guide": ""
+    },
+    {
+      "id": "l6",
+      "start": 56.0,
+      "end": 56.967,
+      "ref": "- chloe's slice of life -",
+      "y": 0.181,
+      "measuredSize": 34,
+      "style": "plain_white_shadow",
+      "guide": ""
+    }
+  ],
+  "shots": [
+    {
+      "id": "s1",
+      "start": 0.0,
+      "end": 4.0,
+      "brief": "talking to camera intro hook, kitchen setting (ref: Creator standing in kitchen wearing a grey sweatshirt, holding a lapel mic and talking to camera with half a watermelon on the counter.; tripod)",
+      "line": "l1"
+    },
+    {
+      "id": "s2",
+      "start": 4.0,
+      "end": 5.1,
+      "brief": "talking head while prepping/cutting fruit on counter (ref: Creator in a cardigan talks rapidly to camera while peeling, slicing, cubing, and plating watermelon, then takes a bite with a fork.; tripod)",
+      "line": null
+    },
+    {
+      "id": "s3",
+      "start": 5.1,
+      "end": 6.167,
+      "brief": "talking head while prepping/cutting fruit on counter (ref: Creator in a cardigan talks rapidly to camera while peeling, slicing, cubing, and plating watermelon, then takes a bite with a fork.; tripod)",
+      "line": null
+    },
+    {
+      "id": "s4",
+      "start": 6.167,
+      "end": 11.067,
+      "brief": "talking head while prepping/cutting fruit on counter (ref: Creator in a cardigan talks rapidly to camera while peeling, slicing, cubing, and plating watermelon, then takes a bite with a fork.; tripod)",
+      "line": null
+    },
+    {
+      "id": "s5",
+      "start": 11.067,
+      "end": 11.9,
+      "brief": "talking head while prepping/cutting fruit on counter (ref: Creator in a cardigan talks rapidly to camera while peeling, slicing, cubing, and plating watermelon, then takes a bite with a fork.; tripod)",
+      "line": null
+    },
+    {
+      "id": "s6",
+      "start": 11.9,
+      "end": 25.0,
+      "brief": "talking head while prepping/cutting fruit on counter (ref: Creator in a cardigan talks rapidly to camera while peeling, slicing, cubing, and plating watermelon, then takes a bite with a fork.; tripod)",
+      "line": null
+    },
+    {
+      "id": "s7",
+      "start": 25.0,
+      "end": 28.067,
+      "brief": "talking head while prepping/cutting fruit on counter (ref: Creator in a cardigan talks rapidly to camera while peeling, slicing, cubing, and plating watermelon, then takes a bite with a fork.; tripod)",
+      "line": null
+    },
+    {
+      "id": "s8",
+      "start": 28.067,
+      "end": 32.267,
+      "brief": "talking head while prepping/cutting fruit on counter (ref: Creator in a cardigan talks rapidly to camera while peeling, slicing, cubing, and plating watermelon, then takes a bite with a fork.; tripod)",
+      "line": null
+    },
+    {
+      "id": "s9",
+      "start": 32.267,
+      "end": 36.667,
+      "brief": "talking head while prepping/cutting fruit on counter (ref: Creator in a cardigan talks rapidly to camera while peeling, slicing, cubing, and plating watermelon, then takes a bite with a fork.; tripod)",
+      "line": "l3"
+    },
+    {
+      "id": "s10",
+      "start": 36.667,
+      "end": 39.9,
+      "brief": "talking head while prepping/cutting fruit on counter (ref: Creator in a cardigan talks rapidly to camera while peeling, slicing, cubing, and plating watermelon, then takes a bite with a fork.; tripod)",
+      "line": "l4"
+    },
+    {
+      "id": "s11",
+      "start": 39.9,
+      "end": 40.567,
+      "brief": "talking head while prepping/cutting fruit on counter (ref: Creator in a cardigan talks rapidly to camera while peeling, slicing, cubing, and plating watermelon, then takes a bite with a fork.; tripod)",
+      "line": null
+    },
+    {
+      "id": "s12",
+      "start": 40.567,
+      "end": 47.4,
+      "brief": "talking head while prepping/cutting fruit on counter (ref: Creator in a cardigan talks rapidly to camera while peeling, slicing, cubing, and plating watermelon, then takes a bite with a fork.; tripod)",
+      "line": null
+    },
+    {
+      "id": "s13",
+      "start": 47.4,
+      "end": 55.2,
+      "brief": "talking head while prepping/cutting fruit on counter (ref: Creator in a cardigan talks rapidly to camera while peeling, slicing, cubing, and plating watermelon, then takes a bite with a fork.; tripod)",
+      "line": "l5"
+    },
+    {
+      "id": "s14",
+      "start": 55.2,
+      "end": 56.967,
+      "brief": "talking head while prepping/cutting fruit on counter (ref: Creator in a cardigan talks rapidly to camera while peeling, slicing, cubing, and plating watermelon, then takes a bite with a fork.; tripod)",
+      "line": "l6"
+    }
+  ],
+  "audit": {
+    "kind": "talking_head",
+    "creatorSpeaks": true,
+    "audio": "speech",
+    "special": [
+      "Watermelon, cutting board, and kitchen knife",
+      "Kitchen counter setting",
+      "Lapel/clip mic held in hand"
+    ],
+    "reusable": false,
+    "notes": "This format relies on rapid-fire, direct-to-camera spoken delivery synchronized with an engaging tactile activity (cutting fruit) that provides visual progression and a satisfying payoff.",
+    "summary": "A creator explains what a Product Manager does in tech in under a minute while preparing and cutting a watermelon as a visual hook and payoff."
+  },
+  "caption": {
+    "ref": "",
+    "guide": ""
+  },
+  "draft": true
+}

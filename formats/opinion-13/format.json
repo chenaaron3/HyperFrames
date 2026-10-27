@@ -1,0 +1,112 @@
+{
+  "id": "opinion-13",
+  "name": "Stay busy.",
+  "reference": "references/viral-formats/opinion-13.mp4",
+  "source": "/Users/aaron/Downloads/100 Viral Formats (Format Book)/Opinion/#13/#13.mp4",
+  "duration": 45.233,
+  "music": {
+    "from": "reference",
+    "title": "Original Audio  Notes:"
+  },
+  "text": {
+    "y": 0.209,
+    "size": 64,
+    "weight": 700,
+    "lineHeight": 1.4,
+    "maxWidth": 900,
+    "style": "outline"
+  },
+  "lines": [
+    {
+      "id": "l1",
+      "start": 0.0,
+      "end": 45.233,
+      "ref": "Stay busy.",
+      "y": 0.209,
+      "measuredSize": 64,
+      "style": "plain_white_shadow",
+      "guide": ""
+    }
+  ],
+  "shots": [
+    {
+      "id": "s1",
+      "start": 0.0,
+      "end": 2.567,
+      "brief": "talking to camera in car while doing a casual routine (ref: Young woman sitting in car front seat talking directly to the selfie camera while opening and applying lip balm; selfie)",
+      "line": "l1"
+    },
+    {
+      "id": "s2",
+      "start": 2.567,
+      "end": 4.2,
+      "brief": "talking to camera in car while doing a casual routine (ref: Young woman sitting in car front seat talking directly to the selfie camera while opening and applying lip balm; selfie)",
+      "line": "l1"
+    },
+    {
+      "id": "s3",
+      "start": 4.2,
+      "end": 4.9,
+      "brief": "talking to camera in car while doing a casual routine (ref: Young woman sitting in car front seat talking directly to the selfie camera while opening and applying lip balm; selfie)",
+      "line": "l1"
+    },
+    {
+      "id": "s4",
+      "start": 4.9,
+      "end": 6.8,
+      "brief": "talking to camera in car while doing a casual routine (ref: Young woman sitting in car front seat talking directly to the selfie camera while opening and applying lip balm; selfie)",
+      "line": "l1"
+    },
+    {
+      "id": "s5",
+      "start": 6.8,
+      "end": 29.267,
+      "brief": "talking to camera in car while doing a casual routine (ref: Young woman sitting in car front seat talking directly to the selfie camera while opening and applying lip balm; selfie)",
+      "line": "l1"
+    },
+    {
+      "id": "s6",
+      "start": 29.267,
+      "end": 31.433,
+      "brief": "talking to camera in car while doing a casual routine (ref: Young woman sitting in car front seat talking directly to the selfie camera while opening and applying lip balm; selfie)",
+      "line": "l1"
+    },
+    {
+      "id": "s7",
+      "start": 31.433,
+      "end": 32.467,
+      "brief": "talking to camera in car while doing a casual routine (ref: Young woman sitting in car front seat talking directly to the selfie camera while opening and applying lip balm; selfie)",
+      "line": "l1"
+    },
+    {
+      "id": "s8",
+      "start": 32.467,
+      "end": 39.767,
+      "brief": "talking to camera in car while doing a casual routine (ref: Young woman sitting in car front seat talking directly to the selfie camera while opening and applying lip balm; selfie)",
+      "line": "l1"
+    },
+    {
+      "id": "s9",
+      "start": 39.767,
+      "end": 45.233,
+      "brief": "talking to camera in car while doing a casual routine (ref: Young woman sitting in car front seat talking directly to the selfie camera while opening and applying lip balm; selfie)",
+      "line": "l1"
+    }
+  ],
+  "audit": {
+    "kind": "talking_head",
+    "creatorSpeaks": true,
+    "audio": "speech",
+    "special": [
+      "talking head to camera in a car"
+    ],
+    "reusable": false,
+    "notes": "This format relies entirely on spoken-to-camera direct advice and relatable monologue delivery; it cannot be recreated using silent lifestyle b-roll.",
+    "summary": "A creator sits in her car applying lip gloss while speaking candidly to the camera, giving motivational advice about staying busy, leveling up, and maintaining personal momentum."
+  },
+  "caption": {
+    "ref": "",
+    "guide": ""
+  },
+  "draft": true
+}

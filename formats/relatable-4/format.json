@@ -1,0 +1,139 @@
+{
+  "id": "relatable-4",
+  "name": "Breakups are okay",
+  "reference": "references/viral-formats/relatable-4.mp4",
+  "source": "/Users/aaron/Downloads/100 Viral Formats (Format Book)/Relatable/#4/#4.mp4",
+  "duration": 17.8,
+  "music": {
+    "from": "reference",
+    "title": "Love me Not"
+  },
+  "text": {
+    "y": 0.499,
+    "size": 64,
+    "weight": 700,
+    "lineHeight": 1.4,
+    "maxWidth": 900,
+    "style": "outline"
+  },
+  "lines": [
+    {
+      "id": "l1",
+      "start": 0.0,
+      "end": 2.833,
+      "ref": "Breakups are okay",
+      "y": 0.499,
+      "measuredSize": 58,
+      "style": "plain_white_shadow",
+      "guide": ""
+    },
+    {
+      "id": "l2",
+      "start": 2.833,
+      "end": 5.667,
+      "ref": "Moving on is okay",
+      "y": 0.48,
+      "measuredSize": null,
+      "style": "plain_white_shadow",
+      "guide": ""
+    },
+    {
+      "id": "l3",
+      "start": 5.667,
+      "end": 8.5,
+      "ref": "Saying no is okay",
+      "y": 0.484,
+      "measuredSize": 73,
+      "style": "plain_white_shadow",
+      "guide": ""
+    },
+    {
+      "id": "l4",
+      "start": 8.5,
+      "end": 11.333,
+      "ref": "Starting over is okay",
+      "y": 0.502,
+      "measuredSize": 73,
+      "style": "plain_white_shadow",
+      "guide": ""
+    },
+    {
+      "id": "l5",
+      "start": 11.333,
+      "end": 14.167,
+      "ref": "Quitting your job is okay",
+      "y": 0.502,
+      "measuredSize": 75,
+      "style": "plain_white_shadow",
+      "guide": ""
+    },
+    {
+      "id": "l6",
+      "start": 14.167,
+      "end": 17.8,
+      "ref": "What's not okay is\nstaying somewhere where\nyou're not valued, respected,\nor appreciated.",
+      "y": 0.499,
+      "measuredSize": 62,
+      "style": "plain_white_shadow",
+      "guide": ""
+    }
+  ],
+  "shots": [
+    {
+      "id": "s1",
+      "start": 0.0,
+      "end": 2.833,
+      "brief": "sitting outdoors drinking water, medium shot (ref: Young man sitting on an outdoor park bench taking a drink from a water bottle.; tripod)",
+      "line": "l1"
+    },
+    {
+      "id": "s2",
+      "start": 2.833,
+      "end": 5.667,
+      "brief": "sitting in a car sipping a beverage (ref: Young man sitting inside a car sipping a cold iced drink through a cup.; selfie)",
+      "line": "l2"
+    },
+    {
+      "id": "s3",
+      "start": 5.667,
+      "end": 8.5,
+      "brief": "sitting at a table indoors looking contemplative (ref: Sitting at a table indoors with a gallon water bottle, cheeks puffed.; tripod)",
+      "line": "l3"
+    },
+    {
+      "id": "s4",
+      "start": 8.5,
+      "end": 11.333,
+      "brief": "walking outdoors or browsing plants/shops (ref: Walking outdoors past potted plant stands outside a storefront, turning head slightly.; filmed by friend)",
+      "line": "l4"
+    },
+    {
+      "id": "s5",
+      "start": 11.333,
+      "end": 14.167,
+      "brief": "crouching or relaxing on grass outdoors at golden hour (ref: Crouching on an open lawn at golden hour next to a water jug, looking off into the distance.; tripod)",
+      "line": "l5"
+    },
+    {
+      "id": "s6",
+      "start": 14.167,
+      "end": 17.8,
+      "brief": "running or walking away from the camera into golden light (ref: Jogging away down a paved road directly towards a low bright sun.; tripod)",
+      "line": "l6"
+    }
+  ],
+  "audit": {
+    "kind": "broll_with_text",
+    "creatorSpeaks": false,
+    "audio": "music only",
+    "special": [],
+    "reusable": true,
+    "notes": "Perfect format for any solo lifestyle b-roll library (walking through the city, sitting in coffee shops, subway rides, outdoor park clips, or running). Any 5-6 calm, reflective cuts can be used to deliver this list-style affirmation format.",
+    "summary": "A sequence of relaxed solo lifestyle clips paired with reassuring '...is okay' text statements, finishing on a message against staying where you are undervalued."
+  },
+  "caption": {
+    "ref": "",
+    "guide": ""
+  },
+  "draft": true
+}

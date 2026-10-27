@@ -1,0 +1,73 @@
+{
+  "path": "Cinematic/UES/IMG_4492.MOV",
+  "folder": "Cinematic/UES",
+  "fingerprint": "0b7aa834deb05ea0",
+  "width": 1080,
+  "height": 1920,
+  "fps": 30.0,
+  "duration": 3.533,
+  "model": "gemini-3.8-flash",
+  "annotatedAt": "2026-10-24T18:19:58+00:00",
+  "summary": "A smooth panning view along a quiet residential street on the Upper East Side of Manhattan, showing tall pre-war brick apartment buildings and parked cars.",
+  "location": "city street",
+  "setting": "outdoor",
+  "time_of_day": "day",
+  "weather": "overcast",
+  "people": {
+    "count": 0,
+    "creator_visible": false,
+    "description": "No people clearly visible, with only distant figures barely discernable down the sidewalk."
+  },
+  "camera": {
+    "style": "pov_first_person",
+    "framing": "wide",
+    "movement": "pan",
+    "angle": "eye level"
+  },
+  "quality": {
+    "usable": true,
+    "stability": "steady",
+    "exposure": "good",
+    "issues": ""
+  },
+  "mood": [
+    "peaceful",
+    "calm",
+    "urban",
+    "classic",
+    "serene"
+  ],
+  "energy": "low",
+  "tags": [
+    "nyc",
+    "new york city",
+    "upper east side",
+    "ues",
+    "manhattan",
+    "brick buildings",
+    "architecture",
+    "apartment buildings",
+    "city street",
+    "residential",
+    "street view",
+    "trees",
+    "urban aesthetic",
+    "city life"
+  ],
+  "moments": [
+    {
+      "start": 0.0,
+      "end": 3.53,
+      "action": "Camera pans slowly from a tall red-brick residential building down the street lined with parked cars and green trees",
+      "emotion": "calm",
+      "good_for": [
+        "moving to new york",
+        "upper east side vibes",
+        "city walks",
+        "quiet mornings in the city",
+        "places that feel like home"
+      ],
+      "score": 4
+    }
+  ]
+}

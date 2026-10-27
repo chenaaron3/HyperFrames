@@ -1,0 +1,123 @@
+{
+  "format": "relatable-4",
+  "title": "Breakups are okay",
+  "lines": {
+    "l1": "Breakups are okay",
+    "l2": "Moving on is okay",
+    "l3": "Saying no is okay",
+    "l4": "Starting over is okay",
+    "l5": "Quitting your job is okay",
+    "l6": "What's not okay is\nstaying somewhere where\nyou're not valued, respected,\nor appreciated."
+  },
+  "shots": {
+    "s1": {
+      "clip": "Cinematic/CentralPark/IMG_4456.MOV",
+      "in": 0.83,
+      "speed": 1.0,
+      "note": "Water trickles down reddish rocks beneath an arched stone culvert covered in ivy (calm)",
+      "query": "sitting park bench calm drinking",
+      "alts": [
+        "SelfShots/Walking/1stPerson/IMG_5269.MOV @2.0-6.8: Young man sits still on a park bench looking directly into the camera ",
+        "SelfShots/Walking/1stPerson/IMG_5269.MOV @14.5-21.0: Holding a contemplative side profile while sitting comfortably on the ",
+        "Cinematic/CentralPark/IMG_4457.MOV @0.0-4.2: Water trickles gently down a small rocky stream flanked by lush green ",
+        "Cinematic/CentralPark/IMG_4461.MOV @0.0-4.8: Water trickles down a rocky waterfall into a calm pond surrounded by g",
+        "Cinematic/CentralPark/IMG_4416.MOV @0.0-3.6: Handheld rightward pan across Central Park lawn and lake, showing peop"
+      ],
+      "motion": {
+        "speed": 0.1,
+        "jitter": 0.03,
+        "verdict": "ok"
+      }
+    },
+    "s2": {
+      "clip": "SelfShots/Subway/IMG_4952.MOV",
+      "in": 13.23,
+      "speed": 1.0,
+      "note": "Side profile of creator gazing out into the dark subway tunnel as the train speeds up (reflective)",
+      "query": "subway train window riding pensive",
+      "alts": [
+        "SelfShots/Subway/IMG_4952.MOV @5.5-11.5: Creator turns his head to profile view as the subway car starts moving",
+        "SelfShots/Subway/IMG_5186.MOV @2.5-8.0: Man sits quietly looking into the distance as the train car rocks and ",
+        "SelfShots/Subway/IMG_5185.MOV @0.0-4.5: The man glances forward before turning his head to gaze quietly out th",
+        "SelfShots/Subway/IMG_5185.MOV @4.5-9.4: Profile view of the man sitting still, looking out the train window as",
+        "SelfShots/Subway/IMG_4950.MOV @0.0-2.5: Subway doors slide open revealing a packed train car full of commuters"
+      ],
+      "motion": {
+        "speed": 0.5,
+        "jitter": 0.79,
+        "verdict": "ok"
+      }
+    },
+    "s3": {
+      "clip": "OneOffs/RainyDayArmanRishi/IMG_4664.MOV",
+      "in": 1.33,
+      "speed": 1.0,
+      "note": "A person's hand points across the table from one small plate of pastries to another in sequence. (focused)",
+      "query": "sitting table cafe contemplative",
+      "alts": [
+        "OneOffs/BrooklynNight/IMG_4528 3.MOV @0.0-2.8: Camera pans right past sunny windows lined with lush green plants as a",
+        "OneOffs/RainyDayArmanRishi/IMG_4638.MOV @0.0-3.0: Man lifts his blue coffee mug, looking up and breaking into a wide gen",
+        "OneOffs/RainyDayArmanRishi/IMG_4639.MOV @7.8-12.2: Man sets his cup down on the table, turns toward the camera, and laugh",
+        "SelfShots/Mina/2.7_IMG_4925.MOV @10.5-15.5: Cat pauses, looks up with big yellow-green eyes, then resumes licking",
+        "SelfShots/Working/IMG_5259.MOV @46.0-54.0: Continuously types on his keyboard while pedestrians walk past outside"
+      ],
+      "motion": {
+        "speed": 0.2,
+        "jitter": 0.13,
+        "verdict": "ok"
+      }
+    },
+    "s4": {
+      "clip": "SelfShots/Walking/1stPerson/IMG_5158.MOV",
+      "in": 4.08,
+      "speed": 1.0,
+      "note": "Creator walks across the crosswalk while looking forward and slightly up at city surroundings as a yellow taxi stops behind him. (thoughtful)",
+      "query": "walking street alone city",
+      "alts": [
+        "OneOffs/BrooklynNight/IMG_4553 3.MOV @0.0-3.5: Subject walks away down a city sidewalk past a school crosswalk sign c",
+        "SelfShots/Walking/1stPerson/IMG_5263.MOV @1.3-4.8: Creator walks smoothly backwards while filming himself with the vintag",
+        "SelfShots/Walking/1stPerson/IMG_5157.MOV @2.5-6.0: Creator walks down the sidewalk past closed storefront shutters holdin",
+        "SelfShots/Walking/1stPerson/IMG_4931.MOV @0.0-3.0: Creator walks along the sidewalk looking directly into the camera lens",
+        "SelfShots/Walking/1stPerson/IMG_4941.MOV @2.0-6.0: Creator strides forward across the crosswalk holding the camera low, l"
+      ],
+      "motion": {
+        "speed": 9.0,
+        "jitter": 3.95,
+        "verdict": "ok"
+      }
+    },
+    "s5": {
+      "clip": "OneOffs/Eating/IMG_4862.MOV",
+      "in": 0.8,
+      "speed": 1.0,
+      "note": "Sunlight beams brightly through tree branches onto a lush green lawn, creating long shadows and a gentle lens flare. (calm)",
+      "query": "lying lawn grass park relaxing",
+      "alts": [
+        "Cinematic/CentralPark/IMG_4437.MOV @6.5-9.5: Camera pans across people lying on the lawn, revealing trees and skysc",
+        "OneOffs/Eating/IMG_4864.MOV @2.5-9.0: Creator walks into the frame and sits down on the wooden recliner chai",
+        "SelfShots/Chilling/IMG_4436.MOV @7.0-15.5: Man lies peacefully on the grass with his hands behind his head restin",
+        "SelfShots/Chilling/IMG_4436.MOV @2.5-7.0: Man walks into frame, sits down on the grass, and lies back onto his b",
+        "Cinematic/CentralPark/IMG_4447.MOV @6.0-14.0: Creator sits relaxed on the rock, gazing out over the trees and green "
+      ],
+      "motion": {
+        "speed": 0.1,
+        "jitter": 0.03,
+        "verdict": "ok"
+      }
+    },
+    "s6": {
+      "clip": "OneOffs/Eating/IMG_4864.MOV",
+      "in": 3.9,
+      "speed": 1.0,
+      "note": "hand pick",
+      "query": "walking away golden hour sunset path",
+      "motion": {
+        "speed": 0.1,
+        "jitter": 0.04,
+        "verdict": "ok"
+      }
+    }
+  },
+  "caption": "A friendly reminder that it's okay.",
+  "textY": 0.5
+}

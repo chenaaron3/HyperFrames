@@ -1,0 +1,200 @@
+{
+  "id": "easy-11",
+  "name": "I used to be their 10/10 daughter",
+  "reference": "references/viral-formats/easy-11.mp4",
+  "source": "/Users/aaron/Downloads/100 Viral Formats (Format Book)/Easy to use format/#11/#11.mp4",
+  "duration": 22.133,
+  "music": {
+    "from": "reference",
+    "title": "Back to friends - sombr"
+  },
+  "text": {
+    "y": 0.548,
+    "size": 46,
+    "weight": 700,
+    "lineHeight": 1.4,
+    "maxWidth": 900,
+    "style": "outline"
+  },
+  "lines": [
+    {
+      "id": "l1",
+      "start": 0.0,
+      "end": 3.1,
+      "ref": "I used to be their 10/10 daughter",
+      "y": 0.548,
+      "measuredSize": 41,
+      "style": "plain_white_shadow",
+      "guide": ""
+    },
+    {
+      "id": "l2",
+      "start": 3.1,
+      "end": 5.667,
+      "ref": "9/10 when I said no to them",
+      "y": 0.501,
+      "measuredSize": 47,
+      "style": "plain_white_shadow",
+      "guide": ""
+    },
+    {
+      "id": "l3",
+      "start": 5.667,
+      "end": 7.633,
+      "ref": "8/10 when i said no to their choice",
+      "y": 0.501,
+      "measuredSize": 38,
+      "style": "plain_white_shadow",
+      "guide": ""
+    },
+    {
+      "id": "l4",
+      "start": 7.633,
+      "end": 9.5,
+      "ref": "7/10 when I stood for myself",
+      "y": 0.501,
+      "measuredSize": 47,
+      "style": "plain_white_shadow",
+      "guide": ""
+    },
+    {
+      "id": "l5",
+      "start": 9.5,
+      "end": 11.533,
+      "ref": "6/10 when I followed my dreams",
+      "y": 0.501,
+      "measuredSize": 45,
+      "style": "plain_white_shadow",
+      "guide": ""
+    },
+    {
+      "id": "l6",
+      "start": 11.533,
+      "end": 13.5,
+      "ref": "5/10 when I made my own decision",
+      "y": 0.501,
+      "measuredSize": 39,
+      "style": "plain_white_shadow",
+      "guide": ""
+    },
+    {
+      "id": "l7",
+      "start": 13.5,
+      "end": 15.367,
+      "ref": "4/10 when I stopped explaining",
+      "y": 0.525,
+      "measuredSize": 58,
+      "style": "plain_white_shadow",
+      "guide": ""
+    },
+    {
+      "id": "l8",
+      "start": 15.367,
+      "end": 17.733,
+      "ref": "3/10 when I stopped seeking approval",
+      "y": 0.501,
+      "measuredSize": 36,
+      "style": "plain_white_shadow",
+      "guide": ""
+    },
+    {
+      "id": "l9",
+      "start": 17.733,
+      "end": 19.967,
+      "ref": "2/10 when I disagreed",
+      "y": 0.501,
+      "measuredSize": 41,
+      "style": "plain_white_shadow",
+      "guide": ""
+    },
+    {
+      "id": "l10",
+      "start": 19.967,
+      "end": 22.133,
+      "ref": "1/10 when i choose myself",
+      "y": 0.501,
+      "measuredSize": 41,
+      "style": "plain_white_shadow",
+      "guide": ""
+    }
+  ],
+  "shots": [
+    {
+      "id": "s1",
+      "start": 0.0,
+      "end": 3.1,
+      "brief": "walking away and turning to pose in an architectural space (ref: Creator walking away from camera in a museum/hall with grand skylight ceiling, then turning around and posing.; tripod)",
+      "line": "l1"
+    },
+    {
+      "id": "s2",
+      "start": 3.1,
+      "end": 5.667,
+      "brief": "working or studying intently at a desk or lab (ref: Creator working in a lab, wearing a lab coat and gloves while pipetting.; tripod)",
+      "line": "l2"
+    },
+    {
+      "id": "s3",
+      "start": 5.667,
+      "end": 7.633,
+      "brief": "walking outdoors at night, selfie angle (ref: Creator walking down a street at night with earphones in, looking into camera.; selfie)",
+      "line": "l3"
+    },
+    {
+      "id": "s4",
+      "start": 7.633,
+      "end": 9.5,
+      "brief": "walking indoors in a hallway, selfie (ref: Creator walking down an indoor hallway looking down slightly at phone camera.; selfie)",
+      "line": "l4"
+    },
+    {
+      "id": "s5",
+      "start": 9.5,
+      "end": 11.533,
+      "brief": "standing by a window or scenic light, casual pose (ref: Creator standing near a bright curved window with water bottle and bag, turning gently.; tripod)",
+      "line": "l5"
+    },
+    {
+      "id": "s6",
+      "start": 11.533,
+      "end": 13.5,
+      "brief": "sitting outside at a park or cafe smiling at camera (ref: Creator sitting at an outdoor table in front of collegiate gothic architecture, smiling warmly.; selfie)",
+      "line": "l6"
+    },
+    {
+      "id": "s7",
+      "start": 13.5,
+      "end": 15.367,
+      "brief": "eating food at a table (ref: Creator sitting indoors eating a bagel and eggs with a fork.; selfie)",
+      "line": "l7"
+    },
+    {
+      "id": "s8",
+      "start": 15.367,
+      "end": 17.733,
+      "brief": "crossing a street with coffee cup, third person (ref: Creator crossing a city crosswalk holding a takeout coffee cup, glancing back over shoulder.; filmed by friend)",
+      "line": "l8"
+    },
+    {
+      "id": "s9",
+      "start": 17.733,
+      "end": 22.133,
+      "brief": "sitting in a library, cafe, or study booth looking pensive (ref: Creator sitting in a quiet library study booth with head propped on hand, looking contemplative.; tripod)",
+      "line": "l9"
+    }
+  ],
+  "audit": {
+    "kind": "broll_with_text",
+    "creatorSpeaks": false,
+    "audio": "music only",
+    "special": [],
+    "reusable": true,
+    "notes": "Perfect fit for the creator's library. Replicate by selecting 10 varied 2-second clips (walking in NY, studying/working on laptop, eating, sitting in Central Park, crossing streets with coffee) and overlaying the 10/10 down to 1/10 boundary/independence text hook.",
+    "summary": "A countdown b-roll montage showing how the creator went from a '10/10 daughter' down to '1/10' in her parents' eyes as she set boundaries, made her own choices, and chose herself."
+  },
+  "caption": {
+    "ref": "",
+    "guide": ""
+  },
+  "draft": true
+}

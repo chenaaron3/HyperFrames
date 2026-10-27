@@ -1,0 +1,80 @@
+{
+  "path": "OneOffs/BrooklynNight/IMG_4524 3.MOV",
+  "folder": "OneOffs/BrooklynNight",
+  "fingerprint": "d859aa7f6f868741",
+  "width": 1080,
+  "height": 1920,
+  "fps": 30.0,
+  "duration": 4.833,
+  "model": "gemini-3.8-flash",
+  "annotatedAt": "2026-10-24T18:22:48+00:00",
+  "summary": "Handheld view of a stylish shoe boutique display lining large windows, as a young man in a plaid shirt walks over to inspect the footwear.",
+  "location": "clothing store",
+  "setting": "indoor",
+  "time_of_day": "day",
+  "weather": "n/a",
+  "people": {
+    "count": 1,
+    "creator_visible": true,
+    "description": "Young man wearing a plaid button-up shirt and dark pants browsing shoes"
+  },
+  "camera": {
+    "style": "handheld_cinematic",
+    "framing": "medium",
+    "movement": "pan",
+    "angle": "eye level"
+  },
+  "quality": {
+    "usable": true,
+    "stability": "steady",
+    "exposure": "good",
+    "issues": ""
+  },
+  "mood": [
+    "casual",
+    "curious",
+    "urban"
+  ],
+  "energy": "low",
+  "tags": [
+    "shopping",
+    "shoes",
+    "sneakers",
+    "boots",
+    "boutique",
+    "retail",
+    "store",
+    "fashion",
+    "window display",
+    "brooklyn",
+    "urban aesthetic"
+  ],
+  "moments": [
+    {
+      "start": 0.0,
+      "end": 2.5,
+      "action": "Camera slowly tracks along shelves of shoes set against wide city-view windows",
+      "emotion": "calm, aesthetic",
+      "good_for": [
+        "retail therapy",
+        "shopping day",
+        "weekend errands",
+        "aesthetic b-roll"
+      ],
+      "score": 3
+    },
+    {
+      "start": 2.5,
+      "end": 4.83,
+      "action": "A man in a plaid shirt walks up to inspect the shoes on the window shelf",
+      "emotion": "interested, casual",
+      "good_for": [
+        "trying to find my style",
+        "shopping with friends",
+        "new shoes",
+        "city weekend"
+      ],
+      "score": 3
+    }
+  ]
+}

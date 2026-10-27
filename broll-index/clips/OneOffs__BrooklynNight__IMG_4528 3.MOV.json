@@ -1,0 +1,81 @@
+{
+  "path": "OneOffs/BrooklynNight/IMG_4528 3.MOV",
+  "folder": "OneOffs/BrooklynNight",
+  "fingerprint": "b4e2b1409a20a89a",
+  "width": 1080,
+  "height": 1920,
+  "fps": 30.0,
+  "duration": 5.767,
+  "model": "gemini-3.8-flash",
+  "annotatedAt": "2026-10-24T18:22:55+00:00",
+  "summary": "Handheld pan across a sunlit, plant-filled modern indoor cafe or communal work space where numerous people sit along long tables working on laptops.",
+  "location": "cafe",
+  "setting": "indoor",
+  "time_of_day": "day",
+  "weather": "sunny",
+  "people": {
+    "count": 25,
+    "creator_visible": false,
+    "description": "Diverse crowd of people in casual wear working on laptops, chatting, and walking through a modern atrium."
+  },
+  "camera": {
+    "style": "pov_first_person",
+    "framing": "wide",
+    "movement": "pan",
+    "angle": "eye level"
+  },
+  "quality": {
+    "usable": true,
+    "stability": "steady",
+    "exposure": "good",
+    "issues": ""
+  },
+  "mood": [
+    "productive",
+    "peaceful",
+    "focused",
+    "modern"
+  ],
+  "energy": "medium",
+  "tags": [
+    "atrium",
+    "coworking",
+    "cafe",
+    "study spot",
+    "brooklyn",
+    "sunlight",
+    "indoor plants",
+    "communal table",
+    "remote work",
+    "laptops",
+    "aesthetic space"
+  ],
+  "moments": [
+    {
+      "start": 0.0,
+      "end": 2.8,
+      "action": "Camera pans right past sunny windows lined with lush green plants as a patron walks ahead into the hall",
+      "emotion": "calm",
+      "good_for": [
+        "finding quiet aesthetic spots",
+        "work from cafe day",
+        "city exploration",
+        "sunday routine"
+      ],
+      "score": 4
+    },
+    {
+      "start": 2.8,
+      "end": 5.77,
+      "action": "Camera pans to focus on long communal tables filled with young professionals working on their laptops in natural light",
+      "emotion": "focused",
+      "good_for": [
+        "remote work lifestyle",
+        "studying for finals",
+        "busy productive days",
+        "coworking space vibes"
+      ],
+      "score": 4
+    }
+  ]
+}

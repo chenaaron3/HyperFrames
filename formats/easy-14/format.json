@@ -1,0 +1,88 @@
+{
+  "id": "easy-14",
+  "name": "Run",
+  "reference": "references/viral-formats/easy-14.mp4",
+  "source": "/Users/aaron/Downloads/100 Viral Formats (Format Book)/Easy to use format/#14/#14.mp4",
+  "duration": 9.733,
+  "music": {
+    "from": "reference",
+    "title": "Silver Spring by Fleetwood Mac"
+  },
+  "text": {
+    "y": 0.393,
+    "size": 64,
+    "weight": 700,
+    "lineHeight": 1.4,
+    "maxWidth": 900,
+    "style": "outline"
+  },
+  "lines": [
+    {
+      "id": "l1",
+      "start": 0.0,
+      "end": 9.733,
+      "ref": "Run",
+      "y": 0.393,
+      "measuredSize": 43,
+      "style": "plain_white_shadow",
+      "guide": ""
+    },
+    {
+      "id": "l2",
+      "start": 0.0,
+      "end": 0.0,
+      "ref": "Recovery",
+      "y": 0.512,
+      "measuredSize": 126,
+      "style": "plain_white_shadow",
+      "guide": ""
+    },
+    {
+      "id": "l3",
+      "start": 0.0,
+      "end": 9.733,
+      "ref": "Study",
+      "y": 0.512,
+      "measuredSize": 126,
+      "style": "plain_white_shadow",
+      "guide": ""
+    },
+    {
+      "id": "l4",
+      "start": 0.0,
+      "end": 9.733,
+      "ref": "Sleep",
+      "y": 0.632,
+      "measuredSize": 58,
+      "style": "plain_white_shadow",
+      "guide": ""
+    }
+  ],
+  "shots": [
+    {
+      "id": "s1",
+      "start": 0.0,
+      "end": 9.733,
+      "brief": "Top-down staged shot spinning a bottle between items on the floor, kicking it, and taking the chosen item (ref: High-angle top-down shot of a wooden floor with four labelled items in a circle. The creator spins an empty plastic bottle in the center, which lands pointing at the running shoes; he walks in, kicks the bottle away, grabs the sneakers, and exits out the door.; top-down)",
+      "line": "l1"
+    }
+  ],
+  "audit": {
+    "kind": "skit_acting",
+    "creatorSpeaks": false,
+    "audio": "music only",
+    "special": [
+      "Spinning water bottle on hardwood floor",
+      "Four specific activity props laid out in a cross (running shoes, foam roller, pillow, study book)",
+      "Staged physical comedy action of spinning bottle, kicking it, and picking up shoes"
+    ],
+    "reusable": false,
+    "notes": "This concept requires a specifically staged physical stunt (spinning a bottle on the floor to pick a hobby/habit and interacting with the props). It cannot be replicated with existing passive b-roll.",
+    "summary": "A creator plays a bottle-spin game on the floor surrounded by four activity options (Run, Recovery, Study, Sleep). When the bottle points to running shoes, he kicks the bottle aside, grabs the shoes, and heads out."
+  },
+  "caption": {
+    "ref": "",
+    "guide": ""
+  },
+  "draft": true
+}

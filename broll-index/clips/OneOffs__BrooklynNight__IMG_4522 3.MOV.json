@@ -1,0 +1,77 @@
+{
+  "path": "OneOffs/BrooklynNight/IMG_4522 3.MOV",
+  "folder": "OneOffs/BrooklynNight",
+  "fingerprint": "30a9f0f93134685d",
+  "width": 1080,
+  "height": 1920,
+  "fps": 30.0,
+  "duration": 3.0,
+  "model": "gemini-3.8-flash",
+  "annotatedAt": "2026-10-24T18:22:45+00:00",
+  "summary": "A man stands inside a building lobby or entrance area, smiling at the camera framed through a doorway before looking down at his phone.",
+  "location": "restaurant lobby",
+  "setting": "indoor",
+  "time_of_day": "indoor_unknown",
+  "weather": "n/a",
+  "people": {
+    "count": 4,
+    "creator_visible": true,
+    "description": "A man with glasses, dark jacket, black shorts, and white sneakers smiling towards the camera, with other patrons standing near a desk in the background."
+  },
+  "camera": {
+    "style": "filmed_by_friend",
+    "framing": "medium",
+    "movement": "static",
+    "angle": "eye level"
+  },
+  "quality": {
+    "usable": true,
+    "stability": "steady",
+    "exposure": "good",
+    "issues": ""
+  },
+  "mood": [
+    "relaxed",
+    "cheerful",
+    "casual"
+  ],
+  "energy": "low",
+  "tags": [
+    "lobby",
+    "entrance",
+    "friends",
+    "waiting",
+    "sneakers",
+    "casual style",
+    "night out",
+    "city life",
+    "brooklyn",
+    "smiling"
+  ],
+  "moments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "action": "A man framed through an open doorway smiles warmly toward the camera while standing in an entryway",
+      "emotion": "smiling, relaxed, happy",
+      "good_for": [
+        "waiting for your friends",
+        "night out with the boys",
+        "good vibes only",
+        "arriving at the function"
+      ],
+      "score": 3
+    },
+    {
+      "start": 2.0,
+      "end": 3.0,
+      "action": "The man looks down at his phone while waiting in the lobby",
+      "emotion": "casual, calm",
+      "good_for": [
+        "checking notifications",
+        "waiting on them to get ready"
+      ],
+      "score": 2
+    }
+  ]
+}

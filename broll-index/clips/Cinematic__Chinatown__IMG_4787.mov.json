@@ -1,0 +1,68 @@
+{
+  "path": "Cinematic/Chinatown/IMG_4787.mov",
+  "folder": "Cinematic/Chinatown",
+  "fingerprint": "e02ff3a9a0da8845",
+  "width": 1080,
+  "height": 1920,
+  "fps": 30.0,
+  "duration": 3.467,
+  "model": "gemini-3.8-flash",
+  "annotatedAt": "2026-10-24T18:19:26+00:00",
+  "summary": "A customer stands at a counter behind a plexiglass partition in a Chinatown herbal shop or grocery store paying for goods.",
+  "location": "Asian grocery store",
+  "setting": "indoor",
+  "time_of_day": "indoor_unknown",
+  "weather": "n/a",
+  "people": {
+    "count": 3,
+    "creator_visible": false,
+    "description": "An older man seen from behind in shorts and a dark blue shirt with a tote bag at the register, a cashier behind the partition, and another shopper partially framed."
+  },
+  "camera": {
+    "style": "pov_first_person",
+    "framing": "medium",
+    "movement": "static",
+    "angle": "eye level"
+  },
+  "quality": {
+    "usable": true,
+    "stability": "steady",
+    "exposure": "good",
+    "issues": ""
+  },
+  "mood": [
+    "mundane",
+    "observational",
+    "authentic"
+  ],
+  "energy": "low",
+  "tags": [
+    "chinatown",
+    "store",
+    "counter",
+    "checkout",
+    "herbal shop",
+    "pharmacy",
+    "grocery",
+    "errands",
+    "shopping",
+    "neighborhood",
+    "city life",
+    "authentic"
+  ],
+  "moments": [
+    {
+      "start": 0.0,
+      "end": 3.47,
+      "action": "A customer reaches forward towards the counter clerk behind a clear protective screen while waiting at checkout in a Chinatown shop.",
+      "emotion": "calm",
+      "good_for": [
+        "running errands",
+        "chinatown walk",
+        "local community",
+        "small moments of daily life"
+      ],
+      "score": 3
+    }
+  ]
+}

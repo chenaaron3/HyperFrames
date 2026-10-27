@@ -1,0 +1,127 @@
+{
+  "id": "relatable-17",
+  "name": "\"u look happier, who healed u?\"",
+  "reference": "references/viral-formats/relatable-17.mp4",
+  "source": "/Users/aaron/Downloads/100 Viral Formats (Format Book)/Relatable/#17/#17.mp4",
+  "duration": 10.567,
+  "music": {
+    "from": "reference",
+    "title": "Sailor Song - Gigi Perez"
+  },
+  "text": {
+    "y": 0.501,
+    "size": 46,
+    "weight": 700,
+    "lineHeight": 1.4,
+    "maxWidth": 900,
+    "style": "outline"
+  },
+  "lines": [
+    {
+      "id": "l1",
+      "start": 0.0,
+      "end": 4.2,
+      "ref": "\"u look happier, who healed u?\"",
+      "y": 0.501,
+      "measuredSize": 43,
+      "style": "plain_white_shadow",
+      "guide": ""
+    },
+    {
+      "id": "l2",
+      "start": 4.2,
+      "end": 10.567,
+      "ref": "wdym 'who'?",
+      "y": 0.501,
+      "measuredSize": 22,
+      "style": "plain_white_shadow",
+      "guide": ""
+    }
+  ],
+  "shots": [
+    {
+      "id": "s1",
+      "start": 0.0,
+      "end": 4.167,
+      "brief": "peaceful lifestyle b-roll, sitting outdoors smiling (ref: Young woman sitting at an outdoor wooden table in a park with books, looking up peacefully before turning to the camera and smiling.; tripod)",
+      "line": "l1"
+    },
+    {
+      "id": "s2",
+      "start": 4.2,
+      "end": 4.7,
+      "brief": "smiling selfie outdoors (ref: Quick selfie shot outdoors smiling in the sun.; selfie)",
+      "line": "l2"
+    },
+    {
+      "id": "s3",
+      "start": 4.7,
+      "end": 5.1,
+      "brief": "studying or working at a desk (ref: Sitting at a study desk indoors flipping through a thick book.; tripod)",
+      "line": "l2"
+    },
+    {
+      "id": "s4",
+      "start": 5.1,
+      "end": 5.733,
+      "brief": "relaxing outdoors or adjusting hair (ref: Sitting on a sunny terrace running hands through hair.; tripod)",
+      "line": "l2"
+    },
+    {
+      "id": "s5",
+      "start": 5.733,
+      "end": 6.367,
+      "brief": "candid smile indoors (ref: Leaning forward in a locker room smiling into the camera.; tripod)",
+      "line": "l2"
+    },
+    {
+      "id": "s6",
+      "start": 6.367,
+      "end": 7.7,
+      "brief": "walking or jogging outside selfie (ref: Jogging/walking outdoors holding the selfie camera, hair blowing in the wind.; selfie)",
+      "line": "l2"
+    },
+    {
+      "id": "s7",
+      "start": 7.7,
+      "end": 8.4,
+      "brief": "smiling selfie in a park or cafe (ref: Standing in a courtyard or garden smiling warmly at camera.; selfie)",
+      "line": "l2"
+    },
+    {
+      "id": "s8",
+      "start": 8.4,
+      "end": 9.2,
+      "brief": "walking away third-person b-roll (ref: Walking away through park trees wearing a backpack.; tripod)",
+      "line": "l2"
+    },
+    {
+      "id": "s9",
+      "start": 9.2,
+      "end": 9.8,
+      "brief": "walking selfie on city street (ref: Walking along a sunny city street holding the camera.; selfie)",
+      "line": "l2"
+    },
+    {
+      "id": "s10",
+      "start": 9.8,
+      "end": 10.567,
+      "brief": "walking towards camera in park or city (ref: Walking forward towards the camera through a green park.; tripod)",
+      "line": "l2"
+    }
+  ],
+  "audit": {
+    "kind": "broll_with_text",
+    "creatorSpeaks": false,
+    "audio": "music only",
+    "special": [],
+    "reusable": true,
+    "notes": "Perfect fit for an existing library of New York lifestyle clips. Start with a peaceful, reflective shot (Central Park bench or apartment chilling) for the hook, then cut to energetic, happy clips (smiling in the subway, bouldering, walking around DUMBO/Chinatown) when 'wdym 'who'?' appears.",
+    "summary": "A self-love montage where an initial text prompt asks who healed the creator, followed by the cheeky response 'wdym \"who\"?' set to quick cuts of happy, glowing lifestyle clips."
+  },
+  "caption": {
+    "ref": "",
+    "guide": ""
+  },
+  "draft": true
+}

@@ -1,0 +1,82 @@
+{
+  "path": "OneOffs/Eating/IMG_4888.MOV",
+  "folder": "OneOffs/Eating",
+  "fingerprint": "f996db0d206712d3",
+  "width": 1080,
+  "height": 1920,
+  "fps": 30.0,
+  "duration": 6.665,
+  "model": "gemini-3.8-flash",
+  "annotatedAt": "2026-10-24T18:35:22+00:00",
+  "summary": "Inside a hot pot restaurant, a server pours water at a table while the creator enters carrying an open laptop to sit down and work.",
+  "location": "restaurant",
+  "setting": "indoor",
+  "time_of_day": "indoor_unknown",
+  "weather": "n/a",
+  "people": {
+    "count": 7,
+    "creator_visible": true,
+    "description": "Young East Asian man wearing a navy jacket and collared shirt holding a laptop, a restaurant server pouring water, and various diners in the background"
+  },
+  "camera": {
+    "style": "filmed_by_friend",
+    "framing": "medium",
+    "movement": "handheld",
+    "angle": "eye level"
+  },
+  "quality": {
+    "usable": true,
+    "stability": "steady",
+    "exposure": "good",
+    "issues": ""
+  },
+  "mood": [
+    "humorous",
+    "busy",
+    "relatable",
+    "casual"
+  ],
+  "energy": "medium",
+  "tags": [
+    "hotpot",
+    "restaurant",
+    "laptop",
+    "workaholic",
+    "working through dinner",
+    "hustle culture",
+    "waiter",
+    "pouring water",
+    "dining out",
+    "funny",
+    "remote work"
+  ],
+  "moments": [
+    {
+      "start": 0.0,
+      "end": 3.8,
+      "action": "Server in black gloves pours water from a clear pitcher into glasses on a restaurant table",
+      "emotion": "focused",
+      "good_for": [
+        "dining out",
+        "dinner date",
+        "eating good",
+        "dinner b-roll"
+      ],
+      "score": 3
+    },
+    {
+      "start": 3.8,
+      "end": 6.67,
+      "action": "Creator walks up to the dining table holding an open laptop and places it down to work while eating",
+      "emotion": "serious",
+      "good_for": [
+        "working late",
+        "work life balance",
+        "always on the grind",
+        "corporate life",
+        "never not working"
+      ],
+      "score": 4
+    }
+  ]
+}

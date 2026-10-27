@@ -1,0 +1,132 @@
+{
+  "path": "SelfShots/Eating/IMG_5163.MOV",
+  "folder": "SelfShots/Eating",
+  "fingerprint": "274ba83aa95995bc",
+  "width": 1080,
+  "height": 1920,
+  "fps": 30.0,
+  "duration": 138.74,
+  "model": "gemini-3.8-flash",
+  "annotatedAt": "2026-10-24T18:57:35+00:00",
+  "summary": "A young man unboxes and enjoys a Mediterranean grain bowl at a fast-casual restaurant counter, showing the bowl to the camera before digging in.",
+  "location": "restaurant",
+  "setting": "indoor",
+  "time_of_day": "indoor_unknown",
+  "weather": "n/a",
+  "people": {
+    "count": 1,
+    "creator_visible": true,
+    "description": "Young East Asian man with fluffy dark hair, wearing a brown knit polo shirt and silver hoop earrings, sitting by himself."
+  },
+  "camera": {
+    "style": "tripod_static",
+    "framing": "medium",
+    "movement": "static",
+    "angle": "eye level"
+  },
+  "quality": {
+    "usable": true,
+    "stability": "steady",
+    "exposure": "good",
+    "issues": ""
+  },
+  "mood": [
+    "casual",
+    "chill",
+    "relatable",
+    "hungry",
+    "foodie"
+  ],
+  "energy": "low",
+  "tags": [
+    "eating",
+    "cava",
+    "grain bowl",
+    "fast casual",
+    "lunch",
+    "dinner",
+    "food review",
+    "mukbang",
+    "unboxing food",
+    "healthy food",
+    "solo dining",
+    "lifestyle"
+  ],
+  "moments": [
+    {
+      "start": 0.0,
+      "end": 6.8,
+      "action": "Creator unpacks a fresh salad grain bowl out of a yellow takeout paper bag and sets it on the table",
+      "emotion": "focused, hungry anticipation",
+      "good_for": [
+        "getting takeout",
+        "food on my table",
+        "post-workout meal",
+        "solo lunch date"
+      ],
+      "score": 4
+    },
+    {
+      "start": 13.5,
+      "end": 17.5,
+      "action": "Creator lifts the colorful bowl up to show it closely to the camera lens",
+      "emotion": "proud, inviting",
+      "good_for": [
+        "the food reveal",
+        "eating good today",
+        "my favorite order",
+        "healthy eating"
+      ],
+      "score": 5
+    },
+    {
+      "start": 26.5,
+      "end": 33.5,
+      "action": "Creator takes a large forkful of salad and eats it directly facing the camera",
+      "emotion": "satisfied, hungry",
+      "good_for": [
+        "first bite",
+        "fueling my body",
+        "lunch break",
+        "comfort food"
+      ],
+      "score": 4
+    },
+    {
+      "start": 48.0,
+      "end": 54.0,
+      "action": "Creator dips his fork into the bowl and takes another big bite while focused on eating",
+      "emotion": "immersed, enjoying food",
+      "good_for": [
+        "eating in peace",
+        "just eating good food",
+        "foodie moments"
+      ],
+      "score": 3
+    },
+    {
+      "start": 112.0,
+      "end": 118.0,
+      "action": "Creator takes a big mouthful, looks directly into the lens chewing happily, and reaches for sauce",
+      "emotion": "pleased, amused",
+      "good_for": [
+        "relatable eating",
+        "food hit the spot",
+        "eating good"
+      ],
+      "score": 4
+    },
+    {
+      "start": 134.0,
+      "end": 138.74,
+      "action": "Creator finishes chewing, glances directly into the camera, and reaches out to stop recording",
+      "emotion": "casual, calm",
+      "good_for": [
+        "signing off",
+        "clean plate club",
+        "lunch time over"
+      ],
+      "score": 4
+    }
+  ]
+}

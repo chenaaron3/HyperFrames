@@ -1,0 +1,130 @@
+{
+  "path": "SelfShots/Working/IMG_5169.MOV",
+  "folder": "SelfShots/Working",
+  "fingerprint": "99f00e7aa70e6233",
+  "width": 1080,
+  "height": 1920,
+  "fps": 30.0,
+  "duration": 41.07,
+  "model": "gemini-3.8-flash",
+  "annotatedAt": "2026-10-24T19:03:11+00:00",
+  "summary": "A young man sits down on a leather armchair in a climbing gym lounge, works intently on his laptop, and then packs up and leaves.",
+  "location": "gym",
+  "setting": "indoor",
+  "time_of_day": "indoor_unknown",
+  "weather": "n/a",
+  "people": {
+    "count": 3,
+    "creator_visible": true,
+    "description": "Young East Asian man with wavy dark hair, brown short-sleeve shirt, black trousers, and white wireless earbuds sitting in a brown leather armchair. Other gym patrons occasionally pass in the background."
+  },
+  "camera": {
+    "style": "tripod_static",
+    "framing": "medium",
+    "movement": "static",
+    "angle": "eye level"
+  },
+  "quality": {
+    "usable": true,
+    "stability": "locked",
+    "exposure": "good",
+    "issues": ""
+  },
+  "mood": [
+    "productive",
+    "focused",
+    "calm",
+    "casual"
+  ],
+  "energy": "low",
+  "tags": [
+    "laptop",
+    "remote work",
+    "typing",
+    "studying",
+    "climbing gym",
+    "digital nomad",
+    "chair",
+    "leather armchair",
+    "focus",
+    "productivity",
+    "work from anywhere",
+    "chill"
+  ],
+  "moments": [
+    {
+      "start": 1.5,
+      "end": 5.5,
+      "action": "A young man walks into frame, sits down in a brown leather armchair, and opens his laptop",
+      "emotion": "focused",
+      "good_for": [
+        "getting to work",
+        "work from anywhere",
+        "clocking in"
+      ],
+      "score": 4
+    },
+    {
+      "start": 5.5,
+      "end": 13.0,
+      "action": "Man types steadily on his laptop while listening to music through earbuds",
+      "emotion": "locked in",
+      "good_for": [
+        "remote work lifestyle",
+        "answering emails",
+        "daily grind",
+        "deep focus"
+      ],
+      "score": 4
+    },
+    {
+      "start": 13.0,
+      "end": 21.0,
+      "action": "Man continues typing attentively on his laptop in the lounge chair",
+      "emotion": "calm concentration",
+      "good_for": [
+        "studying session",
+        "corporate grind",
+        "freelance life",
+        "quiet productivity"
+      ],
+      "score": 4
+    },
+    {
+      "start": 21.0,
+      "end": 29.0,
+      "action": "Medium shot of the man working diligently on his laptop as people walk past in the background",
+      "emotion": "undistracted focus",
+      "good_for": [
+        "working in public",
+        "digital nomad life",
+        "locked in on goals"
+      ],
+      "score": 4
+    },
+    {
+      "start": 29.0,
+      "end": 36.5,
+      "action": "Man maintains steady typing pace on his keyboard, looking at the screen",
+      "emotion": "serious focus",
+      "good_for": [
+        "finishing tasks",
+        "side hustle",
+        "working through the day"
+      ],
+      "score": 4
+    },
+    {
+      "start": 36.5,
+      "end": 39.5,
+      "action": "Man closes his laptop, stands up from the armchair, and walks out of frame",
+      "emotion": "accomplished",
+      "good_for": [
+        "clocking out",
+        "finished working",
+        "calling it a day"
+      ],
+      "score": 3
+    }
+  ]
+}

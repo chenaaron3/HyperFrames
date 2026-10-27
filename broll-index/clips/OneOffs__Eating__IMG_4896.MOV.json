@@ -1,0 +1,70 @@
+{
+  "path": "OneOffs/Eating/IMG_4896.MOV",
+  "folder": "OneOffs/Eating",
+  "fingerprint": "7f624b830c66ec68",
+  "width": 1080,
+  "height": 1920,
+  "fps": 30.0,
+  "duration": 4.467,
+  "model": "gemini-3.8-flash",
+  "annotatedAt": "2026-10-24T18:35:29+00:00",
+  "summary": "Friends clinking colorful cocktails together in a toast at a lively restaurant table at night.",
+  "location": "restaurant",
+  "setting": "indoor",
+  "time_of_day": "night",
+  "weather": "n/a",
+  "people": {
+    "count": 3,
+    "creator_visible": false,
+    "description": "A man with glasses and a black shirt smiling across the table, with hands holding bright green and magenta cocktails in a toast."
+  },
+  "camera": {
+    "style": "pov_first_person",
+    "framing": "close",
+    "movement": "handheld",
+    "angle": "high angle"
+  },
+  "quality": {
+    "usable": true,
+    "stability": "steady",
+    "exposure": "good",
+    "issues": ""
+  },
+  "mood": [
+    "celebratory",
+    "happy",
+    "fun",
+    "social"
+  ],
+  "energy": "medium",
+  "tags": [
+    "cocktails",
+    "drinks",
+    "toast",
+    "cheers",
+    "bar",
+    "restaurant",
+    "night out",
+    "friends",
+    "friendship",
+    "celebration",
+    "dinner",
+    "happy hour"
+  ],
+  "moments": [
+    {
+      "start": 0.0,
+      "end": 4.47,
+      "action": "Friends raise and clink vibrant cocktail glasses together in a celebratory toast as a man across the table smiles happily",
+      "emotion": "cheerful and festive",
+      "good_for": [
+        "drinks with friends",
+        "celebrating small wins",
+        "weekend plans",
+        "girls night out",
+        "reconnecting with good company"
+      ],
+      "score": 4
+    }
+  ]
+}

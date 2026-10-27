@@ -1,0 +1,71 @@
+{
+  "path": "Cinematic/UES/IMG_4487.MOV",
+  "folder": "Cinematic/UES",
+  "fingerprint": "37112fa19e1cf573",
+  "width": 1080,
+  "height": 1920,
+  "fps": 30.0,
+  "duration": 2.233,
+  "model": "gemini-3.8-flash",
+  "annotatedAt": "2026-10-24T18:19:52+00:00",
+  "summary": "A street-level shot across the road of The Corner Bookstore on Madison Avenue in New York City's Upper East Side.",
+  "location": "city street",
+  "setting": "outdoor",
+  "time_of_day": "day",
+  "weather": "overcast",
+  "people": {
+    "count": 1,
+    "creator_visible": false,
+    "description": "A person standing on the sidewalk outside the bookstore entrance wearing patterned trousers and a cap"
+  },
+  "camera": {
+    "style": "handheld_cinematic",
+    "framing": "wide",
+    "movement": "static",
+    "angle": "eye level"
+  },
+  "quality": {
+    "usable": true,
+    "stability": "steady",
+    "exposure": "good",
+    "issues": ""
+  },
+  "mood": [
+    "peaceful",
+    "nostalgic",
+    "literary",
+    "quaint",
+    "urban"
+  ],
+  "energy": "low",
+  "tags": [
+    "bookstore",
+    "the corner bookstore",
+    "nyc",
+    "upper east side",
+    "madison avenue",
+    "brownstone",
+    "books",
+    "reading",
+    "manhattan",
+    "city life",
+    "street view",
+    "aesthetic"
+  ],
+  "moments": [
+    {
+      "start": 0.0,
+      "end": 2.23,
+      "action": "Static view of The Corner Bookstore storefront and brownstone building facade on a quiet New York street",
+      "emotion": "calm",
+      "good_for": [
+        "favorite cozy spots in the city",
+        "book lover aesthetic",
+        "weekend wandering in nyc",
+        "romanticizing your life",
+        "independent bookstores"
+      ],
+      "score": 4
+    }
+  ]
+}

@@ -1,0 +1,107 @@
+{
+  "path": "OneOffs/Apartments/MurrayHills/150 East 39th Street/IMG_4201.MOV",
+  "folder": "OneOffs/Apartments/MurrayHills/150 East 39th Street",
+  "fingerprint": "4eecc4dbfcb60c57",
+  "width": 1080,
+  "height": 1920,
+  "fps": 30.0,
+  "duration": 55.72,
+  "model": "gemini-3.8-flash",
+  "annotatedAt": "2026-10-24T18:21:31+00:00",
+  "summary": "A walkthrough apartment tour of a compact studio unit at 150 East 39th Street, showcasing the kitchen, parquet floors, closets, city window view, and bathroom.",
+  "location": "apartment",
+  "setting": "indoor",
+  "time_of_day": "day",
+  "weather": "sunny",
+  "people": {
+    "count": 2,
+    "creator_visible": true,
+    "description": "A friend with dark hair in a black jacket walking in ahead, and the creator seen briefly in the bathroom mirror wearing black and holding a shopping bag."
+  },
+  "camera": {
+    "style": "pov_first_person",
+    "framing": "medium",
+    "movement": "walking",
+    "angle": "eye level"
+  },
+  "quality": {
+    "usable": true,
+    "stability": "handheld",
+    "exposure": "mixed",
+    "issues": "Occasional quick swings and auto-exposure flashes in the bathroom."
+  },
+  "mood": [
+    "curious",
+    "casual",
+    "exploratory",
+    "relatable"
+  ],
+  "energy": "medium",
+  "tags": [
+    "nyc apartment",
+    "apartment tour",
+    "apartment hunting",
+    "studio apartment",
+    "murray hill",
+    "manhattan",
+    "city view",
+    "parquet floors",
+    "closet space",
+    "real estate",
+    "first apartment",
+    "new york city"
+  ],
+  "moments": [
+    {
+      "start": 4.5,
+      "end": 7.5,
+      "action": "Walking past the entry into the compact kitchen with white cabinetry and gas stove",
+      "emotion": "curious",
+      "good_for": [
+        "apartment hunting in nyc",
+        "tiny kitchen reality",
+        "studio living",
+        "first place in the city"
+      ],
+      "score": 3
+    },
+    {
+      "start": 19.5,
+      "end": 24.0,
+      "action": "Stepping down into the empty studio living room with parquet wood floors",
+      "emotion": "observant",
+      "good_for": [
+        "empty apartment vibes",
+        "moving day",
+        "finding a new home",
+        "prewar charm"
+      ],
+      "score": 3
+    },
+    {
+      "start": 26.5,
+      "end": 30.5,
+      "action": "Panning out the large windows to reveal classic NYC rooftops and street view below",
+      "emotion": "impressed",
+      "good_for": [
+        "the view from my apartment",
+        "living in new york",
+        "skyline views",
+        "city life aesthetic"
+      ],
+      "score": 4
+    },
+    {
+      "start": 51.0,
+      "end": 55.7,
+      "action": "Closing the bathroom medicine cabinet door to reveal the creator filming in the mirror",
+      "emotion": "casual",
+      "good_for": [
+        "mirror selfie clip",
+        "apartment hunting vlog",
+        "a day in new york"
+      ],
+      "score": 3
+    }
+  ]
+}

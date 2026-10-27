@@ -1,0 +1,79 @@
+{
+  "path": "SelfShots/Walking/1stPerson/IMG_5157.MOV",
+  "folder": "SelfShots/Walking/1stPerson",
+  "fingerprint": "aa2dd8dfd34d12ed",
+  "width": 1080,
+  "height": 1920,
+  "fps": 30.0,
+  "duration": 12.733,
+  "model": "gemini-3.8-flash",
+  "annotatedAt": "2026-10-24T19:02:12+00:00",
+  "summary": "A young Asian man in a blazer walks along a city street at night while holding the camera in a selfie walking shot.",
+  "location": "city street",
+  "setting": "outdoor",
+  "time_of_day": "night",
+  "weather": "n/a",
+  "people": {
+    "count": 1,
+    "creator_visible": true,
+    "description": "Young Asian man with wavy dark hair wearing a black blazer, light blue collared shirt, and backpack"
+  },
+  "camera": {
+    "style": "selfie",
+    "framing": "medium",
+    "movement": "walking",
+    "angle": "low angle looking up"
+  },
+  "quality": {
+    "usable": true,
+    "stability": "handheld",
+    "exposure": "mixed",
+    "issues": "Blurry start and end pointing at ground"
+  },
+  "mood": [
+    "reflective",
+    "contemplative",
+    "nocturnal",
+    "urban"
+  ],
+  "energy": "medium",
+  "tags": [
+    "night walk",
+    "city streets",
+    "walking",
+    "commute",
+    "blazer",
+    "after work",
+    "night aesthetic",
+    "urban",
+    "first person selfie",
+    "wandering"
+  ],
+  "moments": [
+    {
+      "start": 2.5,
+      "end": 6.0,
+      "action": "Creator walks down the sidewalk past closed storefront shutters holding the camera out",
+      "emotion": "pensive and calm",
+      "good_for": [
+        "walking home after a long day",
+        "late night thoughts",
+        "city nights alone"
+      ],
+      "score": 3
+    },
+    {
+      "start": 6.0,
+      "end": 11.0,
+      "action": "Creator continues walking under streetlights, glancing sideways and ahead while holding the camera",
+      "emotion": "focused and contemplative",
+      "good_for": [
+        "working late",
+        "on my way home",
+        "corporate life reality",
+        "grind never stops"
+      ],
+      "score": 4
+    }
+  ]
+}

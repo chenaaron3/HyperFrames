@@ -1,0 +1,81 @@
+{
+  "path": "Cinematic/CentralPark/IMG_4471.MOV",
+  "folder": "Cinematic/CentralPark",
+  "fingerprint": "72436783b5f4a29d",
+  "width": 1080,
+  "height": 1920,
+  "fps": 30.0,
+  "duration": 4.9,
+  "model": "gemini-3.8-flash",
+  "annotatedAt": "2026-10-24T18:18:49+00:00",
+  "summary": "Handheld horizontal pan across the Harlem Meer or lake in Central Park, showing waterfront rocks, lush reeds, surrounding trees, and city buildings under a bright blue sky.",
+  "location": "park",
+  "setting": "outdoor",
+  "time_of_day": "day",
+  "weather": "sunny",
+  "people": {
+    "count": 0,
+    "creator_visible": false,
+    "description": "No people clearly visible in frame"
+  },
+  "camera": {
+    "style": "handheld_cinematic",
+    "framing": "wide",
+    "movement": "pan",
+    "angle": "eye level"
+  },
+  "quality": {
+    "usable": true,
+    "stability": "steady",
+    "exposure": "good",
+    "issues": ""
+  },
+  "mood": [
+    "peaceful",
+    "serene",
+    "scenic",
+    "calm"
+  ],
+  "energy": "low",
+  "tags": [
+    "central park",
+    "new york city",
+    "lake",
+    "pond",
+    "nature in the city",
+    "water",
+    "sunny day",
+    "trees",
+    "blue sky",
+    "b-roll",
+    "peaceful walk",
+    "outdoors"
+  ],
+  "moments": [
+    {
+      "start": 0.0,
+      "end": 2.5,
+      "action": "Camera slowly pans right across the open water of the pond with apartment towers and green foliage in the background",
+      "emotion": "peaceful",
+      "good_for": [
+        "peace of mind",
+        "taking a walk",
+        "city breaks",
+        "gratitude for sunny days"
+      ],
+      "score": 4
+    },
+    {
+      "start": 2.5,
+      "end": 4.9,
+      "action": "Camera continues panning past tall waterfront grass and a curved wire garden fence framing the shore",
+      "emotion": "calm",
+      "good_for": [
+        "nature walks",
+        "sunday stroll",
+        "outdoor reflections"
+      ],
+      "score": 3
+    }
+  ]
+}

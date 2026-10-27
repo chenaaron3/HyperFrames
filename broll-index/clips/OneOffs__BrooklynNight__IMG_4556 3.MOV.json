@@ -1,0 +1,84 @@
+{
+  "path": "OneOffs/BrooklynNight/IMG_4556 3.MOV",
+  "folder": "OneOffs/BrooklynNight",
+  "fingerprint": "cf3bc2e4e9f0963f",
+  "width": 1080,
+  "height": 1920,
+  "fps": 29.97,
+  "duration": 10.672,
+  "model": "gemini-3.8-flash",
+  "annotatedAt": "2026-10-24T18:23:47+00:00",
+  "summary": "Handheld scenic shot looking across the water at sunset, panning slowly to reveal distant city skylines and a waterfront promenade pier.",
+  "location": "waterfront promenade",
+  "setting": "outdoor",
+  "time_of_day": "golden_hour",
+  "weather": "overcast",
+  "people": {
+    "count": 0,
+    "creator_visible": false,
+    "description": "No people visible."
+  },
+  "camera": {
+    "style": "handheld_cinematic",
+    "framing": "extreme_wide",
+    "movement": "pan",
+    "angle": "eye level"
+  },
+  "quality": {
+    "usable": true,
+    "stability": "steady",
+    "exposure": "good",
+    "issues": ""
+  },
+  "mood": [
+    "peaceful",
+    "contemplative",
+    "serene",
+    "reflective"
+  ],
+  "energy": "low",
+  "tags": [
+    "waterfront",
+    "sunset",
+    "golden hour",
+    "clouds",
+    "water",
+    "waves",
+    "skyline",
+    "new york harbor",
+    "cityscape",
+    "ocean",
+    "peaceful",
+    "dusk",
+    "travel",
+    "scenery"
+  ],
+  "moments": [
+    {
+      "start": 0.0,
+      "end": 4.5,
+      "action": "Camera captures open water with golden sunset light breaking through sweeping clouds.",
+      "emotion": "serene",
+      "good_for": [
+        "taking a deep breath",
+        "peace of mind",
+        "finding quiet moments",
+        "golden hour views"
+      ],
+      "score": 4
+    },
+    {
+      "start": 4.5,
+      "end": 10.67,
+      "action": "Camera pans right across the harbor, revealing a distant skyline, waterfront pier building, and railing.",
+      "emotion": "reflective",
+      "good_for": [
+        "evening walks in the city",
+        "grateful for this life",
+        "city sunset vibes",
+        "calm before the night"
+      ],
+      "score": 4
+    }
+  ]
+}

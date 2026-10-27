@@ -1,0 +1,90 @@
+{
+  "path": "SelfShots/ClimbingGym/Setup/HangBoard/IMG_5205.MOV",
+  "folder": "SelfShots/ClimbingGym/Setup/HangBoard",
+  "fingerprint": "73ce3336406a9ff0",
+  "width": 1080,
+  "height": 1920,
+  "fps": 29.97,
+  "duration": 21.143,
+  "model": "gemini-3.8-flash",
+  "annotatedAt": "2026-10-24T18:53:21+00:00",
+  "summary": "A close-up shot of a climber gripping and hanging from a wooden hangboard for finger strength training at a climbing gym.",
+  "location": "gym",
+  "setting": "indoor",
+  "time_of_day": "indoor_unknown",
+  "weather": "n/a",
+  "people": {
+    "count": 1,
+    "creator_visible": true,
+    "description": "Climber whose hands and arms are visible gripping the wooden hangboard holds."
+  },
+  "camera": {
+    "style": "tripod_static",
+    "framing": "close",
+    "movement": "static",
+    "angle": "low angle looking up"
+  },
+  "quality": {
+    "usable": true,
+    "stability": "locked",
+    "exposure": "good",
+    "issues": ""
+  },
+  "mood": [
+    "focused",
+    "determined",
+    "disciplined"
+  ],
+  "energy": "low",
+  "tags": [
+    "hangboard",
+    "fingerboard",
+    "climbing",
+    "bouldering",
+    "training",
+    "grip strength",
+    "workout",
+    "calisthenics",
+    "gym",
+    "discipline"
+  ],
+  "moments": [
+    {
+      "start": 3.8,
+      "end": 8.5,
+      "action": "Hands reach up and grip onto the wooden hangboard edges",
+      "emotion": "focused",
+      "good_for": [
+        "starting the workout",
+        "getting a grip",
+        "lock in"
+      ],
+      "score": 4
+    },
+    {
+      "start": 8.5,
+      "end": 14.5,
+      "action": "Holding a steady static hang with fingers engaged on the wooden slots",
+      "emotion": "determined",
+      "good_for": [
+        "endurance test",
+        "holding on",
+        "strength training routine",
+        "trust the process"
+      ],
+      "score": 4
+    },
+    {
+      "start": 14.5,
+      "end": 18.8,
+      "action": "Continuing the hang until releasing fingers and dropping down",
+      "emotion": "exhausted",
+      "good_for": [
+        "until failure",
+        "letting go",
+        "workout completed"
+      ],
+      "score": 3
+    }
+  ]
+}

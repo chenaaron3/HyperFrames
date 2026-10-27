@@ -1,0 +1,81 @@
+{
+  "path": "OneOffs/Eating/IMG_4850.MOV",
+  "folder": "OneOffs/Eating",
+  "fingerprint": "85a4b068c4877676",
+  "width": 1080,
+  "height": 1920,
+  "fps": 30.0,
+  "duration": 20.8,
+  "model": "gemini-3.8-flash",
+  "annotatedAt": "2026-10-24T18:34:44+00:00",
+  "summary": "A static shot of an apartment front door as a young man with a backpack leaves the apartment, then returns and walks back inside a few moments later.",
+  "location": "apartment entryway",
+  "setting": "indoor",
+  "time_of_day": "indoor_unknown",
+  "weather": "n/a",
+  "people": {
+    "count": 1,
+    "creator_visible": true,
+    "description": "Young East Asian man with dark messy hair, wearing a black coat, collared shirt, and a black backpack."
+  },
+  "camera": {
+    "style": "tripod_static",
+    "framing": "medium",
+    "movement": "static",
+    "angle": "eye level"
+  },
+  "quality": {
+    "usable": true,
+    "stability": "locked",
+    "exposure": "good",
+    "issues": ""
+  },
+  "mood": [
+    "routine",
+    "neutral",
+    "calm"
+  ],
+  "energy": "low",
+  "tags": [
+    "door",
+    "apartment",
+    "leaving home",
+    "coming home",
+    "routine",
+    "backpack",
+    "coat",
+    "daily vlog",
+    "commute",
+    "entryway",
+    "arrival",
+    "departure"
+  ],
+  "moments": [
+    {
+      "start": 3.0,
+      "end": 9.0,
+      "action": "Creator steps in front of the camera, unlocks and opens the door, and walks out into the hallway as the door closes",
+      "emotion": "focused",
+      "good_for": [
+        "heading out",
+        "leaving for work",
+        "time to lock in",
+        "starting the day"
+      ],
+      "score": 4
+    },
+    {
+      "start": 16.0,
+      "end": 19.5,
+      "action": "Door opens from the outside and creator walks back into the apartment with his backpack on",
+      "emotion": "tired routine",
+      "good_for": [
+        "back home",
+        "long day over",
+        "returning to my safe space",
+        "post-shift arrival"
+      ],
+      "score": 4
+    }
+  ]
+}

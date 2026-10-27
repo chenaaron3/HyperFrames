@@ -1,0 +1,118 @@
+{
+  "id": "relatable-13",
+  "name": "“It’s just 45 min”",
+  "reference": "references/viral-formats/relatable-13.mp4",
+  "source": "/Users/aaron/Downloads/100 Viral Formats (Format Book)/Relatable/#13/#13.mp4",
+  "duration": 9.625,
+  "music": {
+    "from": "reference",
+    "title": "The Winner Is DeVotchKa by Mychael Danna"
+  },
+  "text": {
+    "y": 0.068,
+    "size": 46,
+    "weight": 700,
+    "lineHeight": 1.4,
+    "maxWidth": 900,
+    "style": "outline"
+  },
+  "lines": [
+    {
+      "id": "l1",
+      "start": 0.0,
+      "end": 3.208,
+      "ref": "“It’s just 45 min”",
+      "y": 0.068,
+      "measuredSize": 47,
+      "style": "plain_white_shadow",
+      "guide": ""
+    },
+    {
+      "id": "l2",
+      "start": 0.0,
+      "end": 3.208,
+      "ref": "“It’s just 45 min”",
+      "y": 0.557,
+      "measuredSize": 43,
+      "style": "plain_white_shadow",
+      "guide": ""
+    },
+    {
+      "id": "l3",
+      "start": 3.208,
+      "end": 6.417,
+      "ref": "“It’s just 30 min”",
+      "y": 0.222,
+      "measuredSize": 43,
+      "style": "plain_white_shadow",
+      "guide": ""
+    },
+    {
+      "id": "l4",
+      "start": 3.208,
+      "end": 6.417,
+      "ref": "“It’s just 30 min”",
+      "y": 0.711,
+      "measuredSize": 43,
+      "style": "plain_white_shadow",
+      "guide": ""
+    },
+    {
+      "id": "l5",
+      "start": 6.417,
+      "end": 9.625,
+      "ref": "“It’s just 15 min”",
+      "y": 0.292,
+      "measuredSize": 41,
+      "style": "plain_white_shadow",
+      "guide": ""
+    },
+    {
+      "id": "l6",
+      "start": 6.417,
+      "end": 9.625,
+      "ref": "“It’s just 15 min”",
+      "y": 0.767,
+      "measuredSize": 30,
+      "style": "plain_white_shadow",
+      "guide": ""
+    }
+  ],
+  "shots": [
+    {
+      "id": "s1",
+      "start": 0.0,
+      "end": 3.208,
+      "brief": "Split screen: one clip lounging/playing games, one clip lifting weights at gym (ref: Split screen: top shows a man lounging on a couch playing video games; bottom shows him performing cable chest flyes at the gym.; tripod)",
+      "line": "l1"
+    },
+    {
+      "id": "s2",
+      "start": 3.208,
+      "end": 6.417,
+      "brief": "Split screen: one clip watching TV/streaming, one clip working on a laptop (ref: Split screen: top shows a man sitting back pointing a remote at Netflix on TV; bottom shows him intensely working on a laptop at a dark desk.; tripod)",
+      "line": "l3"
+    },
+    {
+      "id": "s3",
+      "start": 6.417,
+      "end": 9.625,
+      "brief": "Split screen: one clip lying in bed scrolling phone, one clip walking or active indoors (ref: Split screen: top shows a man lying in bed scrolling on his phone; bottom shows him walking on an under-desk treadmill pad at home.; tripod)",
+      "line": "l5"
+    }
+  ],
+  "audit": {
+    "kind": "broll_with_text",
+    "creatorSpeaks": false,
+    "audio": "music only",
+    "special": [],
+    "reusable": true,
+    "notes": "Can easily be recreated using paired split-screen clips from the existing library: contrasting passive habits (chilling at home, scrolling in bed) with productive ones (working on laptop, climbing gym, walking outside).",
+    "summary": "A split-screen comparison showing how the same increments of time (45 min, 30 min, 15 min) can be spent passively (gaming, streaming, scrolling in bed) versus productively (gym, working on laptop, walking pad)."
+  },
+  "caption": {
+    "ref": "",
+    "guide": ""
+  },
+  "draft": true
+}

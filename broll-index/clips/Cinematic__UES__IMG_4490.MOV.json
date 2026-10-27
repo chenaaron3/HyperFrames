@@ -1,0 +1,82 @@
+{
+  "path": "Cinematic/UES/IMG_4490.MOV",
+  "folder": "Cinematic/UES",
+  "fingerprint": "ab02e15c954b491a",
+  "width": 1080,
+  "height": 1920,
+  "fps": 30.0,
+  "duration": 6.6,
+  "model": "gemini-3.8-flash",
+  "annotatedAt": "2026-10-24T18:19:59+00:00",
+  "summary": "Handheld panning shot starting on the sign for the Cooper Hewitt Smithsonian Design Museum and moving across its historic Upper East Side mansion facade and streetscape.",
+  "location": "city street",
+  "setting": "outdoor",
+  "time_of_day": "day",
+  "weather": "sunny",
+  "people": {
+    "count": 1,
+    "creator_visible": false,
+    "description": "A distant pedestrian walking away on the sidewalk in casual clothing."
+  },
+  "camera": {
+    "style": "handheld_cinematic",
+    "framing": "medium",
+    "movement": "pan",
+    "angle": "eye level"
+  },
+  "quality": {
+    "usable": true,
+    "stability": "steady",
+    "exposure": "good",
+    "issues": ""
+  },
+  "mood": [
+    "cultured",
+    "architectural",
+    "calm",
+    "urban"
+  ],
+  "energy": "low",
+  "tags": [
+    "cooper hewitt",
+    "smithsonian",
+    "design museum",
+    "museum",
+    "upper east side",
+    "ues",
+    "new york city",
+    "nyc",
+    "manhattan",
+    "architecture",
+    "historic building",
+    "city walk"
+  ],
+  "moments": [
+    {
+      "start": 0.0,
+      "end": 2.2,
+      "action": "Camera shows the Cooper Hewitt Smithsonian Design Museum sign on the iron gate and starts panning left toward the mansion.",
+      "emotion": "calm",
+      "good_for": [
+        "museum day in nyc",
+        "upper east side aesthetic",
+        "visiting my favorite museum",
+        "places to explore in new york"
+      ],
+      "score": 4
+    },
+    {
+      "start": 2.0,
+      "end": 4.5,
+      "action": "Camera pans smoothly across the grand architectural facade of the Cooper Hewitt mansion and street with parked cars.",
+      "emotion": "calm",
+      "good_for": [
+        "historic nyc architecture",
+        "sunday stroll in manhattan",
+        "upper east side mornings",
+        "city scenery"
+      ],
+      "score": 3
+    }
+  ]
+}

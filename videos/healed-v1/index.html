@@ -1,0 +1,46 @@
+<!doctype html>
+<html lang="en" data-resolution="portrait">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=1080, height=1920" />
+    <script src="https://cdn.jsdelivr.net/npm/gsap@3.14.2/dist/gsap.min.js"></script>
+    <style>
+      #root { position: absolute; inset: 0; overflow: hidden; background: #000; }
+      .shot { position: absolute; inset: 0; width: 1080px; height: 1920px; object-fit: cover; z-index: 1; }
+      .line { position: absolute; left: 0; width: 1080px; z-index: 3; display: flex; justify-content: center; transform: translateY(-50%); }
+      .line span {
+        max-width: 900px;
+        text-align: center;
+        font-family: "Montserrat", sans-serif;
+        font-weight: 700;
+        font-size: 46px;
+        line-height: 1.4;
+        letter-spacing: -0.01em;
+        color: #fff;
+        text-shadow: -2px 0 0 rgba(0,0,0,.75), 2px 0 0 rgba(0,0,0,.75), 0 -2px 0 rgba(0,0,0,.75), 0 2px 0 rgba(0,0,0,.75), 0 0 10px rgba(0,0,0,.35);
+      }
+    </style>
+  </head>
+  <body>
+    <div id="root" data-composition-id="main" data-start="0" data-duration="10.567" data-width="1080" data-height="1920" data-fps="30">
+      <video id="v-s1" class="clip shot" src="assets/s1.mp4" data-start="0.000" data-duration="4.167" data-track-index="0" muted playsinline></video>
+      <video id="v-s2" class="clip shot" src="assets/s2.mp4" data-start="4.200" data-duration="0.500" data-track-index="1" muted playsinline></video>
+      <video id="v-s3" class="clip shot" src="assets/s3.mp4" data-start="4.700" data-duration="0.400" data-track-index="0" muted playsinline></video>
+      <video id="v-s4" class="clip shot" src="assets/s4.mp4" data-start="5.100" data-duration="0.633" data-track-index="1" muted playsinline></video>
+      <video id="v-s5" class="clip shot" src="assets/s5.mp4" data-start="5.733" data-duration="0.634" data-track-index="0" muted playsinline></video>
+      <video id="v-s6" class="clip shot" src="assets/s6.mp4" data-start="6.367" data-duration="1.333" data-track-index="1" muted playsinline></video>
+      <video id="v-s7" class="clip shot" src="assets/s7.mp4" data-start="7.700" data-duration="0.700" data-track-index="0" muted playsinline></video>
+      <video id="v-s8" class="clip shot" src="assets/s8.mp4" data-start="8.400" data-duration="0.800" data-track-index="1" muted playsinline></video>
+      <video id="v-s9" class="clip shot" src="assets/s9.mp4" data-start="9.200" data-duration="0.600" data-track-index="0" muted playsinline></video>
+      <video id="v-s10" class="clip shot" src="assets/s10.mp4" data-start="9.800" data-duration="0.767" data-track-index="1" muted playsinline></video>
+      <div id="l1" class="clip line" style="top: 960px" data-start="0.000" data-duration="4.200" data-track-index="2"><span>&quot;u look happier, who healed u?&quot;</span></div>
+      <div id="l2" class="clip line" style="top: 960px" data-start="4.200" data-duration="6.367" data-track-index="2"><span>wdym &#x27;who&#x27;?</span></div>
+      <audio id="music" src="assets/music.m4a" data-start="0" data-duration="10.567" data-volume="1" data-track-index="4"></audio>
+    </div>
+    <script>
+      const tl = gsap.timeline({ paused: true });
+      tl.set({}, {}, 10.567);
+      window.__timelines["main"] = tl;
+    </script>
+  </body>
+</html>

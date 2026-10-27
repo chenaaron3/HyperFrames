@@ -1,0 +1,93 @@
+{
+  "path": "SelfShots/Subway/IMG_5193.MOV",
+  "folder": "SelfShots/Subway",
+  "fingerprint": "86a0f134c8e1c29e",
+  "width": 1080,
+  "height": 1920,
+  "fps": 30.0,
+  "duration": 16.633,
+  "model": "gemini-3.8-flash",
+  "annotatedAt": "2026-10-24T19:01:24+00:00",
+  "summary": "A young man walks through a subway station hallway holding his phone in a front-facing selfie shot while carrying a jacket.",
+  "location": "subway station",
+  "setting": "indoor",
+  "time_of_day": "indoor_unknown",
+  "weather": "n/a",
+  "people": {
+    "count": 2,
+    "creator_visible": true,
+    "description": "A young man with wavy dark hair, wearing a brown textured button-down shirt over a tank top, carrying a backpack, wearing AirPods and carrying a black jacket."
+  },
+  "camera": {
+    "style": "selfie",
+    "framing": "medium",
+    "movement": "walking",
+    "angle": "eye level"
+  },
+  "quality": {
+    "usable": true,
+    "stability": "handheld",
+    "exposure": "good",
+    "issues": "Accidental start and finish tilted down towards the floor."
+  },
+  "mood": [
+    "casual",
+    "urban",
+    "contemplative",
+    "cool"
+  ],
+  "energy": "medium",
+  "tags": [
+    "subway",
+    "commute",
+    "walking",
+    "transit",
+    "metro",
+    "airpods",
+    "city life",
+    "urban commute",
+    "streetwear",
+    "nyc subway",
+    "daily routine"
+  ],
+  "moments": [
+    {
+      "start": 2.5,
+      "end": 7.5,
+      "action": "Young man finishes descending stairs and walks along a white tiled subway corridor holding the camera",
+      "emotion": "calm, neutral, observant",
+      "good_for": [
+        "daily commute",
+        "city transit",
+        "on the way",
+        "solo in the city"
+      ],
+      "score": 3
+    },
+    {
+      "start": 7.5,
+      "end": 12.0,
+      "action": "Walking past bright colorful subway ads with breeze gently blowing his hair",
+      "emotion": "thoughtful, cool, introspective",
+      "good_for": [
+        "listening to music on commute",
+        "city vibes",
+        "main character moment",
+        "daily vlog"
+      ],
+      "score": 4
+    },
+    {
+      "start": 12.0,
+      "end": 14.8,
+      "action": "Continuing through the subway tunnel past an ornate black metal gate",
+      "emotion": "casual, focused",
+      "good_for": [
+        "headed somewhere",
+        "nyc living",
+        "transit b-roll"
+      ],
+      "score": 3
+    }
+  ]
+}

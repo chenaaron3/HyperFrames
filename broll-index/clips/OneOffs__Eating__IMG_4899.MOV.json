@@ -1,0 +1,93 @@
+{
+  "path": "OneOffs/Eating/IMG_4899.MOV",
+  "folder": "OneOffs/Eating",
+  "fingerprint": "02517216373ab92c",
+  "width": 1080,
+  "height": 1920,
+  "fps": 30.0,
+  "duration": 12.233,
+  "model": "gemini-3.8-flash",
+  "annotatedAt": "2026-10-24T18:35:35+00:00",
+  "summary": "A young man sits at a restaurant table, sips a bright green cocktail through a straw, and smiles warmly at a friend across the table.",
+  "location": "restaurant",
+  "setting": "indoor",
+  "time_of_day": "night",
+  "weather": "n/a",
+  "people": {
+    "count": 1,
+    "creator_visible": true,
+    "description": "Young East Asian man with dark messy hair, wearing a beige knit polo shirt and earring, seated at a rustic wooden table."
+  },
+  "camera": {
+    "style": "filmed_by_friend",
+    "framing": "medium",
+    "movement": "static",
+    "angle": "eye level"
+  },
+  "quality": {
+    "usable": true,
+    "stability": "steady",
+    "exposure": "good",
+    "issues": ""
+  },
+  "mood": [
+    "relaxed",
+    "happy",
+    "casual",
+    "cozy"
+  ],
+  "energy": "low",
+  "tags": [
+    "cocktail",
+    "drink",
+    "bar",
+    "restaurant",
+    "sipping",
+    "green drink",
+    "dinner",
+    "night out",
+    "smiling",
+    "laughing",
+    "socializing",
+    "casual date"
+  ],
+  "moments": [
+    {
+      "start": 0.0,
+      "end": 4.5,
+      "action": "He stirs his green cocktail with a straw and leans in to take a sip",
+      "emotion": "focused and curious",
+      "good_for": [
+        "trying new drinks",
+        "drinks with friends",
+        "friday night vibe"
+      ],
+      "score": 3
+    },
+    {
+      "start": 4.5,
+      "end": 8.5,
+      "action": "He pauses, stirs the drink again, and leans back down to take another deep sip",
+      "emotion": "content and contemplative",
+      "good_for": [
+        "tasting something sweet",
+        "bar night",
+        "date night b-roll"
+      ],
+      "score": 3
+    },
+    {
+      "start": 8.5,
+      "end": 12.23,
+      "action": "He pulls away from the straw, smiles, and starts laughing while chatting with the person behind the camera",
+      "emotion": "happy, amused, charming smile",
+      "good_for": [
+        "laugh at the little things",
+        "drinks with people you love",
+        "pov date night",
+        "finding joy in everyday moments"
+      ],
+      "score": 4
+    }
+  ]
+}

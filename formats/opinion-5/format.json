@@ -1,0 +1,108 @@
+{
+  "id": "opinion-5",
+  "name": "what living on my own has done for my mental health...",
+  "reference": "references/viral-formats/opinion-5.mp4",
+  "source": "/Users/aaron/Downloads/100 Viral Formats (Format Book)/Opinion/#5/#5.mp4",
+  "duration": 9.933,
+  "music": {
+    "from": "reference",
+    "title": "Shimmy In The Back Row - arthur felix"
+  },
+  "text": {
+    "y": 0.257,
+    "size": 46,
+    "weight": 700,
+    "lineHeight": 1.4,
+    "maxWidth": 900,
+    "style": "outline"
+  },
+  "lines": [
+    {
+      "id": "l1",
+      "start": 0.0,
+      "end": 3.0,
+      "ref": "what living on my own has\ndone for my mental health...",
+      "y": 0.257,
+      "measuredSize": 43,
+      "style": "plain_white_shadow",
+      "guide": ""
+    },
+    {
+      "id": "l2",
+      "start": 3.0,
+      "end": 4.9,
+      "ref": "i feel calmer here",
+      "y": 0.257,
+      "measuredSize": 43,
+      "style": "plain_white_shadow",
+      "guide": ""
+    },
+    {
+      "id": "l3",
+      "start": 4.9,
+      "end": 6.6,
+      "ref": "i can hear myself think",
+      "y": 0.257,
+      "measuredSize": 43,
+      "style": "plain_white_shadow",
+      "guide": ""
+    },
+    {
+      "id": "l4",
+      "start": 6.6,
+      "end": 8.333,
+      "ref": "i learned how to enjoy\nmy own company",
+      "y": 0.257,
+      "measuredSize": 36,
+      "style": "plain_white_shadow",
+      "guide": ""
+    },
+    {
+      "id": "l5",
+      "start": 8.333,
+      "end": 9.933,
+      "ref": "my nervous system relaxed",
+      "y": 0.261,
+      "measuredSize": 28,
+      "style": "plain_white_shadow",
+      "guide": ""
+    }
+  ],
+  "shots": [
+    {
+      "id": "s1",
+      "start": 0.0,
+      "end": 3.0,
+      "brief": "walking into apartment living room (ref: A woman walks into her sunlit, decorated living room and approaches the couch and coffee table.; tripod)",
+      "line": "l1"
+    },
+    {
+      "id": "s2",
+      "start": 3.0,
+      "end": 6.6,
+      "brief": "relaxing on the couch at home (ref: High-angle framed view through an archway of the woman sitting on her sofa, checking her phone and having a quiet moment.; tripod)",
+      "line": "l2"
+    },
+    {
+      "id": "s3",
+      "start": 6.6,
+      "end": 9.933,
+      "brief": "chilling on sofa with a blanket or drink (ref: View from behind the couch showing the woman pulling up a cozy throw blanket and reaching for a drink on the coffee table.; tripod)",
+      "line": "l4"
+    }
+  ],
+  "audit": {
+    "kind": "broll_with_text",
+    "creatorSpeaks": false,
+    "audio": "music only",
+    "special": [],
+    "reusable": true,
+    "notes": "Easily recreated with any peaceful domestic b-roll (sitting on a couch, brewing coffee, reading, looking out the window). The reflective message can be adapted to living alone, moving to a new city, or leaving a stressful job.",
+    "summary": "A peaceful aesthetic compilation of relaxing alone in a cozy apartment, sharing reflections on how living alone improved mental health."
+  },
+  "caption": {
+    "ref": "",
+    "guide": ""
+  },
+  "draft": true
+}

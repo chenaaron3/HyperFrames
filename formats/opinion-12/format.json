@@ -1,0 +1,286 @@
+{
+  "id": "opinion-12",
+  "name": "Dang, the camera is kinda dirty let me clean it 🥱👊",
+  "reference": "references/viral-formats/opinion-12.mp4",
+  "source": "/Users/aaron/Downloads/100 Viral Formats (Format Book)/Opinion/#12/#12.mp4",
+  "duration": 12.433,
+  "music": {
+    "from": "reference",
+    "title": "How It Ends - DeVotchKa"
+  },
+  "text": {
+    "y": 0.617,
+    "size": 64,
+    "weight": 700,
+    "lineHeight": 1.4,
+    "maxWidth": 900,
+    "style": "outline"
+  },
+  "lines": [
+    {
+      "id": "l1",
+      "start": 0.0,
+      "end": 3.767,
+      "ref": "Dang, the camera\nis kinda dirty\nlet me clean it 🥱👊",
+      "y": 0.617,
+      "measuredSize": 71,
+      "style": "plain_white_shadow",
+      "guide": ""
+    },
+    {
+      "id": "l2",
+      "start": 4.0,
+      "end": 4.633,
+      "ref": "If",
+      "y": 0.478,
+      "measuredSize": 118,
+      "style": "other",
+      "guide": ""
+    },
+    {
+      "id": "l3",
+      "start": 4.633,
+      "end": 5.1,
+      "ref": "If\nyou're gonna",
+      "y": 0.51,
+      "measuredSize": 97,
+      "style": "other",
+      "guide": ""
+    },
+    {
+      "id": "l4",
+      "start": 5.1,
+      "end": 5.9,
+      "ref": "If\nyou're gonna\nOverthink,",
+      "y": 0.51,
+      "measuredSize": 97,
+      "style": "other",
+      "guide": ""
+    },
+    {
+      "id": "l5",
+      "start": 5.9,
+      "end": 6.433,
+      "ref": "Do it",
+      "y": 0.537,
+      "measuredSize": 98,
+      "style": "other",
+      "guide": ""
+    },
+    {
+      "id": "l6",
+      "start": 6.433,
+      "end": 6.65,
+      "ref": "also",
+      "y": 0.446,
+      "measuredSize": 92,
+      "style": "other",
+      "guide": ""
+    },
+    {
+      "id": "l7",
+      "start": 6.65,
+      "end": 7.1,
+      "ref": "also\nImagining",
+      "y": 0.446,
+      "measuredSize": 92,
+      "style": "other",
+      "guide": ""
+    },
+    {
+      "id": "l8",
+      "start": 7.1,
+      "end": 7.6,
+      "ref": "also\nImagining\nthe moments",
+      "y": 0.595,
+      "measuredSize": 112,
+      "style": "other",
+      "guide": ""
+    },
+    {
+      "id": "l9",
+      "start": 7.6,
+      "end": 8.1,
+      "ref": "Where",
+      "y": 0.47,
+      "measuredSize": null,
+      "style": "other",
+      "guide": ""
+    },
+    {
+      "id": "l10",
+      "start": 8.1,
+      "end": 8.6,
+      "ref": "Where\neverything",
+      "y": 0.51,
+      "measuredSize": null,
+      "style": "other",
+      "guide": ""
+    },
+    {
+      "id": "l11",
+      "start": 8.6,
+      "end": 8.9,
+      "ref": "Where\neverything\nturns",
+      "y": 0.54,
+      "measuredSize": null,
+      "style": "other",
+      "guide": ""
+    },
+    {
+      "id": "l12",
+      "start": 8.9,
+      "end": 9.15,
+      "ref": "Where\neverything\nturns out",
+      "y": 0.54,
+      "measuredSize": null,
+      "style": "other",
+      "guide": ""
+    },
+    {
+      "id": "l13",
+      "start": 9.15,
+      "end": 9.4,
+      "ref": "Where\neverything\nturns out\nPerfect",
+      "y": 0.58,
+      "measuredSize": null,
+      "style": "other",
+      "guide": ""
+    },
+    {
+      "id": "l14",
+      "start": 9.4,
+      "end": 9.65,
+      "ref": "Where\neverything\nturns out\nfantastic",
+      "y": 0.58,
+      "measuredSize": null,
+      "style": "other",
+      "guide": ""
+    },
+    {
+      "id": "l15",
+      "start": 9.65,
+      "end": 9.9,
+      "ref": "Where\neverything\nturns out\nMAGESTIC",
+      "y": 0.58,
+      "measuredSize": null,
+      "style": "other",
+      "guide": ""
+    },
+    {
+      "id": "l16",
+      "start": 9.9,
+      "end": 10.35,
+      "ref": "Where\neverything\nturns out\nFlawless",
+      "y": 0.58,
+      "measuredSize": null,
+      "style": "other",
+      "guide": ""
+    },
+    {
+      "id": "l17",
+      "start": 10.35,
+      "end": 10.65,
+      "ref": "Where\neverything\nturns out\nSplendid",
+      "y": 0.58,
+      "measuredSize": null,
+      "style": "other",
+      "guide": ""
+    },
+    {
+      "id": "l18",
+      "start": 10.65,
+      "end": 10.9,
+      "ref": "Where\neverything\nturns out\nSTUNNING",
+      "y": 0.58,
+      "measuredSize": null,
+      "style": "other",
+      "guide": ""
+    },
+    {
+      "id": "l19",
+      "start": 10.9,
+      "end": 11.15,
+      "ref": "Where\neverything\nturns out\nINCREDIBLE",
+      "y": 0.58,
+      "measuredSize": null,
+      "style": "other",
+      "guide": ""
+    },
+    {
+      "id": "l20",
+      "start": 11.15,
+      "end": 11.4,
+      "ref": "Where\neverything\nturns out\nimpeccable",
+      "y": 0.58,
+      "measuredSize": null,
+      "style": "other",
+      "guide": ""
+    },
+    {
+      "id": "l21",
+      "start": 11.4,
+      "end": 11.65,
+      "ref": "Where\neverything\nturns out\nMIND-BLOWING",
+      "y": 0.58,
+      "measuredSize": null,
+      "style": "other",
+      "guide": ""
+    },
+    {
+      "id": "l22",
+      "start": 11.65,
+      "end": 11.9,
+      "ref": "Where\neverything\nturns out\nOutstanding",
+      "y": 0.58,
+      "measuredSize": null,
+      "style": "other",
+      "guide": ""
+    },
+    {
+      "id": "l23",
+      "start": 11.9,
+      "end": 12.2,
+      "ref": "Where\neverything\nturns out\nWONDERFUL",
+      "y": 0.58,
+      "measuredSize": null,
+      "style": "other",
+      "guide": ""
+    },
+    {
+      "id": "l24",
+      "start": 12.2,
+      "end": 12.433,
+      "ref": "Where\neverything\nturns out\nGenius",
+      "y": 0.58,
+      "measuredSize": null,
+      "style": "other",
+      "guide": ""
+    }
+  ],
+  "shots": [
+    {
+      "id": "s1",
+      "start": 0.0,
+      "end": 12.433,
+      "brief": "Solid black graphic background with kinetic text animation (ref: Solid black screen with animated typography synced to the beat of DeVotchKa's 'How It Ends'; other)",
+      "line": "l5"
+    }
+  ],
+  "audit": {
+    "kind": "broll_with_text",
+    "creatorSpeaks": false,
+    "audio": "music only",
+    "special": [
+      "Specific action of approaching the camera with a cloth/shirt and completely covering the lens to transition into black screen"
+    ],
+    "reusable": false,
+    "notes": "Cannot be made entirely with generic lifestyle b-roll because it requires a specific physical camera wipe transition to full black to justify the intro hook and segue into the black-screen text animation. However, filming that 3-second camera wipe is trivial.",
+    "summary": "The creator approaches a blurry camera to 'clean' the lens with a cloth, completely covering the frame to black, which transitions into an uplifting kinetic typography quote set against a solid black background."
+  },
+  "caption": {
+    "ref": "",
+    "guide": ""
+  },
+  "draft": true
+}

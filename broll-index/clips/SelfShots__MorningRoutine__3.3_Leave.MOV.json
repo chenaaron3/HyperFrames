@@ -1,0 +1,81 @@
+{
+  "path": "SelfShots/MorningRoutine/3.3_Leave.MOV",
+  "folder": "SelfShots/MorningRoutine",
+  "fingerprint": "37ddb7c45f68d2c0",
+  "width": 1080,
+  "height": 1920,
+  "fps": 30.0,
+  "duration": 20.8,
+  "model": "gemini-3.8-flash",
+  "annotatedAt": "2026-10-24T19:00:32+00:00",
+  "summary": "A young man wearing a black coat and backpack leaves his apartment through the front door, and later returns inside.",
+  "location": "apartment entryway",
+  "setting": "indoor",
+  "time_of_day": "indoor_unknown",
+  "weather": "n/a",
+  "people": {
+    "count": 1,
+    "creator_visible": true,
+    "description": "Young East Asian man with dark wavy hair, wearing a black coat, collared shirt, and carrying a black backpack"
+  },
+  "camera": {
+    "style": "tripod_static",
+    "framing": "medium",
+    "movement": "static",
+    "angle": "eye level"
+  },
+  "quality": {
+    "usable": true,
+    "stability": "locked",
+    "exposure": "good",
+    "issues": ""
+  },
+  "mood": [
+    "routine",
+    "casual",
+    "mundane",
+    "calm"
+  ],
+  "energy": "low",
+  "tags": [
+    "leaving home",
+    "coming home",
+    "apartment",
+    "door",
+    "entryway",
+    "backpack",
+    "commute",
+    "morning routine",
+    "lifestyle",
+    "daily vlog",
+    "indoor"
+  ],
+  "moments": [
+    {
+      "start": 3.0,
+      "end": 8.5,
+      "action": "Man adjusts his backpack strap, unlocks and opens the white front door, and exits into the hallway",
+      "emotion": "focused, casual",
+      "good_for": [
+        "heading out for the day",
+        "leaving the house",
+        "morning commute routine",
+        "time to get to work"
+      ],
+      "score": 4
+    },
+    {
+      "start": 15.5,
+      "end": 19.5,
+      "action": "Door opens from the outside and the man walks back into the apartment with his backpack",
+      "emotion": "tired, relieved, neutral",
+      "good_for": [
+        "back home",
+        "coming home after a long day",
+        "stepping into my sanctuary",
+        "daily reset"
+      ],
+      "score": 4
+    }
+  ]
+}

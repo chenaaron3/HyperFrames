@@ -1,0 +1,71 @@
+{
+  "path": "Cinematic/UES/IMG_4493.MOV",
+  "folder": "Cinematic/UES",
+  "fingerprint": "fd6cf059a9e1c43e",
+  "width": 1080,
+  "height": 1920,
+  "fps": 30.0,
+  "duration": 2.833,
+  "model": "gemini-3.8-flash",
+  "annotatedAt": "2026-10-24T18:19:59+00:00",
+  "summary": "Vehicles including a city bus, cars, and a yellow taxi drive down a tree-lined avenue framed by tall pre-war residential buildings on the Upper East Side of Manhattan.",
+  "location": "city street",
+  "setting": "outdoor",
+  "time_of_day": "day",
+  "weather": "overcast",
+  "people": {
+    "count": 0,
+    "creator_visible": false,
+    "description": "No prominent individuals visible on foot; drivers inside moving vehicles on the road."
+  },
+  "camera": {
+    "style": "handheld_cinematic",
+    "framing": "wide",
+    "movement": "static",
+    "angle": "eye level"
+  },
+  "quality": {
+    "usable": true,
+    "stability": "steady",
+    "exposure": "good",
+    "issues": ""
+  },
+  "mood": [
+    "urban",
+    "calm",
+    "routine",
+    "cinematic"
+  ],
+  "energy": "medium",
+  "tags": [
+    "upper east side",
+    "manhattan",
+    "new york city",
+    "nyc",
+    "traffic",
+    "yellow cab",
+    "city street",
+    "avenue",
+    "apartments",
+    "urban life",
+    "city b-roll",
+    "bus",
+    "commute"
+  ],
+  "moments": [
+    {
+      "start": 0.0,
+      "end": 2.83,
+      "action": "Traffic flows down an Upper East Side avenue with pre-war buildings and green trees framing the street.",
+      "emotion": "calm city energy",
+      "good_for": [
+        "living in new york",
+        "city morning commute",
+        "upper east side life",
+        "moving to new york",
+        "daily routine in nyc"
+      ],
+      "score": 4
+    }
+  ]
+}

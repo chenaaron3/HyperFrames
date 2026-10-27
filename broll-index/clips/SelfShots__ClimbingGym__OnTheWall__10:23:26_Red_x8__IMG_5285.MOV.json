@@ -1,0 +1,109 @@
+{
+  "path": "SelfShots/ClimbingGym/OnTheWall/10:23:26_Red_x8/IMG_5285.MOV",
+  "folder": "SelfShots/ClimbingGym/OnTheWall/10:23:26_Red_x8",
+  "fingerprint": "3ad61bc5804c40ae",
+  "width": 1080,
+  "height": 1920,
+  "fps": 30.0,
+  "duration": 47.037,
+  "model": "gemini-3.8-flash",
+  "annotatedAt": "2026-10-24T18:51:52+00:00",
+  "summary": "A young man attempts a bouldering problem at an indoor climbing gym, makes progress up the wall, slips and falls onto the crash pad, and then studies the route.",
+  "location": "gym",
+  "setting": "indoor",
+  "time_of_day": "indoor_unknown",
+  "weather": "n/a",
+  "people": {
+    "count": 1,
+    "creator_visible": true,
+    "description": "Young Asian man with dark wavy hair wearing an oversized navy t-shirt, grey pants, climbing shoes, and wireless earbuds."
+  },
+  "camera": {
+    "style": "tripod_static",
+    "framing": "wide",
+    "movement": "static",
+    "angle": "low angle looking up"
+  },
+  "quality": {
+    "usable": true,
+    "stability": "locked",
+    "exposure": "good",
+    "issues": ""
+  },
+  "mood": [
+    "focused",
+    "determined",
+    "active",
+    "frustrated",
+    "athletic"
+  ],
+  "energy": "medium",
+  "tags": [
+    "bouldering",
+    "climbing gym",
+    "rock climbing",
+    "indoor climbing",
+    "workout",
+    "fitness",
+    "training",
+    "falling",
+    "bouldering wall",
+    "holds",
+    "determination",
+    "persistence"
+  ],
+  "moments": [
+    {
+      "start": 18.5,
+      "end": 26.5,
+      "action": "The man mounts the bouldering wall and methodically climbs upward using holds",
+      "emotion": "focused and concentrated",
+      "good_for": [
+        "trusting the process",
+        "working hard",
+        "one step at a time",
+        "consistency pays off"
+      ],
+      "score": 4
+    },
+    {
+      "start": 26.5,
+      "end": 31.5,
+      "action": "He reaches for a higher hold, slips, and falls safely backward onto the mat",
+      "emotion": "disappointed but safe",
+      "good_for": [
+        "falling down and getting back up",
+        "learning from mistakes",
+        "failure is part of growth",
+        "almost had it"
+      ],
+      "score": 4
+    },
+    {
+      "start": 36.5,
+      "end": 42.0,
+      "action": "He walks back up to the wall to inspect the holds and figure out his beta before walking away",
+      "emotion": "reflective and analytical",
+      "good_for": [
+        "analyzing what went wrong",
+        "back to the drawing board",
+        "never give up",
+        "trying again tomorrow"
+      ],
+      "score": 3
+    },
+    {
+      "start": 41.5,
+      "end": 45.0,
+      "action": "He turns around and walks past the camera, catching his breath",
+      "emotion": "tired and thoughtful",
+      "good_for": [
+        "post-workout exhaustion",
+        "gym sessions",
+        "moving on",
+        "daily grind"
+      ],
+      "score": 3
+    }
+  ]
+}

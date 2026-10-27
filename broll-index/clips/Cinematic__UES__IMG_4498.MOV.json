@@ -1,0 +1,68 @@
+{
+  "path": "Cinematic/UES/IMG_4498.MOV",
+  "folder": "Cinematic/UES",
+  "fingerprint": "402108242f7c229e",
+  "width": 1080,
+  "height": 1920,
+  "fps": 30.0,
+  "duration": 1.633,
+  "model": "gemini-3.8-flash",
+  "annotatedAt": "2026-10-24T18:20:07+00:00",
+  "summary": "First-person POV holding up a bottle of Naked Mighty Mango smoothie outside of a CVS store entrance.",
+  "location": "pharmacy storefront",
+  "setting": "outdoor",
+  "time_of_day": "day",
+  "weather": "overcast",
+  "people": {
+    "count": 0,
+    "creator_visible": false,
+    "description": "Only the creator's hand holding a juice bottle is visible."
+  },
+  "camera": {
+    "style": "pov_first_person",
+    "framing": "medium",
+    "movement": "handheld",
+    "angle": "eye level"
+  },
+  "quality": {
+    "usable": true,
+    "stability": "handheld",
+    "exposure": "good",
+    "issues": ""
+  },
+  "mood": [
+    "casual",
+    "mundane",
+    "routine"
+  ],
+  "energy": "low",
+  "tags": [
+    "cvs",
+    "naked juice",
+    "mighty mango",
+    "smoothie",
+    "errands",
+    "drink",
+    "city life",
+    "upper east side",
+    "storefront",
+    "street",
+    "snack run"
+  ],
+  "moments": [
+    {
+      "start": 0.0,
+      "end": 1.63,
+      "action": "Hand holds up a bottle of Naked juice in front of a CVS entrance and sign",
+      "emotion": "casual",
+      "good_for": [
+        "errand runs",
+        "quick cvs trip",
+        "daily routine",
+        "grabbing a quick snack",
+        "little treats"
+      ],
+      "score": 3
+    }
+  ]
+}

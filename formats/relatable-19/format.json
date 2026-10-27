@@ -1,0 +1,56 @@
+{
+  "id": "relatable-19",
+  "name": "7 stages of moving abroad;",
+  "reference": "references/viral-formats/relatable-19.mp4",
+  "source": "/Users/aaron/Downloads/100 Viral Formats (Format Book)/Relatable/#19/#19.mp4",
+  "duration": 5.167,
+  "music": {
+    "from": "reference",
+    "title": "I walk this earth all by myself - Ekkstacy"
+  },
+  "text": {
+    "y": 0.286,
+    "size": 49,
+    "weight": 700,
+    "lineHeight": 1.4,
+    "maxWidth": 900,
+    "style": "outline"
+  },
+  "lines": [
+    {
+      "id": "l1",
+      "start": 0.0,
+      "end": 5.167,
+      "ref": "7 stages of moving\nabroad;",
+      "y": 0.286,
+      "measuredSize": 49,
+      "style": "plain_white_shadow",
+      "guide": ""
+    }
+  ],
+  "shots": [
+    {
+      "id": "s1",
+      "start": 0.0,
+      "end": 5.167,
+      "brief": "walking down an airport jet bridge / boarding area (ref: Handheld camera moves down an airplane jet bridge behind other passengers, pans to show the creator's side profile walking with backpack and AirPods, then pans back toward the queue.; selfie)",
+      "line": "l1"
+    }
+  ],
+  "audit": {
+    "kind": "broll_with_text",
+    "creatorSpeaks": false,
+    "audio": "music only",
+    "special": [
+      "walking down an airport jet bridge / boarding an airplane"
+    ],
+    "reusable": true,
+    "notes": "Easily adapted to NYC lifestyle content (e.g., '7 stages of moving to New York;') using existing b-roll of walking into a subway station, carrying bags down the street, or arriving at an apartment.",
+    "summary": "A handheld clip walking down an airport jet bridge while boarding a plane, paired with a hook text promising '7 stages of moving abroad' expanded in the caption."
+  },
+  "caption": {
+    "ref": "",
+    "guide": ""
+  },
+  "draft": true
+}

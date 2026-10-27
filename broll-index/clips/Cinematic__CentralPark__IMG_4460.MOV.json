@@ -1,0 +1,84 @@
+{
+  "path": "Cinematic/CentralPark/IMG_4460.MOV",
+  "folder": "Cinematic/CentralPark",
+  "fingerprint": "7db1c622147c832a",
+  "width": 1080,
+  "height": 1920,
+  "fps": 29.97,
+  "duration": 5.035,
+  "model": "gemini-3.8-flash",
+  "annotatedAt": "2026-10-24T18:18:34+00:00",
+  "summary": "Scenic handheld pan across a calm pond in Central Park with lush green trees, early autumn colors, and their reflections under a vibrant blue sky.",
+  "location": "park",
+  "setting": "outdoor",
+  "time_of_day": "day",
+  "weather": "sunny",
+  "people": {
+    "count": 0,
+    "creator_visible": false,
+    "description": "No people visible."
+  },
+  "camera": {
+    "style": "handheld_cinematic",
+    "framing": "wide",
+    "movement": "pan",
+    "angle": "eye level"
+  },
+  "quality": {
+    "usable": true,
+    "stability": "steady",
+    "exposure": "good",
+    "issues": ""
+  },
+  "mood": [
+    "peaceful",
+    "serene",
+    "scenic",
+    "relaxing"
+  ],
+  "energy": "low",
+  "tags": [
+    "central park",
+    "lake",
+    "pond",
+    "nature",
+    "trees",
+    "autumn foliage",
+    "reflections",
+    "blue sky",
+    "grass",
+    "peaceful",
+    "sunny day",
+    "manhattan",
+    "travel",
+    "scenery"
+  ],
+  "moments": [
+    {
+      "start": 0.0,
+      "end": 2.5,
+      "action": "Camera captures the still lake reflection and vibrant tree canopy under a clear blue sky before slowly panning right",
+      "emotion": "calm",
+      "good_for": [
+        "finding peace in the city",
+        "nature walk",
+        "sunday morning reset",
+        "mental clarity"
+      ],
+      "score": 4
+    },
+    {
+      "start": 2.5,
+      "end": 5.04,
+      "action": "Camera continues panning right revealing more of the grassy shoreline, autumn foliage, and tranquil water",
+      "emotion": "serene",
+      "good_for": [
+        "fall in new york",
+        "romanticizing your life",
+        "peace of mind",
+        "daily walk routine"
+      ],
+      "score": 4
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "id": "advice-25",
+  "name": "5 Things I had to learn was actually normal in a relationshi",
+  "reference": "references/viral-formats/advice-25.mp4",
+  "source": "/Users/aaron/Downloads/100 Viral Formats (Format Book)/Advice/#25/#25.mp4",
+  "duration": 7.567,
+  "music": {
+    "from": "reference",
+    "title": "Original Audio"
+  },
+  "text": {
+    "y": 0.198,
+    "size": 64,
+    "weight": 700,
+    "lineHeight": 1.4,
+    "maxWidth": 900,
+    "style": "outline"
+  },
+  "lines": [
+    {
+      "id": "l1",
+      "start": 0.0,
+      "end": 7.25,
+      "ref": "5 Things I had to learn was\nactually normal in a relationship",
+      "y": 0.198,
+      "measuredSize": 66,
+      "style": "plain_white_shadow",
+      "guide": ""
+    }
+  ],
+  "shots": [
+    {
+      "id": "s1",
+      "start": 0.0,
+      "end": 7.567,
+      "brief": "walking away from camera outdoors in a park or scenic spot (ref: Couple viewed from behind holding hands while walking down a grassy hill overlooking a city skyline on a sunny day; filmed by friend)",
+      "line": "l1"
+    }
+  ],
+  "audit": {
+    "kind": "broll_with_text",
+    "creatorSpeaks": false,
+    "audio": "music only",
+    "special": [],
+    "reusable": true,
+    "notes": "Can be recreated using existing scenic walking b-roll (like walking in Central Park or city streets). The 'X things I had to learn were normal in [topic]' hook drives engagement to a long-form caption list.",
+    "summary": "A couple walks hand-in-hand down a grassy park hill overlooking a city skyline while a relationship-advice text hook directs viewers to the caption."
+  },
+  "caption": {
+    "ref": "",
+    "guide": ""
+  },
+  "draft": true
+}

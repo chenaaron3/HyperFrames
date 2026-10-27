@@ -1,0 +1,70 @@
+{
+  "path": "OneOffs/RainyDayArmanRishi/IMG_4630.MOV",
+  "folder": "OneOffs/RainyDayArmanRishi",
+  "fingerprint": "b7525a74322d2ec3",
+  "width": 1080,
+  "height": 1920,
+  "fps": 30.0,
+  "duration": 2.532,
+  "model": "gemini-3.8-flash",
+  "annotatedAt": "2026-10-24T18:36:20+00:00",
+  "summary": "A cozy neighborhood bookstore on a rainy city street corner with classic brick architecture and a bright red doorway.",
+  "location": "city street",
+  "setting": "outdoor",
+  "time_of_day": "day",
+  "weather": "rain",
+  "people": {
+    "count": 2,
+    "creator_visible": false,
+    "description": "A customer in light pants and a dark jacket standing at the red entrance doorway of a bookstore."
+  },
+  "camera": {
+    "style": "handheld_cinematic",
+    "framing": "medium",
+    "movement": "static",
+    "angle": "eye level"
+  },
+  "quality": {
+    "usable": true,
+    "stability": "steady",
+    "exposure": "good",
+    "issues": ""
+  },
+  "mood": [
+    "cozy",
+    "rainy",
+    "aesthetic",
+    "peaceful",
+    "literary"
+  ],
+  "energy": "low",
+  "tags": [
+    "bookstore",
+    "rain",
+    "rainy day",
+    "nyc",
+    "books",
+    "cozy",
+    "brick building",
+    "west village",
+    "reading",
+    "street corner",
+    "city life"
+  ],
+  "moments": [
+    {
+      "start": 0.0,
+      "end": 2.53,
+      "action": "Handheld shot looking across a wet pavement barricade toward a charming corner bookstore with a red door and gold 'BOOKS' signage.",
+      "emotion": "calm",
+      "good_for": [
+        "rainy day in the city",
+        "romanticizing your life",
+        "book lover aesthetic",
+        "weekend wandering",
+        "peaceful afternoons"
+      ],
+      "score": 4
+    }
+  ]
+}

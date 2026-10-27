@@ -1,0 +1,352 @@
+{
+  "format": "easy-12",
+  "title": "Who wrote the rules?",
+  "lines": {
+    "l1": "Still single in your 20s?",
+    "l2": "\"You'll never find the one\"",
+    "l3": "Still at a corporate job by 26?",
+    "l4": "\"You're wasting your best years\"",
+    "l5": "Travelling again in your 30s?",
+    "l6": "\"You'll never settle down\"",
+    "l7": "Not a millionaire by 27?",
+    "l8": "\"You're falling behind\"",
+    "l9": "Who wrote the rules?",
+    "l10": "It's your life, you decide your rules 🌟"
+  },
+  "shots": {
+    "s1": {
+      "clip": "OneOffs/Eating/IMG_4900.MOV",
+      "in": 0.08,
+      "speed": 1.0,
+      "note": "Creator walks down the city sidewalk filming a selfie video, then peacefully closes his eyes and nods softly in contentment (calm)",
+      "query": "night city street energetic walking selfie",
+      "alts": [
+        "SelfShots/Walking/1stPerson/IMG_5158.MOV @2.5-8.5: Creator walks across the crosswalk while looking forward and slightly ",
+        "SelfShots/Walking/1stPerson/IMG_4960.MOV @1.5-6.5: Creator walks down the sidewalk holding camera high in selfie mode, gl",
+        "SelfShots/Walking/1stPerson/IMG_5157.MOV @2.5-6.0: Creator walks down the sidewalk past closed storefront shutters holdin",
+        "OneOffs/BrooklynNight/IMG_4507 3.MOV @0.0-2.7: Creator walks down the sidewalk while looking directly into the camera",
+        "SelfShots/ClimbingGym/Setup/Walking/IMG_5195.MOV @8.0-11.0: An older woman crossing in the opposite direction waves playfully at t"
+      ],
+      "motion": {
+        "speed": 0.8,
+        "jitter": 0.77,
+        "verdict": "ok"
+      }
+    },
+    "s2": {
+      "clip": "OneOffs/Cooking/IMG_4821.MOV",
+      "in": 10.47,
+      "speed": 1.0,
+      "note": "Pouring cooking oil into a smoking hot wok and swirling it around the heated surface (focused)",
+      "query": "cooking kitchen alone",
+      "alts": [
+        "OneOffs/Cooking/IMG_4830.MOV @0.5-3.5: Dropping a generous handful of chopped green herbs into the sizzling g",
+        "OneOffs/Cooking/IMG_4816.MOV @0.8-4.5: A hand twists and removes the lid of an Instant Pot, revealing cooked ",
+        "OneOffs/Cooking/IMG_4833.MOV @21.0-26.5: Man spoons cooked minced meat from a foil pan over a bowl of rice",
+        "OneOffs/Cooking/IMG_4806.MOV @0.5-8.5: Showing chopped chili and garlic in a small white bowl and dumping it ",
+        "OneOffs/Cooking/IMG_4829.MOV @1.2-5.0: Lifting the metal lid off the steaming wok to reveal sizzling minced m"
+      ],
+      "motion": {
+        "speed": 0.1,
+        "jitter": 0.63,
+        "verdict": "ok"
+      }
+    },
+    "s3": {
+      "clip": "SelfShots/Working/IMG_5169.MOV",
+      "in": 8.45,
+      "speed": 1.0,
+      "note": "hand pick",
+      "query": "working laptop desk",
+      "motion": {
+        "speed": 0.1,
+        "jitter": 0.12,
+        "verdict": "ok"
+      }
+    },
+    "s4": {
+      "clip": "Cinematic/CentralPark/IMG_4450.MOV",
+      "in": 0.47,
+      "speed": 1.0,
+      "note": "A cyclist pedals smoothly along a wide curve of a park road surrounded by green trees. (calm)",
+      "query": "running playing park outdoors joyful",
+      "alts": [
+        "SelfShots/Mina/IMG_5161.MOV @109.0-125.0: He pulls the cat into his lap and vigorously rubs its sides and tummy ",
+        "SelfShots/ClimbingGym/OnTheWall/10:17:26_x9/IMG_4982.MOV @57.5-66.0: Climber reaches dynamically for the top hold, loses grip, drops onto t",
+        "SelfShots/ClimbingGym/OnTheWall/10:22:26_Red_x25/IMG_5218.MOV @21.0-29.5: Man repositions, tries to find the next hold, makes a dynamic move, an",
+        "Cinematic/CentralPark/IMG_4422.MOV @0.0-2.4: Static steady shot of a classic black street lamp glowing amidst the g",
+        "Cinematic/CentralPark/IMG_4466.MOV @0.0-2.7: Static view of a rustic log bridge crossing along a paved woodland tra"
+      ],
+      "motion": {
+        "speed": 7.5,
+        "jitter": 0.19,
+        "verdict": "ok"
+      }
+    },
+    "s5": {
+      "clip": "OneOffs/BrooklynNight/IMG_4511 3.MOV",
+      "in": 0.0,
+      "speed": 1.0,
+      "note": "The creator smiles into the camera while riding inside a moving subway car with commuters in the background (happy and energetic)",
+      "query": "subway train window riding",
+      "alts": [
+        "OneOffs/RainyDayArmanRishi/IMG_4627.MOV @0.0-2.3: Creator holds phone in selfie view on the subway, looking into the len",
+        "SelfShots/Subway/IMG_5185.MOV @0.0-4.5: The man glances forward before turning his head to gaze quietly out th",
+        "SelfShots/Subway/IMG_4952.MOV @11.5-17.8: Side profile of creator gazing out into the dark subway tunnel as the ",
+        "SelfShots/Subway/IMG_4944.MOV @0.0-3.5: Static view of Columbus Circle underground concourse with prominent A ",
+        "SelfShots/Subway/IMG_5190.MOV @2.2-4.5: Creator glances toward the side of the train carriage before looking b"
+      ],
+      "motion": {
+        "speed": 3.8,
+        "jitter": 1.69,
+        "verdict": "ok"
+      }
+    },
+    "s6": {
+      "clip": "OneOffs/RainyDayArmanRishi/IMG_4614.MOV",
+      "in": 0.65,
+      "speed": 1.0,
+      "note": "Camera tracks from behind as two friends walk down the rainy sidewalk sharing umbrellas among passing city pedestrians (calm)",
+      "query": "friends walking outdoors exploring",
+      "alts": [
+        "OneOffs/RainyDayArmanRishi/IMG_4621.MOV @0.0-3.9: Camera tracks behind two friends walking down a rain-soaked city sidew",
+        "OneOffs/RainyDayArmanRishi/IMG_4624.MOV @0.0-3.9: Camera tracks behind two friends walking together down a wet sidewalk ",
+        "OneOffs/RainyDayArmanRishi/IMG_4623.MOV @0.0-3.3: Camera follows two friends from behind as they cross a wet street cros",
+        "SelfShots/Walking/1stPerson/IMG_5263.MOV @1.3-4.8: Creator walks smoothly backwards while filming himself with the vintag",
+        "SelfShots/Walking/1stPerson/IMG_4931.MOV @0.0-3.0: Creator walks along the sidewalk looking directly into the camera lens"
+      ],
+      "motion": {
+        "speed": 1.6,
+        "jitter": 0.54,
+        "verdict": "ok"
+      }
+    },
+    "s7": {
+      "clip": "OneOffs/BrooklynNight/IMG_4535 3.MOV",
+      "in": 10.07,
+      "speed": 1.0,
+      "note": "Man drops down onto the gym mat, turning around smiling and gesturing happily (playful relief and laughter)",
+      "query": "goofing around playful low angle sky",
+      "alts": [
+        "Cinematic/Chinatown/IMG_4769.mov @0.0-4.5: Static low-angle shot gazing up at the tall metallic Gehry tower frame",
+        "OneOffs/Apartments/MurrayHills/150 East 39th Street/IMG_4203.MOV @31.0-36.5: Camera pans across the rooftop balcony revealing a stunning skyline vi",
+        "Cinematic/CentralPark/IMG_4425.MOV @0.0-2.7: Sunlight flares out from behind a tall tree trunk, illuminating leafy ",
+        "SelfShots/Subway/IMG_5186.MOV @8.0-14.2: Slight low-angle shot continues with the young man looking off-camera ",
+        "OneOffs/BrooklynNight/IMG_4568 3.MOV @0.0-2.6: Handheld low angle view of an illuminated historic building tower topp"
+      ],
+      "motion": {
+        "speed": 3.6,
+        "jitter": 1.08,
+        "verdict": "ok"
+      }
+    },
+    "s8": {
+      "clip": "Cinematic/CentralPark/IMG_4447.MOV",
+      "in": 9.05,
+      "speed": 1.0,
+      "note": "hand pick",
+      "query": "sitting relaxed view skyline water",
+      "motion": {
+        "speed": 0.0,
+        "jitter": 0.02,
+        "verdict": "ok"
+      }
+    },
+    "m1": {
+      "clip": "SelfShots/Walking/1stPerson/IMG_4942.MOV",
+      "in": 5.67,
+      "speed": 1.0,
+      "note": "Creator continues walking under the scaffolding, glancing away and down pensively (pensive and calm)",
+      "query": "walking happy",
+      "alts": [
+        "SelfShots/Walking/1stPerson/IMG_4965.MOV @0.5-4.5: Creator holds phone walking along a sidewalk past a colorful storefron",
+        "OneOffs/BrooklynNight/IMG_4507 3.MOV @0.0-2.7: Creator walks down the sidewalk while looking directly into the camera",
+        "OneOffs/RainyDayArmanRishi/IMG_4624.MOV @0.0-3.9: Camera tracks behind two friends walking together down a wet sidewalk ",
+        "SelfShots/Walking/1stPerson/IMG_5158.MOV @2.5-8.5: Creator walks across the crosswalk while looking forward and slightly ",
+        "SelfShots/Walking/1stPerson/IMG_5261.MOV @1.5-6.5: Creator walks forward holding the camera, looking around calmly with t"
+      ],
+      "motion": {
+        "speed": 5.9,
+        "jitter": 4.54,
+        "verdict": "ok"
+      }
+    },
+    "m2": {
+      "clip": "Cinematic/CentralPark/IMG_4453.MOV",
+      "in": 7.59,
+      "speed": 1.0,
+      "note": "Cars and a white van drive along the curved roadway beneath lush greenery and foreground flowers (peaceful)",
+      "query": "running moving fast",
+      "alts": [
+        "Cinematic/Dumbo/IMG_4589 3.MOV @0.0-4.4: A brightly lit carousel slowly rotates in a glass pavilion against the",
+        "OneOffs/RainyDayArmanRishi/IMG_4638.MOV @0.0-3.0: Man lifts his blue coffee mug, looking up and breaking into a wide gen",
+        "OneOffs/Apartments/FIDI/63WS/IMG_4343.MOV @36.5-39.9: Camera reveals the empty main living area with hardwood floors, a wind",
+        "OneOffs/Apartments/FIDI/90W/IMG_4090.MOV @18.5-22.5: Walking into the sunlit empty living room with parquet wood floors tow",
+        "OneOffs/Apartments/Gramercy/144 East 22nd Street/IMG_4298.MOV @6.5-10.5: Camera pans across the main studio living space revealing hardwood flo"
+      ],
+      "motion": {
+        "speed": 0.1,
+        "jitter": 0.08,
+        "verdict": "ok"
+      }
+    },
+    "m3": {
+      "clip": "OneOffs/RainyDayArmanRishi/IMG_4654.MOV",
+      "in": 1.38,
+      "speed": 1.0,
+      "note": "Man flips through the blank pages of a leather-bound notebook while laughing happily at a friend off-camera (big laugh)",
+      "query": "friends laughing",
+      "alts": [
+        "OneOffs/RainyDayArmanRishi/IMG_4627.MOV @0.0-2.3: Creator holds phone in selfie view on the subway, looking into the len",
+        "OneOffs/Cooking/IMG_4804.MOV @7.5-14.5: Friend walks up and creator gestures to his cutting board and laughs a",
+        "OneOffs/Eating/IMG_4891.MOV @2.2-3.9: Camera turns selfie-style showing the creator and his friend smiling a",
+        "OneOffs/BrooklynNight/IMG_4542 3.MOV @3.7-4.8: Man drops back down onto the padded mat, turns toward the camera, and ",
+        "OneOffs/Eating/IMG_4891.MOV @0.0-1.5: Friend across the table fixes his hair while holding his phone and lau"
+      ],
+      "motion": {
+        "speed": 0.4,
+        "jitter": 0.32,
+        "verdict": "ok"
+      }
+    },
+    "m4": {
+      "clip": "SelfShots/Eating/IMG_5163.MOV",
+      "in": 50.75,
+      "speed": 1.0,
+      "note": "Creator dips his fork into the bowl and takes another big bite while focused on eating (immersed, enjoying food)",
+      "query": "eating food",
+      "alts": [
+        "SelfShots/MorningRoutine/2.1.MOV @7.5-15.0: Creator takes out wrapped food items from the paper bag and sets them ",
+        "SelfShots/MorningRoutine/2.5_IMG_4922.MOV @47.0-56.0: Man picks up a large folded toasted wrap, inspects the filling, and pr",
+        "SelfShots/Eating/IMG_5163.MOV @13.5-17.5: Creator lifts the colorful bowl up to show it closely to the camera le",
+        "SelfShots/Eating/IMG_5177.MOV @18.5-24.5: Man lifts the pizza slice directly with his hand and takes a large bit",
+        "SelfShots/Eating/IMG_5177.MOV @1.8-7.5: Man lifts up the plate of pizza to show the camera before leaning in a"
+      ],
+      "motion": {
+        "speed": 0.3,
+        "jitter": 0.09,
+        "verdict": "ok"
+      }
+    },
+    "m5": {
+      "clip": "SelfShots/ClimbingGym/OnTheWall/10:18:26_Orange_x53/IMG_5120.MOV",
+      "in": 7.8,
+      "speed": 1.0,
+      "note": "Man starts the bouldering route and climbs up the lower section of holds (focused)",
+      "query": "climbing bouldering",
+      "alts": [
+        "SelfShots/ClimbingGym/Setup/Shoes/IMG_4971.MOV @10.5-14.5: Creator pulls a yellow chalk bag and yellow climbing shoes out of his ",
+        "SelfShots/ClimbingGym/OnTheWall/10:18:26_Orange_x53/IMG_5093.MOV @0.5-6.8: Creator reaches into a yellow chalk bag, coating his hands while glanc",
+        "SelfShots/ClimbingGym/OnTheWall/10:18:26_Orange_x53/IMG_5094.MOV @2.5-7.5: Man approaches the climbing wall, grabs the lower holds, and establish",
+        "SelfShots/ClimbingGym/OnTheWall/10:18:26_Orange_x53/IMG_5148.MOV @3.5-10.5: Climber enters frame, grips the starting holds, and mounts the climbin",
+        "SelfShots/ClimbingGym/Setup/Walking/IMG_5199.MOV @5.0-10.5: Creator continues walking into the main gym floor, turning slightly as"
+      ],
+      "motion": {
+        "speed": 0.0,
+        "jitter": 0.03,
+        "verdict": "ok"
+      }
+    },
+    "m6": {
+      "clip": "SelfShots/Walking/1stPerson/IMG_5262.MOV",
+      "in": 15.08,
+      "speed": 1.0,
+      "note": "Side profile selfie tracking as he walks through a crowd of people under leafy park trees (thoughtful)",
+      "query": "park trees walking",
+      "alts": [
+        "SelfShots/Walking/1stPerson/IMG_5261.MOV @1.5-6.5: Creator walks forward holding the camera, looking around calmly with t",
+        "Cinematic/CentralPark/IMG_4406.MOV @0.0-3.8: Camera pans right across lush green park lawns and trees bathed in bri",
+        "Cinematic/CentralPark/IMG_4422.MOV @0.0-2.4: Static steady shot of a classic black street lamp glowing amidst the g",
+        "SelfShots/Walking/1stPerson/IMG_5262.MOV @2.0-4.5: Man walks along park path holding camera extended, glancing at the len",
+        "SelfShots/Walking/1stPerson/IMG_5264.MOV @1.0-5.0: Creator walks forward holding phone at arm's length, glancing between "
+      ],
+      "motion": {
+        "speed": 5.5,
+        "jitter": 5.57,
+        "verdict": "ok"
+      }
+    },
+    "m7": {
+      "clip": "OneOffs/BrooklynNight/IMG_4557 3.MOV",
+      "in": 13.22,
+      "speed": 1.0,
+      "note": "The camera pans to capture the Jersey City skyline and waterfront pier under twilight clouds (serene)",
+      "query": "skyline sunset",
+      "alts": [
+        "OneOffs/BrooklynNight/IMG_4556 3.MOV @4.5-10.7: Camera pans right across the harbor, revealing a distant skyline, wate",
+        "OneOffs/Eating/IMG_4869.MOV @0.0-6.0: Man stands quietly leaning against the pier railing, admiring the expa",
+        "SelfShots/Mina/IMG_5159.MOV @7.0-17.5: The fluffy grey cat rubs its body against the creator's leg and rolls ",
+        "Cinematic/CentralPark/IMG_4444.MOV @2.5-5.5: Camera continues panning right to reveal the distant Central Park foun",
+        "OneOffs/BrooklynNight/IMG_4557 3.MOV @0.0-7.0: A large white and black cruise ferry glides across the rippling water "
+      ],
+      "motion": {
+        "speed": 7.0,
+        "jitter": 0.11,
+        "verdict": "ok"
+      }
+    },
+    "m8": {
+      "clip": "OneOffs/RainyDayArmanRishi/IMG_4627.MOV",
+      "in": 0.93,
+      "speed": 1.0,
+      "note": "Creator holds phone in selfie view on the subway, looking into the lens and breaking into a wide friendly smile alongside his friends (happy, amused, cheerful)",
+      "query": "subway selfie",
+      "alts": [
+        "SelfShots/Subway/IMG_4951.MOV @0.0-3.8: Creator holds phone in selfie mode, looking calmly at the lens while t",
+        "OneOffs/BrooklynNight/IMG_4509 3.MOV @0.0-4.3: Creator films a walking selfie while walking along the subway platform",
+        "SelfShots/Subway/IMG_4954.MOV @0.0-2.5: Creator walks up the subway exit stairs filming a front-facing selfie ",
+        "SelfShots/Subway/IMG_5186.MOV @2.5-8.0: Man sits quietly looking into the distance as the train car rocks and ",
+        "SelfShots/Subway/IMG_5193.MOV @7.5-12.0: Walking past bright colorful subway ads with breeze gently blowing his"
+      ],
+      "motion": {
+        "speed": 2.3,
+        "jitter": 1.69,
+        "verdict": "ok"
+      }
+    },
+    "m9": {
+      "clip": "OneOffs/Eating/IMG_4864.MOV",
+      "in": 5.55,
+      "speed": 1.0,
+      "note": "Creator walks into the frame and sits down on the wooden recliner chair facing the golden sunset (relaxed)",
+      "query": "selfie smile golden hour",
+      "alts": [
+        "OneOffs/Apartments/MurrayHills/150 East 39th Street/IMG_4214.MOV @0.0-2.5: Camera pans slowly from a dark skyscraper to sunlit high-rise apartmen",
+        "SelfShots/Walking/1stPerson/IMG_5261.MOV @11.0-16.5: Someone in the park shouts hello, causing the creator to turn back, la",
+        "OneOffs/Eating/IMG_4865.MOV @9.5-18.0: Young man chews his food while looking out peacefully across the water",
+        "OneOffs/Eating/IMG_4891.MOV @2.2-3.9: Camera turns selfie-style showing the creator and his friend smiling a",
+        "SelfShots/Subway/IMG_4951.MOV @0.0-3.8: Creator holds phone in selfie mode, looking calmly at the lens while t"
+      ],
+      "motion": {
+        "speed": 0.1,
+        "jitter": 0.05,
+        "verdict": "ok"
+      }
+    },
+    "s9": {
+      "clip": "SelfShots/Walking/1stPerson/IMG_4931.MOV",
+      "in": 0.27,
+      "speed": 1.0,
+      "note": "Creator walks along the sidewalk looking directly into the camera lens with a calm expression (confident, calm)",
+      "query": "walking with purpose street station platform",
+      "alts": [
+        "SelfShots/Walking/1stPerson/IMG_4931.MOV @3.0-7.0: Creator turns his gaze forward to look ahead down the street while con",
+        "SelfShots/Walking/1stPerson/IMG_4940.MOV @1.7-5.5: Creator walks down the sidewalk holding camera forward at a low angle,",
+        "SelfShots/Walking/1stPerson/IMG_4940.MOV @5.5-10.0: Creator continues walking while casually glancing off to the side towa",
+        "SelfShots/Walking/1stPerson/IMG_4965.MOV @0.5-4.5: Creator holds phone walking along a sidewalk past a colorful storefron",
+        "SelfShots/Walking/1stPerson/IMG_4965.MOV @6.8-11.5: Creator steps off the curb and crosses the street past parked cars."
+      ],
+      "motion": {
+        "speed": 8.0,
+        "jitter": 6.66,
+        "verdict": "ok"
+      }
+    }
+  },
+  "caption": "There's no script, no timeline, no rules. Write your own story.",
+  "textY": 0.5,
+  "text": {
+    "weight": 700,
+    "size": 52
+  }
+}

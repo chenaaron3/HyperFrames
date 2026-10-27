@@ -1,0 +1,68 @@
+{
+  "path": "OneOffs/Apartments/TurtleBay/155 East 52nd Street/IMG_4130.MOV",
+  "folder": "OneOffs/Apartments/TurtleBay/155 East 52nd Street",
+  "fingerprint": "171e542b7ab2f359",
+  "width": 1080,
+  "height": 1920,
+  "fps": 30.0,
+  "duration": 1.3,
+  "model": "gemini-3.8-flash",
+  "annotatedAt": "2026-10-24T18:22:13+00:00",
+  "summary": "Handheld POV shot looking down a quiet, empty residential apartment building hallway with tiled floors and cream-colored walls.",
+  "location": "apartment hallway",
+  "setting": "indoor",
+  "time_of_day": "indoor_unknown",
+  "weather": "n/a",
+  "people": {
+    "count": 0,
+    "creator_visible": false,
+    "description": "No people are visible in the clip."
+  },
+  "camera": {
+    "style": "pov_first_person",
+    "framing": "wide",
+    "movement": "static",
+    "angle": "eye level"
+  },
+  "quality": {
+    "usable": true,
+    "stability": "steady",
+    "exposure": "good",
+    "issues": ""
+  },
+  "mood": [
+    "quiet",
+    "neutral",
+    "mundane"
+  ],
+  "energy": "low",
+  "tags": [
+    "apartment",
+    "hallway",
+    "corridor",
+    "building",
+    "doors",
+    "tile floor",
+    "residential",
+    "turtle bay",
+    "nyc apartment",
+    "moving in",
+    "real estate"
+  ],
+  "moments": [
+    {
+      "start": 0.0,
+      "end": 1.3,
+      "action": "A steady first-person perspective looking down an empty apartment hallway with dark doors and a red fire extinguisher on the wall.",
+      "emotion": "calm",
+      "good_for": [
+        "apartment hunting",
+        "moving to new york",
+        "quiet moments",
+        "welcome home",
+        "coming back home"
+      ],
+      "score": 3
+    }
+  ]
+}

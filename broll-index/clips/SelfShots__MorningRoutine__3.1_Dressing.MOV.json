@@ -1,0 +1,107 @@
+{
+  "path": "SelfShots/MorningRoutine/3.1_Dressing.MOV",
+  "folder": "SelfShots/MorningRoutine",
+  "fingerprint": "75df1d2c78858b42",
+  "width": 1080,
+  "height": 1920,
+  "fps": 30.0,
+  "duration": 39.17,
+  "model": "gemini-3.8-flash",
+  "annotatedAt": "2026-10-24T19:00:38+00:00",
+  "summary": "A young man checks his outfit in a full-length floor mirror in his apartment, putting on a long black coat and a backpack before leaving.",
+  "location": "living room",
+  "setting": "indoor",
+  "time_of_day": "day",
+  "weather": "n/a",
+  "people": {
+    "count": 1,
+    "creator_visible": true,
+    "description": "Young East Asian man with dark hair, wearing a brown textured short-sleeve button-down shirt, wide-leg black trousers, and later a long black coat and backpack"
+  },
+  "camera": {
+    "style": "tripod_static",
+    "framing": "medium",
+    "movement": "static",
+    "angle": "eye level"
+  },
+  "quality": {
+    "usable": true,
+    "stability": "locked",
+    "exposure": "good",
+    "issues": ""
+  },
+  "mood": [
+    "calm",
+    "routine",
+    "stylish",
+    "focused"
+  ],
+  "energy": "low",
+  "tags": [
+    "getting ready",
+    "outfit check",
+    "mirror",
+    "coat",
+    "fashion",
+    "morning routine",
+    "apartment",
+    "backpack",
+    "lifestyle",
+    "commute prep",
+    "menswear",
+    "minimalist"
+  ],
+  "moments": [
+    {
+      "start": 2.0,
+      "end": 8.5,
+      "action": "Man walks over to the mirror, inspects his shirt and trousers, and turns away",
+      "emotion": "calm",
+      "good_for": [
+        "getting ready",
+        "morning routine",
+        "outfit check",
+        "simple pleasures"
+      ],
+      "score": 4
+    },
+    {
+      "start": 13.0,
+      "end": 22.0,
+      "action": "Man steps up to mirror with a long black coat and slips it on, smoothing the lapels",
+      "emotion": "focused",
+      "good_for": [
+        "styling an outfit",
+        "putting on my coat",
+        "ready for the day",
+        "winter aesthetic"
+      ],
+      "score": 4
+    },
+    {
+      "start": 22.0,
+      "end": 25.5,
+      "action": "Man checks how the black coat looks in the mirror and turns around to head out",
+      "emotion": "confident",
+      "good_for": [
+        "fit check",
+        "leaving the house",
+        "daily commute"
+      ],
+      "score": 3
+    },
+    {
+      "start": 28.5,
+      "end": 37.0,
+      "action": "Man walks back in, swings a black backpack onto his shoulders, adjusts the straps in the mirror, and walks past the camera",
+      "emotion": "focused",
+      "good_for": [
+        "ready to head out",
+        "commute",
+        "heading to work",
+        "daily vlog"
+      ],
+      "score": 4
+    }
+  ]
+}

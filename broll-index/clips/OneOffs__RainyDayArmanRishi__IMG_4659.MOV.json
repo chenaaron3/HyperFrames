@@ -1,0 +1,67 @@
+{
+  "path": "OneOffs/RainyDayArmanRishi/IMG_4659.MOV",
+  "folder": "OneOffs/RainyDayArmanRishi",
+  "fingerprint": "644d4e40ffd0f968",
+  "width": 1080,
+  "height": 1920,
+  "fps": 29.97,
+  "duration": 2.067,
+  "model": "gemini-3.8-flash",
+  "annotatedAt": "2026-10-24T18:37:13+00:00",
+  "summary": "A close-up shot of sliced sweet pastries and cookies arranged on white plates on a wooden table.",
+  "location": "restaurant",
+  "setting": "indoor",
+  "time_of_day": "indoor_unknown",
+  "weather": "n/a",
+  "people": {
+    "count": 0,
+    "creator_visible": false,
+    "description": "No people are visible in the frame."
+  },
+  "camera": {
+    "style": "pov_first_person",
+    "framing": "close",
+    "movement": "handheld",
+    "angle": "high angle"
+  },
+  "quality": {
+    "usable": true,
+    "stability": "steady",
+    "exposure": "good",
+    "issues": ""
+  },
+  "mood": [
+    "peaceful",
+    "indulgent",
+    "cozy"
+  ],
+  "energy": "low",
+  "tags": [
+    "pastries",
+    "dessert",
+    "baked goods",
+    "sweet treats",
+    "table",
+    "food",
+    "snack",
+    "indoor",
+    "tea time",
+    "cookies",
+    "plates"
+  ],
+  "moments": [
+    {
+      "start": 0.0,
+      "end": 2.07,
+      "action": "Camera hovers above plates of cut flaky pastries and cookies on a wooden table",
+      "emotion": "calm",
+      "good_for": [
+        "sweet treats",
+        "food on my plate",
+        "cafe date",
+        "rainy day comfort"
+      ],
+      "score": 3
+    }
+  ]
+}

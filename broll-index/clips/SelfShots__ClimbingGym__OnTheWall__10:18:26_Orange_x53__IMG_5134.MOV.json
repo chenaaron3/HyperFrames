@@ -1,0 +1,103 @@
+{
+  "path": "SelfShots/ClimbingGym/OnTheWall/10:18:26_Orange_x53/IMG_5134.MOV",
+  "folder": "SelfShots/ClimbingGym/OnTheWall/10:18:26_Orange_x53",
+  "fingerprint": "5e94cc90e35736b4",
+  "width": 1080,
+  "height": 1920,
+  "fps": 30.0,
+  "duration": 64.405,
+  "model": "gemini-3.8-flash",
+  "annotatedAt": "2026-10-24T18:44:42+00:00",
+  "summary": "A young man climbs a challenging indoor bouldering problem, navigating angled holds and volumes before finishing the route and dropping to the mat.",
+  "location": "climbing gym",
+  "setting": "indoor",
+  "time_of_day": "indoor_unknown",
+  "weather": "n/a",
+  "people": {
+    "count": 1,
+    "creator_visible": true,
+    "description": "Young man with dark wavy hair wearing a grey ribbed tank top and baggy blue jeans."
+  },
+  "camera": {
+    "style": "tripod_static",
+    "framing": "wide",
+    "movement": "static",
+    "angle": "eye level"
+  },
+  "quality": {
+    "usable": true,
+    "stability": "locked",
+    "exposure": "good",
+    "issues": ""
+  },
+  "mood": [
+    "focused",
+    "athletic",
+    "determined",
+    "active"
+  ],
+  "energy": "medium",
+  "tags": [
+    "bouldering",
+    "indoor climbing",
+    "climbing gym",
+    "rock climbing",
+    "fitness",
+    "workout",
+    "training",
+    "problem solving",
+    "gym life",
+    "determination",
+    "focus"
+  ],
+  "moments": [
+    {
+      "start": 7.0,
+      "end": 15.5,
+      "action": "Climber approaches the wall, grabs the starting holds, and mounts onto the blue volume",
+      "emotion": "focused",
+      "good_for": [
+        "starting a new challenge",
+        "trusting the process",
+        "first steps"
+      ],
+      "score": 4
+    },
+    {
+      "start": 18.0,
+      "end": 26.5,
+      "action": "Climber balances on a large blue volume and shifts his weight up onto the black hold",
+      "emotion": "intense concentration",
+      "good_for": [
+        "finding balance",
+        "slow and steady progress",
+        "focus on your own path"
+      ],
+      "score": 4
+    },
+    {
+      "start": 41.0,
+      "end": 51.5,
+      "action": "Climber extends upward to grab the final holds near the top of the wall",
+      "emotion": "determined",
+      "good_for": [
+        "reaching your goals",
+        "almost there",
+        "pushing through"
+      ],
+      "score": 5
+    },
+    {
+      "start": 57.0,
+      "end": 64.0,
+      "action": "Climber drops down onto the safety mat, dusts his hands off, and walks past the camera",
+      "emotion": "relieved and accomplished",
+      "good_for": [
+        "job done",
+        "feeling accomplished",
+        "onto the next one"
+      ],
+      "score": 4
+    }
+  ]
+}

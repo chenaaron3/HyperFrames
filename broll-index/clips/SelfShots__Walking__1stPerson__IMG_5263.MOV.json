@@ -1,0 +1,67 @@
+{
+  "path": "SelfShots/Walking/1stPerson/IMG_5263.MOV",
+  "folder": "SelfShots/Walking/1stPerson",
+  "fingerprint": "0039aac951c03bc2",
+  "width": 1080,
+  "height": 1920,
+  "fps": 30.0,
+  "duration": 6.4,
+  "model": "gemini-3.8-flash",
+  "annotatedAt": "2026-10-24T19:02:20+00:00",
+  "summary": "A young man walks through a park holding the camera in a selfie view, panning around to show a vintage carousel building behind him.",
+  "location": "park",
+  "setting": "outdoor",
+  "time_of_day": "day",
+  "weather": "sunny",
+  "people": {
+    "count": 1,
+    "creator_visible": true,
+    "description": "Young East Asian man with curly/wavy dark hair, wearing a black blazer or coat over a blue crewneck, carrying a backpack"
+  },
+  "camera": {
+    "style": "selfie",
+    "framing": "medium",
+    "movement": "walking",
+    "angle": "eye level"
+  },
+  "quality": {
+    "usable": true,
+    "stability": "handheld",
+    "exposure": "good",
+    "issues": "Brief motion blur during transitions at the start and end of the shot"
+  },
+  "mood": [
+    "relaxed",
+    "casual",
+    "peaceful",
+    "contemplative"
+  ],
+  "energy": "medium",
+  "tags": [
+    "central park",
+    "carousel",
+    "walking",
+    "selfie",
+    "autumn",
+    "outdoor walk",
+    "city park",
+    "nyc",
+    "solo walk",
+    "travel vlog"
+  ],
+  "moments": [
+    {
+      "start": 1.3,
+      "end": 4.8,
+      "action": "Creator walks smoothly backwards while filming himself with the vintage park carousel building in the background",
+      "emotion": "calm",
+      "good_for": [
+        "taking a walk to clear my head",
+        "romanticizing simple days",
+        "exploring the city alone",
+        "afternoon strolls"
+      ],
+      "score": 4
+    }
+  ]
+}

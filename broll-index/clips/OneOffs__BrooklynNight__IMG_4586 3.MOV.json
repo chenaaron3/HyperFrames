@@ -1,0 +1,83 @@
+{
+  "path": "OneOffs/BrooklynNight/IMG_4586 3.MOV",
+  "folder": "OneOffs/BrooklynNight",
+  "fingerprint": "391f6fb771a0473e",
+  "width": 1080,
+  "height": 1920,
+  "fps": 30.0,
+  "duration": 10.533,
+  "model": "gemini-3.8-flash",
+  "annotatedAt": "2026-10-24T18:24:23+00:00",
+  "summary": "A night view across the East River featuring the illuminated Brooklyn Bridge and the Lower Manhattan skyline with city lights reflecting on the water.",
+  "location": "waterfront",
+  "setting": "outdoor",
+  "time_of_day": "night",
+  "weather": "n/a",
+  "people": {
+    "count": 0,
+    "creator_visible": false,
+    "description": "No people visible on screen"
+  },
+  "camera": {
+    "style": "pov_first_person",
+    "framing": "wide",
+    "movement": "static",
+    "angle": "eye level"
+  },
+  "quality": {
+    "usable": true,
+    "stability": "steady",
+    "exposure": "good",
+    "issues": ""
+  },
+  "mood": [
+    "peaceful",
+    "atmospheric",
+    "romantic",
+    "serene",
+    "reflective"
+  ],
+  "energy": "low",
+  "tags": [
+    "brooklyn bridge",
+    "nyc",
+    "new york city",
+    "skyline",
+    "manhattan",
+    "night lights",
+    "east river",
+    "waterfront",
+    "one world trade center",
+    "night view",
+    "travel",
+    "urban"
+  ],
+  "moments": [
+    {
+      "start": 0.0,
+      "end": 5.5,
+      "action": "Wide view of the Brooklyn Bridge and illuminated Manhattan skyline across the dark rippling river",
+      "emotion": "calm",
+      "good_for": [
+        "city that never sleeps",
+        "late night thoughts",
+        "falling in love with nyc",
+        "peaceful moments"
+      ],
+      "score": 4
+    },
+    {
+      "start": 5.5,
+      "end": 10.5,
+      "action": "A small ferry boat passes in the river against the backdrop of glowing downtown skyscrapers and bridge towers",
+      "emotion": "serene",
+      "good_for": [
+        "nyc nights",
+        "quiet in the chaos",
+        "places that feel like magic",
+        "gratitude list"
+      ],
+      "score": 4
+    }
+  ]
+}

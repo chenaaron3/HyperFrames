@@ -1,0 +1,68 @@
+{
+  "path": "OneOffs/Apartments/FIDI/90W/IMG_4084.MOV",
+  "folder": "OneOffs/Apartments/FIDI/90W",
+  "fingerprint": "b121e063bc3e35de",
+  "width": 1080,
+  "height": 1920,
+  "fps": 30.0,
+  "duration": 2.833,
+  "model": "gemini-3.8-flash",
+  "annotatedAt": "2026-10-24T18:20:38+00:00",
+  "summary": "A static shot looking down an empty, modern apartment building elevator hallway with tiled floors and contemporary artwork at the end.",
+  "location": "elevator bank / hallway",
+  "setting": "indoor",
+  "time_of_day": "indoor_unknown",
+  "weather": "n/a",
+  "people": {
+    "count": 0,
+    "creator_visible": false,
+    "description": "No people visible"
+  },
+  "camera": {
+    "style": "handheld_cinematic",
+    "framing": "wide",
+    "movement": "static",
+    "angle": "eye level"
+  },
+  "quality": {
+    "usable": true,
+    "stability": "steady",
+    "exposure": "good",
+    "issues": ""
+  },
+  "mood": [
+    "calm",
+    "neutral",
+    "liminal",
+    "quiet"
+  ],
+  "energy": "low",
+  "tags": [
+    "elevator lobby",
+    "apartment hallway",
+    "fidi",
+    "nyc apartment",
+    "empty hallway",
+    "building interior",
+    "residential",
+    "flooring",
+    "modern building",
+    "interior architecture"
+  ],
+  "moments": [
+    {
+      "start": 0.0,
+      "end": 2.83,
+      "action": "A steady view down a quiet, empty apartment elevator lobby with metallic walls and marble tile floors",
+      "emotion": "calm",
+      "good_for": [
+        "apartment hunting in nyc",
+        "coming home",
+        "new beginnings",
+        "moving to new york",
+        "liminal spaces"
+      ],
+      "score": 3
+    }
+  ]
+}

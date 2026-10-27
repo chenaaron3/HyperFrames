@@ -1,0 +1,64 @@
+{
+  "path": "OneOffs/Cooking/IMG_4839.MOV",
+  "folder": "OneOffs/Cooking",
+  "fingerprint": "7427ff8e52b194a2",
+  "width": 1080,
+  "height": 1920,
+  "fps": 30.0,
+  "duration": 3.333,
+  "model": "gemini-3.8-flash",
+  "annotatedAt": "2026-10-24T18:34:31+00:00",
+  "summary": "A close-up shot of a person's bare feet resting by a wooden coffee table in an apartment living room.",
+  "location": "living room",
+  "setting": "indoor",
+  "time_of_day": "indoor_unknown",
+  "weather": "n/a",
+  "people": {
+    "count": 1,
+    "creator_visible": false,
+    "description": "Only the bare feet and ankles of an individual are visible"
+  },
+  "camera": {
+    "style": "other",
+    "framing": "close",
+    "movement": "shaky",
+    "angle": "eye level"
+  },
+  "quality": {
+    "usable": false,
+    "stability": "shaky",
+    "exposure": "good",
+    "issues": "Accidental framing, only feet shown, sudden camera jerk at the end"
+  },
+  "mood": [
+    "mundane",
+    "casual",
+    "candid"
+  ],
+  "energy": "low",
+  "tags": [
+    "feet",
+    "barefoot",
+    "relaxing",
+    "lazy day",
+    "living room",
+    "apartment",
+    "indoor",
+    "coffee table",
+    "candid",
+    "casual"
+  ],
+  "moments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "action": "Close-up of bare feet resting next to the edge of a wooden table",
+      "emotion": "relaxed",
+      "good_for": [
+        "lazy day at home",
+        "relaxing"
+      ],
+      "score": 1
+    }
+  ]
+}

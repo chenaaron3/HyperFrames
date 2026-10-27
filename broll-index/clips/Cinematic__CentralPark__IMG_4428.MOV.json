@@ -1,0 +1,70 @@
+{
+  "path": "Cinematic/CentralPark/IMG_4428.MOV",
+  "folder": "Cinematic/CentralPark",
+  "fingerprint": "91535f711655aff2",
+  "width": 1080,
+  "height": 1920,
+  "fps": 30.0,
+  "duration": 2.098,
+  "model": "gemini-3.8-flash",
+  "annotatedAt": "2026-10-24T18:17:56+00:00",
+  "summary": "A street performer bends down to pack or adjust his equipment next to a bicycle and music stand outside Belvedere Castle in Central Park.",
+  "location": "park",
+  "setting": "outdoor",
+  "time_of_day": "day",
+  "weather": "sunny",
+  "people": {
+    "count": 1,
+    "creator_visible": false,
+    "description": "An older man wearing a green jacket, cap, and trousers, bending down by a lamppost and bicycle"
+  },
+  "camera": {
+    "style": "handheld_cinematic",
+    "framing": "medium",
+    "movement": "static",
+    "angle": "eye level"
+  },
+  "quality": {
+    "usable": true,
+    "stability": "steady",
+    "exposure": "good",
+    "issues": ""
+  },
+  "mood": [
+    "calm",
+    "peaceful",
+    "candid",
+    "urban"
+  ],
+  "energy": "low",
+  "tags": [
+    "central park",
+    "belvedere castle",
+    "new york city",
+    "street performer",
+    "busker",
+    "bicycle",
+    "music stand",
+    "outdoor",
+    "daytime",
+    "sunny",
+    "manhattan",
+    "travel",
+    "city life"
+  ],
+  "moments": [
+    {
+      "start": 0.0,
+      "end": 2.1,
+      "action": "A street musician bends over by a lamppost in front of Belvedere Castle, packing up his gear next to his bicycle",
+      "emotion": "focused",
+      "good_for": [
+        "central park walks",
+        "city atmosphere",
+        "working hard",
+        "nyc moments"
+      ],
+      "score": 3
+    }
+  ]
+}

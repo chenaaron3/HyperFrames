@@ -1,0 +1,97 @@
+{
+  "path": "OneOffs/BrooklynNight/IMG_4557 3.MOV",
+  "folder": "OneOffs/BrooklynNight",
+  "fingerprint": "2b0a5ef89684a3ca",
+  "width": 1080,
+  "height": 1920,
+  "fps": 30.0,
+  "duration": 15.302,
+  "model": "gemini-3.8-flash",
+  "annotatedAt": "2026-10-24T18:23:47+00:00",
+  "summary": "A Statue City Cruises ferry departs across the water during sunset, before the camera pans across the harbor to reveal the Jersey City skyline.",
+  "location": "city harbor",
+  "setting": "outdoor",
+  "time_of_day": "golden_hour",
+  "weather": "sunny",
+  "people": {
+    "count": 0,
+    "creator_visible": false,
+    "description": "No people visible."
+  },
+  "camera": {
+    "style": "handheld_cinematic",
+    "framing": "wide",
+    "movement": "pan",
+    "angle": "eye level"
+  },
+  "quality": {
+    "usable": true,
+    "stability": "steady",
+    "exposure": "good",
+    "issues": ""
+  },
+  "mood": [
+    "peaceful",
+    "scenic",
+    "reflective",
+    "serene",
+    "travel"
+  ],
+  "energy": "low",
+  "tags": [
+    "ferry",
+    "statue cruises",
+    "boat",
+    "water",
+    "harbor",
+    "hudson river",
+    "sunset",
+    "golden hour",
+    "skyline",
+    "jersey city",
+    "new york city",
+    "travel",
+    "commute",
+    "scenic"
+  ],
+  "moments": [
+    {
+      "start": 0.0,
+      "end": 7.0,
+      "action": "A large white and black cruise ferry glides across the rippling water against golden clouds at sunset",
+      "emotion": "calm",
+      "good_for": [
+        "summer in the city",
+        "peaceful commute",
+        "finding quiet moments",
+        "golden hour views"
+      ],
+      "score": 4
+    },
+    {
+      "start": 7.0,
+      "end": 11.5,
+      "action": "The ferry moves further into the distance as the camera begins a slow pan across the open water",
+      "emotion": "reflective",
+      "good_for": [
+        "travel memories",
+        "watching the sunset",
+        "leaving worries behind"
+      ],
+      "score": 3
+    },
+    {
+      "start": 11.5,
+      "end": 15.3,
+      "action": "The camera pans to capture the Jersey City skyline and waterfront pier under twilight clouds",
+      "emotion": "serene",
+      "good_for": [
+        "city views",
+        "sunset skyline",
+        "waterfront walks",
+        "urban calm"
+      ],
+      "score": 4
+    }
+  ]
+}

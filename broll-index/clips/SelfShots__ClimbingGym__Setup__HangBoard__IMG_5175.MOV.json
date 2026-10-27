@@ -1,0 +1,105 @@
+{
+  "path": "SelfShots/ClimbingGym/Setup/HangBoard/IMG_5175.MOV",
+  "folder": "SelfShots/ClimbingGym/Setup/HangBoard",
+  "fingerprint": "141d48367d1ac0f0",
+  "width": 1080,
+  "height": 1920,
+  "fps": 30.0,
+  "duration": 30.602,
+  "model": "gemini-3.8-flash",
+  "annotatedAt": "2026-10-24T18:53:15+00:00",
+  "summary": "A young man trains on a wooden campus board at an indoor climbing gym, laddering up and down using only his hands before dropping to the mat.",
+  "location": "climbing gym",
+  "setting": "indoor",
+  "time_of_day": "indoor_unknown",
+  "weather": "n/a",
+  "people": {
+    "count": 1,
+    "creator_visible": true,
+    "description": "Young East Asian man with short dark hair, wearing a brown short-sleeve collared shirt and black pants"
+  },
+  "camera": {
+    "style": "tripod_static",
+    "framing": "wide",
+    "movement": "static",
+    "angle": "eye level"
+  },
+  "quality": {
+    "usable": true,
+    "stability": "locked",
+    "exposure": "good",
+    "issues": ""
+  },
+  "mood": [
+    "focused",
+    "athletic",
+    "determined",
+    "disciplined"
+  ],
+  "energy": "high",
+  "tags": [
+    "campus board",
+    "climbing gym",
+    "bouldering",
+    "rock climbing",
+    "grip strength",
+    "hangboard",
+    "calisthenics",
+    "upper body strength",
+    "workout",
+    "fitness training",
+    "pull ups",
+    "dyno"
+  ],
+  "moments": [
+    {
+      "start": 4.5,
+      "end": 10.5,
+      "action": "Man grabs the bottom campus board rung and powers upward hand-over-hand without feet",
+      "emotion": "focused and intense",
+      "good_for": [
+        "trust the process",
+        "building strength",
+        "finger strength training",
+        "workout discipline"
+      ],
+      "score": 4
+    },
+    {
+      "start": 10.5,
+      "end": 17.5,
+      "action": "Man climbs up to the top rungs of the campus board with deliberate arm pulls",
+      "emotion": "determined",
+      "good_for": [
+        "reaching new heights",
+        "pushing through limits",
+        "climbing progression"
+      ],
+      "score": 4
+    },
+    {
+      "start": 17.5,
+      "end": 25.0,
+      "action": "Man carefully descends the campus board hand over hand in reverse",
+      "emotion": "controlled endurance",
+      "good_for": [
+        "control over speed",
+        "finishing the set",
+        "endurance test"
+      ],
+      "score": 4
+    },
+    {
+      "start": 25.0,
+      "end": 28.0,
+      "action": "Man drops down to the ground, exhales with exhaustion, and walks past the camera",
+      "emotion": "exhausted relief",
+      "good_for": [
+        "that pump though",
+        "post-workout exhaustion",
+        "leaving it all on the wall"
+      ],
+      "score": 4
+    }
+  ]
+}

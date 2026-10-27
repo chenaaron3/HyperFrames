@@ -1,0 +1,72 @@
+<template>
+  <style>
+    #cap-stock-root { position: absolute; inset: 0; pointer-events: none; }
+    #cap-stock-root .cap-stock-group {
+      position: absolute; bottom: 140px; left: 0; width: 100%;
+      display: flex; flex-wrap: wrap; align-items: flex-end; justify-content: center;
+      gap: 8px; padding: 0 100px; box-sizing: border-box; opacity: 0; visibility: hidden;
+    }
+    #cap-stock-root .cap-stock-word {
+      font-family: "Montserrat", sans-serif; font-weight: 800; font-size: 80px; text-transform: uppercase;
+      color: #ffffff; display: inline-block; letter-spacing: 0.02em; line-height: 1;
+      position: relative; padding: 6px 12px 8px;
+      text-shadow: 0 6px 18px rgba(0, 0, 0, 0.45); transform-origin: 50% 58%;
+    }
+    #cap-stock-root .cap-stock-bg {
+      position: absolute; inset: 0; background: linear-gradient(135deg, #ff1745 0%, #df1238 100%); border-radius: 10px;
+      box-shadow: 0 12px 30px rgba(229, 20, 58, 0.32); opacity: 0; transform: scaleX(0); transform-origin: 0% 50%; z-index: -1;
+    }
+    #cap-stock-root .cap-stock-text { position: relative; z-index: 1; }
+  </style>
+  <div id="cap-stock-root" data-composition-id="cap-stock" data-start="0" data-duration="5.6" data-width="1080" data-height="1920">
+    <div id="cap-stock-container"></div>
+  </div>
+  <script>
+    (function () {
+      var _c = document.createElement("canvas").getContext("2d");
+      function fit(text, base, weight, family, maxW) {
+        var size = base, min = Math.floor(base * 0.45);
+        while (size > min) { _c.font = weight + " " + size + "px " + family; if (_c.measureText(text).width <= maxW) return size; size -= 2; }
+        return min;
+      }
+      var WORDS = [{"text": "Okay,", "start": 0.302, "end": 0.426}, {"text": "first", "start": 0.426, "end": 0.856}, {"text": "you", "start": 0.856, "end": 1.176}, {"text": "do", "start": 1.176, "end": 1.256}, {"text": "need", "start": 1.256, "end": 1.566}, {"text": "Claude", "start": 1.566, "end": 1.976}, {"text": "Code", "start": 1.976, "end": 2.466}, {"text": "but", "start": 2.466, "end": 2.858}, {"text": "use", "start": 2.858, "end": 3.078}, {"text": "it", "start": 3.078, "end": 3.238}, {"text": "in", "start": 3.238, "end": 3.398}, {"text": "the", "start": 3.398, "end": 3.638}, {"text": "browser.", "start": 3.638, "end": 4.254}, {"text": "Download", "start": 4.254, "end": 4.714}, {"text": "the", "start": 4.714, "end": 4.884}, {"text": "desktop", "start": 4.884, "end": 5.4}];
+      var RAW = [[0, 1], [2, 4], [5, 6], [7, 9], [10, 12], [13, 14], [15, 15]];
+      var UPPER = true;
+      var GROUPS = RAW.map(function (p, gi) {
+        var next = gi + 1 < RAW.length ? WORDS[RAW[gi + 1][0]].start : 5.6;
+        return { ws: p[0], we: p[1], start: WORDS[p[0]].start, end: Math.min(WORDS[p[1]].end + 0.5, next - 0.05) };
+      });
+      var box = document.getElementById("cap-stock-container");
+      var tl = gsap.timeline({ paused: true });
+      GROUPS.forEach(function (g, gi) {
+        var ws = WORDS.slice(g.ws, g.we + 1);
+        var grp = document.createElement("div");
+        grp.className = "cap-stock-group"; grp.id = "cap-stock-g" + gi;
+        var label = ws.map(function (w) { return UPPER ? w.text.toUpperCase() : w.text; }).join(" ");
+        var size = fit(label, 80, "800", "Montserrat", 880);
+        ws.forEach(function (w, i) {
+          var wi = g.ws + i;
+          var el = document.createElement("span"); el.className = "cap-stock-word"; el.id = "cap-stock-w" + wi; el.style.fontSize = size + "px";
+          var bg = document.createElement("span"); bg.className = "cap-stock-bg"; bg.id = "cap-stock-b" + wi;
+          var tx = document.createElement("span"); tx.className = "cap-stock-text"; tx.textContent = UPPER ? w.text.toUpperCase() : w.text;
+          el.appendChild(bg); el.appendChild(tx); grp.appendChild(el);
+        });
+        box.appendChild(grp);
+        tl.set(grp, { visibility: "visible" }, g.start);
+        tl.fromTo(grp, { opacity: 0 }, { opacity: 1, duration: 0.12, ease: "power2.out" }, g.start);
+        ws.forEach(function (w, i) {
+          var wi = g.ws + i;
+          var bg = document.getElementById("cap-stock-b" + wi), el = document.getElementById("cap-stock-w" + wi);
+          tl.to(bg, { opacity: 1, scaleX: 1, duration: 0.15, ease: "power2.out" }, w.start);
+          tl.to(el, { filter: "brightness(1.05)", duration: 0.08, ease: "power2.out" }, w.start);
+          tl.to(el, { filter: "brightness(1)", duration: 0.16, ease: "power2.out" }, w.start + 0.08);
+          tl.to(bg, { opacity: 0, scaleX: 1.02, duration: 0.1, ease: "power2.in" }, w.end);
+          tl.set(bg, { scaleX: 0 }, w.end + 0.1);
+        });
+        tl.to(grp, { opacity: 0, duration: 0.1, ease: "power2.in" }, g.end - 0.1);
+        tl.set(grp, { opacity: 0, visibility: "hidden" }, g.end);
+      });
+      window.__timelines["cap-stock"] = tl;
+    })();
+  </script>
+</template>

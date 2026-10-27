@@ -1,0 +1,83 @@
+{
+  "path": "SelfShots/Walking/1stPerson/IMG_4931.MOV",
+  "folder": "SelfShots/Walking/1stPerson",
+  "fingerprint": "908a811f728b4d11",
+  "width": 1080,
+  "height": 1920,
+  "fps": 30.0,
+  "duration": 7.232,
+  "model": "gemini-3.8-flash",
+  "annotatedAt": "2026-10-24T19:01:25+00:00",
+  "summary": "A young man walks down a New York City sidewalk while filming himself in a front-facing selfie angle with modern buildings in the background.",
+  "location": "city street",
+  "setting": "outdoor",
+  "time_of_day": "day",
+  "weather": "overcast",
+  "people": {
+    "count": 5,
+    "creator_visible": true,
+    "description": "Young East/Southeast Asian man with wavy black hair, wearing a brown collared shirt under a black jacket and carrying a backpack."
+  },
+  "camera": {
+    "style": "selfie",
+    "framing": "medium",
+    "movement": "walking",
+    "angle": "eye level"
+  },
+  "quality": {
+    "usable": true,
+    "stability": "handheld",
+    "exposure": "good",
+    "issues": "slight handheld walking motion blur"
+  },
+  "mood": [
+    "casual",
+    "confident",
+    "urban",
+    "reflective",
+    "chill"
+  ],
+  "energy": "medium",
+  "tags": [
+    "nyc",
+    "manhattan",
+    "walking",
+    "city walk",
+    "commute",
+    "selfie",
+    "urban life",
+    "street",
+    "curly hair",
+    "backpack",
+    "sidewalk",
+    "pedestrian"
+  ],
+  "moments": [
+    {
+      "start": 0.0,
+      "end": 3.0,
+      "action": "Creator walks along the sidewalk looking directly into the camera lens with a calm expression",
+      "emotion": "confident, calm",
+      "good_for": [
+        "city commute",
+        "exploring the city",
+        "headed to work",
+        "solo walk thoughts"
+      ],
+      "score": 4
+    },
+    {
+      "start": 3.0,
+      "end": 7.0,
+      "action": "Creator turns his gaze forward to look ahead down the street while continuing to walk",
+      "emotion": "focused, casual",
+      "good_for": [
+        "busy mind",
+        "on the move",
+        "chasing dreams in nyc",
+        "romanticizing life"
+      ],
+      "score": 4
+    }
+  ]
+}

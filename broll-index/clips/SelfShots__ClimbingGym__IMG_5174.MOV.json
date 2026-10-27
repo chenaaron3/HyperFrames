@@ -1,0 +1,95 @@
+{
+  "path": "SelfShots/ClimbingGym/IMG_5174.MOV",
+  "folder": "SelfShots/ClimbingGym",
+  "fingerprint": "0ebfcbb1acab11cb",
+  "width": 1080,
+  "height": 1920,
+  "fps": 30.0,
+  "duration": 12.467,
+  "model": "gemini-3.8-flash",
+  "annotatedAt": "2026-10-24T18:38:53+00:00",
+  "summary": "A young man dramatically falls backward onto a padded climbing gym mat and lies completely flat in exhaustion before sitting up.",
+  "location": "climbing gym",
+  "setting": "indoor",
+  "time_of_day": "indoor_unknown",
+  "weather": "n/a",
+  "people": {
+    "count": 1,
+    "creator_visible": true,
+    "description": "Young Asian man with fluffy dark hair, wearing an open-collar brown textured short-sleeve shirt and black trousers."
+  },
+  "camera": {
+    "style": "tripod_static",
+    "framing": "medium",
+    "movement": "static",
+    "angle": "top-down"
+  },
+  "quality": {
+    "usable": true,
+    "stability": "steady",
+    "exposure": "good",
+    "issues": "Accidental start and end movements while walking into frame"
+  },
+  "mood": [
+    "exhausted",
+    "dramatic",
+    "humorous",
+    "relatable",
+    "defeated"
+  ],
+  "energy": "low",
+  "tags": [
+    "climbing gym",
+    "crash pad",
+    "mat",
+    "collapse",
+    "falling backward",
+    "flopping",
+    "tired",
+    "workout",
+    "burnout",
+    "bouldering",
+    "resting",
+    "relatable meme"
+  ],
+  "moments": [
+    {
+      "start": 2.2,
+      "end": 5.0,
+      "action": "Creator flops backward onto the gym crash pad and lies flat on his back",
+      "emotion": "defeated, flopping onto bed, theatrical collapse",
+      "good_for": [
+        "flopping onto bed",
+        "when monday hits",
+        "i am so done",
+        "giving up for today"
+      ],
+      "score": 4
+    },
+    {
+      "start": 4.5,
+      "end": 8.5,
+      "action": "Creator lies completely still and flat on his back on the mat staring upwards",
+      "emotion": "exhausted, existential dread, spaced out",
+      "good_for": [
+        "existential crisis",
+        "overthinking everything",
+        "after a brutal workout",
+        "drained of energy"
+      ],
+      "score": 4
+    },
+    {
+      "start": 8.5,
+      "end": 10.5,
+      "action": "Creator sits straight up abruptly from lying down",
+      "emotion": "sudden realization, alert, snapping back",
+      "good_for": [
+        "remembering what i forgot to do",
+        "back to reality",
+        "locking back in"
+      ],
+      "score": 3
+    }
+  ]
+}

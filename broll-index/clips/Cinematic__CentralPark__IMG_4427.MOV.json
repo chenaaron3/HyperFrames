@@ -1,0 +1,67 @@
+{
+  "path": "Cinematic/CentralPark/IMG_4427.MOV",
+  "folder": "Cinematic/CentralPark",
+  "fingerprint": "03f4f56c090263ff",
+  "width": 1080,
+  "height": 1920,
+  "fps": 30.0,
+  "duration": 2.498,
+  "model": "gemini-3.8-flash",
+  "annotatedAt": "2026-10-24T18:17:58+00:00",
+  "summary": "A street vendor prepares fresh fruit at a cart sheltered under a blue umbrella in Central Park while a customer waits.",
+  "location": "park",
+  "setting": "outdoor",
+  "time_of_day": "day",
+  "weather": "sunny",
+  "people": {
+    "count": 3,
+    "creator_visible": false,
+    "description": "A fruit vendor slicing fruit, an assistant packing coolers, and a male customer in a white t-shirt and jeans waiting."
+  },
+  "camera": {
+    "style": "handheld_cinematic",
+    "framing": "medium",
+    "movement": "static",
+    "angle": "eye level"
+  },
+  "quality": {
+    "usable": true,
+    "stability": "steady",
+    "exposure": "good",
+    "issues": ""
+  },
+  "mood": [
+    "vibrant",
+    "summery",
+    "casual",
+    "authentic"
+  ],
+  "energy": "low",
+  "tags": [
+    "central park",
+    "nyc",
+    "fruit cart",
+    "street vendor",
+    "street food",
+    "fresh fruit",
+    "summer vibes",
+    "city life",
+    "park",
+    "sunny day"
+  ],
+  "moments": [
+    {
+      "start": 0.0,
+      "end": 2.5,
+      "action": "A fruit vendor prepares cut fruit beneath a blue umbrella along a park pathway while a customer waits beside the cart",
+      "emotion": "calm",
+      "good_for": [
+        "summer in the city",
+        "supporting local vendors",
+        "simple pleasures",
+        "nyc street culture"
+      ],
+      "score": 3
+    }
+  ]
+}

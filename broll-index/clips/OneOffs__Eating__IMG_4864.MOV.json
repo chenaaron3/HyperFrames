@@ -1,0 +1,108 @@
+{
+  "path": "OneOffs/Eating/IMG_4864.MOV",
+  "folder": "OneOffs/Eating",
+  "fingerprint": "52fb8b9944b81c71",
+  "width": 1080,
+  "height": 1920,
+  "fps": 30.0,
+  "duration": 73.74,
+  "model": "gemini-3.8-flash",
+  "annotatedAt": "2026-10-24T18:35:15+00:00",
+  "summary": "A young man walks onto a waterfront wooden pier at golden hour, relaxes on a lounge chair facing the sunset, and later displays a gourmet sandwich in front of the lens.",
+  "location": "waterfront pier",
+  "setting": "outdoor",
+  "time_of_day": "golden_hour",
+  "weather": "sunny",
+  "people": {
+    "count": 4,
+    "creator_visible": true,
+    "description": "Young man with dark hair wearing a long black coat and trousers; casual joggers passing in the background."
+  },
+  "camera": {
+    "style": "tripod_static",
+    "framing": "medium",
+    "movement": "static",
+    "angle": "eye level"
+  },
+  "quality": {
+    "usable": true,
+    "stability": "locked",
+    "exposure": "mixed",
+    "issues": "Direct sun glare creating strong lens flare and silhouetting."
+  },
+  "mood": [
+    "peaceful",
+    "cinematic",
+    "chill",
+    "solitary"
+  ],
+  "energy": "low",
+  "tags": [
+    "waterfront",
+    "sunset",
+    "golden hour",
+    "lounge chair",
+    "pier",
+    "relaxation",
+    "silhouette",
+    "sandwich",
+    "foodie",
+    "river",
+    "peaceful",
+    "evening walk"
+  ],
+  "moments": [
+    {
+      "start": 2.5,
+      "end": 9.0,
+      "action": "Creator walks into the frame and sits down on the wooden recliner chair facing the golden sunset",
+      "emotion": "relaxed",
+      "good_for": [
+        "taking a breather",
+        "end of the day",
+        "golden hour peace",
+        "romanticizing your life"
+      ],
+      "score": 4
+    },
+    {
+      "start": 10.0,
+      "end": 17.5,
+      "action": "Creator leans back and rests on the lounge chair as joggers pass by along the sunlit pier",
+      "emotion": "peaceful",
+      "good_for": [
+        "unwinding",
+        "watching the sunset",
+        "slowing down",
+        "peace of mind"
+      ],
+      "score": 4
+    },
+    {
+      "start": 23.0,
+      "end": 31.0,
+      "action": "Creator sits in silhouette on the lounge chair overlooking the sparkling water",
+      "emotion": "contemplative",
+      "good_for": [
+        "quiet moments",
+        "solitude",
+        "evening vibes",
+        "daily reset"
+      ],
+      "score": 4
+    },
+    {
+      "start": 64.5,
+      "end": 71.5,
+      "action": "Creator steps forward holding a thick layered sandwich up to the camera with the sunset flare behind it",
+      "emotion": "satisfied",
+      "good_for": [
+        "dinner with a view",
+        "foodie sunset",
+        "best sandwich ever",
+        "little treats"
+      ],
+      "score": 5
+    }
+  ]
+}

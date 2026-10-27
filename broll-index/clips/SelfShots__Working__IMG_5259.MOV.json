@@ -1,0 +1,117 @@
+{
+  "path": "SelfShots/Working/IMG_5259.MOV",
+  "folder": "SelfShots/Working",
+  "fingerprint": "d7d7f4a614473ac2",
+  "width": 1080,
+  "height": 1920,
+  "fps": 30.0,
+  "duration": 85.438,
+  "model": "gemini-3.8-flash",
+  "annotatedAt": "2026-10-24T19:03:29+00:00",
+  "summary": "A young man sits on a lounge couch next to a floor-to-ceiling window overlooking a busy city street, working focusedly on his laptop.",
+  "location": "cafe",
+  "setting": "indoor",
+  "time_of_day": "day",
+  "weather": "sunny",
+  "people": {
+    "count": 1,
+    "creator_visible": true,
+    "description": "Young Asian man with wavy dark hair, wearing an oversized faded gray t-shirt and light jeans, working on a dark MacBook."
+  },
+  "camera": {
+    "style": "tripod_static",
+    "framing": "medium",
+    "movement": "static",
+    "angle": "eye level"
+  },
+  "quality": {
+    "usable": true,
+    "stability": "locked",
+    "exposure": "good",
+    "issues": ""
+  },
+  "mood": [
+    "focused",
+    "productive",
+    "calm",
+    "urban",
+    "contemplative"
+  ],
+  "energy": "low",
+  "tags": [
+    "working",
+    "laptop",
+    "typing",
+    "remote work",
+    "digital nomad",
+    "study",
+    "cafe",
+    "city view",
+    "productivity",
+    "freelance",
+    "minimalist",
+    "focus"
+  ],
+  "moments": [
+    {
+      "start": 0.0,
+      "end": 5.0,
+      "action": "Sets down the camera, leans back into the sofa, and opens his laptop",
+      "emotion": "calm",
+      "good_for": [
+        "getting to work",
+        "lock in",
+        "study vlog intro"
+      ],
+      "score": 3
+    },
+    {
+      "start": 8.0,
+      "end": 16.0,
+      "action": "Starts typing on his laptop, pausing briefly to brush hair from his face",
+      "emotion": "focused",
+      "good_for": [
+        "deep work",
+        "working remotely",
+        "daily grind"
+      ],
+      "score": 4
+    },
+    {
+      "start": 21.0,
+      "end": 28.0,
+      "action": "Stops typing to rub his hands together thoughtfully while looking at the screen",
+      "emotion": "thoughtful",
+      "good_for": [
+        "thinking through problems",
+        "writing session",
+        "working on my dream"
+      ],
+      "score": 4
+    },
+    {
+      "start": 46.0,
+      "end": 54.0,
+      "action": "Continuously types on his keyboard while pedestrians walk past outside the large window",
+      "emotion": "focused",
+      "good_for": [
+        "busy city life",
+        "studying in a cafe",
+        "productivity aesthetic"
+      ],
+      "score": 5
+    },
+    {
+      "start": 78.0,
+      "end": 85.4,
+      "action": "Types intently on the laptop before stopping and looking straight into the camera lens",
+      "emotion": "attentive",
+      "good_for": [
+        "when someone says your name",
+        "study break",
+        "working hard"
+      ],
+      "score": 4
+    }
+  ]
+}

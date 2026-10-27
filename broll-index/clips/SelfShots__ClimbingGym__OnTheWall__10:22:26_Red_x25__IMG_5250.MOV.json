@@ -1,0 +1,105 @@
+{
+  "path": "SelfShots/ClimbingGym/OnTheWall/10:22:26_Red_x25/IMG_5250.MOV",
+  "folder": "SelfShots/ClimbingGym/OnTheWall/10:22:26_Red_x25",
+  "fingerprint": "362c9fa77d6ff96d",
+  "width": 1080,
+  "height": 1920,
+  "fps": 30.0,
+  "duration": 37.235,
+  "model": "gemini-3.8-flash",
+  "annotatedAt": "2026-10-24T18:50:38+00:00",
+  "summary": "A young man tackles a challenging route on an indoor bouldering wall, successfully reaching the top hold before dropping back to the safety mat.",
+  "location": "gym",
+  "setting": "indoor",
+  "time_of_day": "indoor_unknown",
+  "weather": "n/a",
+  "people": {
+    "count": 1,
+    "creator_visible": true,
+    "description": "Young man with dark hair, wearing a brown open button-up shirt over a grey tank top and loose denim jeans."
+  },
+  "camera": {
+    "style": "tripod_static",
+    "framing": "wide",
+    "movement": "static",
+    "angle": "eye level"
+  },
+  "quality": {
+    "usable": true,
+    "stability": "locked",
+    "exposure": "good",
+    "issues": ""
+  },
+  "mood": [
+    "focused",
+    "athletic",
+    "determined",
+    "energetic"
+  ],
+  "energy": "medium",
+  "tags": [
+    "bouldering",
+    "rock climbing",
+    "climbing gym",
+    "indoor climbing",
+    "dyno",
+    "fitness",
+    "workout",
+    "athletic",
+    "training",
+    "sports",
+    "holds",
+    "send"
+  ],
+  "moments": [
+    {
+      "start": 4.5,
+      "end": 11.0,
+      "action": "Climber approaches the wall, finds his hand and foot placements, and establishes himself on the starting holds",
+      "emotion": "focused",
+      "good_for": [
+        "starting from the bottom",
+        "trusting the process",
+        "lock in"
+      ],
+      "score": 3
+    },
+    {
+      "start": 11.0,
+      "end": 16.0,
+      "action": "Climber performs a dynamic pop to latch onto the pink sloper volume and balances himself",
+      "emotion": "determined",
+      "good_for": [
+        "taking the leap",
+        "commitment",
+        "climbing progression"
+      ],
+      "score": 4
+    },
+    {
+      "start": 22.5,
+      "end": 31.5,
+      "action": "Climber works through the crux moves, dynos for the final top hold, matches hands, and drops safely down to the mat",
+      "emotion": "triumphant",
+      "good_for": [
+        "reaching the top",
+        "finishing what you started",
+        "the send",
+        "hard work pays off"
+      ],
+      "score": 5
+    },
+    {
+      "start": 31.5,
+      "end": 35.0,
+      "action": "Climber lands on the floor mat, wipes his face, and walks out of frame after sending the route",
+      "emotion": "relieved and satisfied",
+      "good_for": [
+        "another one done",
+        "post-workout feeling",
+        "onto the next"
+      ],
+      "score": 3
+    }
+  ]
+}

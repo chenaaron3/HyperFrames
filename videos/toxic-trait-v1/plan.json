@@ -1,0 +1,23 @@
+{
+  "format": "opinion-18",
+  "title": "My toxic trait is loving my alone time a little too much",
+  "lines": {
+    "l1": "My toxic trait is loving my alone\ntime a little too much"
+  },
+  "shots": {
+    "s1": {
+      "clip": "SelfShots/MorningRoutine/2.5_IMG_4922.MOV",
+      "in": 48.02,
+      "speed": 1.0,
+      "note": "hand pick",
+      "query": "cooking kitchen alone calm",
+      "motion": {
+        "speed": 0.7,
+        "jitter": 0.37,
+        "verdict": "ok"
+      }
+    }
+  },
+  "caption": "Me: loves people. Also me: prefers my apartment.",
+  "textY": 0.5
+}

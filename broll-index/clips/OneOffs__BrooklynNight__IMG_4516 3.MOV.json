@@ -1,0 +1,90 @@
+{
+  "path": "OneOffs/BrooklynNight/IMG_4516 3.MOV",
+  "folder": "OneOffs/BrooklynNight",
+  "fingerprint": "c2653ff89c9acd63",
+  "width": 1080,
+  "height": 1920,
+  "fps": 30.0,
+  "duration": 6.233,
+  "model": "gemini-3.8-flash",
+  "annotatedAt": "2026-10-24T18:22:39+00:00",
+  "summary": "A young man wearing glasses and a graphic t-shirt holds open the glass entrance door of a bright clothing store at night and walks in with friends.",
+  "location": "clothing store entrance",
+  "setting": "mixed",
+  "time_of_day": "night",
+  "weather": "n/a",
+  "people": {
+    "count": 3,
+    "creator_visible": true,
+    "description": "A young man with glasses, fade haircut, and a black 'Wink Wink Nation' graphic tee opening the door; a friend ahead in a white t-shirt with Japanese graphics; other shoppers inside."
+  },
+  "camera": {
+    "style": "filmed_by_friend",
+    "framing": "medium",
+    "movement": "walking",
+    "angle": "eye level"
+  },
+  "quality": {
+    "usable": true,
+    "stability": "handheld",
+    "exposure": "mixed",
+    "issues": ""
+  },
+  "mood": [
+    "casual",
+    "relaxed",
+    "social"
+  ],
+  "energy": "medium",
+  "tags": [
+    "shopping",
+    "night out",
+    "brooklyn",
+    "friends",
+    "retail",
+    "store entrance",
+    "city life",
+    "graphic tee",
+    "door hold",
+    "lifestyle"
+  ],
+  "moments": [
+    {
+      "start": 0.0,
+      "end": 2.2,
+      "action": "Man approaching the glass door of a bright retail store from outside at night",
+      "emotion": "casual",
+      "good_for": [
+        "city nights",
+        "night out with friends",
+        "late night shopping"
+      ],
+      "score": 3
+    },
+    {
+      "start": 2.2,
+      "end": 4.5,
+      "action": "Man pulls open the door, glances back towards the camera with a gentle smile, and steps inside",
+      "emotion": "friendly smile",
+      "good_for": [
+        "holding the door for you",
+        "night out",
+        "little moments with friends",
+        "when they open the door for you"
+      ],
+      "score": 4
+    },
+    {
+      "start": 4.2,
+      "end": 6.2,
+      "action": "Man walks into the brightly illuminated clothing store following a friend",
+      "emotion": "engaged",
+      "good_for": [
+        "retail therapy",
+        "entering the store",
+        "weekend errands"
+      ],
+      "score": 3
+    }
+  ]
+}

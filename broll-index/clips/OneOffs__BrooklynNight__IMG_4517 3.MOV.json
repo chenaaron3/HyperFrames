@@ -1,0 +1,78 @@
+{
+  "path": "OneOffs/BrooklynNight/IMG_4517 3.MOV",
+  "folder": "OneOffs/BrooklynNight",
+  "fingerprint": "8431e75e381cad3a",
+  "width": 1080,
+  "height": 1920,
+  "fps": 30.0,
+  "duration": 4.565,
+  "model": "gemini-3.8-flash",
+  "annotatedAt": "2026-10-24T18:22:38+00:00",
+  "summary": "First-person perspective walking through a brightly lit GU clothing store past racks of apparel toward an escalator.",
+  "location": "clothing store",
+  "setting": "indoor",
+  "time_of_day": "indoor_unknown",
+  "weather": "n/a",
+  "people": {
+    "count": 6,
+    "creator_visible": false,
+    "description": "Shoppers browsing clothes and riding the escalator in a retail store"
+  },
+  "camera": {
+    "style": "pov_first_person",
+    "framing": "medium",
+    "movement": "walking",
+    "angle": "eye level"
+  },
+  "quality": {
+    "usable": true,
+    "stability": "handheld",
+    "exposure": "good",
+    "issues": ""
+  },
+  "mood": [
+    "casual",
+    "urban",
+    "busy"
+  ],
+  "energy": "medium",
+  "tags": [
+    "clothing store",
+    "retail",
+    "shopping",
+    "fashion",
+    "escalator",
+    "mall",
+    "brooklyn",
+    "new york",
+    "apparel",
+    "urban lifestyle"
+  ],
+  "moments": [
+    {
+      "start": 0.0,
+      "end": 2.5,
+      "action": "Walking through the clothing aisle past racks of colorful jackets and shoppers",
+      "emotion": "neutral",
+      "good_for": [
+        "retail therapy",
+        "shopping day",
+        "weekend errands",
+        "browsing clothes"
+      ],
+      "score": 3
+    },
+    {
+      "start": 2.5,
+      "end": 4.57,
+      "action": "Camera approaches the store escalator while customers ride up and down",
+      "emotion": "casual",
+      "good_for": [
+        "city shopping",
+        "running errands",
+        "exploring the city"
+      ],
+      "score": 2
+    }
+  ]
+}

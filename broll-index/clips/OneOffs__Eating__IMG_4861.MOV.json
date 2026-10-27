@@ -1,0 +1,78 @@
+{
+  "path": "OneOffs/Eating/IMG_4861.MOV",
+  "folder": "OneOffs/Eating",
+  "fingerprint": "26645dbcee458d23",
+  "width": 1080,
+  "height": 1920,
+  "fps": 30.0,
+  "duration": 3.1,
+  "model": "gemini-3.8-flash",
+  "annotatedAt": "2026-10-24T18:35:00+00:00",
+  "summary": "First-person POV of someone holding a brown paper takeout bag inside a brightly lit deli or bodega with snacks and drink coolers.",
+  "location": "deli",
+  "setting": "indoor",
+  "time_of_day": "indoor_unknown",
+  "weather": "n/a",
+  "people": {
+    "count": 0,
+    "creator_visible": false,
+    "description": "Only the creator's hand and arm holding a brown paper bag are visible at the beginning"
+  },
+  "camera": {
+    "style": "pov_first_person",
+    "framing": "medium",
+    "movement": "handheld",
+    "angle": "eye level"
+  },
+  "quality": {
+    "usable": true,
+    "stability": "handheld",
+    "exposure": "good",
+    "issues": ""
+  },
+  "mood": [
+    "casual",
+    "everyday",
+    "content"
+  ],
+  "energy": "low",
+  "tags": [
+    "bodega",
+    "deli",
+    "takeout",
+    "brown paper bag",
+    "convenience store",
+    "snacks",
+    "beverage cooler",
+    "quick bite",
+    "lunch run",
+    "pov"
+  ],
+  "moments": [
+    {
+      "start": 0.0,
+      "end": 1.2,
+      "action": "POV holding up a brown paper takeout bag in front of a deli counter",
+      "emotion": "satisfied",
+      "good_for": [
+        "securing the bag",
+        "lunch break",
+        "daily deli run",
+        "comfort food"
+      ],
+      "score": 3
+    },
+    {
+      "start": 1.2,
+      "end": 3.1,
+      "action": "Camera pans slightly across the deli interior showcasing snack racks and drink coolers",
+      "emotion": "calm",
+      "good_for": [
+        "corner store vibes",
+        "bodega appreciation",
+        "running errands"
+      ],
+      "score": 2
+    }
+  ]
+}

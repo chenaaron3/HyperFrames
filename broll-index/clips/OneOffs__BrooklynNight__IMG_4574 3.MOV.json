@@ -1,0 +1,70 @@
+{
+  "path": "OneOffs/BrooklynNight/IMG_4574 3.MOV",
+  "folder": "OneOffs/BrooklynNight",
+  "fingerprint": "82f6d061b07180fc",
+  "width": 1080,
+  "height": 1920,
+  "fps": 30.0,
+  "duration": 2.932,
+  "model": "gemini-3.8-flash",
+  "annotatedAt": "2026-10-24T18:24:07+00:00",
+  "summary": "Pedestrians walk along the Brooklyn Bridge promenade at night, with illuminated stone arches and vehicle traffic below.",
+  "location": "brooklyn bridge",
+  "setting": "outdoor",
+  "time_of_day": "night",
+  "weather": "n/a",
+  "people": {
+    "count": 10,
+    "creator_visible": false,
+    "description": "Pedestrians bundled up in jackets walking and taking photos on the bridge walkway"
+  },
+  "camera": {
+    "style": "pov_first_person",
+    "framing": "medium",
+    "movement": "handheld",
+    "angle": "eye level"
+  },
+  "quality": {
+    "usable": true,
+    "stability": "handheld",
+    "exposure": "good",
+    "issues": ""
+  },
+  "mood": [
+    "scenic",
+    "atmospheric",
+    "urban",
+    "exploratory"
+  ],
+  "energy": "medium",
+  "tags": [
+    "brooklyn bridge",
+    "new york city",
+    "nyc",
+    "night walk",
+    "city lights",
+    "traffic",
+    "pedestrians",
+    "travel",
+    "sightseeing",
+    "skyline",
+    "evening",
+    "bridge"
+  ],
+  "moments": [
+    {
+      "start": 0.0,
+      "end": 2.93,
+      "action": "Pedestrians stroll along the Brooklyn Bridge wooden walkway at night as cars stream by below against the illuminated arch",
+      "emotion": "awe, lively city ambiance",
+      "good_for": [
+        "city nights",
+        "places that make you feel small",
+        "nyc travel vlog",
+        "late night walks",
+        "favorite city memories"
+      ],
+      "score": 4
+    }
+  ]
+}

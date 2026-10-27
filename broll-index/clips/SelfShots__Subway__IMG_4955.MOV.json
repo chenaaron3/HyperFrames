@@ -1,0 +1,79 @@
+{
+  "path": "SelfShots/Subway/IMG_4955.MOV",
+  "folder": "SelfShots/Subway",
+  "fingerprint": "9b3e9fbd6d14a82b",
+  "width": 1080,
+  "height": 1920,
+  "fps": 30.0,
+  "duration": 4.733,
+  "model": "gemini-3.8-flash",
+  "annotatedAt": "2026-10-24T19:01:07+00:00",
+  "summary": "First-person POV walking through exit turnstiles and entering an underground subway station concourse alongside other commuters.",
+  "location": "subway station",
+  "setting": "indoor",
+  "time_of_day": "indoor_unknown",
+  "weather": "n/a",
+  "people": {
+    "count": 5,
+    "creator_visible": false,
+    "description": "Commuters seen from behind walking through turnstiles and crossing the subway mezzanine"
+  },
+  "camera": {
+    "style": "pov_first_person",
+    "framing": "medium",
+    "movement": "walking",
+    "angle": "eye level"
+  },
+  "quality": {
+    "usable": true,
+    "stability": "handheld",
+    "exposure": "good",
+    "issues": ""
+  },
+  "mood": [
+    "urban",
+    "everyday",
+    "routine",
+    "busy"
+  ],
+  "energy": "medium",
+  "tags": [
+    "subway",
+    "turnstile",
+    "commute",
+    "public transit",
+    "metro",
+    "nyc",
+    "city life",
+    "walking",
+    "transit",
+    "commuters"
+  ],
+  "moments": [
+    {
+      "start": 0.0,
+      "end": 2.2,
+      "action": "Following commuters through the metal subway exit turnstiles",
+      "emotion": "neutral",
+      "good_for": [
+        "daily commute",
+        "city routine",
+        "on my way",
+        "leaving work"
+      ],
+      "score": 3
+    },
+    {
+      "start": 2.2,
+      "end": 4.73,
+      "action": "Emerging past the turnstiles into the open subway station mezzanine near the token booth",
+      "emotion": "neutral",
+      "good_for": [
+        "city transit",
+        "subway rush",
+        "urban explorer"
+      ],
+      "score": 3
+    }
+  ]
+}

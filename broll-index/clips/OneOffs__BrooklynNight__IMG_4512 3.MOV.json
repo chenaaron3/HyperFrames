@@ -1,0 +1,70 @@
+{
+  "path": "OneOffs/BrooklynNight/IMG_4512 3.MOV",
+  "folder": "OneOffs/BrooklynNight",
+  "fingerprint": "15eb17387b217c5d",
+  "width": 1080,
+  "height": 1920,
+  "fps": 30.0,
+  "duration": 1.832,
+  "model": "gemini-3.8-flash",
+  "annotatedAt": "2026-10-24T18:22:32+00:00",
+  "summary": "A young man holds the camera in a crowded subway car, filming himself making an exaggerated shocked 'O' face.",
+  "location": "subway car",
+  "setting": "vehicle",
+  "time_of_day": "indoor_unknown",
+  "weather": "n/a",
+  "people": {
+    "count": 6,
+    "creator_visible": true,
+    "description": "Young East Asian man with dark wavy hair, wearing a brown textured knit polo, white earbuds, making a funny surprised face with passengers in the background"
+  },
+  "camera": {
+    "style": "selfie",
+    "framing": "close",
+    "movement": "handheld",
+    "angle": "eye level"
+  },
+  "quality": {
+    "usable": true,
+    "stability": "handheld",
+    "exposure": "good",
+    "issues": "slight motion blur from quick movement"
+  },
+  "mood": [
+    "funny",
+    "shocked",
+    "playful",
+    "relatable",
+    "chaotic"
+  ],
+  "energy": "high",
+  "tags": [
+    "subway",
+    "commute",
+    "nyc",
+    "transit",
+    "crowd",
+    "funny face",
+    "shocked",
+    "surprised",
+    "selfie",
+    "meme",
+    "relatable reaction"
+  ],
+  "moments": [
+    {
+      "start": 0.0,
+      "end": 1.83,
+      "action": "Creator films a handheld selfie inside a crowded subway car while maintaining a wide-eyed, open-mouthed shocked expression",
+      "emotion": "shocked",
+      "good_for": [
+        "hearing unhinged public drama",
+        "pretending to be shocked",
+        "seeing my bank account balance",
+        "unhinged commute moments",
+        "plot twists nobody saw coming"
+      ],
+      "score": 4
+    }
+  ]
+}

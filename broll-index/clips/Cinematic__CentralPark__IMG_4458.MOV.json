@@ -1,0 +1,70 @@
+{
+  "path": "Cinematic/CentralPark/IMG_4458.MOV",
+  "folder": "Cinematic/CentralPark",
+  "fingerprint": "48687cbfdbe7aa82",
+  "width": 1080,
+  "height": 1920,
+  "fps": 30.0,
+  "duration": 5.4,
+  "model": "gemini-3.8-flash",
+  "annotatedAt": "2026-10-24T18:18:33+00:00",
+  "summary": "A flock of Canada geese gather along a muddy water bank and swim in an algae-covered pond in Central Park, framed by overhanging tree branches.",
+  "location": "park",
+  "setting": "outdoor",
+  "time_of_day": "day",
+  "weather": "sunny",
+  "people": {
+    "count": 0,
+    "creator_visible": false,
+    "description": "No people present"
+  },
+  "camera": {
+    "style": "handheld_cinematic",
+    "framing": "wide",
+    "movement": "static",
+    "angle": "eye level"
+  },
+  "quality": {
+    "usable": true,
+    "stability": "steady",
+    "exposure": "good",
+    "issues": ""
+  },
+  "mood": [
+    "peaceful",
+    "calm",
+    "serene",
+    "nature"
+  ],
+  "energy": "low",
+  "tags": [
+    "central park",
+    "geese",
+    "canada geese",
+    "pond",
+    "nature",
+    "autumn",
+    "fall leaves",
+    "wildlife",
+    "water",
+    "new york city",
+    "calm",
+    "serene"
+  ],
+  "moments": [
+    {
+      "start": 0.0,
+      "end": 5.4,
+      "action": "Canada geese foraging and resting on the edge of a duck pond framed by leafy green and yellow branches",
+      "emotion": "calm",
+      "good_for": [
+        "peace of mind",
+        "spending time outside",
+        "nature walks",
+        "autumn days",
+        "finding quiet in the city"
+      ],
+      "score": 4
+    }
+  ]
+}

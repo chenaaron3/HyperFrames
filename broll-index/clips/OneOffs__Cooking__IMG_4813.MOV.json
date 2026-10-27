@@ -1,0 +1,83 @@
+{
+  "path": "OneOffs/Cooking/IMG_4813.MOV",
+  "folder": "OneOffs/Cooking",
+  "fingerprint": "fe407a1b4c3c72dd",
+  "width": 1080,
+  "height": 1920,
+  "fps": 30.0,
+  "duration": 10.035,
+  "model": "gemini-3.8-flash",
+  "annotatedAt": "2026-10-24T18:24:58+00:00",
+  "summary": "A pot of creamy yellow liquid, likely soup or sauce, gently simmers on a gas stove burner.",
+  "location": "kitchen",
+  "setting": "indoor",
+  "time_of_day": "indoor_unknown",
+  "weather": "n/a",
+  "people": {
+    "count": 0,
+    "creator_visible": false,
+    "description": "No people visible"
+  },
+  "camera": {
+    "style": "pov_first_person",
+    "framing": "medium",
+    "movement": "static",
+    "angle": "high angle"
+  },
+  "quality": {
+    "usable": true,
+    "stability": "steady",
+    "exposure": "good",
+    "issues": ""
+  },
+  "mood": [
+    "cozy",
+    "calm",
+    "domestic",
+    "peaceful"
+  ],
+  "energy": "low",
+  "tags": [
+    "cooking",
+    "stove",
+    "simmering",
+    "sauce",
+    "soup",
+    "pot",
+    "kitchen",
+    "home cooked",
+    "gas stove",
+    "flame",
+    "boiling",
+    "food prep"
+  ],
+  "moments": [
+    {
+      "start": 0.0,
+      "end": 5.0,
+      "action": "A pot of yellow creamy liquid simmers over a blue gas flame on the stovetop",
+      "emotion": "calm",
+      "good_for": [
+        "home cooked meals",
+        "making dinner",
+        "cozy evening routine",
+        "soup season",
+        "taking time to cook"
+      ],
+      "score": 3
+    },
+    {
+      "start": 5.0,
+      "end": 10.04,
+      "action": "Continued gentle bubbling and simmering of the liquid in the metal saucepan",
+      "emotion": "peaceful",
+      "good_for": [
+        "warm comfort food",
+        "nourishing meals",
+        "simple life pleasures",
+        "cooking from scratch"
+      ],
+      "score": 3
+    }
+  ]
+}

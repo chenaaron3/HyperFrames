@@ -1,0 +1,73 @@
+{
+  "path": "Cinematic/CentralPark/IMG_4443.MOV",
+  "folder": "Cinematic/CentralPark",
+  "fingerprint": "bc67dfb005e79119",
+  "width": 1080,
+  "height": 1920,
+  "fps": 30.0,
+  "duration": 4.333,
+  "model": "gemini-3.8-flash",
+  "annotatedAt": "2026-10-24T18:18:13+00:00",
+  "summary": "A jazz band busks outdoors under a large shady tree in Central Park on a sunny day.",
+  "location": "park",
+  "setting": "outdoor",
+  "time_of_day": "day",
+  "weather": "sunny",
+  "people": {
+    "count": 5,
+    "creator_visible": false,
+    "description": "Street musicians performing jazz under a tree, including a seated guitarist, standing saxophonist, double bassist, and drummer."
+  },
+  "camera": {
+    "style": "pov_first_person",
+    "framing": "wide",
+    "movement": "static",
+    "angle": "eye level"
+  },
+  "quality": {
+    "usable": true,
+    "stability": "steady",
+    "exposure": "good",
+    "issues": ""
+  },
+  "mood": [
+    "relaxed",
+    "peaceful",
+    "soulful",
+    "artistic",
+    "nostalgic"
+  ],
+  "energy": "medium",
+  "tags": [
+    "central park",
+    "new york city",
+    "busking",
+    "jazz band",
+    "live music",
+    "street performers",
+    "saxophonist",
+    "guitarist",
+    "double bass",
+    "drums",
+    "park",
+    "nature",
+    "sunny day",
+    "city vibes"
+  ],
+  "moments": [
+    {
+      "start": 0.0,
+      "end": 4.33,
+      "action": "A jazz quartet busks together under a large tree in Central Park as pedestrians stroll past in the background.",
+      "emotion": "focused and relaxed",
+      "good_for": [
+        "falling in love with nyc",
+        "sunday strolls",
+        "simple moments in the city",
+        "romanticizing life",
+        "places that feel like movie scenes"
+      ],
+      "score": 4
+    }
+  ]
+}

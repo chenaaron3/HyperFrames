@@ -1,0 +1,71 @@
+{
+  "path": "Cinematic/CentralPark/IMG_4482.MOV",
+  "folder": "Cinematic/CentralPark",
+  "fingerprint": "93b1d09364c64bd1",
+  "width": 1080,
+  "height": 1920,
+  "fps": 30.0,
+  "duration": 3.167,
+  "model": "gemini-3.8-flash",
+  "annotatedAt": "2026-10-24T18:19:01+00:00",
+  "summary": "A smooth scenic pan across a green lawn and baseball diamond in Central Park framed by lush trees and distant apartment buildings.",
+  "location": "park",
+  "setting": "outdoor",
+  "time_of_day": "day",
+  "weather": "sunny",
+  "people": {
+    "count": 10,
+    "creator_visible": false,
+    "description": "Unidentifiable people relaxing and sitting far away on the grass"
+  },
+  "camera": {
+    "style": "handheld_cinematic",
+    "framing": "wide",
+    "movement": "pan",
+    "angle": "eye level"
+  },
+  "quality": {
+    "usable": true,
+    "stability": "steady",
+    "exposure": "good",
+    "issues": ""
+  },
+  "mood": [
+    "peaceful",
+    "serene",
+    "calm",
+    "refreshing",
+    "tranquil"
+  ],
+  "energy": "low",
+  "tags": [
+    "central park",
+    "new york city",
+    "nyc",
+    "park",
+    "green lawn",
+    "trees",
+    "summer",
+    "meadow",
+    "nature",
+    "city park",
+    "baseball field",
+    "relaxation"
+  ],
+  "moments": [
+    {
+      "start": 0.0,
+      "end": 3.17,
+      "action": "Camera pans slowly from left to right across the green grass lawn, tall trees, and baseball diamond under a clear blue sky",
+      "emotion": "peaceful",
+      "good_for": [
+        "finding peace in the city",
+        "sunday strolls",
+        "nyc living",
+        "fresh air and quiet moments",
+        "nature heals"
+      ],
+      "score": 4
+    }
+  ]
+}

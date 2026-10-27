@@ -1,0 +1,103 @@
+{
+  "path": "OneOffs/Apartments/TimesSquare/337 West 43rd Street/IMG_4218.MOV",
+  "folder": "OneOffs/Apartments/TimesSquare/337 West 43rd Street",
+  "fingerprint": "389be939192d3f81",
+  "width": 1080,
+  "height": 1920,
+  "fps": 30.0,
+  "duration": 34.737,
+  "model": "gemini-3.8-flash",
+  "annotatedAt": "2026-10-24T18:22:06+00:00",
+  "summary": "First-person POV video touring an empty rental apartment, exploring the kitchen appliances, bathroom, and closets.",
+  "location": "apartment",
+  "setting": "indoor",
+  "time_of_day": "day",
+  "weather": "n/a",
+  "people": {
+    "count": 2,
+    "creator_visible": true,
+    "description": "The creator appears briefly in the bathroom mirror reflection wearing glasses, accompanied by another person visible in window reflections."
+  },
+  "camera": {
+    "style": "pov_first_person",
+    "framing": "medium",
+    "movement": "walking",
+    "angle": "eye level"
+  },
+  "quality": {
+    "usable": true,
+    "stability": "handheld",
+    "exposure": "good",
+    "issues": "some rapid camera turns between rooms"
+  },
+  "mood": [
+    "curious",
+    "practical",
+    "routine"
+  ],
+  "energy": "low",
+  "tags": [
+    "apartment tour",
+    "apartment hunting",
+    "real estate",
+    "kitchen",
+    "appliances",
+    "dishwasher",
+    "bathroom",
+    "closet",
+    "new york city",
+    "moving"
+  ],
+  "moments": [
+    {
+      "start": 7.5,
+      "end": 11.5,
+      "action": "Walking into the compact kitchen featuring stainless steel appliances including a gas range, microwave, and refrigerator",
+      "emotion": "focused",
+      "good_for": [
+        "apartment hunting in nyc",
+        "checking out the kitchen",
+        "finding a new home",
+        "adulting milestones"
+      ],
+      "score": 4
+    },
+    {
+      "start": 12.5,
+      "end": 15.5,
+      "action": "Hand opens and shuts the stainless steel dishwasher to check its interior",
+      "emotion": "curious",
+      "good_for": [
+        "must have a dishwasher",
+        "apartment checklist",
+        "little luxuries",
+        "home inspection"
+      ],
+      "score": 3
+    },
+    {
+      "start": 25.0,
+      "end": 28.5,
+      "action": "Camera pans into the bathroom showing the sink vanity and bathtub, reflecting the person filming in the medicine cabinet mirror",
+      "emotion": "evaluating",
+      "good_for": [
+        "checking out the bathroom",
+        "apartment hunt reality",
+        "house hunting"
+      ],
+      "score": 3
+    },
+    {
+      "start": 29.5,
+      "end": 33.5,
+      "action": "Opening the bifold closet doors to reveal hanging closet organizers and shelves",
+      "emotion": "calm",
+      "good_for": [
+        "storage space check",
+        "closet space in nyc",
+        "organizing a new place"
+      ],
+      "score": 3
+    }
+  ]
+}

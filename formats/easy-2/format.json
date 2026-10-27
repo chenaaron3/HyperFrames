@@ -1,0 +1,71 @@
+{
+  "id": "easy-2",
+  "name": "If you're between 19-22, in Uni, worrying if you're in the w",
+  "reference": "references/viral-formats/easy-2.mp4",
+  "source": "/Users/aaron/Downloads/100 Viral Formats (Format Book)/Easy to use format/#2/#2.mp4",
+  "duration": 9.5,
+  "music": {
+    "from": "reference",
+    "title": "The Nights - Avicii"
+  },
+  "text": {
+    "y": 0.442,
+    "size": 64,
+    "weight": 700,
+    "lineHeight": 1.4,
+    "maxWidth": 900,
+    "style": "outline"
+  },
+  "lines": [
+    {
+      "id": "l1",
+      "start": 0.0,
+      "end": 9.5,
+      "ref": "If you're between 19-22, in Uni,\nworrying if you're in the wrong\nmajor and don't know what the\nfuture looks like...",
+      "y": 0.442,
+      "measuredSize": 38,
+      "style": "plain_white_shadow",
+      "guide": ""
+    },
+    {
+      "id": "l2",
+      "start": 3.033,
+      "end": 9.5,
+      "ref": "Read caption",
+      "y": 0.604,
+      "measuredSize": 135,
+      "style": "plain_white_shadow",
+      "guide": ""
+    }
+  ],
+  "shots": [
+    {
+      "id": "s1",
+      "start": 0.0,
+      "end": 3.033,
+      "brief": "ground-level low angle shot of creator sitting or squatting outside in the city (ref: Low-angle ground shot of a young man squatting on a plaza against a dramatic sunset sky in a city, looking around thoughtfully.; tripod)",
+      "line": "l1"
+    },
+    {
+      "id": "s2",
+      "start": 3.033,
+      "end": 9.5,
+      "brief": "ground-level low angle shot of creator looking thoughtful as people walk past (ref: Tighter low-angle shot of the young man squatting in the public square as crowds walk past in the background.; tripod)",
+      "line": "l1"
+    }
+  ],
+  "audit": {
+    "kind": "broll_with_text",
+    "creatorSpeaks": false,
+    "audio": "music only",
+    "special": [],
+    "reusable": true,
+    "notes": "Easily recreated with any existing b-roll of sitting, walking, or looking pensive in the city, paired with the relatable text hook and long-form advice caption.",
+    "summary": "A creator squats thoughtfully in a busy city square while on-screen text hooks college students feeling lost about their major and future, directing them to advice in the caption."
+  },
+  "caption": {
+    "ref": "",
+    "guide": ""
+  },
+  "draft": true
+}

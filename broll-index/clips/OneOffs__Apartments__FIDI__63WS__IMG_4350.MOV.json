@@ -1,0 +1,80 @@
+{
+  "path": "OneOffs/Apartments/FIDI/63WS/IMG_4350.MOV",
+  "folder": "OneOffs/Apartments/FIDI/63WS",
+  "fingerprint": "db421e00d596c1f6",
+  "width": 1080,
+  "height": 1920,
+  "fps": 29.97,
+  "duration": 5.168,
+  "model": "gemini-3.8-flash",
+  "annotatedAt": "2026-10-24T18:20:31+00:00",
+  "summary": "Handheld view panning across an empty modern apartment building gym equipped with weight racks, barbells, and exercise machines.",
+  "location": "gym",
+  "setting": "indoor",
+  "time_of_day": "indoor_unknown",
+  "weather": "n/a",
+  "people": {
+    "count": 0,
+    "creator_visible": false,
+    "description": "No one visible on screen"
+  },
+  "camera": {
+    "style": "pov_first_person",
+    "framing": "wide",
+    "movement": "pan",
+    "angle": "eye level"
+  },
+  "quality": {
+    "usable": true,
+    "stability": "handheld",
+    "exposure": "good",
+    "issues": ""
+  },
+  "mood": [
+    "quiet",
+    "modern",
+    "aspirational",
+    "spacious"
+  ],
+  "energy": "low",
+  "tags": [
+    "gym",
+    "fitness center",
+    "apartment amenities",
+    "weights",
+    "barbells",
+    "workout",
+    "empty gym",
+    "real estate tour",
+    "apartment hunting",
+    "nyc living",
+    "fidi"
+  ],
+  "moments": [
+    {
+      "start": 0.0,
+      "end": 3.0,
+      "action": "Camera slowly pans across the empty gym showing rows of workout machines and barbell racks",
+      "emotion": "calm",
+      "good_for": [
+        "apartment building amenities",
+        "empty gym motivation",
+        "apartment hunting",
+        "fitness lifestyle"
+      ],
+      "score": 3
+    },
+    {
+      "start": 3.0,
+      "end": 5.17,
+      "action": "Camera pans toward the right revealing large windows and cable exercise equipment",
+      "emotion": "focused",
+      "good_for": [
+        "building tour",
+        "new apartment perks",
+        "morning workout spot"
+      ],
+      "score": 3
+    }
+  ]
+}

@@ -1,0 +1,70 @@
+{
+  "path": "OneOffs/BrooklynNight/IMG_4568 3.MOV",
+  "folder": "OneOffs/BrooklynNight",
+  "fingerprint": "afd412c859cc7ab9",
+  "width": 1080,
+  "height": 1920,
+  "fps": 30.0,
+  "duration": 2.6,
+  "model": "gemini-3.8-flash",
+  "annotatedAt": "2026-10-24T18:23:58+00:00",
+  "summary": "A nighttime shot looking up at an illuminated municipal building tower and golden statue framed by tree silhouettes against a dark blue sky.",
+  "location": "city street",
+  "setting": "outdoor",
+  "time_of_day": "night",
+  "weather": "n/a",
+  "people": {
+    "count": 0,
+    "creator_visible": false,
+    "description": "None visible."
+  },
+  "camera": {
+    "style": "pov_first_person",
+    "framing": "medium",
+    "movement": "handheld_cinematic",
+    "angle": "low angle looking up"
+  },
+  "quality": {
+    "usable": true,
+    "stability": "steady",
+    "exposure": "good",
+    "issues": ""
+  },
+  "mood": [
+    "calm",
+    "cinematic",
+    "peaceful",
+    "urban"
+  ],
+  "energy": "low",
+  "tags": [
+    "night",
+    "city",
+    "brooklyn",
+    "architecture",
+    "tower",
+    "lights",
+    "illuminated",
+    "dusk",
+    "evening",
+    "skyline",
+    "monument",
+    "new york"
+  ],
+  "moments": [
+    {
+      "start": 0.0,
+      "end": 2.6,
+      "action": "Handheld low angle view of an illuminated historic building tower topped with a golden statue at night.",
+      "emotion": "peaceful",
+      "good_for": [
+        "city nights",
+        "late night walks",
+        "romanticizing city life",
+        "new york moments",
+        "dreaming big"
+      ],
+      "score": 4
+    }
+  ]
+}

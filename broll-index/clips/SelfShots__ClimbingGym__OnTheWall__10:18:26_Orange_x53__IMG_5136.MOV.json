@@ -1,0 +1,107 @@
+{
+  "path": "SelfShots/ClimbingGym/OnTheWall/10:18:26_Orange_x53/IMG_5136.MOV",
+  "folder": "SelfShots/ClimbingGym/OnTheWall/10:18:26_Orange_x53",
+  "fingerprint": "0db96ed71769fdfb",
+  "width": 1080,
+  "height": 1920,
+  "fps": 30.0,
+  "duration": 42.537,
+  "model": "gemini-3.8-flash",
+  "annotatedAt": "2026-10-24T18:44:59+00:00",
+  "summary": "A young man climbs an overhanging bouldering wall at an indoor climbing gym, successfully reaching the top before jumping down.",
+  "location": "indoor bouldering gym",
+  "setting": "indoor",
+  "time_of_day": "indoor_unknown",
+  "weather": "n/a",
+  "people": {
+    "count": 2,
+    "creator_visible": true,
+    "description": "Young Asian male climber wearing a grey tank top and loose denim jeans; later, an older man in a black t-shirt walks across the frame."
+  },
+  "camera": {
+    "style": "tripod_static",
+    "framing": "medium",
+    "movement": "static",
+    "angle": "low angle looking up"
+  },
+  "quality": {
+    "usable": true,
+    "stability": "locked",
+    "exposure": "good",
+    "issues": ""
+  },
+  "mood": [
+    "determined",
+    "athletic",
+    "focused",
+    "active"
+  ],
+  "energy": "medium",
+  "tags": [
+    "bouldering",
+    "rock climbing",
+    "climbing gym",
+    "fitness",
+    "athletic",
+    "workout",
+    "indoors",
+    "climbing wall",
+    "strength",
+    "problem solving",
+    "sports"
+  ],
+  "moments": [
+    {
+      "start": 4.5,
+      "end": 9.5,
+      "action": "Climber approaches the wall and starts establishing hands and feet on the initial climbing holds",
+      "emotion": "focused",
+      "good_for": [
+        "starting a new challenge",
+        "first steps",
+        "stepping up to the plate",
+        "workout routine"
+      ],
+      "score": 4
+    },
+    {
+      "start": 13.0,
+      "end": 19.5,
+      "action": "Climber executes a technical reach with right arm, shifting body weight across the angled volumes",
+      "emotion": "determined",
+      "good_for": [
+        "finding your balance",
+        "reaching higher",
+        "overcoming obstacles",
+        "trusting the process"
+      ],
+      "score": 4
+    },
+    {
+      "start": 24.5,
+      "end": 33.5,
+      "action": "Climber moves toward the top volume, matching hands and locking in the finish hold",
+      "emotion": "focused triumph",
+      "good_for": [
+        "pushing through the hard part",
+        "reaching the top",
+        "small victories",
+        "goals completed"
+      ],
+      "score": 4
+    },
+    {
+      "start": 36.5,
+      "end": 40.0,
+      "action": "Climber drops onto the padded mat and turns around to walk off the mat",
+      "emotion": "relieved and accomplished",
+      "good_for": [
+        "crushing your workout",
+        "sticking the landing",
+        "done for the day",
+        "feeling accomplished"
+      ],
+      "score": 3
+    }
+  ]
+}

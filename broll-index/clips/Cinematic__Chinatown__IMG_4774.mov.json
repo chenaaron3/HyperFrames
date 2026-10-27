@@ -1,0 +1,71 @@
+{
+  "path": "Cinematic/Chinatown/IMG_4774.mov",
+  "folder": "Cinematic/Chinatown",
+  "fingerprint": "61c373cdee9ee334",
+  "width": 1080,
+  "height": 1920,
+  "fps": 30.0,
+  "duration": 2.5,
+  "model": "gemini-3.8-flash",
+  "annotatedAt": "2026-10-24T18:19:09+00:00",
+  "summary": "Low-angle exterior shot of the historic New York County Supreme Court courthouse facade and grand columns under an overcast sky.",
+  "location": "courthouse",
+  "setting": "outdoor",
+  "time_of_day": "day",
+  "weather": "overcast",
+  "people": {
+    "count": 2,
+    "creator_visible": false,
+    "description": "Two distant figures standing near the base of the courthouse stairs"
+  },
+  "camera": {
+    "style": "handheld_cinematic",
+    "framing": "wide",
+    "movement": "static",
+    "angle": "low angle looking up"
+  },
+  "quality": {
+    "usable": true,
+    "stability": "steady",
+    "exposure": "good",
+    "issues": ""
+  },
+  "mood": [
+    "solemn",
+    "dramatic",
+    "stately",
+    "imposing"
+  ],
+  "energy": "low",
+  "tags": [
+    "courthouse",
+    "architecture",
+    "columns",
+    "new york city",
+    "civic center",
+    "manhattan",
+    "justice",
+    "government building",
+    "overcast",
+    "cityscape",
+    "steps",
+    "monumental"
+  ],
+  "moments": [
+    {
+      "start": 0.0,
+      "end": 2.5,
+      "action": "Static low-angle shot gazing up at the monumental classical pillars and pediment of the supreme court building",
+      "emotion": "solemn and grand",
+      "good_for": [
+        "city b-roll",
+        "law school aesthetic",
+        "dealing with adulting",
+        "corporate grind",
+        "taking accountability",
+        "nyc architectural beauty"
+      ],
+      "score": 3
+    }
+  ]
+}

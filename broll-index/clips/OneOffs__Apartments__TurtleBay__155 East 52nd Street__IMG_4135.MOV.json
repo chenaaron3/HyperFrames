@@ -1,0 +1,67 @@
+{
+  "path": "OneOffs/Apartments/TurtleBay/155 East 52nd Street/IMG_4135.MOV",
+  "folder": "OneOffs/Apartments/TurtleBay/155 East 52nd Street",
+  "fingerprint": "5a117f92b169967f",
+  "width": 1080,
+  "height": 1920,
+  "fps": 30.0,
+  "duration": 2.933,
+  "model": "gemini-3.8-flash",
+  "annotatedAt": "2026-10-24T18:22:16+00:00",
+  "summary": "A handheld walkthrough panning across an empty apartment bathroom, showing the vanity, tiled bathtub and shower, window, and toilet.",
+  "location": "apartment bathroom",
+  "setting": "indoor",
+  "time_of_day": "day",
+  "weather": "n/a",
+  "people": {
+    "count": 0,
+    "creator_visible": false,
+    "description": ""
+  },
+  "camera": {
+    "style": "pov_first_person",
+    "framing": "medium",
+    "movement": "pan",
+    "angle": "eye level"
+  },
+  "quality": {
+    "usable": true,
+    "stability": "handheld",
+    "exposure": "good",
+    "issues": ""
+  },
+  "mood": [
+    "neutral",
+    "observational",
+    "mundane"
+  ],
+  "energy": "low",
+  "tags": [
+    "apartment",
+    "apartment tour",
+    "bathroom",
+    "bathtub",
+    "toilet",
+    "tiles",
+    "new york apartment",
+    "moving in",
+    "real estate",
+    "empty room",
+    "shower"
+  ],
+  "moments": [
+    {
+      "start": 0.0,
+      "end": 2.93,
+      "action": "Camera pans right across a white-tiled bathroom from the medicine cabinet and sink to the bathtub, window, and toilet",
+      "emotion": "neutral",
+      "good_for": [
+        "apartment hunting in nyc",
+        "new apartment tour",
+        "first place of my own",
+        "moving day"
+      ],
+      "score": 3
+    }
+  ]
+}

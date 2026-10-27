@@ -1,0 +1,68 @@
+{
+  "path": "OneOffs/Apartments/MurrayHills/150 East 39th Street/IMG_4190.MOV",
+  "folder": "OneOffs/Apartments/MurrayHills/150 East 39th Street",
+  "fingerprint": "2b328d56f3f817e5",
+  "width": 1080,
+  "height": 1920,
+  "fps": 30.0,
+  "duration": 2.467,
+  "model": "gemini-3.8-flash",
+  "annotatedAt": "2026-10-24T18:21:07+00:00",
+  "summary": "Handheld pan across an apartment building lobby showing the entrance steps, patterned carpet, modern pendant light fixture, and seating area with a sofa.",
+  "location": "apartment lobby",
+  "setting": "indoor",
+  "time_of_day": "indoor_unknown",
+  "weather": "n/a",
+  "people": {
+    "count": 0,
+    "creator_visible": false,
+    "description": "No people present"
+  },
+  "camera": {
+    "style": "pov_first_person",
+    "framing": "wide",
+    "movement": "pan",
+    "angle": "eye level"
+  },
+  "quality": {
+    "usable": true,
+    "stability": "steady",
+    "exposure": "good",
+    "issues": ""
+  },
+  "mood": [
+    "neutral",
+    "quiet",
+    "modern"
+  ],
+  "energy": "low",
+  "tags": [
+    "apartment",
+    "lobby",
+    "building tour",
+    "interior design",
+    "couch",
+    "carpet",
+    "lighting fixture",
+    "glass door",
+    "real estate",
+    "murray hill",
+    "new york"
+  ],
+  "moments": [
+    {
+      "start": 0.0,
+      "end": 2.47,
+      "action": "Camera pans across the empty lobby from the glass entry doors and steps to the seating area with a modern light fixture and couch",
+      "emotion": "calm",
+      "good_for": [
+        "apartment hunting",
+        "new building tour",
+        "nyc living",
+        "waiting in the lobby",
+        "finding a place to live"
+      ],
+      "score": 3
+    }
+  ]
+}

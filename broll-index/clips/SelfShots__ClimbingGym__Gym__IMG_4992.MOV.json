@@ -1,0 +1,127 @@
+{
+  "path": "SelfShots/ClimbingGym/Gym/IMG_4992.MOV",
+  "folder": "SelfShots/ClimbingGym/Gym",
+  "fingerprint": "122b9af2440d23ea",
+  "width": 1080,
+  "height": 1920,
+  "fps": 30.0,
+  "duration": 56.17,
+  "model": "gemini-3.8-flash",
+  "annotatedAt": "2026-10-24T18:38:53+00:00",
+  "summary": "A young man performs standing alternating dumbbell bicep curls in a gym weight area with other patrons working out in the background.",
+  "location": "gym",
+  "setting": "indoor",
+  "time_of_day": "day",
+  "weather": "n/a",
+  "people": {
+    "count": 4,
+    "creator_visible": true,
+    "description": "A young East Asian man with dark wavy hair in a brown short-sleeved collared shirt and black pants, lifting dumbbells; other gymgoers exercising in the background."
+  },
+  "camera": {
+    "style": "tripod_static",
+    "framing": "medium",
+    "movement": "static",
+    "angle": "eye level"
+  },
+  "quality": {
+    "usable": true,
+    "stability": "locked",
+    "exposure": "good",
+    "issues": ""
+  },
+  "mood": [
+    "focused",
+    "routine",
+    "determined",
+    "casual"
+  ],
+  "energy": "medium",
+  "tags": [
+    "gym",
+    "workout",
+    "fitness",
+    "dumbbell curls",
+    "bicep curl",
+    "weightlifting",
+    "arm day",
+    "strength training",
+    "discipline",
+    "routine",
+    "indoor fitness"
+  ],
+  "moments": [
+    {
+      "start": 2.8,
+      "end": 8.0,
+      "action": "Man bends down to pick up two dumbbells from the floor, stands upright, and starts his first bicep curl",
+      "emotion": "focused and prepared",
+      "good_for": [
+        "starting the routine",
+        "showing up every day",
+        "gym motivation"
+      ],
+      "score": 4
+    },
+    {
+      "start": 8.0,
+      "end": 14.5,
+      "action": "Man performs steady alternating dumbbell bicep curls facing forward",
+      "emotion": "steady and concentrated",
+      "good_for": [
+        "putting in the reps",
+        "focus on your goals",
+        "arm day routine"
+      ],
+      "score": 4
+    },
+    {
+      "start": 17.0,
+      "end": 24.5,
+      "action": "Man continues steady bicep curls, keeping strict upright form",
+      "emotion": "determined",
+      "good_for": [
+        "consistency over motivation",
+        "daily grind",
+        "fitness progress"
+      ],
+      "score": 4
+    },
+    {
+      "start": 24.5,
+      "end": 32.5,
+      "action": "Man smiles faintly while curling dumbbells, enjoying the workout rhythm",
+      "emotion": "satisfied and confident",
+      "good_for": [
+        "enjoying the process",
+        "feeling good after a set",
+        "gym mood"
+      ],
+      "score": 4
+    },
+    {
+      "start": 35.0,
+      "end": 43.0,
+      "action": "Man continues curling with head tilted down, pushing through muscle fatigue",
+      "emotion": "intense concentration and grit",
+      "good_for": [
+        "pushing through the burn",
+        "last few reps",
+        "discipline mindset"
+      ],
+      "score": 3
+    },
+    {
+      "start": 48.0,
+      "end": 54.5,
+      "action": "Man finishes his final repetitions, bends down to place the dumbbells on the mat, and walks off frame",
+      "emotion": "accomplished and relieved",
+      "good_for": [
+        "set complete",
+        "finished the workout",
+        "putting the weights away"
+      ],
+      "score": 4
+    }
+  ]
+}

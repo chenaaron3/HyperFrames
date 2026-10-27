@@ -1,0 +1,96 @@
+{
+  "path": "SelfShots/Walking/1stPerson/IMG_5260.MOV",
+  "folder": "SelfShots/Walking/1stPerson",
+  "fingerprint": "0b92f3599360090f",
+  "width": 1080,
+  "height": 1920,
+  "fps": 30.0,
+  "duration": 10.2,
+  "model": "gemini-3.8-flash",
+  "annotatedAt": "2026-10-24T19:02:25+00:00",
+  "summary": "A young man walks through a sunny city park with a backpack, holding the camera selfie-style as he looks around and into the lens.",
+  "location": "park",
+  "setting": "outdoor",
+  "time_of_day": "day",
+  "weather": "sunny",
+  "people": {
+    "count": 6,
+    "creator_visible": true,
+    "description": "Young Asian man with wavy black hair, wearing a black coat, grey crewneck, and backpack, with park visitors lounging on the grass in the background"
+  },
+  "camera": {
+    "style": "selfie",
+    "framing": "medium",
+    "movement": "walking",
+    "angle": "low angle looking up"
+  },
+  "quality": {
+    "usable": true,
+    "stability": "handheld",
+    "exposure": "good",
+    "issues": ""
+  },
+  "mood": [
+    "relaxed",
+    "peaceful",
+    "contemplative",
+    "casual",
+    "urban"
+  ],
+  "energy": "medium",
+  "tags": [
+    "park",
+    "walking",
+    "selfie",
+    "sunshine",
+    "city",
+    "nature",
+    "stroll",
+    "coat",
+    "backpack",
+    "lifestyle",
+    "people watching",
+    "autumn"
+  ],
+  "moments": [
+    {
+      "start": 0.0,
+      "end": 3.0,
+      "action": "Young man walks along the path while holding the camera up and looking directly forward",
+      "emotion": "calm",
+      "good_for": [
+        "clearing my head",
+        "walks in the city",
+        "taking time for myself",
+        "solo walk"
+      ],
+      "score": 4
+    },
+    {
+      "start": 3.0,
+      "end": 6.0,
+      "action": "Creator turns his profile to look over at people lounging on the park grass under the sun",
+      "emotion": "curious, observant",
+      "good_for": [
+        "people watching",
+        "romanticizing my life",
+        "watching life happen around me",
+        "slow days"
+      ],
+      "score": 4
+    },
+    {
+      "start": 6.0,
+      "end": 8.8,
+      "action": "Turns gaze back toward the camera lens with a soft, relaxed expression while walking",
+      "emotion": "content, gentle",
+      "good_for": [
+        "grateful for days like this",
+        "living in the moment",
+        "solo date",
+        "a peaceful afternoon"
+      ],
+      "score": 4
+    }
+  ]
+}

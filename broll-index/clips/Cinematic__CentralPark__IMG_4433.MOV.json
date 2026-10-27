@@ -1,0 +1,71 @@
+{
+  "path": "Cinematic/CentralPark/IMG_4433.MOV",
+  "folder": "Cinematic/CentralPark",
+  "fingerprint": "c114b64382e939c3",
+  "width": 1080,
+  "height": 1920,
+  "fps": 30.0,
+  "duration": 3.967,
+  "model": "gemini-3.8-flash",
+  "annotatedAt": "2026-10-24T18:18:03+00:00",
+  "summary": "Handheld scenic pan across a stone pathway and rustic wooden railing amidst lush garden trees in Central Park under a clear blue sky.",
+  "location": "park",
+  "setting": "outdoor",
+  "time_of_day": "day",
+  "weather": "sunny",
+  "people": {
+    "count": 1,
+    "creator_visible": false,
+    "description": "Indistinct figures in the far background walking along the pathway shaded by trees"
+  },
+  "camera": {
+    "style": "handheld_cinematic",
+    "framing": "wide",
+    "movement": "pan",
+    "angle": "eye level"
+  },
+  "quality": {
+    "usable": true,
+    "stability": "steady",
+    "exposure": "good",
+    "issues": ""
+  },
+  "mood": [
+    "peaceful",
+    "scenic",
+    "refreshing",
+    "idyllic"
+  ],
+  "energy": "low",
+  "tags": [
+    "central park",
+    "garden",
+    "nature walk",
+    "stone path",
+    "wooden fence",
+    "trees",
+    "greenery",
+    "summer",
+    "spring",
+    "sunny day",
+    "blue sky",
+    "peaceful",
+    "scenic"
+  ],
+  "moments": [
+    {
+      "start": 0.0,
+      "end": 3.97,
+      "action": "Camera slowly pans to the right from a stone garden walkway bordered by wooden railings to sunlit treetops and lush garden foliage",
+      "emotion": "calm",
+      "good_for": [
+        "nature walks",
+        "romanticizing life",
+        "finding quiet in the city",
+        "peace of mind",
+        "mental health walk"
+      ],
+      "score": 4
+    }
+  ]
+}

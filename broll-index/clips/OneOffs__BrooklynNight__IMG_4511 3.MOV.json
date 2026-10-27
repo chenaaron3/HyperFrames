@@ -1,0 +1,71 @@
+{
+  "path": "OneOffs/BrooklynNight/IMG_4511 3.MOV",
+  "folder": "OneOffs/BrooklynNight",
+  "fingerprint": "4e580e6b4cc68a8c",
+  "width": 1080,
+  "height": 1920,
+  "fps": 30.0,
+  "duration": 1.7,
+  "model": "gemini-3.8-flash",
+  "annotatedAt": "2026-10-24T18:22:29+00:00",
+  "summary": "A cheerful young man records a selfie video while riding a crowded subway car.",
+  "location": "subway car",
+  "setting": "vehicle",
+  "time_of_day": "indoor_unknown",
+  "weather": "n/a",
+  "people": {
+    "count": 6,
+    "creator_visible": true,
+    "description": "A young East Asian man with wavy dark hair, wearing a brown textured collared shirt and white earphones, smiling brightly at the camera, with several commuters in the background."
+  },
+  "camera": {
+    "style": "selfie",
+    "framing": "close",
+    "movement": "shaky",
+    "angle": "eye level"
+  },
+  "quality": {
+    "usable": true,
+    "stability": "handheld",
+    "exposure": "good",
+    "issues": ""
+  },
+  "mood": [
+    "cheerful",
+    "happy",
+    "casual",
+    "urban",
+    "upbeat"
+  ],
+  "energy": "medium",
+  "tags": [
+    "subway",
+    "train",
+    "commute",
+    "nyc",
+    "public transit",
+    "city life",
+    "selfie",
+    "smiling",
+    "airpods",
+    "travel",
+    "brooklyn"
+  ],
+  "moments": [
+    {
+      "start": 0.0,
+      "end": 1.7,
+      "action": "The creator smiles into the camera while riding inside a moving subway car with commuters in the background",
+      "emotion": "happy and energetic",
+      "good_for": [
+        "on my way",
+        "romanticizing public transit",
+        "city life",
+        "subway commute",
+        "heading out",
+        "good mood"
+      ],
+      "score": 4
+    }
+  ]
+}

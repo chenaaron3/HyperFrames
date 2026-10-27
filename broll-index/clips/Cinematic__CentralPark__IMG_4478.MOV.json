@@ -1,0 +1,70 @@
+{
+  "path": "Cinematic/CentralPark/IMG_4478.MOV",
+  "folder": "Cinematic/CentralPark",
+  "fingerprint": "81c18ae92a492ffb",
+  "width": 1080,
+  "height": 1920,
+  "fps": 30.0,
+  "duration": 4.333,
+  "model": "gemini-3.8-flash",
+  "annotatedAt": "2026-10-24T18:18:53+00:00",
+  "summary": "A peaceful view of a fountain shooting water into the air in a manicured park garden, framed by a dark wrought-iron decorative archway with city buildings in the background.",
+  "location": "park",
+  "setting": "outdoor",
+  "time_of_day": "day",
+  "weather": "sunny",
+  "people": {
+    "count": 0,
+    "creator_visible": false,
+    "description": "No people visible"
+  },
+  "camera": {
+    "style": "pov_first_person",
+    "framing": "wide",
+    "movement": "static",
+    "angle": "eye level"
+  },
+  "quality": {
+    "usable": true,
+    "stability": "steady",
+    "exposure": "good",
+    "issues": ""
+  },
+  "mood": [
+    "peaceful",
+    "calm",
+    "serene",
+    "scenic"
+  ],
+  "energy": "low",
+  "tags": [
+    "central park",
+    "fountain",
+    "garden",
+    "conservatory garden",
+    "lawn",
+    "archway",
+    "architecture",
+    "new york city",
+    "water",
+    "peaceful",
+    "nature",
+    "morning"
+  ],
+  "moments": [
+    {
+      "start": 0.0,
+      "end": 4.33,
+      "action": "Water sprays upwards from a central fountain surrounded by green hedges and lawn, perfectly framed by a black iron archway",
+      "emotion": "calm",
+      "good_for": [
+        "finding peace in the city",
+        "morning walks",
+        "nyc diary",
+        "quiet moments",
+        "romanticizing your life"
+      ],
+      "score": 4
+    }
+  ]
+}

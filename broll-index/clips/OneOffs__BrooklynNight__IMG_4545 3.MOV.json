@@ -1,0 +1,117 @@
+{
+  "path": "OneOffs/BrooklynNight/IMG_4545 3.MOV",
+  "folder": "OneOffs/BrooklynNight",
+  "fingerprint": "4c3cba948ddedf48",
+  "width": 1080,
+  "height": 1920,
+  "fps": 30.0,
+  "duration": 73.34,
+  "model": "gemini-3.8-flash",
+  "annotatedAt": "2026-10-24T18:23:36+00:00",
+  "summary": "A young man tackles a challenging bouldering route at an indoor climbing gym, reaches the top hold successfully, and celebrates with excitement after dropping back onto the mat.",
+  "location": "gym",
+  "setting": "indoor",
+  "time_of_day": "indoor_unknown",
+  "weather": "n/a",
+  "people": {
+    "count": 1,
+    "creator_visible": true,
+    "description": "Young Asian man with dark hair wearing a brown short-sleeved button-up shirt, black pants, and climbing shoes."
+  },
+  "camera": {
+    "style": "filmed_by_friend",
+    "framing": "medium",
+    "movement": "tracking",
+    "angle": "low angle looking up"
+  },
+  "quality": {
+    "usable": true,
+    "stability": "handheld",
+    "exposure": "good",
+    "issues": ""
+  },
+  "mood": [
+    "determined",
+    "active",
+    "playful",
+    "triumphant"
+  ],
+  "energy": "medium",
+  "tags": [
+    "bouldering",
+    "rock climbing",
+    "climbing gym",
+    "fitness",
+    "athletic",
+    "problem solving",
+    "workout",
+    "celebration",
+    "success",
+    "challenge",
+    "sports",
+    "indoor climbing"
+  ],
+  "moments": [
+    {
+      "start": 4.5,
+      "end": 10.0,
+      "action": "Climber grips the starting holds and steps off the ground onto the bouldering wall",
+      "emotion": "focused",
+      "good_for": [
+        "starting something new",
+        "taking the first step",
+        "getting into climbing"
+      ],
+      "score": 3
+    },
+    {
+      "start": 25.5,
+      "end": 33.5,
+      "action": "Climber stretches across the angled wall to grab a yellow hold with his left hand while keeping balance",
+      "emotion": "determined",
+      "good_for": [
+        "pushing through the hard part",
+        "trust the process",
+        "working hard"
+      ],
+      "score": 4
+    },
+    {
+      "start": 50.0,
+      "end": 58.0,
+      "action": "Climber carefully repositions his feet on small footholds and extends upward toward the upper section",
+      "emotion": "calm focus",
+      "good_for": [
+        "finding balance",
+        "calculated moves",
+        "staying focused"
+      ],
+      "score": 4
+    },
+    {
+      "start": 60.0,
+      "end": 68.0,
+      "action": "Climber reaches both hands onto the final pink top hold to finish the problem",
+      "emotion": "accomplished",
+      "good_for": [
+        "reaching the top",
+        "goal achieved",
+        "when hard work pays off"
+      ],
+      "score": 4
+    },
+    {
+      "start": 68.5,
+      "end": 73.0,
+      "action": "Climber drops down onto the safety mat and bounds toward the camera with a huge joyful smile and victory pump",
+      "emotion": "big laugh / excited triumph",
+      "good_for": [
+        "that feeling of winning",
+        "pure joy",
+        "nailed it",
+        "celebrating small wins"
+      ],
+      "score": 5
+    }
+  ]
+}

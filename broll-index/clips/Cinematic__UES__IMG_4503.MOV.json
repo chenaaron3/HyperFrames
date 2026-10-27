@@ -1,0 +1,69 @@
+{
+  "path": "Cinematic/UES/IMG_4503.MOV",
+  "folder": "Cinematic/UES",
+  "fingerprint": "79d2081502d99e68",
+  "width": 1080,
+  "height": 1920,
+  "fps": 30.0,
+  "duration": 2.233,
+  "model": "gemini-3.8-flash",
+  "annotatedAt": "2026-10-24T18:20:15+00:00",
+  "summary": "POV shot approaching the glass entrance and descending escalator of the 86th Street Q subway station on the Upper East Side.",
+  "location": "subway station entrance",
+  "setting": "outdoor",
+  "time_of_day": "day",
+  "weather": "sunny",
+  "people": {
+    "count": 2,
+    "creator_visible": false,
+    "description": "A young girl in a blue jacket and an adult woman riding down the escalator ahead"
+  },
+  "camera": {
+    "style": "pov_first_person",
+    "framing": "medium",
+    "movement": "walking",
+    "angle": "eye level"
+  },
+  "quality": {
+    "usable": true,
+    "stability": "steady",
+    "exposure": "good",
+    "issues": ""
+  },
+  "mood": [
+    "urban",
+    "commute",
+    "routine",
+    "city life"
+  ],
+  "energy": "low",
+  "tags": [
+    "subway",
+    "nyc",
+    "new york city",
+    "upper east side",
+    "86th street",
+    "q train",
+    "escalator",
+    "commute",
+    "transit",
+    "public transportation",
+    "city living",
+    "b-roll"
+  ],
+  "moments": [
+    {
+      "start": 0.0,
+      "end": 2.23,
+      "action": "Camera approaches the canopy entrance of 86th Street Subway Station while commuters step onto the escalator",
+      "emotion": "calm",
+      "good_for": [
+        "city commute",
+        "daily routine",
+        "nyc living",
+        "on the way"
+      ],
+      "score": 3
+    }
+  ]
+}

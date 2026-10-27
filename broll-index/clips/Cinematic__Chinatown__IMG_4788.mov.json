@@ -1,0 +1,71 @@
+{
+  "path": "Cinematic/Chinatown/IMG_4788.mov",
+  "folder": "Cinematic/Chinatown",
+  "fingerprint": "cb778ef3a283c7f9",
+  "width": 1080,
+  "height": 1920,
+  "fps": 30.0,
+  "duration": 4.8,
+  "model": "gemini-3.8-flash",
+  "annotatedAt": "2026-10-24T18:19:25+00:00",
+  "summary": "Exterior view of a Chinatown grocery store with hanging durians in netting and fresh fruit displays on sidewalk stands.",
+  "location": "city street",
+  "setting": "outdoor",
+  "time_of_day": "day",
+  "weather": "sunny",
+  "people": {
+    "count": 1,
+    "creator_visible": false,
+    "description": "An older man in a white collared shirt and white bucket hat standing by the shop entrance"
+  },
+  "camera": {
+    "style": "handheld_cinematic",
+    "framing": "medium",
+    "movement": "static",
+    "angle": "eye level"
+  },
+  "quality": {
+    "usable": true,
+    "stability": "steady",
+    "exposure": "good",
+    "issues": ""
+  },
+  "mood": [
+    "cultural",
+    "nostalgic",
+    "calm",
+    "urban"
+  ],
+  "energy": "low",
+  "tags": [
+    "chinatown",
+    "fruit stand",
+    "durian",
+    "market",
+    "grocery",
+    "sidewalk",
+    "city life",
+    "produce",
+    "urban",
+    "street photography",
+    "culture",
+    "dragonfruit",
+    "street scene"
+  ],
+  "moments": [
+    {
+      "start": 0.0,
+      "end": 4.8,
+      "action": "Static street view of an Asian produce market displaying hanging durian fruit and colorful fruit crates outside the shopfront",
+      "emotion": "calm",
+      "good_for": [
+        "exploring chinatown",
+        "sunday strolls",
+        "city hidden gems",
+        "fresh produce run",
+        "places that feel like home"
+      ],
+      "score": 4
+    }
+  ]
+}

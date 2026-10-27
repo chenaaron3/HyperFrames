@@ -1,0 +1,80 @@
+{
+  "path": "SelfShots/ClimbingGym/Setup/Walking/IMG_4969.MOV",
+  "folder": "SelfShots/ClimbingGym/Setup/Walking",
+  "fingerprint": "d41f4a024aaef2d1",
+  "width": 1080,
+  "height": 1920,
+  "fps": 29.97,
+  "duration": 25.313,
+  "model": "gemini-3.8-flash",
+  "annotatedAt": "2026-10-24T18:54:19+00:00",
+  "summary": "A static shot looking down a wide architectural staircase in a modern multi-level indoor space as pedestrians walk by and the creator walks up the stairs past the camera.",
+  "location": "modern building atrium",
+  "setting": "indoor",
+  "time_of_day": "day",
+  "weather": "n/a",
+  "people": {
+    "count": 6,
+    "creator_visible": true,
+    "description": "Young adults and students walking on stairs; creator wears a long dark coat and backpack walking up towards the lens."
+  },
+  "camera": {
+    "style": "tripod_static",
+    "framing": "wide",
+    "movement": "static",
+    "angle": "high angle"
+  },
+  "quality": {
+    "usable": true,
+    "stability": "locked",
+    "exposure": "good",
+    "issues": ""
+  },
+  "mood": [
+    "architectural",
+    "urban",
+    "calm",
+    "cinematic"
+  ],
+  "energy": "low",
+  "tags": [
+    "staircase",
+    "atrium",
+    "architecture",
+    "modern design",
+    "walking",
+    "trench coat",
+    "lifestyle",
+    "commute",
+    "bouldering gym",
+    "interior design",
+    "aesthetic"
+  ],
+  "moments": [
+    {
+      "start": 9.0,
+      "end": 14.5,
+      "action": "Multiple people walk up the stairs in the contemporary architectural space",
+      "emotion": "casual",
+      "good_for": [
+        "city rhythms",
+        "commute aesthetic",
+        "busy days"
+      ],
+      "score": 3
+    },
+    {
+      "start": 18.5,
+      "end": 23.5,
+      "action": "Creator in a long black overcoat and backpack walks up the stairs toward and past the camera",
+      "emotion": "composed",
+      "good_for": [
+        "on my way",
+        "showing up every day",
+        "solo commute",
+        "romanticizing my life"
+      ],
+      "score": 4
+    }
+  ]
+}

@@ -1,0 +1,89 @@
+{
+  "path": "SelfShots/MorningRoutine/2.1.MOV",
+  "folder": "SelfShots/MorningRoutine",
+  "fingerprint": "21a3fe21fa2eb306",
+  "width": 1080,
+  "height": 1920,
+  "fps": 30.0,
+  "duration": 29.402,
+  "model": "gemini-3.8-flash",
+  "annotatedAt": "2026-10-24T18:59:31+00:00",
+  "summary": "A young man walks up to his apartment kitchen counter and unpacks takeout food from Taco Bell bags.",
+  "location": "kitchen",
+  "setting": "indoor",
+  "time_of_day": "day",
+  "weather": "n/a",
+  "people": {
+    "count": 1,
+    "creator_visible": true,
+    "description": "Young East Asian man with wavy dark hair, wearing a brown short-sleeve button-up shirt"
+  },
+  "camera": {
+    "style": "tripod_static",
+    "framing": "medium",
+    "movement": "static",
+    "angle": "low angle looking up"
+  },
+  "quality": {
+    "usable": true,
+    "stability": "steady",
+    "exposure": "good",
+    "issues": "A bit of blank ceiling in upper frame; camera picked up abruptly at the end."
+  },
+  "mood": [
+    "casual",
+    "routine",
+    "relaxed"
+  ],
+  "energy": "low",
+  "tags": [
+    "morning routine",
+    "taco bell",
+    "takeout",
+    "unpacking food",
+    "apartment",
+    "countertop",
+    "casual life",
+    "fast food",
+    "bachelor pad",
+    "eating in"
+  ],
+  "moments": [
+    {
+      "start": 3.2,
+      "end": 7.5,
+      "action": "Creator adjusts a chair, pushes back his hair, and begins opening the paper fast food bag",
+      "emotion": "relaxed, casual",
+      "good_for": [
+        "lazy mornings",
+        "waking up late",
+        "breakfast of champions"
+      ],
+      "score": 3
+    },
+    {
+      "start": 7.5,
+      "end": 15.0,
+      "action": "Creator takes out wrapped food items from the paper bag and sets them on the counter",
+      "emotion": "focused, hungry",
+      "good_for": [
+        "food on my plate",
+        "takeout haul",
+        "solo living moments"
+      ],
+      "score": 4
+    },
+    {
+      "start": 18.0,
+      "end": 24.5,
+      "action": "Creator unrolls another wrapped fast food item from the Taco Bell bag",
+      "emotion": "anticipating food, calm",
+      "good_for": [
+        "treating myself",
+        "hungover routine",
+        "simple pleasures"
+      ],
+      "score": 3
+    }
+  ]
+}

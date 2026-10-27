@@ -1,0 +1,113 @@
+{
+  "id": "opinion-7",
+  "name": "🧠: I’m tired",
+  "reference": "references/viral-formats/opinion-7.mp4",
+  "source": "/Users/aaron/Downloads/100 Viral Formats (Format Book)/Opinion/#7/#7.mp4",
+  "duration": 9.667,
+  "music": {
+    "from": "reference",
+    "title": "Sia - The greatest"
+  },
+  "text": {
+    "y": 0.25,
+    "size": 64,
+    "weight": 700,
+    "lineHeight": 1.4,
+    "maxWidth": 900,
+    "style": "outline"
+  },
+  "lines": [
+    {
+      "id": "l1",
+      "start": 0.0,
+      "end": 3.933,
+      "ref": "🧠: I’m tired",
+      "y": 0.25,
+      "measuredSize": 58,
+      "style": "plain_white_shadow",
+      "guide": ""
+    },
+    {
+      "id": "l2",
+      "start": 3.933,
+      "end": 9.667,
+      "ref": "🫀: don’t give up",
+      "y": 0.253,
+      "measuredSize": 73,
+      "style": "plain_white_shadow",
+      "guide": ""
+    }
+  ],
+  "shots": [
+    {
+      "id": "s1",
+      "start": 0.0,
+      "end": 2.333,
+      "brief": "tired student/worker at desk looking stressed, low angle tripod (ref: Young woman sitting at her desk looking tired and stressed, rubbing her temples while staring down at her notes.; tripod)",
+      "line": "l1"
+    },
+    {
+      "id": "s2",
+      "start": 2.333,
+      "end": 3.267,
+      "brief": "falling asleep at desk and yawning, low angle tripod (ref: Young woman dozing off at desk, then waking up and yawning with iced latte next to her.; tripod)",
+      "line": "l1"
+    },
+    {
+      "id": "s3",
+      "start": 3.267,
+      "end": 3.933,
+      "brief": "person resting cheek on hand looking sleepy at desk (ref: Young woman resting cheek in hand, looking zoned out and drained at study desk.; tripod)",
+      "line": "l1"
+    },
+    {
+      "id": "s4",
+      "start": 3.933,
+      "end": 5.267,
+      "brief": "focused person writing or working at desk (ref: Side angle of woman actively writing with digital pencil on tablet next to textbooks.; tripod)",
+      "line": "l2"
+    },
+    {
+      "id": "s5",
+      "start": 5.267,
+      "end": 6.267,
+      "brief": "cozy desk aesthetic b-roll with tea/coffee and tablet/notebook (ref: Warm aesthetic close-up of desk setup with glowing candle, hot mug of tea, and illuminated tablet.; tripod)",
+      "line": "l2"
+    },
+    {
+      "id": "s6",
+      "start": 6.267,
+      "end": 7.5,
+      "brief": "focused studying/working with glasses and notebooks (ref: Woman wearing glasses diligently taking notes while holding a book open.; tripod)",
+      "line": "l2"
+    },
+    {
+      "id": "s7",
+      "start": 7.5,
+      "end": 8.2,
+      "brief": "b-roll of open book, eyeglasses, and stationery on a desk (ref: Close-up b-roll of open textbook with highlighters, eyeglasses, and a pencil laid on top.; tripod)",
+      "line": "l2"
+    },
+    {
+      "id": "s8",
+      "start": 8.2,
+      "end": 9.667,
+      "brief": "focused person writing on tablet or typing on laptop (ref: Side angle close-up of woman writing on tablet in a cozy white sweater.; tripod)",
+      "line": "l2"
+    }
+  ],
+  "audit": {
+    "kind": "broll_with_text",
+    "creatorSpeaks": false,
+    "audio": "music only",
+    "special": [],
+    "reusable": true,
+    "notes": "Very straightforward hook-and-switch format. The first half cuts between tired or burnt-out clips (working at desk or training hard), and the beat drop at ~04:00 switches to high-energy, focused, locked-in b-roll (working on laptop, coffee, aesthetic workspace, or training).",
+    "summary": "A study motivation montage contrasting moments of desk fatigue with renewed focus and determination set to 'The Greatest' by Sia."
+  },
+  "caption": {
+    "ref": "",
+    "guide": ""
+  },
+  "draft": true
+}

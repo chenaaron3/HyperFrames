@@ -1,0 +1,81 @@
+{
+  "path": "SelfShots/ClimbingGym/Setup/Walking/IMG_4968.MOV",
+  "folder": "SelfShots/ClimbingGym/Setup/Walking",
+  "fingerprint": "09959805855bf5b6",
+  "width": 1080,
+  "height": 1920,
+  "fps": 30.0,
+  "duration": 15.168,
+  "model": "gemini-3.8-flash",
+  "annotatedAt": "2026-10-24T18:54:05+00:00",
+  "summary": "A static shot from inside a modern building entrance as visitors enter through glass doors on an autumn day.",
+  "location": "gym lobby",
+  "setting": "indoor",
+  "time_of_day": "day",
+  "weather": "sunny",
+  "people": {
+    "count": 3,
+    "creator_visible": true,
+    "description": "A young East Asian man in a dark trench coat and backpack enters, followed later by a young woman in a black jacket and cargo pants."
+  },
+  "camera": {
+    "style": "tripod_static",
+    "framing": "wide",
+    "movement": "static",
+    "angle": "eye level"
+  },
+  "quality": {
+    "usable": true,
+    "stability": "locked",
+    "exposure": "good",
+    "issues": ""
+  },
+  "mood": [
+    "casual",
+    "routine",
+    "anticipation",
+    "modern"
+  ],
+  "energy": "low",
+  "tags": [
+    "entrance",
+    "glass doors",
+    "exit sign",
+    "walking in",
+    "arrival",
+    "lobby",
+    "autumn",
+    "climbing gym",
+    "urban life",
+    "casual routine",
+    "ootd",
+    "coat"
+  ],
+  "moments": [
+    {
+      "start": 5.5,
+      "end": 10.5,
+      "action": "A young man wearing a black coat and backpack pushes open the glass door and walks inside past the camera",
+      "emotion": "calm",
+      "good_for": [
+        "showing up",
+        "arriving at the gym",
+        "morning routine",
+        "entering a new space"
+      ],
+      "score": 4
+    },
+    {
+      "start": 13.0,
+      "end": 15.17,
+      "action": "A young woman in a puffer jacket walks inside through the entrance door",
+      "emotion": "casual",
+      "good_for": [
+        "meeting up with friends",
+        "weekend routine",
+        "gym arrival"
+      ],
+      "score": 3
+    }
+  ]
+}

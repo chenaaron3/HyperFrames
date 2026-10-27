@@ -1,0 +1,116 @@
+{
+  "path": "OneOffs/Cooking/IMG_4835.MOV",
+  "folder": "OneOffs/Cooking",
+  "fingerprint": "8c75f7c2f4b74f17",
+  "width": 1080,
+  "height": 1920,
+  "fps": 30.0,
+  "duration": 136.912,
+  "model": "gemini-3.8-flash",
+  "annotatedAt": "2026-10-24T18:34:53+00:00",
+  "summary": "A person heats oil in a carbon steel wok on a gas stovetop and fries two eggs sunny-side up before flipping them over with a metal spatula.",
+  "location": "kitchen",
+  "setting": "indoor",
+  "time_of_day": "indoor_unknown",
+  "weather": "n/a",
+  "people": {
+    "count": 0,
+    "creator_visible": false,
+    "description": "Only the hands and forearms of someone wearing a silver chain link bracelet are visible."
+  },
+  "camera": {
+    "style": "pov_first_person",
+    "framing": "close",
+    "movement": "handheld",
+    "angle": "high angle"
+  },
+  "quality": {
+    "usable": true,
+    "stability": "handheld",
+    "exposure": "good",
+    "issues": ""
+  },
+  "mood": [
+    "calm",
+    "domestic",
+    "casual",
+    "satisfying"
+  ],
+  "energy": "medium",
+  "tags": [
+    "cooking",
+    "fried eggs",
+    "wok",
+    "stovetop",
+    "breakfast",
+    "kitchen",
+    "egg",
+    "sizzling",
+    "culinary",
+    "home cooking",
+    "food prep",
+    "sunny side up"
+  ],
+  "moments": [
+    {
+      "start": 4.5,
+      "end": 8.5,
+      "action": "Pouring cooking oil from a dark bottle into the center of a preheated wok",
+      "emotion": "focused",
+      "good_for": [
+        "cooking at home",
+        "meal prep routine",
+        "first step"
+      ],
+      "score": 3
+    },
+    {
+      "start": 17.5,
+      "end": 24.5,
+      "action": "Lifting and swirling the wok to coat the hot surface with shimmering oil over the blue gas flame",
+      "emotion": "focused",
+      "good_for": [
+        "chef skills",
+        "proper technique",
+        "preheating the pan"
+      ],
+      "score": 4
+    },
+    {
+      "start": 35.5,
+      "end": 46.5,
+      "action": "Cracking two eggs one after another directly into the hot shimmering oil in the wok",
+      "emotion": "satisfying",
+      "good_for": [
+        "breakfast time",
+        "comfort food",
+        "making breakfast"
+      ],
+      "score": 5
+    },
+    {
+      "start": 46.5,
+      "end": 56.5,
+      "action": "Two sunny side up eggs actively sizzling and bubbling in the hot wok",
+      "emotion": "satisfying",
+      "good_for": [
+        "morning routine",
+        "simple pleasures",
+        "food on my plate"
+      ],
+      "score": 4
+    },
+    {
+      "start": 136.91,
+      "end": 136.91,
+      "action": "Using a metal spatula to cleanly flip both fried eggs over to cook the other side",
+      "emotion": "focused",
+      "good_for": [
+        "flipping eggs",
+        "cooking skills",
+        "crispy fried eggs"
+      ],
+      "score": 4
+    }
+  ]
+}

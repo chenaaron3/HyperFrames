@@ -1,0 +1,91 @@
+{
+  "path": "OneOffs/Apartments/MurrayHills/150 East 39th Street/IMG_4213.MOV",
+  "folder": "OneOffs/Apartments/MurrayHills/150 East 39th Street",
+  "fingerprint": "3fe2d6b4b1eeb242",
+  "width": 1080,
+  "height": 1920,
+  "fps": 30.0,
+  "duration": 21.267,
+  "model": "gemini-3.8-flash",
+  "annotatedAt": "2026-10-24T18:21:53+00:00",
+  "summary": "A handheld walkthrough tour of an empty Murray Hill apartment, showing the entryway, kitchen corner, parquet living room, and bathroom vanity mirror.",
+  "location": "apartment",
+  "setting": "indoor",
+  "time_of_day": "day",
+  "weather": "n/a",
+  "people": {
+    "count": 2,
+    "creator_visible": true,
+    "description": "A young Asian male creator filming, visible in the bathroom mirror reflection wearing a black jacket; another person walking ahead in dark clothing."
+  },
+  "camera": {
+    "style": "pov_first_person",
+    "framing": "medium",
+    "movement": "walking",
+    "angle": "eye level"
+  },
+  "quality": {
+    "usable": true,
+    "stability": "handheld",
+    "exposure": "good",
+    "issues": "Quick camera pans and motion blur between rooms"
+  },
+  "mood": [
+    "curious",
+    "exploratory",
+    "casual",
+    "mundane"
+  ],
+  "energy": "medium",
+  "tags": [
+    "apartment hunting",
+    "nyc apartment",
+    "apartment tour",
+    "real estate",
+    "empty apartment",
+    "hardwood floors",
+    "bathroom",
+    "mirror selfie",
+    "murray hill",
+    "moving"
+  ],
+  "moments": [
+    {
+      "start": 3.0,
+      "end": 6.0,
+      "action": "Walking into the spacious, empty living room with parquet wooden flooring and city windows",
+      "emotion": "anticipatory",
+      "good_for": [
+        "apartment hunting in nyc",
+        "new beginnings",
+        "looking for an apartment",
+        "empty space"
+      ],
+      "score": 3
+    },
+    {
+      "start": 6.8,
+      "end": 9.5,
+      "action": "Entering the tiled bathroom with a vanity sink and lighted mirror",
+      "emotion": "neutral",
+      "good_for": [
+        "apartment tour check",
+        "checking out the bathroom",
+        "house hunting"
+      ],
+      "score": 3
+    },
+    {
+      "start": 11.0,
+      "end": 15.5,
+      "action": "The creator catches his reflection in the bathroom mirror while opening the glass medicine cabinet",
+      "emotion": "focused",
+      "good_for": [
+        "checking the storage space",
+        "apartment tour pov",
+        "nyc living reality"
+      ],
+      "score": 3
+    }
+  ]
+}

@@ -1,0 +1,94 @@
+{
+  "path": "OneOffs/BrooklynNight/IMG_4539 3.MOV",
+  "folder": "OneOffs/BrooklynNight",
+  "fingerprint": "1b87c7ccc1309129",
+  "width": 1080,
+  "height": 1920,
+  "fps": 30.0,
+  "duration": 28.402,
+  "model": "gemini-3.8-flash",
+  "annotatedAt": "2026-10-24T18:23:22+00:00",
+  "summary": "A young man attempts a difficult indoor bouldering problem, stretches out between distant holds, drops to the padded mat, and laughs to the camera in confusion.",
+  "location": "climbing gym",
+  "setting": "indoor",
+  "time_of_day": "indoor_unknown",
+  "weather": "n/a",
+  "people": {
+    "count": 2,
+    "creator_visible": true,
+    "description": "Young Asian man with wavy dark hair wearing a brown short-sleeved collared shirt and black trousers, plus a glimpse of another climber in the gym."
+  },
+  "camera": {
+    "style": "filmed_by_friend",
+    "framing": "medium",
+    "movement": "handheld",
+    "angle": "eye level"
+  },
+  "quality": {
+    "usable": true,
+    "stability": "handheld",
+    "exposure": "good",
+    "issues": "Rapid pan at the very end of the clip"
+  },
+  "mood": [
+    "sporty",
+    "playful",
+    "focused",
+    "relatable",
+    "amused"
+  ],
+  "energy": "medium",
+  "tags": [
+    "bouldering",
+    "rock climbing",
+    "climbing gym",
+    "fitness",
+    "workout",
+    "problem solving",
+    "lifestyle",
+    "active",
+    "indoor sports",
+    "laughing"
+  ],
+  "moments": [
+    {
+      "start": 0.5,
+      "end": 6.5,
+      "action": "Climber uses dynamic footwork and grips different holds to traverse up the wall",
+      "emotion": "focused",
+      "good_for": [
+        "trying new things",
+        "staying active",
+        "working hard",
+        "gym day"
+      ],
+      "score": 4
+    },
+    {
+      "start": 15.5,
+      "end": 23.5,
+      "action": "Climber stretches his arms wide between two distant holds and stays suspended trying to find the next move",
+      "emotion": "perplexed and strained",
+      "good_for": [
+        "when you are completely stuck",
+        "hitting a wall",
+        "overextended",
+        "figuring life out"
+      ],
+      "score": 4
+    },
+    {
+      "start": 23.5,
+      "end": 27.3,
+      "action": "Climber drops down to the mat, turns around, wipes his forehead, and smiles sheepishly at the camera",
+      "emotion": "amused, relieved, laughing",
+      "good_for": [
+        "laugh at your mistakes",
+        "no idea what I am doing",
+        "accepting defeat",
+        "embracing the struggle"
+      ],
+      "score": 5
+    }
+  ]
+}

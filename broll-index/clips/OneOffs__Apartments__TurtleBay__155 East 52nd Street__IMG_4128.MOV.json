@@ -1,0 +1,80 @@
+{
+  "path": "OneOffs/Apartments/TurtleBay/155 East 52nd Street/IMG_4128.MOV",
+  "folder": "OneOffs/Apartments/TurtleBay/155 East 52nd Street",
+  "fingerprint": "9cb2a83104c066a6",
+  "width": 1080,
+  "height": 1920,
+  "fps": 30.0,
+  "duration": 14.4,
+  "model": "gemini-3.8-flash",
+  "annotatedAt": "2026-10-24T18:22:10+00:00",
+  "summary": "A POV walkthrough of a tiny NYC studio apartment under renovation, showing the small kitchenette, closet, and main room with construction supplies and paint debris.",
+  "location": "studio apartment",
+  "setting": "indoor",
+  "time_of_day": "day",
+  "weather": "n/a",
+  "people": {
+    "count": 1,
+    "creator_visible": false,
+    "description": "A man with a mustache in a black crewneck briefly opens the apartment door from the inside before stepping out of view."
+  },
+  "camera": {
+    "style": "pov_first_person",
+    "framing": "medium",
+    "movement": "pan",
+    "angle": "eye level"
+  },
+  "quality": {
+    "usable": true,
+    "stability": "handheld",
+    "exposure": "good",
+    "issues": ""
+  },
+  "mood": [
+    "curious",
+    "humorous",
+    "gritty",
+    "real"
+  ],
+  "energy": "low",
+  "tags": [
+    "apartment hunt",
+    "nyc apartment",
+    "studio apartment",
+    "renovation",
+    "tiny apartment",
+    "kitchenette",
+    "real estate",
+    "construction",
+    "moving to nyc",
+    "landlord special"
+  ],
+  "moments": [
+    {
+      "start": 3.8,
+      "end": 6.3,
+      "action": "Camera pans across the compact kitchenette featuring wooden cabinets, a mini gas stove, and a small sink",
+      "emotion": "neutral",
+      "good_for": [
+        "nyc living reality",
+        "tiny kitchen struggles",
+        "apartment hunting",
+        "finding a place to live"
+      ],
+      "score": 3
+    },
+    {
+      "start": 9.5,
+      "end": 14.0,
+      "action": "Camera pans from peeling plaster around the window radiator across the unfinished room filled with paint cans and a ladder",
+      "emotion": "shocked",
+      "good_for": [
+        "landlord special",
+        "2900 rent in nyc",
+        "fixer upper reality",
+        "apartment hunting horror stories"
+      ],
+      "score": 3
+    }
+  ]
+}

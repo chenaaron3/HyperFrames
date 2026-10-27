@@ -1,0 +1,95 @@
+{
+  "path": "OneOffs/BrooklynNight/IMG_4532 3.MOV",
+  "folder": "OneOffs/BrooklynNight",
+  "fingerprint": "97b4fb13111300c5",
+  "width": 1080,
+  "height": 1920,
+  "fps": 30.0,
+  "duration": 32.837,
+  "model": "gemini-3.8-flash",
+  "annotatedAt": "2026-10-24T18:23:06+00:00",
+  "summary": "A young man tackles a route on an indoor bouldering wall, successfully completes the problem, and leaps down onto the safety mat grinning.",
+  "location": "climbing gym",
+  "setting": "indoor",
+  "time_of_day": "indoor_unknown",
+  "weather": "n/a",
+  "people": {
+    "count": 1,
+    "creator_visible": true,
+    "description": "Young man wearing glasses, black graphic tee with 'Wink Wink Nation', black shorts, and climbing shoes"
+  },
+  "camera": {
+    "style": "filmed_by_friend",
+    "framing": "wide",
+    "movement": "tracking",
+    "angle": "low angle looking up"
+  },
+  "quality": {
+    "usable": true,
+    "stability": "handheld",
+    "exposure": "good",
+    "issues": ""
+  },
+  "mood": [
+    "determined",
+    "active",
+    "triumphant",
+    "fun"
+  ],
+  "energy": "medium",
+  "tags": [
+    "bouldering",
+    "rock climbing",
+    "indoor climbing",
+    "climbing gym",
+    "fitness",
+    "workout",
+    "active lifestyle",
+    "challenge",
+    "sports",
+    "brooklyn",
+    "athletic",
+    "celebration"
+  ],
+  "moments": [
+    {
+      "start": 13.5,
+      "end": 22.0,
+      "action": "Climber stretches his body wide across the wall, testing footholds and handholds while traversing",
+      "emotion": "focused and determined",
+      "good_for": [
+        "trusting the process",
+        "stepping out of comfort zone",
+        "staying focused on the goal",
+        "trying new hobbies"
+      ],
+      "score": 4
+    },
+    {
+      "start": 23.0,
+      "end": 28.5,
+      "action": "Climber reaches up dynamically to secure both hands on the top yellow hold",
+      "emotion": "triumphant and relieved",
+      "good_for": [
+        "reaching the goal",
+        "small wins",
+        "progress",
+        "hard work pays off"
+      ],
+      "score": 4
+    },
+    {
+      "start": 28.5,
+      "end": 32.84,
+      "action": "Climber looks back smiling from the top hold, drops down to the padded floor, and grins widely at the camera",
+      "emotion": "joyful laugh and proud smile",
+      "good_for": [
+        "sticking the landing",
+        "celebrating wins",
+        "fun with friends",
+        "did that"
+      ],
+      "score": 5
+    }
+  ]
+}

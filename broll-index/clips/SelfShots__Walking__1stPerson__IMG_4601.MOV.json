@@ -1,0 +1,73 @@
+{
+  "path": "SelfShots/Walking/1stPerson/IMG_4601.MOV",
+  "folder": "SelfShots/Walking/1stPerson",
+  "fingerprint": "af3a70217c8052d3",
+  "width": 1080,
+  "height": 1920,
+  "fps": 30.0,
+  "duration": 3.967,
+  "model": "gemini-3.8-flash",
+  "annotatedAt": "2026-10-24T19:01:25+00:00",
+  "summary": "First-person POV looking down at sneakers and wide-leg jeans walking along a wet sidewalk in rainy weather.",
+  "location": "city sidewalk",
+  "setting": "outdoor",
+  "time_of_day": "day",
+  "weather": "rain",
+  "people": {
+    "count": 1,
+    "creator_visible": true,
+    "description": "Creator's legs and feet visible while walking, wearing light-colored sneakers, blue jeans, and a dark coat."
+  },
+  "camera": {
+    "style": "pov_first_person",
+    "framing": "close",
+    "movement": "walking",
+    "angle": "high angle"
+  },
+  "quality": {
+    "usable": true,
+    "stability": "handheld",
+    "exposure": "good",
+    "issues": "natural walking motion blur"
+  },
+  "mood": [
+    "moody",
+    "contemplative",
+    "peaceful",
+    "melancholy",
+    "grounded"
+  ],
+  "energy": "medium",
+  "tags": [
+    "walking",
+    "rain",
+    "wet sidewalk",
+    "sneakers",
+    "denim",
+    "pov",
+    "first person",
+    "steps",
+    "commute",
+    "rainy day",
+    "city life",
+    "puddles",
+    "gloomy",
+    "solitude"
+  ],
+  "moments": [
+    {
+      "start": 0.0,
+      "end": 3.97,
+      "action": "Walking forward over wet concrete pavement with puddles in light sneakers and blue jeans.",
+      "emotion": "contemplative",
+      "good_for": [
+        "rainy day thoughts",
+        "clearing my head",
+        "taking things one step at a time",
+        "romanticizing rainy days",
+        "walking to work"
+      ],
+      "score": 3
+    }
+  ]
+}

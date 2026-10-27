@@ -1,0 +1,95 @@
+{
+  "path": "OneOffs/Cooking/IMG_4819.MOV",
+  "folder": "OneOffs/Cooking",
+  "fingerprint": "e467b56041ea17fd",
+  "width": 1080,
+  "height": 1920,
+  "fps": 30.0,
+  "duration": 25.968,
+  "model": "gemini-3.8-flash",
+  "annotatedAt": "2026-10-24T18:25:13+00:00",
+  "summary": "A person adds fresh herbs into a simmering pot of yellow curry on the gas stove and stirs it with a spatula.",
+  "location": "kitchen",
+  "setting": "indoor",
+  "time_of_day": "indoor_unknown",
+  "weather": "n/a",
+  "people": {
+    "count": 1,
+    "creator_visible": false,
+    "description": "Only the cook's hands and forearms are visible."
+  },
+  "camera": {
+    "style": "pov_first_person",
+    "framing": "close",
+    "movement": "static",
+    "angle": "high angle"
+  },
+  "quality": {
+    "usable": true,
+    "stability": "steady",
+    "exposure": "good",
+    "issues": ""
+  },
+  "mood": [
+    "cozy",
+    "satisfying",
+    "calm",
+    "domestic"
+  ],
+  "energy": "low",
+  "tags": [
+    "cooking",
+    "curry",
+    "kitchen",
+    "stovetop",
+    "herbs",
+    "basil",
+    "simmering",
+    "saucepan",
+    "stirring",
+    "home cooking",
+    "food",
+    "dinner prep"
+  ],
+  "moments": [
+    {
+      "start": 1.5,
+      "end": 6.8,
+      "action": "Dropping a handful of freshly chopped herbs into the simmering pot of curry",
+      "emotion": "focused",
+      "good_for": [
+        "cooking at home",
+        "food on my plate",
+        "nourishing meals",
+        "cozy evenings"
+      ],
+      "score": 4
+    },
+    {
+      "start": 7.5,
+      "end": 14.5,
+      "action": "Stirring the fresh herbs into the simmering curry with a grey silicone spatula",
+      "emotion": "calm",
+      "good_for": [
+        "dinner time",
+        "homemade comfort food",
+        "peaceful routine",
+        "making dinner"
+      ],
+      "score": 4
+    },
+    {
+      "start": 17.5,
+      "end": 22.5,
+      "action": "Stirring and scooping up large chunks of meat and vegetables in the simmering curry",
+      "emotion": "satisfied",
+      "good_for": [
+        "meal prep",
+        "learning to cook",
+        "simple pleasures",
+        "wholesome food"
+      ],
+      "score": 4
+    }
+  ]
+}

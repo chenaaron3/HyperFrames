@@ -1,0 +1,128 @@
+{
+  "id": "advice-16",
+  "name": "Poor Memory?",
+  "reference": "references/viral-formats/advice-16.mp4",
+  "source": "/Users/aaron/Downloads/100 Viral Formats (Format Book)/Advice/#16/#16.mp4",
+  "duration": 5.832,
+  "music": {
+    "from": "reference",
+    "title": "Original Audio"
+  },
+  "text": {
+    "y": 0.235,
+    "size": 46,
+    "weight": 700,
+    "lineHeight": 1.4,
+    "maxWidth": 900,
+    "style": "outline"
+  },
+  "lines": [
+    {
+      "id": "l1",
+      "start": 0.0,
+      "end": 1.433,
+      "ref": "Poor Memory?",
+      "y": 0.235,
+      "measuredSize": 45,
+      "style": "plain_white_shadow",
+      "guide": ""
+    },
+    {
+      "id": "l2",
+      "start": 1.433,
+      "end": 2.0,
+      "ref": "Use SPACED REPETITION",
+      "y": 0.235,
+      "measuredSize": 45,
+      "style": "plain_white_shadow",
+      "guide": ""
+    },
+    {
+      "id": "l3",
+      "start": 2.0,
+      "end": 3.433,
+      "ref": "Procrastinating?",
+      "y": 0.235,
+      "measuredSize": 45,
+      "style": "plain_white_shadow",
+      "guide": ""
+    },
+    {
+      "id": "l4",
+      "start": 3.433,
+      "end": 4.022,
+      "ref": "Use 5 MINUTE RULE",
+      "y": 0.235,
+      "measuredSize": 45,
+      "style": "plain_white_shadow",
+      "guide": ""
+    },
+    {
+      "id": "l5",
+      "start": 4.022,
+      "end": 5.363,
+      "ref": "Experiencing Burnout?",
+      "y": 0.235,
+      "measuredSize": 45,
+      "style": "plain_white_shadow",
+      "guide": ""
+    },
+    {
+      "id": "l6",
+      "start": 5.363,
+      "end": 5.832,
+      "ref": "Use Second Brain 🧠",
+      "y": 0.236,
+      "measuredSize": 45,
+      "style": "plain_white_shadow",
+      "guide": ""
+    },
+    {
+      "id": "l7",
+      "start": 5.363,
+      "end": 5.832,
+      "ref": "Read Caption",
+      "y": 0.754,
+      "measuredSize": 45,
+      "style": "plain_white_shadow",
+      "guide": ""
+    }
+  ],
+  "shots": [
+    {
+      "id": "s1",
+      "start": 0.0,
+      "end": 4.022,
+      "brief": "desk work or studying, medium shot (ref: Young woman in a coat sitting at desk with notebook, taking off pen cap as screen dims on beat.; tripod)",
+      "line": "l3"
+    },
+    {
+      "id": "s2",
+      "start": 4.022,
+      "end": 5.363,
+      "brief": "desk work or working on laptop, medium shot (ref: Young woman with glasses looking down studying at notebook as screen dims on beat.; tripod)",
+      "line": "l5"
+    },
+    {
+      "id": "s3",
+      "start": 5.363,
+      "end": 5.832,
+      "brief": "desk work or working on laptop, medium shot (ref: Young woman with glasses looking down studying at notebook as screen dims on beat.; tripod)",
+      "line": "l6"
+    }
+  ],
+  "audit": {
+    "kind": "broll_with_text",
+    "creatorSpeaks": false,
+    "audio": "music only",
+    "special": [],
+    "reusable": true,
+    "notes": "Perfect for the creator's laptop and desk work clips. Cut 3 distinct 2-second clips, darken/dim the clip brightness for the final ~0.6s of each cut when the solution text appears, and sync to the beat.",
+    "summary": "Three quick study b-roll clips matching a beat drop, presenting common study problems and their corresponding productivity technique solutions."
+  },
+  "caption": {
+    "ref": "",
+    "guide": ""
+  },
+  "draft": true
+}

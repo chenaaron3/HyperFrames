@@ -1,0 +1,94 @@
+{
+  "path": "OneOffs/Cooking/IMG_4820.MOV",
+  "folder": "OneOffs/Cooking",
+  "fingerprint": "aff0e3ac8e3223d5",
+  "width": 1080,
+  "height": 1920,
+  "fps": 30.0,
+  "duration": 21.368,
+  "model": "gemini-3.8-flash",
+  "annotatedAt": "2026-10-24T18:25:18+00:00",
+  "summary": "A person cooking a creamy curry or soup in a saucepan on a gas stovetop, squeezing fresh lime juice into it and stirring.",
+  "location": "kitchen",
+  "setting": "indoor",
+  "time_of_day": "indoor_unknown",
+  "weather": "n/a",
+  "people": {
+    "count": 1,
+    "creator_visible": false,
+    "description": "Only hands and arms visible, wearing a silver link bracelet on the right wrist"
+  },
+  "camera": {
+    "style": "pov_first_person",
+    "framing": "close",
+    "movement": "handheld_cinematic",
+    "angle": "high angle"
+  },
+  "quality": {
+    "usable": true,
+    "stability": "steady",
+    "exposure": "good",
+    "issues": ""
+  },
+  "mood": [
+    "cozy",
+    "comforting",
+    "culinary",
+    "domestic"
+  ],
+  "energy": "low",
+  "tags": [
+    "cooking",
+    "curry",
+    "soup",
+    "stove",
+    "kitchen",
+    "lime",
+    "recipe",
+    "food",
+    "homemade",
+    "saucepan",
+    "simmering",
+    "dinner prep"
+  ],
+  "moments": [
+    {
+      "start": 0.5,
+      "end": 9.5,
+      "action": "Person squeezes juice from half a fresh lime directly into a simmering pot of curry",
+      "emotion": "focused",
+      "good_for": [
+        "cooking from scratch",
+        "adding a little spice",
+        "making dinner",
+        "home cooked meal"
+      ],
+      "score": 4
+    },
+    {
+      "start": 10.5,
+      "end": 18.0,
+      "action": "Close-up of creamy curry with vegetables and chicken gently simmering on the gas stove",
+      "emotion": "calm",
+      "good_for": [
+        "comfort food",
+        "food on my plate",
+        "cozy evenings at home",
+        "nourishing meals"
+      ],
+      "score": 4
+    },
+    {
+      "start": 18.5,
+      "end": 21.37,
+      "action": "Person gently stirs the bubbling curry in the pot using a grey spatula",
+      "emotion": "content",
+      "good_for": [
+        "dinner is almost ready",
+        "cooking therapy",
+        "sunday reset"
+      ],
+      "score": 4
+    }
+  ]
+}

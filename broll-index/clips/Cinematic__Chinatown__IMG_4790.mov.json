@@ -1,0 +1,68 @@
+{
+  "path": "Cinematic/Chinatown/IMG_4790.mov",
+  "folder": "Cinematic/Chinatown",
+  "fingerprint": "28048b2ba22f7992",
+  "width": 1080,
+  "height": 1920,
+  "fps": 30.0,
+  "duration": 5.267,
+  "model": "gemini-3.8-flash",
+  "annotatedAt": "2026-10-24T18:19:26+00:00",
+  "summary": "A street-level view looking through a shop window into a bustling grocery store or market with shoppers at the checkout lines under bright fluorescent lights.",
+  "location": "supermarket",
+  "setting": "outdoor",
+  "time_of_day": "day",
+  "weather": "n/a",
+  "people": {
+    "count": 5,
+    "creator_visible": false,
+    "description": "Shoppers and cashier seen through the glass storefront, waiting in checkout lines inside the store."
+  },
+  "camera": {
+    "style": "handheld_cinematic",
+    "framing": "medium",
+    "movement": "static",
+    "angle": "eye level"
+  },
+  "quality": {
+    "usable": true,
+    "stability": "steady",
+    "exposure": "good",
+    "issues": ""
+  },
+  "mood": [
+    "observational",
+    "urban",
+    "calm"
+  ],
+  "energy": "low",
+  "tags": [
+    "chinatown",
+    "storefront",
+    "grocery store",
+    "market",
+    "window view",
+    "city life",
+    "urban street",
+    "everyday life",
+    "checkout",
+    "shoppers",
+    "b roll"
+  ],
+  "moments": [
+    {
+      "start": 0.0,
+      "end": 5.27,
+      "action": "Static view through a storefront window showing customers lined up at the checkout registers inside an Asian supermarket",
+      "emotion": "mundane",
+      "good_for": [
+        "city wandering",
+        "errands day",
+        "exploring chinatown",
+        "daily routine",
+        "urban textures"
+      ],
+      "score": 3
+    }
+  ]
+}

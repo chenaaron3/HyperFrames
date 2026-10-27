@@ -1,0 +1,95 @@
+{
+  "path": "SelfShots/Walking/1stPerson/IMG_4961.MOV",
+  "folder": "SelfShots/Walking/1stPerson",
+  "fingerprint": "4d2d31603173edb0",
+  "width": 1080,
+  "height": 1920,
+  "fps": 30.0,
+  "duration": 14.2,
+  "model": "gemini-3.8-flash",
+  "annotatedAt": "2026-10-24T19:01:58+00:00",
+  "summary": "A young man wearing a black coat and backpack walks down a bustling city sidewalk, capturing himself with a handheld selfie camera.",
+  "location": "city street",
+  "setting": "outdoor",
+  "time_of_day": "day",
+  "weather": "overcast",
+  "people": {
+    "count": 3,
+    "creator_visible": true,
+    "description": "Young East Asian man with curly hair, wearing a brown collared shirt, silver earrings, and a black overcoat with a backpack, walking on the street with background pedestrians passing by."
+  },
+  "camera": {
+    "style": "selfie",
+    "framing": "medium",
+    "movement": "walking",
+    "angle": "eye level"
+  },
+  "quality": {
+    "usable": true,
+    "stability": "handheld",
+    "exposure": "good",
+    "issues": "Accidental downward camera angle at the start and end of the clip."
+  },
+  "mood": [
+    "contemplative",
+    "urban",
+    "casual",
+    "chic"
+  ],
+  "energy": "medium",
+  "tags": [
+    "walking",
+    "city life",
+    "sidewalk",
+    "streetwear",
+    "ootd",
+    "commute",
+    "nyc",
+    "city stroll",
+    "overcoat",
+    "bus",
+    "solo walk",
+    "daily vlog"
+  ],
+  "moments": [
+    {
+      "start": 1.3,
+      "end": 3.4,
+      "action": "Creator tilts the camera up, looking directly into the lens while walking down the sidewalk",
+      "emotion": "calm and confident",
+      "good_for": [
+        "romanticizing my commute",
+        "stepping out into the city",
+        "heading to work",
+        "city walking aesthetic"
+      ],
+      "score": 4
+    },
+    {
+      "start": 3.4,
+      "end": 7.5,
+      "action": "Creator turns profile view, looking forward and observing the street as he walks past parked cars",
+      "emotion": "contemplative",
+      "good_for": [
+        "lost in thought",
+        "taking the long way home",
+        "main character walking",
+        "solo date vibes"
+      ],
+      "score": 4
+    },
+    {
+      "start": 7.5,
+      "end": 12.0,
+      "action": "Creator keeps walking along the sidewalk as a city bus drives by and pedestrians pass behind him",
+      "emotion": "relaxed and focused",
+      "good_for": [
+        "living in the city",
+        "day in my life",
+        "on the go",
+        "fall fashion commute"
+      ],
+      "score": 4
+    }
+  ]
+}

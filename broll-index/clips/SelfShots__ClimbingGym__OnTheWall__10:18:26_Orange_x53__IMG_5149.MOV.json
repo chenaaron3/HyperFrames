@@ -1,0 +1,103 @@
+{
+  "path": "SelfShots/ClimbingGym/OnTheWall/10:18:26_Orange_x53/IMG_5149.MOV",
+  "folder": "SelfShots/ClimbingGym/OnTheWall/10:18:26_Orange_x53",
+  "fingerprint": "ffc61e204a7e207f",
+  "width": 1080,
+  "height": 1920,
+  "fps": 30.0,
+  "duration": 54.47,
+  "model": "gemini-3.8-flash",
+  "annotatedAt": "2026-10-24T18:46:48+00:00",
+  "summary": "A young man attempts a challenging bouldering problem on an overhanging indoor climbing wall, working through dynamic moves before falling near the top.",
+  "location": "climbing gym",
+  "setting": "indoor",
+  "time_of_day": "indoor_unknown",
+  "weather": "n/a",
+  "people": {
+    "count": 1,
+    "creator_visible": true,
+    "description": "Young man with dark wavy hair wearing a grey ribbed tank top and loose denim jeans climbing on a bouldering wall."
+  },
+  "camera": {
+    "style": "tripod_static",
+    "framing": "wide",
+    "movement": "static",
+    "angle": "eye level"
+  },
+  "quality": {
+    "usable": true,
+    "stability": "locked",
+    "exposure": "good",
+    "issues": ""
+  },
+  "mood": [
+    "determined",
+    "focused",
+    "athletic",
+    "challenging"
+  ],
+  "energy": "medium",
+  "tags": [
+    "bouldering",
+    "climbing gym",
+    "indoor climbing",
+    "rock climbing",
+    "fitness",
+    "training",
+    "workout",
+    "chalk",
+    "overhang",
+    "perseverance",
+    "grip strength"
+  ],
+  "moments": [
+    {
+      "start": 10.0,
+      "end": 18.5,
+      "action": "Climber sets up on the lower holds, reaches upward, struggles for grip, and drops to the mat",
+      "emotion": "focused and testing limits",
+      "good_for": [
+        "trying and failing",
+        "work in progress",
+        "first attempts"
+      ],
+      "score": 3
+    },
+    {
+      "start": 22.0,
+      "end": 29.5,
+      "action": "Climber mounts the wall for a second attempt and establishes secure footing on the initial volumes",
+      "emotion": "determined",
+      "good_for": [
+        "trying again",
+        "not giving up",
+        "locking in"
+      ],
+      "score": 4
+    },
+    {
+      "start": 29.5,
+      "end": 42.0,
+      "action": "Climber carefully navigates up the mid-section of the wall with slow, controlled reaches",
+      "emotion": "intense focus",
+      "good_for": [
+        "trusting the process",
+        "step by step",
+        "discipline over motivation"
+      ],
+      "score": 4
+    },
+    {
+      "start": 42.0,
+      "end": 49.5,
+      "action": "Climber reaches for a top red hold, adjusts his balance, reaches for the next move, and slips off backwards",
+      "emotion": "effort followed by sudden release",
+      "good_for": [
+        "so close yet so far",
+        "learning from failure",
+        "giving it everything"
+      ],
+      "score": 4
+    }
+  ]
+}

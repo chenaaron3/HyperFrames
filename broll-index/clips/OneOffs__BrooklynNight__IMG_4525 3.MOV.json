@@ -1,0 +1,70 @@
+{
+  "path": "OneOffs/BrooklynNight/IMG_4525 3.MOV",
+  "folder": "OneOffs/BrooklynNight",
+  "fingerprint": "58b120d5f7441417",
+  "width": 1080,
+  "height": 1920,
+  "fps": 30.0,
+  "duration": 2.665,
+  "model": "gemini-3.8-flash",
+  "annotatedAt": "2026-10-24T18:22:52+00:00",
+  "summary": "Handheld tracking shot from behind a young man in shorts and a graphic t-shirt walking along a New York City subway station platform holding a shopping bag.",
+  "location": "subway station",
+  "setting": "indoor",
+  "time_of_day": "indoor_unknown",
+  "weather": "n/a",
+  "people": {
+    "count": 3,
+    "creator_visible": true,
+    "description": "Young man filmed from behind wearing a black t-shirt reading 'Wink Wink Nation', black shorts, and white sneakers, carrying a yellow paper bag; other commuters wait on the platform."
+  },
+  "camera": {
+    "style": "filmed_by_friend",
+    "framing": "medium",
+    "movement": "walking",
+    "angle": "eye level"
+  },
+  "quality": {
+    "usable": true,
+    "stability": "handheld",
+    "exposure": "good",
+    "issues": ""
+  },
+  "mood": [
+    "urban",
+    "casual",
+    "routine",
+    "candid"
+  ],
+  "energy": "low",
+  "tags": [
+    "subway",
+    "nyc",
+    "new york city",
+    "metro",
+    "station platform",
+    "walking",
+    "commute",
+    "errands",
+    "shopping bag",
+    "t-shirt",
+    "night out",
+    "urban life"
+  ],
+  "moments": [
+    {
+      "start": 0.0,
+      "end": 2.67,
+      "action": "Following behind a young man walking down a NYC subway platform carrying a yellow bag past transit signs and other passengers",
+      "emotion": "casual",
+      "good_for": [
+        "on my way home",
+        "city commute",
+        "errands day",
+        "nyc diary",
+        "subway thoughts"
+      ],
+      "score": 3
+    }
+  ]
+}

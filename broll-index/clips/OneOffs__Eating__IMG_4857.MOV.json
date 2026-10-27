@@ -1,0 +1,79 @@
+{
+  "path": "OneOffs/Eating/IMG_4857.MOV",
+  "folder": "OneOffs/Eating",
+  "fingerprint": "a9938beb6c8d79b8",
+  "width": 1080,
+  "height": 1920,
+  "fps": 30.0,
+  "duration": 12.602,
+  "model": "gemini-3.8-flash",
+  "annotatedAt": "2026-10-24T18:34:54+00:00",
+  "summary": "A young man browses canned goods on a shelf inside a grocery or convenience store before turning and walking past the camera.",
+  "location": "convenience store",
+  "setting": "indoor",
+  "time_of_day": "indoor_unknown",
+  "weather": "n/a",
+  "people": {
+    "count": 3,
+    "creator_visible": true,
+    "description": "Young East Asian man with dark wavy hair, wearing a black coat and carrying a backpack; other shoppers visible in the background"
+  },
+  "camera": {
+    "style": "filmed_by_friend",
+    "framing": "medium",
+    "movement": "static",
+    "angle": "eye level"
+  },
+  "quality": {
+    "usable": true,
+    "stability": "steady",
+    "exposure": "good",
+    "issues": ""
+  },
+  "mood": [
+    "casual",
+    "routine",
+    "mundane"
+  ],
+  "energy": "low",
+  "tags": [
+    "convenience store",
+    "bodega",
+    "grocery",
+    "shopping",
+    "canned food",
+    "aisle",
+    "shelves",
+    "errands",
+    "daily life",
+    "backpack",
+    "browse"
+  ],
+  "moments": [
+    {
+      "start": 3.8,
+      "end": 8.5,
+      "action": "The creator walks up to the shelf, inspects cans of food, picking one up to look at it",
+      "emotion": "casual, curious, thoughtful",
+      "good_for": [
+        "grocery run",
+        "late night snacks",
+        "errands day",
+        "daily routine"
+      ],
+      "score": 4
+    },
+    {
+      "start": 8.5,
+      "end": 11.0,
+      "action": "The creator turns away from the shelf, glances towards the camera, and walks out of frame",
+      "emotion": "neutral, relaxed",
+      "good_for": [
+        "on the move",
+        "quick stop",
+        "leaving empty handed"
+      ],
+      "score": 3
+    }
+  ]
+}

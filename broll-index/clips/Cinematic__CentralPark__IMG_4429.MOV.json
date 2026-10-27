@@ -1,0 +1,68 @@
+{
+  "path": "Cinematic/CentralPark/IMG_4429.MOV",
+  "folder": "Cinematic/CentralPark",
+  "fingerprint": "6f0446ea7f30fc0b",
+  "width": 1080,
+  "height": 1920,
+  "fps": 30.0,
+  "duration": 2.467,
+  "model": "gemini-3.8-flash",
+  "annotatedAt": "2026-10-24T18:18:02+00:00",
+  "summary": "A sunny day view of a historic Victorian pavilion in Central Park with visitors strolling around under a clear blue sky.",
+  "location": "park",
+  "setting": "outdoor",
+  "time_of_day": "day",
+  "weather": "sunny",
+  "people": {
+    "count": 15,
+    "creator_visible": false,
+    "description": "Crowd of tourists and park visitors dressed in casual weekend wear walking around the pavilion"
+  },
+  "camera": {
+    "style": "handheld_cinematic",
+    "framing": "wide",
+    "movement": "pan",
+    "angle": "eye level"
+  },
+  "quality": {
+    "usable": true,
+    "stability": "handheld",
+    "exposure": "good",
+    "issues": ""
+  },
+  "mood": [
+    "peaceful",
+    "leisurely",
+    "sunny",
+    "nostalgic"
+  ],
+  "energy": "medium",
+  "tags": [
+    "central park",
+    "new york city",
+    "pavilion",
+    "park",
+    "sunny",
+    "walking",
+    "architecture",
+    "sightseeing",
+    "weekend vibes",
+    "autumn",
+    "outdoor"
+  ],
+  "moments": [
+    {
+      "start": 0.0,
+      "end": 2.47,
+      "action": "Camera slowly pans across visitors walking past a charming Victorian-style wooden pavilion in Central Park on a clear sunny day",
+      "emotion": "relaxed",
+      "good_for": [
+        "weekend in the city",
+        "central park strolls",
+        "romanticizing life",
+        "places that feel like a movie"
+      ],
+      "score": 3
+    }
+  ]
+}

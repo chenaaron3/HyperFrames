@@ -1,0 +1,117 @@
+{
+  "path": "SelfShots/ClimbingGym/OnTheWall/10:17:26_x9/IMG_4982.MOV",
+  "folder": "SelfShots/ClimbingGym/OnTheWall/10:17:26_x9",
+  "fingerprint": "0f0ae3ec425311d2",
+  "width": 1080,
+  "height": 1920,
+  "fps": 30.0,
+  "duration": 70.307,
+  "model": "gemini-3.8-flash",
+  "annotatedAt": "2026-10-24T18:39:39+00:00",
+  "summary": "A young man attempts a difficult bouldering route on an indoor climbing wall, working his way up before falling onto the mat near the top.",
+  "location": "gym",
+  "setting": "indoor",
+  "time_of_day": "indoor_unknown",
+  "weather": "n/a",
+  "people": {
+    "count": 3,
+    "creator_visible": true,
+    "description": "Young Asian man with dark hair in a brown short-sleeved t-shirt and black pants bouldering; a few gym-goers briefly walk across the foreground."
+  },
+  "camera": {
+    "style": "tripod_static",
+    "framing": "wide",
+    "movement": "static",
+    "angle": "eye level"
+  },
+  "quality": {
+    "usable": true,
+    "stability": "locked",
+    "exposure": "good",
+    "issues": ""
+  },
+  "mood": [
+    "focused",
+    "athletic",
+    "determined",
+    "active"
+  ],
+  "energy": "medium",
+  "tags": [
+    "bouldering",
+    "climbing gym",
+    "rock climbing",
+    "indoor climbing",
+    "fitness",
+    "workout",
+    "climbing wall",
+    "holds",
+    "sports",
+    "fall",
+    "determination",
+    "lifestyle"
+  ],
+  "moments": [
+    {
+      "start": 4.5,
+      "end": 12.0,
+      "action": "Young man approaches the bouldering wall and starts his climb using low holds",
+      "emotion": "focused",
+      "good_for": [
+        "starting a new hobby",
+        "day one of fitness journey",
+        "taking the first step"
+      ],
+      "score": 3
+    },
+    {
+      "start": 26.0,
+      "end": 34.0,
+      "action": "Climber pulls himself up smoothly into the middle section of the wall",
+      "emotion": "determined",
+      "good_for": [
+        "trusting the process",
+        "building strength",
+        "daily workout routine"
+      ],
+      "score": 4
+    },
+    {
+      "start": 34.5,
+      "end": 42.0,
+      "action": "Climber repositions his feet and establishes a solid grip on bright pink holds",
+      "emotion": "calculating",
+      "good_for": [
+        "finding balance",
+        "focus on your goals",
+        "taking it one step at a time"
+      ],
+      "score": 3
+    },
+    {
+      "start": 49.0,
+      "end": 57.0,
+      "action": "Climber shifts weight on high holds, preparing to reach for the final sequence",
+      "emotion": "strained",
+      "good_for": [
+        "pushing through the hard part",
+        "almost there",
+        "perseverance"
+      ],
+      "score": 4
+    },
+    {
+      "start": 57.5,
+      "end": 66.0,
+      "action": "Climber reaches dynamically for the top hold, loses grip, drops onto the crash pad, and walks off smiling",
+      "emotion": "playful defeat",
+      "good_for": [
+        "laugh at your mistakes",
+        "falling down and getting back up",
+        "so close yet so far",
+        "trying your best"
+      ],
+      "score": 5
+    }
+  ]
+}

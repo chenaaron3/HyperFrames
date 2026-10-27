@@ -1,0 +1,79 @@
+{
+  "path": "OneOffs/Apartments/TimesSquare/337 West 43rd Street/IMG_4217.MOV",
+  "folder": "OneOffs/Apartments/TimesSquare/337 West 43rd Street",
+  "fingerprint": "10c077e79559e7c2",
+  "width": 1080,
+  "height": 1920,
+  "fps": 30.0,
+  "duration": 4.567,
+  "model": "gemini-3.8-flash",
+  "annotatedAt": "2026-10-24T18:21:59+00:00",
+  "summary": "First-person POV walking up to the entrance of a New York City apartment building numbered 337, panning from the street and gate towards the glass front doors.",
+  "location": "apartment building entrance",
+  "setting": "outdoor",
+  "time_of_day": "day",
+  "weather": "overcast",
+  "people": {
+    "count": 0,
+    "creator_visible": false,
+    "description": "No visible people in the frame."
+  },
+  "camera": {
+    "style": "pov_first_person",
+    "framing": "medium",
+    "movement": "walking",
+    "angle": "eye level"
+  },
+  "quality": {
+    "usable": true,
+    "stability": "handheld",
+    "exposure": "good",
+    "issues": "Quick panning motion blur mid-clip"
+  },
+  "mood": [
+    "urban",
+    "curious",
+    "anticipatory"
+  ],
+  "energy": "medium",
+  "tags": [
+    "nyc",
+    "apartment",
+    "entrance",
+    "building",
+    "street",
+    "city",
+    "apartment hunting",
+    "doors",
+    "glass doors",
+    "times square",
+    "manhattan"
+  ],
+  "moments": [
+    {
+      "start": 0.0,
+      "end": 1.5,
+      "action": "POV shot looking through black metal fencing at a city bus driving past brick apartment buildings",
+      "emotion": "urban bustle",
+      "good_for": [
+        "city life",
+        "nyc living",
+        "busy streets"
+      ],
+      "score": 2
+    },
+    {
+      "start": 2.5,
+      "end": 4.57,
+      "action": "Camera approaches the double glass entrance doors of apartment building 337",
+      "emotion": "anticipatory",
+      "good_for": [
+        "apartment hunting",
+        "arriving home",
+        "welcome to my new place",
+        "city apartment tour"
+      ],
+      "score": 3
+    }
+  ]
+}

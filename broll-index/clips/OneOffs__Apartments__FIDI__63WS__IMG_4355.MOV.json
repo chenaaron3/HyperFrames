@@ -1,0 +1,92 @@
+{
+  "path": "OneOffs/Apartments/FIDI/63WS/IMG_4355.MOV",
+  "folder": "OneOffs/Apartments/FIDI/63WS",
+  "fingerprint": "cc682c68aa5c7a0d",
+  "width": 1080,
+  "height": 1920,
+  "fps": 30.0,
+  "duration": 12.533,
+  "model": "gemini-3.8-flash",
+  "annotatedAt": "2026-10-24T18:20:41+00:00",
+  "summary": "First-person walk-through of an opulent, wood-paneled residential lounge featuring high ceilings, a fireplace, velvet seating, and a marble bar with backlit liquor shelves.",
+  "location": "lounge",
+  "setting": "indoor",
+  "time_of_day": "day",
+  "weather": "n/a",
+  "people": {
+    "count": 0,
+    "creator_visible": false,
+    "description": "Nobody visible on screen; voices heard discussing drinks and guest access"
+  },
+  "camera": {
+    "style": "pov_first_person",
+    "framing": "wide",
+    "movement": "pan",
+    "angle": "eye level"
+  },
+  "quality": {
+    "usable": true,
+    "stability": "handheld",
+    "exposure": "good",
+    "issues": "Slight lens flare/glare when panning past the chandelier"
+  },
+  "mood": [
+    "luxurious",
+    "sophisticated",
+    "exclusive",
+    "calm"
+  ],
+  "energy": "low",
+  "tags": [
+    "luxury apartment",
+    "speakeasy",
+    "residential lounge",
+    "wood paneling",
+    "marble bar",
+    "fireplace",
+    "interior design",
+    "fidi",
+    "new york city",
+    "amenities",
+    "cocktail bar"
+  ],
+  "moments": [
+    {
+      "start": 0.0,
+      "end": 4.5,
+      "action": "Camera enters an elegant wood-paneled salon showing high drapery, plush sofa, coffee table, and an ornate fireplace with mounted screen",
+      "emotion": "sophisticated",
+      "good_for": [
+        "luxury living",
+        "apartment hunting in nyc",
+        "aesthetic spaces",
+        "dream home tour"
+      ],
+      "score": 4
+    },
+    {
+      "start": 4.5,
+      "end": 8.5,
+      "action": "Camera pans across the spacious lounge showing modern lounge chairs and large windows letting in natural daylight",
+      "emotion": "calm",
+      "good_for": [
+        "weekend vibes",
+        "exclusive spaces",
+        "interior design inspiration"
+      ],
+      "score": 3
+    },
+    {
+      "start": 8.5,
+      "end": 12.53,
+      "action": "Camera glides along the marble countertop revealing a private bar with warm backlit liquor shelves",
+      "emotion": "sophisticated",
+      "good_for": [
+        "cocktail hour",
+        "building amenities that justify the rent",
+        "private speakeasy"
+      ],
+      "score": 4
+    }
+  ]
+}

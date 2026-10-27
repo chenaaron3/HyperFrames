@@ -1,0 +1,82 @@
+{
+  "path": "Cinematic/CentralPark/IMG_4450.MOV",
+  "folder": "Cinematic/CentralPark",
+  "fingerprint": "bdd009369a1c99b9",
+  "width": 1080,
+  "height": 1920,
+  "fps": 30.0,
+  "duration": 7.267,
+  "model": "gemini-3.8-flash",
+  "annotatedAt": "2026-10-24T18:18:22+00:00",
+  "summary": "A cyclist rides along a paved loop road through Central Park on a bright sunny day as the camera pans along with them.",
+  "location": "park",
+  "setting": "outdoor",
+  "time_of_day": "day",
+  "weather": "sunny",
+  "people": {
+    "count": 4,
+    "creator_visible": false,
+    "description": "A cyclist wearing a white long-sleeve shirt, dark pants, cap, and backpack riding past; distant pedestrians walking on the park pathways."
+  },
+  "camera": {
+    "style": "handheld_cinematic",
+    "framing": "wide",
+    "movement": "pan",
+    "angle": "eye level"
+  },
+  "quality": {
+    "usable": true,
+    "stability": "steady",
+    "exposure": "mixed",
+    "issues": "Sun flare when panning into backlit trees towards the end."
+  },
+  "mood": [
+    "peaceful",
+    "active",
+    "scenic",
+    "refreshing"
+  ],
+  "energy": "medium",
+  "tags": [
+    "central park",
+    "cycling",
+    "bike ride",
+    "new york city",
+    "sunny day",
+    "park",
+    "exercise",
+    "commute",
+    "nature in the city",
+    "trees",
+    "summer vibes",
+    "outdoors"
+  ],
+  "moments": [
+    {
+      "start": 0.0,
+      "end": 3.0,
+      "action": "A cyclist pedals smoothly along a wide curve of a park road surrounded by green trees.",
+      "emotion": "calm",
+      "good_for": [
+        "morning rides",
+        "outdoor therapy",
+        "clear your head",
+        "staying active"
+      ],
+      "score": 3
+    },
+    {
+      "start": 3.0,
+      "end": 6.5,
+      "action": "The camera pans to follow the cyclist passing across a crosswalk with sunlight filtering through the canopy.",
+      "emotion": "energized",
+      "good_for": [
+        "city adventures",
+        "sunny days in new york",
+        "moving forward",
+        "daily routine"
+      ],
+      "score": 4
+    }
+  ]
+}

@@ -1,0 +1,81 @@
+{
+  "id": "opinion-23",
+  "name": "What people think is embarrassing:",
+  "reference": "references/viral-formats/opinion-23.mp4",
+  "source": "/Users/aaron/Downloads/100 Viral Formats (Format Book)/Opinion/#23/#23.mp4",
+  "duration": 9.267,
+  "music": {
+    "from": "reference",
+    "title": "Hotline (edit) - Billie Eilish"
+  },
+  "text": {
+    "y": 0.277,
+    "size": 46,
+    "weight": 700,
+    "lineHeight": 1.4,
+    "maxWidth": 900,
+    "style": "outline"
+  },
+  "lines": [
+    {
+      "id": "l1",
+      "start": 0.0,
+      "end": 4.867,
+      "ref": "What people think is embarrassing:",
+      "y": 0.277,
+      "measuredSize": 45,
+      "style": "plain_white_shadow",
+      "guide": ""
+    },
+    {
+      "id": "l2",
+      "start": 4.867,
+      "end": 9.267,
+      "ref": "What is actually embarrassing:",
+      "y": 0.277,
+      "measuredSize": 45,
+      "style": "plain_white_shadow",
+      "guide": ""
+    }
+  ],
+  "shots": [
+    {
+      "id": "s1",
+      "start": 0.0,
+      "end": 2.433,
+      "brief": "setting up a phone on a tripod to record (ref: Young man standing in his room adjusting a smartphone mounted on a tripod in front of his desk.; tripod)",
+      "line": "l1"
+    },
+    {
+      "id": "s2",
+      "start": 2.433,
+      "end": 4.867,
+      "brief": "talking animatedly to a phone mounted on a tripod (ref: Young man sitting in an office chair speaking animatedly and gesturing toward his phone camera on the tripod.; tripod)",
+      "line": "l1"
+    },
+    {
+      "id": "s3",
+      "start": 4.867,
+      "end": 9.267,
+      "brief": "sitting in bed looking down at a phone with screen recording overlay of typing a hate comment (ref: Young man in bed at night scrolling on his phone, accompanied by an overlaid screen recording showing someone typing a critical comment under a post.; tripod)",
+      "line": "l2"
+    }
+  ],
+  "audit": {
+    "kind": "broll_with_text",
+    "creatorSpeaks": false,
+    "audio": "music only",
+    "special": [
+      "Clips showing the creator setting up a tripod and filming themselves talking to camera",
+      "Screen recording overlay of opening comments and typing a negative comment on Instagram"
+    ],
+    "reusable": false,
+    "notes": "Requires specific meta-content: footage of yourself visibly setting up and filming content on a tripod, plus a customized screen recording overlay showing someone typing a negative comment on your profile.",
+    "summary": "A creator contrasts the perceived embarrassment of filming oneself for social media with the actual embarrassment of being the person leaving negative comments online from bed."
+  },
+  "caption": {
+    "ref": "",
+    "guide": ""
+  },
+  "draft": true
+}

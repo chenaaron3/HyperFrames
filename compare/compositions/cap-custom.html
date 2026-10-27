@@ -1,0 +1,33 @@
+<template>
+  <style>
+    #cc-root { position: absolute; inset: 0; pointer-events: none; }
+    .cc-cap {
+      position: absolute; left: 0; top: 1050px; width: 1080px; text-align: center; padding: 0 80px; box-sizing: border-box;
+      font-family: "Inter", sans-serif; font-weight: 700; font-size: 54px; line-height: 1.1; letter-spacing: -0.01em;
+      color: #FFFFFF; text-shadow: 0 2px 12px rgba(0, 0, 0, 0.45), 0 0 2px rgba(0, 0, 0, 0.25);
+    }
+    .cc-cap i { display: inline-block; font-style: normal; white-space: pre; }
+  </style>
+  <div id="cc-root" data-composition-id="cap-custom" data-start="0" data-duration="5.6" data-width="1080" data-height="1920">
+    <div id="cc-0" class="clip cc-cap" data-start="0.302" data-duration="0.554" data-track-index="0"><i>Okay,</i><i> first</i></div>
+    <div id="cc-1" class="clip cc-cap" data-start="0.856" data-duration="0.710" data-track-index="0"><i>you</i><i> do</i><i> need</i></div>
+    <div id="cc-2" class="clip cc-cap" data-start="1.566" data-duration="0.900" data-track-index="0"><i>Claude</i><i> Code</i></div>
+    <div id="cc-3" class="clip cc-cap" data-start="2.466" data-duration="0.772" data-track-index="0"><i>but</i><i> use</i><i> it</i></div>
+    <div id="cc-4" class="clip cc-cap" data-start="3.238" data-duration="1.016" data-track-index="0"><i>in</i><i> the</i><i> browser.</i></div>
+    <div id="cc-5" class="clip cc-cap" data-start="4.254" data-duration="0.630" data-track-index="0"><i>Download</i><i> the</i></div>
+    <div id="cc-6" class="clip cc-cap" data-start="4.884" data-duration="0.516" data-track-index="0"><i>desktop</i></div>
+  </div>
+  <script>
+    (function () {
+      var tl = gsap.timeline({ paused: true });
+      tl.fromTo("#cc-0 i", { opacity: 0, y: 10, filter: "blur(6px)" }, { opacity: 1, y: 0, filter: "blur(0px)", duration: 0.16, stagger: 0.06, ease: "power3.out" }, 0.302);
+      tl.fromTo("#cc-1 i", { opacity: 0, y: 10, filter: "blur(6px)" }, { opacity: 1, y: 0, filter: "blur(0px)", duration: 0.16, stagger: 0.06, ease: "power3.out" }, 0.856);
+      tl.fromTo("#cc-2 i", { opacity: 0, y: 10, filter: "blur(6px)" }, { opacity: 1, y: 0, filter: "blur(0px)", duration: 0.16, stagger: 0.06, ease: "power3.out" }, 1.566);
+      tl.fromTo("#cc-3 i", { opacity: 0, y: 10, filter: "blur(6px)" }, { opacity: 1, y: 0, filter: "blur(0px)", duration: 0.16, stagger: 0.06, ease: "power3.out" }, 2.466);
+      tl.fromTo("#cc-4 i", { opacity: 0, y: 10, filter: "blur(6px)" }, { opacity: 1, y: 0, filter: "blur(0px)", duration: 0.16, stagger: 0.06, ease: "power3.out" }, 3.238);
+      tl.fromTo("#cc-5 i", { opacity: 0, y: 10, filter: "blur(6px)" }, { opacity: 1, y: 0, filter: "blur(0px)", duration: 0.16, stagger: 0.06, ease: "power3.out" }, 4.254);
+      tl.fromTo("#cc-6 i", { opacity: 0, y: 10, filter: "blur(6px)" }, { opacity: 1, y: 0, filter: "blur(0px)", duration: 0.16, stagger: 0.06, ease: "power3.out" }, 4.884);
+      window.__timelines["cap-custom"] = tl;
+    })();
+  </script>
+</template>

@@ -1,0 +1,70 @@
+{
+  "path": "SelfShots/Walking/1stPerson/IMG_4600.MOV",
+  "folder": "SelfShots/Walking/1stPerson",
+  "fingerprint": "f0a452ae13492fb7",
+  "width": 1080,
+  "height": 1920,
+  "fps": 30.0,
+  "duration": 2.9,
+  "model": "gemini-3.8-flash",
+  "annotatedAt": "2026-10-24T19:01:21+00:00",
+  "summary": "A young man walks outdoors holding an umbrella in the rain, filming himself in a close-up selfie angle while making a subtle pursed-lip expression.",
+  "location": "city street",
+  "setting": "outdoor",
+  "time_of_day": "day",
+  "weather": "rain",
+  "people": {
+    "count": 1,
+    "creator_visible": true,
+    "description": "Young East Asian man with curly dark hair, wearing a black jacket over a grey/blue shirt, carrying a backpack and holding an umbrella"
+  },
+  "camera": {
+    "style": "selfie",
+    "framing": "close",
+    "movement": "walking",
+    "angle": "low angle looking up"
+  },
+  "quality": {
+    "usable": true,
+    "stability": "handheld",
+    "exposure": "good",
+    "issues": "slight motion blur from walking"
+  },
+  "mood": [
+    "relatable",
+    "casual",
+    "gloomy",
+    "stoic"
+  ],
+  "energy": "low",
+  "tags": [
+    "rain",
+    "umbrella",
+    "walking",
+    "commute",
+    "selfie",
+    "rainy day",
+    "student",
+    "casual",
+    "pout",
+    "backpack",
+    "gloomy day",
+    "city life"
+  ],
+  "moments": [
+    {
+      "start": 0.0,
+      "end": 2.9,
+      "action": "Creator walks under an umbrella while holding camera in front of his face with a humorous/resigned lip-pursed expression",
+      "emotion": "resigned, relatable, humorous",
+      "good_for": [
+        "rainy day commute",
+        "trying to stay positive in bad weather",
+        "heading to class in the rain",
+        "monday morning mood",
+        "relatable bad weather moments"
+      ],
+      "score": 3
+    }
+  ]
+}

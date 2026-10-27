@@ -1,0 +1,70 @@
+{
+  "path": "OneOffs/BrooklynNight/IMG_4575 3.MOV",
+  "folder": "OneOffs/BrooklynNight",
+  "fingerprint": "41ab58b84701c2ed",
+  "width": 1080,
+  "height": 1920,
+  "fps": 29.97,
+  "duration": 3.035,
+  "model": "gemini-3.8-flash",
+  "annotatedAt": "2026-10-24T18:24:08+00:00",
+  "summary": "Low-angle shot looking up at the illuminated stone arches and suspension cables of the Brooklyn Bridge at night, with a crowd of pedestrians walking below.",
+  "location": "brooklyn bridge",
+  "setting": "outdoor",
+  "time_of_day": "night",
+  "weather": "n/a",
+  "people": {
+    "count": 25,
+    "creator_visible": false,
+    "description": "Crowd of tourists and pedestrians bundled in jackets walking along the Brooklyn Bridge pedestrian walkway"
+  },
+  "camera": {
+    "style": "pov_first_person",
+    "framing": "wide",
+    "movement": "handheld",
+    "angle": "low angle looking up"
+  },
+  "quality": {
+    "usable": true,
+    "stability": "handheld",
+    "exposure": "mixed",
+    "issues": ""
+  },
+  "mood": [
+    "bustling",
+    "iconic",
+    "urban",
+    "nocturnal"
+  ],
+  "energy": "medium",
+  "tags": [
+    "brooklyn bridge",
+    "new york city",
+    "nyc",
+    "night",
+    "travel",
+    "tourism",
+    "city lights",
+    "cables",
+    "architecture",
+    "pedestrians",
+    "crowd",
+    "urban aesthetic"
+  ],
+  "moments": [
+    {
+      "start": 0.0,
+      "end": 3.04,
+      "action": "Camera tilts slightly and tracks the illuminated gothic archway and cables of the Brooklyn Bridge above a bustling nighttime crowd",
+      "emotion": "energetic and awe-inspired",
+      "good_for": [
+        "city nights",
+        "new york energy",
+        "late night walks",
+        "traveling to big cities",
+        "never sleeping"
+      ],
+      "score": 4
+    }
+  ]
+}

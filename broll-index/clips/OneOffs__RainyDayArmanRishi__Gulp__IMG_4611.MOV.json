@@ -1,0 +1,67 @@
+{
+  "path": "OneOffs/RainyDayArmanRishi/Gulp/IMG_4611.MOV",
+  "folder": "OneOffs/RainyDayArmanRishi/Gulp",
+  "fingerprint": "fc1b17bb2140c4eb",
+  "width": 1080,
+  "height": 1920,
+  "fps": 29.97,
+  "duration": 3.568,
+  "model": "gemini-3.8-flash",
+  "annotatedAt": "2026-10-24T18:35:47+00:00",
+  "summary": "A static low-angle shot of an illuminated '929' sign above an arched doorway in a dimly lit venue, with a person passing by below.",
+  "location": "restaurant",
+  "setting": "indoor",
+  "time_of_day": "indoor_unknown",
+  "weather": "n/a",
+  "people": {
+    "count": 1,
+    "creator_visible": false,
+    "description": "A young Asian man in a dark polo or t-shirt partially visible at the bottom of the frame looking downwards"
+  },
+  "camera": {
+    "style": "pov_first_person",
+    "framing": "medium",
+    "movement": "static",
+    "angle": "low angle looking up"
+  },
+  "quality": {
+    "usable": true,
+    "stability": "steady",
+    "exposure": "dark",
+    "issues": "none"
+  },
+  "mood": [
+    "moody",
+    "chill",
+    "nocturnal",
+    "mysterious"
+  ],
+  "energy": "low",
+  "tags": [
+    "929",
+    "neon sign",
+    "archway",
+    "bar",
+    "restaurant",
+    "nightlife",
+    "grid ceiling",
+    "dim lighting",
+    "urban",
+    "evening"
+  ],
+  "moments": [
+    {
+      "start": 0.0,
+      "end": 3.57,
+      "action": "Camera holds steady pointing up at the glowing red and white 929 sign above an archway while ambient voices play",
+      "emotion": "mysterious",
+      "good_for": [
+        "late night spots",
+        "entering the venue",
+        "night out with friends",
+        "hidden gems"
+      ],
+      "score": 3
+    }
+  ]
+}

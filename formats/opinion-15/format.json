@@ -1,0 +1,141 @@
+{
+  "id": "opinion-15",
+  "name": "5 Ways Men Ruin Relationships Without Realizing It",
+  "reference": "references/viral-formats/opinion-15.mp4",
+  "source": "/Users/aaron/Downloads/100 Viral Formats (Format Book)/Opinion/#15/#15.mp4",
+  "duration": 12.633,
+  "music": {
+    "from": "reference",
+    "title": "Original Audio"
+  },
+  "text": {
+    "y": 0.48,
+    "size": 64,
+    "weight": 700,
+    "lineHeight": 1.4,
+    "maxWidth": 900,
+    "style": "outline"
+  },
+  "lines": [
+    {
+      "id": "l1",
+      "start": 0.0,
+      "end": 3.333,
+      "ref": "5 Ways Men Ruin Relationships\nWithout Realizing It",
+      "y": 0.48,
+      "measuredSize": null,
+      "style": "other",
+      "guide": ""
+    },
+    {
+      "id": "l2",
+      "start": 3.333,
+      "end": 5.167,
+      "ref": "1. By shutting down instead\nof speaking up",
+      "y": 0.48,
+      "measuredSize": null,
+      "style": "other",
+      "guide": ""
+    },
+    {
+      "id": "l3",
+      "start": 5.167,
+      "end": 6.8,
+      "ref": "2. By stopping the small acts\nof affection",
+      "y": 0.48,
+      "measuredSize": 83,
+      "style": "other",
+      "guide": ""
+    },
+    {
+      "id": "l4",
+      "start": 6.8,
+      "end": 8.367,
+      "ref": "3. By thinking loyalty is enough",
+      "y": 0.48,
+      "measuredSize": null,
+      "style": "other",
+      "guide": ""
+    },
+    {
+      "id": "l5",
+      "start": 8.367,
+      "end": 10.267,
+      "ref": "4. By treating her consistency\nas something guaranteed",
+      "y": 0.48,
+      "measuredSize": null,
+      "style": "other",
+      "guide": ""
+    },
+    {
+      "id": "l6",
+      "start": 10.267,
+      "end": 12.633,
+      "ref": "5. By acting \"tired\" every time she\nneeds emotional connection",
+      "y": 0.48,
+      "measuredSize": null,
+      "style": "other",
+      "guide": ""
+    }
+  ],
+  "shots": [
+    {
+      "id": "s1",
+      "start": 0.0,
+      "end": 3.333,
+      "brief": "couple sitting together outdoors talking and smiling (ref: Young couple sitting on a stone wall by a marina, smiling and conversing warmly; tripod)",
+      "line": "l1"
+    },
+    {
+      "id": "s2",
+      "start": 3.333,
+      "end": 5.167,
+      "brief": "person sitting alone looking pensively out a window (ref: Young man sitting back in an armchair next to a window, looking pensively outside; filmed by friend)",
+      "line": "l2"
+    },
+    {
+      "id": "s3",
+      "start": 5.167,
+      "end": 6.8,
+      "brief": "partner walking away and turning back to wave (ref: Young woman turning around to wave goodbye at night outside a building; POV)",
+      "line": "l3"
+    },
+    {
+      "id": "s4",
+      "start": 6.8,
+      "end": 8.367,
+      "brief": "couple hanging out casually at an outdoor venue (ref: Woman sitting at an outdoor bar counter while man behind her flashes a peace sign; selfie)",
+      "line": "l4"
+    },
+    {
+      "id": "s5",
+      "start": 8.367,
+      "end": 10.267,
+      "brief": "couple leaning against a railing with city skyline in background (ref: Couple taking a photo together on the Brooklyn Bridge with the city skyline behind them; tripod)",
+      "line": "l5"
+    },
+    {
+      "id": "s6",
+      "start": 10.267,
+      "end": 12.633,
+      "brief": "person browsing an art installation or illuminated wall display (ref: Young woman standing in an illuminated room admiring notes hanging on a fairy-lit wall; filmed by friend)",
+      "line": "l6"
+    }
+  ],
+  "audit": {
+    "kind": "broll_with_text",
+    "creatorSpeaks": false,
+    "audio": "music only",
+    "special": [
+      "couple / female partner"
+    ],
+    "reusable": true,
+    "notes": "To recreate this exact relationship prompt, clips of a couple are required. However, the exact numbered list format ('X Ways People Ruin Y Without Realizing It') seamlessly adapts to solo lifestyle b-roll by changing the topic to career, fitness, mental health, or personal productivity.",
+    "summary": "A 6-shot montage of couple moments and reflective solo shots paired with text overlay listing 5 subtle relationship mistakes men make."
+  },
+  "caption": {
+    "ref": "",
+    "guide": ""
+  },
+  "draft": true
+}

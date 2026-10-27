@@ -1,0 +1,116 @@
+{
+  "path": "SelfShots/MorningRoutine/1.3_BrushingTeeth.MOV",
+  "folder": "SelfShots/MorningRoutine",
+  "fingerprint": "b3c84c54dec67566",
+  "width": 1080,
+  "height": 1920,
+  "fps": 29.97,
+  "duration": 53.562,
+  "model": "gemini-3.8-flash",
+  "annotatedAt": "2026-10-24T18:59:28+00:00",
+  "summary": "A young man completes his morning bathroom routine, brushing his teeth with an electric toothbrush, rinsing, and washing up in front of the mirror.",
+  "location": "bathroom",
+  "setting": "indoor",
+  "time_of_day": "day",
+  "weather": "n/a",
+  "people": {
+    "count": 1,
+    "creator_visible": true,
+    "description": "Young East Asian man with dark messy fringe haircut, wearing a grey sleeveless tank top."
+  },
+  "camera": {
+    "style": "tripod_static",
+    "framing": "medium",
+    "movement": "static",
+    "angle": "eye level"
+  },
+  "quality": {
+    "usable": true,
+    "stability": "locked",
+    "exposure": "good",
+    "issues": ""
+  },
+  "mood": [
+    "calm",
+    "routine",
+    "casual",
+    "mundane",
+    "focused"
+  ],
+  "energy": "low",
+  "tags": [
+    "morning routine",
+    "brushing teeth",
+    "electric toothbrush",
+    "bathroom",
+    "sink",
+    "mirror reflection",
+    "hygiene",
+    "skincare routine",
+    "self care",
+    "daily habits",
+    "apartment living"
+  ],
+  "moments": [
+    {
+      "start": 1.0,
+      "end": 4.5,
+      "action": "Young man enters bathroom, turns on faucet, wets his toothbrush, and begins brushing",
+      "emotion": "sleepy, routine, calm",
+      "good_for": [
+        "starting the morning routine",
+        "waking up early",
+        "small daily habits"
+      ],
+      "score": 4
+    },
+    {
+      "start": 4.5,
+      "end": 9.5,
+      "action": "Brushing teeth with an electric toothbrush while looking straight into the mirror",
+      "emotion": "focused, calm",
+      "good_for": [
+        "morning hygiene routine",
+        "taking care of yourself",
+        "day in the life vlog"
+      ],
+      "score": 4
+    },
+    {
+      "start": 15.5,
+      "end": 21.0,
+      "action": "Continuing to brush teeth steadily in front of the mirror",
+      "emotion": "relaxed, thoughtful",
+      "good_for": [
+        "everyday moments",
+        "peaceful mornings",
+        "healthy routines"
+      ],
+      "score": 3
+    },
+    {
+      "start": 38.5,
+      "end": 43.5,
+      "action": "Leaning over the sink to rinse his mouth and splash water on his face",
+      "emotion": "refreshing, focused",
+      "good_for": [
+        "waking up",
+        "fresh start",
+        "post workout refresh"
+      ],
+      "score": 4
+    },
+    {
+      "start": 45.0,
+      "end": 49.5,
+      "action": "Drying face with towel, turning off faucet, and checking reflection in the mirror",
+      "emotion": "refreshed, satisfied",
+      "good_for": [
+        "ready for the day",
+        "clean slate",
+        "morning check-in"
+      ],
+      "score": 4
+    }
+  ]
+}

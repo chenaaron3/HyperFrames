@@ -1,0 +1,82 @@
+{
+  "path": "Cinematic/UES/IMG_4485.MOV",
+  "folder": "Cinematic/UES",
+  "fingerprint": "a5a6ec539e753ec7",
+  "width": 1080,
+  "height": 1920,
+  "fps": 30.0,
+  "duration": 4.5,
+  "model": "gemini-3.8-flash",
+  "annotatedAt": "2026-10-24T18:19:49+00:00",
+  "summary": "A handheld shot tilts down along an elegant pre-war apartment building on an Upper East Side street lined with trees and parked cars.",
+  "location": "city street",
+  "setting": "outdoor",
+  "time_of_day": "day",
+  "weather": "overcast",
+  "people": {
+    "count": 0,
+    "creator_visible": false,
+    "description": "No people clearly visible, with only distant pedestrians blurred on the far sidewalk."
+  },
+  "camera": {
+    "style": "handheld_cinematic",
+    "framing": "wide",
+    "movement": "tilt down",
+    "angle": "low angle looking up"
+  },
+  "quality": {
+    "usable": true,
+    "stability": "steady",
+    "exposure": "good",
+    "issues": ""
+  },
+  "mood": [
+    "peaceful",
+    "aspirational",
+    "classic",
+    "urban"
+  ],
+  "energy": "low",
+  "tags": [
+    "upper east side",
+    "nyc",
+    "new york city",
+    "architecture",
+    "apartment building",
+    "pre war",
+    "city streets",
+    "manhattan",
+    "autumn vibes",
+    "quiet luxury",
+    "neighborhood",
+    "b roll"
+  ],
+  "moments": [
+    {
+      "start": 0.0,
+      "end": 2.5,
+      "action": "Camera tilts down from the top decorative roofline of a classic limestone pre-war building framed by tree branches",
+      "emotion": "serene, aspirational",
+      "good_for": [
+        "dream apartment",
+        "nyc living",
+        "manifesting my next home",
+        "city architecture appreciation"
+      ],
+      "score": 4
+    },
+    {
+      "start": 2.0,
+      "end": 4.5,
+      "action": "Camera tilts and pans down to street level revealing parked cars, a street sign, and tree-lined sidewalk",
+      "emotion": "calm, peaceful",
+      "good_for": [
+        "neighborhood walk",
+        "living in new york",
+        "sunday stroll",
+        "city streets"
+      ],
+      "score": 3
+    }
+  ]
+}

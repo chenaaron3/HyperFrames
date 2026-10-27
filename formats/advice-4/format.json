@@ -1,0 +1,141 @@
+{
+  "id": "advice-4",
+  "name": "“I want to travel the world but it’s too expensive…”",
+  "reference": "references/viral-formats/advice-4.mp4",
+  "source": "/Users/aaron/Downloads/100 Viral Formats (Format Book)/Advice/#4/#4.mp4",
+  "duration": 11.567,
+  "music": {
+    "from": "reference",
+    "title": "Original Audio"
+  },
+  "text": {
+    "y": 0.279,
+    "size": 46,
+    "weight": 700,
+    "lineHeight": 1.4,
+    "maxWidth": 900,
+    "style": "outline"
+  },
+  "lines": [
+    {
+      "id": "l1",
+      "start": 0.0,
+      "end": 5.1,
+      "ref": "“I want to travel the world\nbut it’s too expensive…”",
+      "y": 0.279,
+      "measuredSize": 50,
+      "style": "plain_white_shadow",
+      "guide": ""
+    },
+    {
+      "id": "l2",
+      "start": 5.1,
+      "end": 11.233,
+      "ref": "welcome to my page,\nI got you❤️\n(caption)",
+      "y": 0.295,
+      "measuredSize": 36,
+      "style": "plain_white_shadow",
+      "guide": ""
+    }
+  ],
+  "shots": [
+    {
+      "id": "s1",
+      "start": 0.0,
+      "end": 5.1,
+      "brief": "travel transit shot, leaning out or looking out window (ref: Creator hanging out of an open train door taking a wide selfie as scenic landscape rushes past; selfie)",
+      "line": "l1"
+    },
+    {
+      "id": "s2",
+      "start": 5.1,
+      "end": 5.5,
+      "brief": "action or cliff jump into water (ref: Person doing a backflip off a rock into a tropical waterfall pool; filmed by friend)",
+      "line": "l2"
+    },
+    {
+      "id": "s3",
+      "start": 5.5,
+      "end": 6.333,
+      "brief": "energetic running on beach or outdoors (ref: Creator running happily across a sunny beach holding a surfboard; filmed by friend)",
+      "line": "l2"
+    },
+    {
+      "id": "s4",
+      "start": 6.333,
+      "end": 6.767,
+      "brief": "running towards camera outdoors (ref: Creator running with open arms down a muddy jungle trail; filmed by friend)",
+      "line": "l2"
+    },
+    {
+      "id": "s5",
+      "start": 6.767,
+      "end": 8.4,
+      "brief": "jumping into water (ref: Two people jumping off a boat or high ledge into deep blue ocean; filmed by friend)",
+      "line": "l2"
+    },
+    {
+      "id": "s6",
+      "start": 8.4,
+      "end": 8.833,
+      "brief": "excited reaction shot from car or transit (ref: Creator shouting excitedly out of a car window on a dirt road; selfie)",
+      "line": "l2"
+    },
+    {
+      "id": "s7",
+      "start": 8.833,
+      "end": 9.667,
+      "brief": "scenic landscape overlook with arms spread (ref: Creator turning with open arms on a scenic mountain overlook; filmed by friend)",
+      "line": "l2"
+    },
+    {
+      "id": "s8",
+      "start": 9.667,
+      "end": 10.033,
+      "brief": "adventurous travel transit (ref: Two friends sitting on the roof rack of a safari vehicle driving through the jungle; filmed from vehicle behind)",
+      "line": "l2"
+    },
+    {
+      "id": "s9",
+      "start": 10.033,
+      "end": 10.433,
+      "brief": "happy smiling selfie in nature (ref: Creator smiling and laughing in a shallow tropical stream; selfie)",
+      "line": "l2"
+    },
+    {
+      "id": "s10",
+      "start": 10.433,
+      "end": 10.833,
+      "brief": "POV riding bike, scooter, or driving (ref: First-person perspective driving a scooter around a mountain road curve; POV)",
+      "line": "l2"
+    },
+    {
+      "id": "s11",
+      "start": 10.833,
+      "end": 11.233,
+      "brief": "following shot riding down scenic road (ref: Following shot of creator riding a scooter along an open rural road towards hills; filmed from vehicle behind)",
+      "line": "l2"
+    },
+    {
+      "id": "s12",
+      "start": 11.233,
+      "end": 11.567,
+      "brief": "group laughing selfie shot (ref: Group of friends in an open-air vehicle shouting and laughing together; selfie)",
+      "line": null
+    }
+  ],
+  "audit": {
+    "kind": "broll_with_text",
+    "creatorSpeaks": false,
+    "audio": "music only",
+    "special": [],
+    "reusable": true,
+    "notes": "Highly reusable format. The hook features a relatable objection or barrier (e.g. 'I want to live in NYC / get fit / boulder V7 but...'), followed by quick 0.3-0.5s beat-synced b-roll cuts showcasing the creator's lifestyle, with a caption containing actionable, numbered value tips.",
+    "summary": "Fast-paced travel b-roll montage pairing a relatable objection hook ('I want to travel the world but it’s too expensive...') with high-energy travel clips that promise solutions in the caption."
+  },
+  "caption": {
+    "ref": "",
+    "guide": ""
+  },
+  "draft": true
+}

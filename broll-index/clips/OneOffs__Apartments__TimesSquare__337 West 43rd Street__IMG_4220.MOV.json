@@ -1,0 +1,67 @@
+{
+  "path": "OneOffs/Apartments/TimesSquare/337 West 43rd Street/IMG_4220.MOV",
+  "folder": "OneOffs/Apartments/TimesSquare/337 West 43rd Street",
+  "fingerprint": "9c8b4342c751600b",
+  "width": 1080,
+  "height": 1920,
+  "fps": 30.0,
+  "duration": 3.565,
+  "model": "gemini-3.8-flash",
+  "annotatedAt": "2026-10-24T18:22:00+00:00",
+  "summary": "POV shot looking through a wire mesh glass door into an apartment building's shared laundry room showing washers and dryers.",
+  "location": "laundry room",
+  "setting": "indoor",
+  "time_of_day": "indoor_unknown",
+  "weather": "n/a",
+  "people": {
+    "count": 0,
+    "creator_visible": false,
+    "description": "No people visible"
+  },
+  "camera": {
+    "style": "pov_first_person",
+    "framing": "medium",
+    "movement": "pan",
+    "angle": "eye level"
+  },
+  "quality": {
+    "usable": true,
+    "stability": "handheld",
+    "exposure": "good",
+    "issues": "Filming through a door with wire mesh glass and vertical divider bar"
+  },
+  "mood": [
+    "mundane",
+    "practical",
+    "urban living"
+  ],
+  "energy": "low",
+  "tags": [
+    "laundry room",
+    "washing machine",
+    "dryer",
+    "apartment amenities",
+    "nyc apartment",
+    "basement laundry",
+    "chores",
+    "apartment hunting",
+    "urban life",
+    "apartment tour"
+  ],
+  "moments": [
+    {
+      "start": 0.0,
+      "end": 3.56,
+      "action": "Camera pans slowly across the glass window showing commercial washers and dryers in an apartment laundry room",
+      "emotion": "neutral",
+      "good_for": [
+        "in-building laundry",
+        "apartment hunting in nyc",
+        "laundry day reality",
+        "shared amenities",
+        "city living compromises"
+      ],
+      "score": 3
+    }
+  ]
+}

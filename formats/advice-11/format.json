@@ -1,0 +1,120 @@
+{
+  "id": "advice-11",
+  "name": "3 things that will keep you broke in your 20s 💰 as a ✨ finan",
+  "reference": "references/viral-formats/advice-11.mp4",
+  "source": "/Users/aaron/Downloads/100 Viral Formats (Format Book)/Advice/#11/#11.mp4",
+  "duration": 89.2,
+  "music": {
+    "from": "reference",
+    "title": "San Francisco Bay Area"
+  },
+  "text": {
+    "y": 0.188,
+    "size": 46,
+    "weight": 700,
+    "lineHeight": 1.4,
+    "maxWidth": 900,
+    "style": "outline"
+  },
+  "lines": [
+    {
+      "id": "l1",
+      "start": 0.0,
+      "end": 5.733,
+      "ref": "3 things that will keep you\nbroke in your 20s 💰\nas a ✨ financially responsible✨ 23 year old",
+      "y": 0.188,
+      "measuredSize": 47,
+      "style": "plain_white_shadow",
+      "guide": ""
+    },
+    {
+      "id": "l2",
+      "start": 5.733,
+      "end": 11.367,
+      "ref": "Like & follow to stay on\nfinance tok 😂",
+      "y": 0.178,
+      "measuredSize": 40,
+      "style": "plain_white_shadow",
+      "guide": ""
+    },
+    {
+      "id": "l3",
+      "start": 11.8,
+      "end": 30.133,
+      "ref": "#1\nLiving beyond your means",
+      "y": 0.214,
+      "measuredSize": 58,
+      "style": "plain_white_shadow",
+      "guide": ""
+    },
+    {
+      "id": "l4",
+      "start": 30.633,
+      "end": 49.5,
+      "ref": "#2\nBuy Now Pay Later (BNPL)",
+      "y": 0.198,
+      "measuredSize": 43,
+      "style": "plain_white_shadow",
+      "guide": ""
+    },
+    {
+      "id": "l5",
+      "start": 49.833,
+      "end": 89.2,
+      "ref": "#3\nTaking out your savings as an\nexcuse to spend",
+      "y": 0.201,
+      "measuredSize": 40,
+      "style": "plain_white_shadow",
+      "guide": ""
+    }
+  ],
+  "shots": [
+    {
+      "id": "s1",
+      "start": 0.0,
+      "end": 11.367,
+      "brief": "stirring a drink while talking to camera (ref: Creator stirs milk in a mug while introducing herself and her finance channel.; tripod)",
+      "line": "l1"
+    },
+    {
+      "id": "s2",
+      "start": 11.367,
+      "end": 15.833,
+      "brief": "pouring hot water into coffee filter (ref: Close-up/mid angle pouring hot water from an electric kettle into the coffee filter.; tripod)",
+      "line": "l3"
+    },
+    {
+      "id": "s3",
+      "start": 15.833,
+      "end": 30.133,
+      "brief": "holding beverage carton while talking to camera (ref: Creator holds a soy milk carton and discusses living beyond means, with a WSJ article overlay appearing briefly.; tripod)",
+      "line": "l3"
+    },
+    {
+      "id": "s4",
+      "start": 30.133,
+      "end": 89.2,
+      "brief": "sprinkling spice into drink while speaking to camera (ref: Creator opens a cinnamon spice container and sprinkles it over the drink while discussing savings discipline.; tripod)",
+      "line": "l5"
+    }
+  ],
+  "audit": {
+    "kind": "talking_head",
+    "creatorSpeaks": true,
+    "audio": "music + speech",
+    "special": [
+      "Kitchen counter setting",
+      "Pour-over coffee packet and kettle",
+      "Handheld milk frother and coffee ingredients (soy milk, cinnamon, ice)",
+      "News headline screenshot overlay (Wall Street Journal)"
+    ],
+    "reusable": false,
+    "notes": "This video relies entirely on the creator speaking directly to the camera delivering scripted personal finance advice while naturally carrying out a morning drink routine. It cannot be reproduced using existing silent lifestyle b-roll without recording a complete spoken voiceover and re-timing.",
+    "summary": "A creator shares three financial habits that keep people broke in their 20s while preparing an iced coffee at her kitchen counter."
+  },
+  "caption": {
+    "ref": "",
+    "guide": ""
+  },
+  "draft": true
+}

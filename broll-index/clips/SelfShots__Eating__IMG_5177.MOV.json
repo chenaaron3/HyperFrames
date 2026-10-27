@@ -1,0 +1,143 @@
+{
+  "path": "SelfShots/Eating/IMG_5177.MOV",
+  "folder": "SelfShots/Eating",
+  "fingerprint": "8f21fe4b49823be3",
+  "width": 1080,
+  "height": 1920,
+  "fps": 30.0,
+  "duration": 167.308,
+  "model": "gemini-3.8-flash",
+  "annotatedAt": "2026-10-24T18:15:17+00:00",
+  "summary": "A young Asian man sits at a table in a bustling indoor food market, presenting a large slice of pizza on a paper plate to the camera and eating it enthusiastically.",
+  "location": "food market",
+  "setting": "indoor",
+  "time_of_day": "indoor_unknown",
+  "weather": "n/a",
+  "people": {
+    "count": 1,
+    "creator_visible": true,
+    "description": "Young Asian man with dark wavy hair, wearing a brown textured short-sleeve button-down shirt and a silver chain necklace"
+  },
+  "camera": {
+    "style": "filmed_by_friend",
+    "framing": "medium",
+    "movement": "handheld",
+    "angle": "eye level"
+  },
+  "quality": {
+    "usable": true,
+    "stability": "steady",
+    "exposure": "good",
+    "issues": ""
+  },
+  "mood": [
+    "relaxed",
+    "casual",
+    "appetizing",
+    "relatable",
+    "foodie"
+  ],
+  "energy": "medium",
+  "tags": [
+    "pizza",
+    "eating",
+    "foodie",
+    "food market",
+    "indoor market",
+    "slice",
+    "lunch",
+    "dinner",
+    "new york",
+    "tasting",
+    "mukbang",
+    "casual dining"
+  ],
+  "moments": [
+    {
+      "start": 1.8,
+      "end": 7.5,
+      "action": "Man lifts up the plate of pizza to show the camera before leaning in and taking his first bite",
+      "emotion": "excited, anticipating",
+      "good_for": [
+        "food on my plate",
+        "first bite feeling",
+        "best pizza in town",
+        "treat yourself"
+      ],
+      "score": 5
+    },
+    {
+      "start": 18.5,
+      "end": 24.5,
+      "action": "Man lifts the pizza slice directly with his hand and takes a large bite, savoring the flavor",
+      "emotion": "satisfied, focused",
+      "good_for": [
+        "cheat day",
+        "eating good",
+        "nyc food spots",
+        " comfort food"
+      ],
+      "score": 4
+    },
+    {
+      "start": 29.0,
+      "end": 35.0,
+      "action": "Man takes another deliberate bite of the pizza and slowly chews while looking thoughtfully",
+      "emotion": "evaluating, content",
+      "good_for": [
+        "food critique",
+        "pure joy",
+        "simple pleasures"
+      ],
+      "score": 4
+    },
+    {
+      "start": 41.0,
+      "end": 47.0,
+      "action": "Man takes a hearty bite holding the pizza plate beneath to catch crumbs",
+      "emotion": "hungry, thoroughly enjoying",
+      "good_for": [
+        "when the food hits",
+        "unfiltered hunger",
+        "lunch break"
+      ],
+      "score": 4
+    },
+    {
+      "start": 103.5,
+      "end": 109.5,
+      "action": "Man leans over plate and bites into the cheesy crust section",
+      "emotion": "satisfied",
+      "good_for": [
+        "crust lovers",
+        "food diary",
+        "dinner date"
+      ],
+      "score": 3
+    },
+    {
+      "start": 143.5,
+      "end": 150.0,
+      "action": "Man continues eating the folded pizza slice, chewing and looking around the market",
+      "emotion": "chill, relaxed",
+      "good_for": [
+        "people watching",
+        "solo date vibes",
+        "weekend routine"
+      ],
+      "score": 3
+    },
+    {
+      "start": 161.5,
+      "end": 167.3,
+      "action": "Man swallows the last bite, clears his hands on the plate and exhales with a happy smile",
+      "emotion": "full, happily satisfied",
+      "good_for": [
+        "finished plate",
+        "food coma incoming",
+        "10/10 meal"
+      ],
+      "score": 4
+    }
+  ]
+}

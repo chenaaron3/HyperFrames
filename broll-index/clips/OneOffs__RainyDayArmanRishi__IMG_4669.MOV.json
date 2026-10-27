@@ -1,0 +1,71 @@
+{
+  "path": "OneOffs/RainyDayArmanRishi/IMG_4669.MOV",
+  "folder": "OneOffs/RainyDayArmanRishi",
+  "fingerprint": "0400749d62926d48",
+  "width": 1080,
+  "height": 1920,
+  "fps": 30.0,
+  "duration": 3.5,
+  "model": "gemini-3.8-flash",
+  "annotatedAt": "2026-10-24T18:37:43+00:00",
+  "summary": "A moody handheld shot of a wet city street on a rainy, overcast day, capturing reflections on the pavement and distant pedestrians.",
+  "location": "city street",
+  "setting": "outdoor",
+  "time_of_day": "day",
+  "weather": "rain",
+  "people": {
+    "count": 6,
+    "creator_visible": false,
+    "description": "Distant pedestrians in jackets walking along the wet sidewalk."
+  },
+  "camera": {
+    "style": "handheld_cinematic",
+    "framing": "wide",
+    "movement": "walking",
+    "angle": "eye level"
+  },
+  "quality": {
+    "usable": true,
+    "stability": "handheld",
+    "exposure": "good",
+    "issues": ""
+  },
+  "mood": [
+    "gloomy",
+    "atmospheric",
+    "melancholy",
+    "urban",
+    "peaceful"
+  ],
+  "energy": "low",
+  "tags": [
+    "rain",
+    "rainy day",
+    "city street",
+    "wet asphalt",
+    "reflections",
+    "overcast",
+    "gloomy",
+    "urban",
+    "sidewalk",
+    "streetlights",
+    "moody",
+    "traffic lights"
+  ],
+  "moments": [
+    {
+      "start": 0.0,
+      "end": 3.5,
+      "action": "Camera moves steadily forward along a slick, rain-soaked city sidewalk reflecting streetlights and neon signs.",
+      "emotion": "melancholy",
+      "good_for": [
+        "rainy day thoughts",
+        "romanticizing city life",
+        "overthinking season",
+        "peaceful rainy days",
+        "gloomy weather"
+      ],
+      "score": 4
+    }
+  ]
+}

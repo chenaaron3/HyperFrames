@@ -1,0 +1,81 @@
+{
+  "path": "Cinematic/Chinatown/IMG_4780.mov",
+  "folder": "Cinematic/Chinatown",
+  "fingerprint": "06384ddf1e0e7783",
+  "width": 1080,
+  "height": 1920,
+  "fps": 30.0,
+  "duration": 4.367,
+  "model": "gemini-3.8-flash",
+  "annotatedAt": "2026-10-24T18:19:18+00:00",
+  "summary": "Pedestrians walk down a bustling Chinatown street lined with tenement buildings, lanterns, and Chinese shop signage under an overcast sky.",
+  "location": "city street",
+  "setting": "outdoor",
+  "time_of_day": "day",
+  "weather": "overcast",
+  "people": {
+    "count": 8,
+    "creator_visible": false,
+    "description": "Pedestrians in casual clothes walking down the street, including a young man in a white tee and black pants walking past the camera."
+  },
+  "camera": {
+    "style": "handheld_cinematic",
+    "framing": "wide",
+    "movement": "static",
+    "angle": "eye level"
+  },
+  "quality": {
+    "usable": true,
+    "stability": "steady",
+    "exposure": "good",
+    "issues": ""
+  },
+  "mood": [
+    "urban",
+    "moody",
+    "candid",
+    "travel"
+  ],
+  "energy": "medium",
+  "tags": [
+    "chinatown",
+    "nyc",
+    "city life",
+    "street photography",
+    "pedestrians",
+    "lanterns",
+    "scaffolding",
+    "tenement buildings",
+    "overcast",
+    "urban aesthetic",
+    "travel b-roll"
+  ],
+  "moments": [
+    {
+      "start": 0.0,
+      "end": 2.5,
+      "action": "A young man with a backpack walks past the camera on a wet Chinatown street decorated with lanterns.",
+      "emotion": "candid",
+      "good_for": [
+        "exploring the city",
+        "city walks",
+        "lost in new york",
+        "solo travel"
+      ],
+      "score": 4
+    },
+    {
+      "start": 2.5,
+      "end": 4.37,
+      "action": "Street view looking down the alley with hanging lanterns, building facades, and distant pedestrians.",
+      "emotion": "calm",
+      "good_for": [
+        "city scenery",
+        "chinatown vibes",
+        "travel transition",
+        "street b-roll"
+      ],
+      "score": 3
+    }
+  ]
+}

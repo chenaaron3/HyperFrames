@@ -1,0 +1,83 @@
+{
+  "path": "OneOffs/RainyDayArmanRishi/IMG_4654.MOV",
+  "folder": "OneOffs/RainyDayArmanRishi",
+  "fingerprint": "bfbd6f9a9d447f9a",
+  "width": 1080,
+  "height": 1920,
+  "fps": 30.0,
+  "duration": 5.133,
+  "model": "gemini-3.8-flash",
+  "annotatedAt": "2026-10-24T18:37:06+00:00",
+  "summary": "A young man sits at a wooden table in a cozy cafe or shop, laughing warmly as he flips through the pages of a leather-bound notebook.",
+  "location": "cafe",
+  "setting": "indoor",
+  "time_of_day": "indoor_unknown",
+  "weather": "n/a",
+  "people": {
+    "count": 1,
+    "creator_visible": true,
+    "description": "Young man with short curly dark hair, wearing a black button-up jacket over a white undershirt and silver rings, smiling and laughing."
+  },
+  "camera": {
+    "style": "filmed_by_friend",
+    "framing": "medium",
+    "movement": "static",
+    "angle": "eye level"
+  },
+  "quality": {
+    "usable": true,
+    "stability": "steady",
+    "exposure": "good",
+    "issues": ""
+  },
+  "mood": [
+    "happy",
+    "cozy",
+    "relaxed",
+    "playful",
+    "warm"
+  ],
+  "energy": "low",
+  "tags": [
+    "journal",
+    "notebook",
+    "cafe",
+    "smiling",
+    "laughing",
+    "stationery",
+    "rainy day",
+    "lifestyle",
+    "writing",
+    "reading",
+    "coffee shop",
+    "friends"
+  ],
+  "moments": [
+    {
+      "start": 0.0,
+      "end": 3.2,
+      "action": "Man flips through the blank pages of a leather-bound notebook while laughing happily at a friend off-camera",
+      "emotion": "big laugh",
+      "good_for": [
+        "laughing with friends",
+        "starting a new chapter",
+        "planning life",
+        "finding joy in little things"
+      ],
+      "score": 5
+    },
+    {
+      "start": 3.2,
+      "end": 5.1,
+      "action": "Man gently presses down the open journal pages with a gentle, content smile",
+      "emotion": "calm",
+      "good_for": [
+        "journaling routine",
+        "peaceful moments",
+        "clean slate",
+        "cafe days"
+      ],
+      "score": 4
+    }
+  ]
+}

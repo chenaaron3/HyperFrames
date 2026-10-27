@@ -1,0 +1,104 @@
+{
+  "path": "OneOffs/Apartments/MurrayHills/150 East 39th Street/IMG_4191.MOV",
+  "folder": "OneOffs/Apartments/MurrayHills/150 East 39th Street",
+  "fingerprint": "2e9cb5977d68c202",
+  "width": 1080,
+  "height": 1920,
+  "fps": 30.0,
+  "duration": 31.168,
+  "model": "gemini-3.8-flash",
+  "annotatedAt": "2026-10-24T18:21:14+00:00",
+  "summary": "First-person walkthrough tour of an empty NYC apartment, showcasing the vintage bathroom, storage closets, and bright hardwood-floored living area.",
+  "location": "apartment",
+  "setting": "indoor",
+  "time_of_day": "day",
+  "weather": "n/a",
+  "people": {
+    "count": 1,
+    "creator_visible": false,
+    "description": "A female friend or partner in dark casual clothing and ponytail walking through the apartment."
+  },
+  "camera": {
+    "style": "pov_first_person",
+    "framing": "wide",
+    "movement": "walking",
+    "angle": "eye level"
+  },
+  "quality": {
+    "usable": true,
+    "stability": "handheld",
+    "exposure": "good",
+    "issues": "Occasional motion blur and rapid panning transitions."
+  },
+  "mood": [
+    "excited",
+    "curious",
+    "hopeful",
+    "anticipation"
+  ],
+  "energy": "medium",
+  "tags": [
+    "apartment tour",
+    "nyc apartment",
+    "empty apartment",
+    "hardwood floors",
+    "closet space",
+    "bathroom",
+    "moving in",
+    "apartment hunting",
+    "real estate",
+    "new beginnings",
+    "murray hill"
+  ],
+  "moments": [
+    {
+      "start": 1.5,
+      "end": 5.0,
+      "action": "Camera pans into the bathroom showing the glass-door bathtub and vintage vanity mirror with strip lighting",
+      "emotion": "excited",
+      "good_for": [
+        "apartment hunting",
+        "first apartment bathroom",
+        "new place vibes"
+      ],
+      "score": 3
+    },
+    {
+      "start": 8.5,
+      "end": 11.5,
+      "action": "Opening and showing a built-in closet with multiple white storage shelves",
+      "emotion": "pleased",
+      "good_for": [
+        "nyc storage dream",
+        "closet space in nyc",
+        "unboxing potential"
+      ],
+      "score": 3
+    },
+    {
+      "start": 23.5,
+      "end": 26.5,
+      "action": "Wide panning shot across the empty living space with bright windows and polished hardwood floors",
+      "emotion": "optimistic",
+      "good_for": [
+        "new beginnings",
+        "clean slate",
+        "new home",
+        "adulting milestone"
+      ],
+      "score": 4
+    },
+    {
+      "start": 26.5,
+      "end": 30.0,
+      "action": "Camera pans past a friend standing by a full-length mirrored door into another large closet",
+      "emotion": "content",
+      "good_for": [
+        "touring apartments with bestie",
+        "finding the one",
+        "moving day anticipation"
+      ],
+      "score": 3
+    }
+  ]
+}

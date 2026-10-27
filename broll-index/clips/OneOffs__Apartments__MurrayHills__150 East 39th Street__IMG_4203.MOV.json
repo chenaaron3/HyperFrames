@@ -1,0 +1,107 @@
+{
+  "path": "OneOffs/Apartments/MurrayHills/150 East 39th Street/IMG_4203.MOV",
+  "folder": "OneOffs/Apartments/MurrayHills/150 East 39th Street",
+  "fingerprint": "3a50de90bb2b700a",
+  "width": 1080,
+  "height": 1920,
+  "fps": 30.0,
+  "duration": 38.368,
+  "model": "gemini-3.8-flash",
+  "annotatedAt": "2026-10-24T18:21:34+00:00",
+  "summary": "First-person walkthrough tour of a high-floor New York City studio apartment, featuring the modern kitchen, bathroom, and an outdoor terrace with sweeping views of the Empire State Building.",
+  "location": "apartment",
+  "setting": "mixed",
+  "time_of_day": "golden_hour",
+  "weather": "sunny",
+  "people": {
+    "count": 1,
+    "creator_visible": false,
+    "description": "A woman with dark hair tied back in a ponytail wearing a black leather jacket and dark pants, walking through the apartment."
+  },
+  "camera": {
+    "style": "pov_first_person",
+    "framing": "wide",
+    "movement": "walking",
+    "angle": "eye level"
+  },
+  "quality": {
+    "usable": true,
+    "stability": "handheld",
+    "exposure": "mixed",
+    "issues": "Quick camera movements and occasional lens flare from the direct sun outside"
+  },
+  "mood": [
+    "aspirational",
+    "excited",
+    "urban",
+    "bright"
+  ],
+  "energy": "medium",
+  "tags": [
+    "nyc apartment",
+    "apartment tour",
+    "manhattan",
+    "empire state building",
+    "skyline",
+    "rooftop view",
+    "terrace",
+    "city view",
+    "real estate",
+    "murray hill",
+    "apartment hunting",
+    "balcony"
+  ],
+  "moments": [
+    {
+      "start": 3.0,
+      "end": 6.5,
+      "action": "Camera pans across the renovated kitchen with white cabinets, dark countertops, and stainless steel appliances",
+      "emotion": "clean and modern",
+      "good_for": [
+        "apartment hunting in nyc",
+        "small space living",
+        "new beginnings",
+        "my first apartment"
+      ],
+      "score": 3
+    },
+    {
+      "start": 8.5,
+      "end": 12.0,
+      "action": "POV shot showing the clean bathroom vanity and glass shower door",
+      "emotion": "practical",
+      "good_for": [
+        "apartment checklist",
+        "renovated bathroom",
+        "apartment tour"
+      ],
+      "score": 2
+    },
+    {
+      "start": 24.5,
+      "end": 27.5,
+      "action": "Woman walks through the glass door leading out onto the private brick balcony",
+      "emotion": "anticipation",
+      "good_for": [
+        "the best part of the apartment",
+        "stepping outside",
+        "outdoor space in nyc"
+      ],
+      "score": 3
+    },
+    {
+      "start": 31.0,
+      "end": 36.5,
+      "action": "Camera pans across the rooftop balcony revealing a stunning skyline view with bright sunlight gleaming beside the Empire State Building",
+      "emotion": "awe",
+      "good_for": [
+        "dream view",
+        "nyc skyline",
+        "roof over my head",
+        "living in new york",
+        "manifesting this"
+      ],
+      "score": 5
+    }
+  ]
+}

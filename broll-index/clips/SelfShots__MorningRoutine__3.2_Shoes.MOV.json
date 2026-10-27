@@ -1,0 +1,80 @@
+{
+  "path": "SelfShots/MorningRoutine/3.2_Shoes.MOV",
+  "folder": "SelfShots/MorningRoutine",
+  "fingerprint": "37c340444cdd923f",
+  "width": 1080,
+  "height": 1920,
+  "fps": 30.0,
+  "duration": 10.8,
+  "model": "gemini-3.8-flash",
+  "annotatedAt": "2026-10-24T19:00:20+00:00",
+  "summary": "A person in a long black coat and trousers puts on Chelsea boots on a hardwood floor near an entryway before heading out.",
+  "location": "apartment entryway",
+  "setting": "indoor",
+  "time_of_day": "day",
+  "weather": "n/a",
+  "people": {
+    "count": 1,
+    "creator_visible": true,
+    "description": "Person wearing a black coat and dark trousers, visible from the torso down as they put on their boots"
+  },
+  "camera": {
+    "style": "pov_first_person",
+    "framing": "medium",
+    "movement": "handheld",
+    "angle": "high angle"
+  },
+  "quality": {
+    "usable": true,
+    "stability": "handheld",
+    "exposure": "good",
+    "issues": "Coat fabric briefly obscures the lens when bending down"
+  },
+  "mood": [
+    "routine",
+    "casual",
+    "calm",
+    "minimalist"
+  ],
+  "energy": "low",
+  "tags": [
+    "putting on shoes",
+    "chelsea boots",
+    "entryway",
+    "morning routine",
+    "leaving home",
+    "getting ready",
+    "hardwood floor",
+    "commute",
+    "black coat",
+    "lifestyle"
+  ],
+  "moments": [
+    {
+      "start": 0.0,
+      "end": 4.5,
+      "action": "Person steps forward and bends down to slide foot into a brown Chelsea boot",
+      "emotion": "focused",
+      "good_for": [
+        "leaving the house",
+        "morning routine",
+        "time to get going",
+        "errand day"
+      ],
+      "score": 3
+    },
+    {
+      "start": 5.5,
+      "end": 9.5,
+      "action": "Person finishes adjusting their boots, stands up straight in their black overcoat, and prepares to walk out",
+      "emotion": "calm",
+      "good_for": [
+        "out the door",
+        "fall outfit",
+        "ready for the day",
+        "work commute"
+      ],
+      "score": 3
+    }
+  ]
+}

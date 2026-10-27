@@ -1,0 +1,153 @@
+{
+  "id": "advice-12",
+  "name": "steal my secrets to study for long hours",
+  "reference": "references/viral-formats/advice-12.mp4",
+  "source": "/Users/aaron/Downloads/100 Viral Formats (Format Book)/Advice/#12/#12.mp4",
+  "duration": 12.367,
+  "music": {
+    "from": "reference",
+    "title": "Stormie.lou - Original Audio"
+  },
+  "text": {
+    "y": 0.405,
+    "size": 46,
+    "weight": 700,
+    "lineHeight": 1.4,
+    "maxWidth": 900,
+    "style": "outline"
+  },
+  "lines": [
+    {
+      "id": "l1",
+      "start": 0.0,
+      "end": 3.667,
+      "ref": "steal my secrets to study for long hours",
+      "y": 0.405,
+      "measuredSize": 34,
+      "style": "plain_white_shadow",
+      "guide": ""
+    },
+    {
+      "id": "l2",
+      "start": 3.667,
+      "end": 5.667,
+      "ref": "1. plan",
+      "y": 0.44,
+      "measuredSize": null,
+      "style": "plain_white_shadow",
+      "guide": ""
+    },
+    {
+      "id": "l3",
+      "start": 5.667,
+      "end": 7.667,
+      "ref": "2. pomodoro",
+      "y": 0.407,
+      "measuredSize": 28,
+      "style": "plain_white_shadow",
+      "guide": ""
+    },
+    {
+      "id": "l4",
+      "start": 7.667,
+      "end": 9.633,
+      "ref": "3. ambient sound",
+      "y": 0.405,
+      "measuredSize": 38,
+      "style": "plain_white_shadow",
+      "guide": ""
+    },
+    {
+      "id": "l5",
+      "start": 9.633,
+      "end": 10.633,
+      "ref": "4. hydration",
+      "y": 0.407,
+      "measuredSize": 28,
+      "style": "plain_white_shadow",
+      "guide": ""
+    },
+    {
+      "id": "l6",
+      "start": 10.633,
+      "end": 12.367,
+      "ref": "5. company",
+      "y": 0.407,
+      "measuredSize": 24,
+      "style": "plain_white_shadow",
+      "guide": ""
+    }
+  ],
+  "shots": [
+    {
+      "id": "s1",
+      "start": 0.0,
+      "end": 3.667,
+      "brief": "working at desk/laptop by window, timelapse or static third person (ref: Timelapse of student studying at a wooden desk by a high-rise window overlooking the city as day turns to night.; tripod)",
+      "line": "l1"
+    },
+    {
+      "id": "s2",
+      "start": 3.667,
+      "end": 4.667,
+      "brief": "close-up desk detail or picking up stationary (ref: Close-up of desk accessories as a hand grabs a pen from a pencil holder next to a keyboard.; tripod)",
+      "line": "l2"
+    },
+    {
+      "id": "s3",
+      "start": 4.667,
+      "end": 5.667,
+      "brief": "flipping through a notebook, planner, or schedule (ref: Close-up shot of hands flipping through handwritten planner pages.; POV)",
+      "line": "l2"
+    },
+    {
+      "id": "s4",
+      "start": 5.667,
+      "end": 6.667,
+      "brief": "studying/working under desk lamp at night (ref: Medium shot of student reading and flipping textbook pages under warm desk lamp at night.; tripod)",
+      "line": "l3"
+    },
+    {
+      "id": "s5",
+      "start": 6.667,
+      "end": 7.667,
+      "brief": "working on laptop or tablet, side angle (ref: Side profile of student typing and tapping on a tablet/laptop setup at the desk.; tripod)",
+      "line": "l3"
+    },
+    {
+      "id": "s6",
+      "start": 7.667,
+      "end": 9.633,
+      "brief": "putting on headphones at a desk (ref: Side profile of student picking up over-ear headphones, putting them on, and clicking computer mouse.; tripod)",
+      "line": "l4"
+    },
+    {
+      "id": "s7",
+      "start": 9.633,
+      "end": 10.633,
+      "brief": "stirring or drinking water, tea, or coffee at desk (ref: Student sitting at desk stirring an iced drink with a metal straw.; tripod)",
+      "line": "l5"
+    },
+    {
+      "id": "s8",
+      "start": 10.633,
+      "end": 12.367,
+      "brief": "studying or working on laptops with friends at a café (ref: Three-way horizontal split screen showing friends studying and working together at coffee shops.; tripod)",
+      "line": "l6"
+    }
+  ],
+  "audit": {
+    "kind": "broll_with_text",
+    "creatorSpeaks": false,
+    "audio": "music only",
+    "special": [],
+    "reusable": true,
+    "notes": "Perfect match for existing laptop/desk work, coffee routine, and friend hangouts at coffee shops. No spoken audio required—only matching concise numbered tips over lifestyle b-roll cuts.",
+    "summary": "An aesthetic study routine video listing 5 practical tips to study for long hours, cut over cozy desk setup b-roll and café study sessions."
+  },
+  "caption": {
+    "ref": "",
+    "guide": ""
+  },
+  "draft": true
+}

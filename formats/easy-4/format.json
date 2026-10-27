@@ -1,0 +1,61 @@
+{
+  "id": "easy-4",
+  "name": "Things to do alone At least once in your life",
+  "reference": "references/viral-formats/easy-4.mp4",
+  "source": "/Users/aaron/Downloads/100 Viral Formats (Format Book)/Easy to use format/#4/#4.mp4",
+  "duration": 8.9,
+  "music": {
+    "from": "reference",
+    "title": "Beauty and a beat - Justin Bieber"
+  },
+  "text": {
+    "y": 0.228,
+    "size": 60,
+    "weight": 700,
+    "lineHeight": 1.4,
+    "maxWidth": 900,
+    "style": "outline"
+  },
+  "lines": [
+    {
+      "id": "l1",
+      "start": 0.0,
+      "end": 8.9,
+      "ref": "Things to do alone\nAt least once in your life",
+      "y": 0.228,
+      "measuredSize": 60,
+      "style": "plain_white_shadow",
+      "guide": ""
+    }
+  ],
+  "shots": [
+    {
+      "id": "s1",
+      "start": 0.0,
+      "end": 0.567,
+      "brief": "driving in car, interior angle (ref: Young man driving a car during the day, wide interior angle; tripod)",
+      "line": "l1"
+    },
+    {
+      "id": "s2",
+      "start": 0.567,
+      "end": 8.9,
+      "brief": "empty gym interior b-roll (ref: Wide pan across an empty gym floor; POV)",
+      "line": "l1"
+    }
+  ],
+  "audit": {
+    "kind": "broll_with_text",
+    "creatorSpeaks": false,
+    "audio": "music only",
+    "special": [],
+    "reusable": true,
+    "notes": "Very simple listicle/saveable format. Pair any 6-9 second montage of solo activities (walking through NYC, working at a cafe, climbing gym, subway ride) with a compelling list-based hook referencing the caption.",
+    "summary": "A montage of solo lifestyle activities (driving, sitting in a car, working out at an empty gym) under a hook prompting things to do alone once in your life, directing viewers to the caption."
+  },
+  "caption": {
+    "ref": "",
+    "guide": ""
+  },
+  "draft": true
+}

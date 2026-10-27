@@ -1,0 +1,130 @@
+{
+  "path": "OneOffs/Apartments/FIDI/63WS/IMG_4344.MOV",
+  "folder": "OneOffs/Apartments/FIDI/63WS",
+  "fingerprint": "fe40b153c06db728",
+  "width": 1080,
+  "height": 1920,
+  "fps": 29.917,
+  "duration": 32.817,
+  "model": "gemini-3.8-flash",
+  "annotatedAt": "2026-10-24T18:20:29+00:00",
+  "summary": "A walkthrough tour of an empty apartment unit, entering through the hallway into the bathroom, opening a closet, and panning around the kitchen and main living room area.",
+  "location": "apartment",
+  "setting": "indoor",
+  "time_of_day": "day",
+  "weather": "n/a",
+  "people": {
+    "count": 2,
+    "creator_visible": true,
+    "description": "A woman with glasses and dark hair tied back in a brown jacket enters ahead; the person filming is briefly visible in the bathroom mirror reflection."
+  },
+  "camera": {
+    "style": "pov_first_person",
+    "framing": "wide",
+    "movement": "walking",
+    "angle": "eye level"
+  },
+  "quality": {
+    "usable": true,
+    "stability": "handheld",
+    "exposure": "good",
+    "issues": "Occasional quick pans and slight motion blur."
+  },
+  "mood": [
+    "curious",
+    "neutral",
+    "anticipation"
+  ],
+  "energy": "low",
+  "tags": [
+    "apartment tour",
+    "real estate",
+    "empty apartment",
+    "new home",
+    "bathroom",
+    "closet",
+    "kitchen",
+    "hardwood floors",
+    "hallway",
+    "house hunting",
+    "moving in",
+    "city apartment"
+  ],
+  "moments": [
+    {
+      "start": 0.5,
+      "end": 3.5,
+      "action": "Entering the apartment door and looking down the long hardwood hallway",
+      "emotion": "anticipation",
+      "good_for": [
+        "apartment hunting",
+        "new beginnings",
+        "first look at a new place",
+        "stepping into a new chapter"
+      ],
+      "score": 3
+    },
+    {
+      "start": 4.0,
+      "end": 7.5,
+      "action": "Stepping inside the modern tiled bathroom with a sink, mirror, and toilet",
+      "emotion": "neutral",
+      "good_for": [
+        "apartment inspection",
+        "bathroom tour",
+        "checking out the amenities"
+      ],
+      "score": 2
+    },
+    {
+      "start": 13.0,
+      "end": 16.5,
+      "action": "Opening an empty closet door in the hallway",
+      "emotion": "curious",
+      "good_for": [
+        "storage space",
+        "closet check",
+        "moving reality"
+      ],
+      "score": 3
+    },
+    {
+      "start": 17.0,
+      "end": 21.0,
+      "action": "Walking into the bright open living area with wooden floors and window",
+      "emotion": "relieved",
+      "good_for": [
+        "empty apartment vibes",
+        "blank canvas",
+        "fresh start",
+        "place to call home"
+      ],
+      "score": 4
+    },
+    {
+      "start": 21.0,
+      "end": 25.0,
+      "action": "Panning across the modern open kitchen with stainless steel fridge, stove, and subway tile",
+      "emotion": "calm",
+      "good_for": [
+        "kitchen tour",
+        "cooking here soon",
+        "modern apartment kitchen"
+      ],
+      "score": 3
+    },
+    {
+      "start": 26.5,
+      "end": 31.0,
+      "action": "Wide view panning across the sunlit empty living room towards the windows",
+      "emotion": "calm",
+      "good_for": [
+        "finding an apartment",
+        "a roof over my head",
+        "city living",
+        "dream apartment"
+      ],
+      "score": 4
+    }
+  ]
+}

@@ -1,0 +1,104 @@
+{
+  "path": "OneOffs/Apartments/MurrayHills/150 East 39th Street/IMG_4206.MOV",
+  "folder": "OneOffs/Apartments/MurrayHills/150 East 39th Street",
+  "fingerprint": "b6c9edf2bbe275ec",
+  "width": 1080,
+  "height": 1920,
+  "fps": 30.0,
+  "duration": 32.252,
+  "model": "gemini-3.8-flash",
+  "annotatedAt": "2026-10-24T18:21:38+00:00",
+  "summary": "First-person walk-through tour of an empty NYC studio apartment, showing the compact kitchenette, tiled bathroom, and main living area with windows.",
+  "location": "apartment",
+  "setting": "indoor",
+  "time_of_day": "day",
+  "weather": "overcast",
+  "people": {
+    "count": 2,
+    "creator_visible": true,
+    "description": "Creator briefly visible in the bathroom mirror holding phone; a female friend wearing a black jacket and dark pants walks through exploring the space."
+  },
+  "camera": {
+    "style": "pov_first_person",
+    "framing": "wide",
+    "movement": "walking",
+    "angle": "eye level"
+  },
+  "quality": {
+    "usable": true,
+    "stability": "handheld",
+    "exposure": "good",
+    "issues": "Occasional motion blur during fast turns"
+  },
+  "mood": [
+    "casual",
+    "curious",
+    "real",
+    "exploratory"
+  ],
+  "energy": "low",
+  "tags": [
+    "apartment hunting",
+    "nyc apartment",
+    "studio apartment",
+    "apartment tour",
+    "kitchenette",
+    "moving to nyc",
+    "real estate",
+    "rental",
+    "new beginnings",
+    "first apartment"
+  ],
+  "moments": [
+    {
+      "start": 1.5,
+      "end": 4.5,
+      "action": "Camera pans across a compact apartment kitchenette showing mini-fridge, black countertop, sink, and small gas stove",
+      "emotion": "evaluative",
+      "good_for": [
+        "apartment hunting in nyc",
+        "small kitchen realities",
+        "first apartment check",
+        "budget living"
+      ],
+      "score": 3
+    },
+    {
+      "start": 5.5,
+      "end": 8.5,
+      "action": "Entering the bathroom with black-and-white checkered tile floor and creator visible holding phone in mirror",
+      "emotion": "casual",
+      "good_for": [
+        "mirror check",
+        "apartment hunting",
+        "nyc bathroom check"
+      ],
+      "score": 3
+    },
+    {
+      "start": 20.0,
+      "end": 26.5,
+      "action": "Walking into the empty studio room with parquet floors as a friend steps in and gestures toward a recessed wall space",
+      "emotion": "optimistic",
+      "good_for": [
+        "finding an apartment",
+        "picturing my future bed here",
+        "new beginnings",
+        "touring spaces with friends"
+      ],
+      "score": 3
+    },
+    {
+      "start": 26.5,
+      "end": 30.0,
+      "action": "Looking out the large apartment windows over city brick buildings and an air conditioning unit on the sill",
+      "emotion": "calm",
+      "good_for": [
+        "nyc views",
+        "city apartment living",
+        "evaluating the light"
+      ],
+      "score": 3
+    }
+  ]
+}

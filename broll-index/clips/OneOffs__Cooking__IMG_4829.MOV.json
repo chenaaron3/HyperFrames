@@ -1,0 +1,104 @@
+{
+  "path": "OneOffs/Cooking/IMG_4829.MOV",
+  "folder": "OneOffs/Cooking",
+  "fingerprint": "901ff382d7800b68",
+  "width": 1080,
+  "height": 1920,
+  "fps": 30.0,
+  "duration": 59.738,
+  "model": "gemini-3.8-flash",
+  "annotatedAt": "2026-10-24T18:34:22+00:00",
+  "summary": "A person cooks minced meat in a wok on a gas stovetop, lifting the lid to stir-fry and taste-test it with a wooden spoon.",
+  "location": "kitchen",
+  "setting": "indoor",
+  "time_of_day": "indoor_unknown",
+  "weather": "n/a",
+  "people": {
+    "count": 1,
+    "creator_visible": true,
+    "description": "Person wearing a silver chain bracelet, seen mostly by hand/arm and briefly side of mouth while tasting."
+  },
+  "camera": {
+    "style": "pov_first_person",
+    "framing": "close",
+    "movement": "handheld",
+    "angle": "high angle"
+  },
+  "quality": {
+    "usable": true,
+    "stability": "handheld",
+    "exposure": "good",
+    "issues": ""
+  },
+  "mood": [
+    "productive",
+    "satisfying",
+    "cozy"
+  ],
+  "energy": "medium",
+  "tags": [
+    "cooking",
+    "stir fry",
+    "wok",
+    "ground meat",
+    "home cooking",
+    "kitchen",
+    "recipe",
+    "stovetop",
+    "tasting",
+    "food prep",
+    "dinner",
+    "meal prep"
+  ],
+  "moments": [
+    {
+      "start": 1.2,
+      "end": 5.0,
+      "action": "Lifting the metal lid off the steaming wok to reveal sizzling minced meat",
+      "emotion": "anticipating",
+      "good_for": [
+        "cooking dinner at home",
+        "home cooked meal",
+        "the reveal",
+        "smells so good"
+      ],
+      "score": 4
+    },
+    {
+      "start": 16.5,
+      "end": 23.5,
+      "action": "Using a metal spatula to press down and break up the ground meat in the wok",
+      "emotion": "focused",
+      "good_for": [
+        "working hard in the kitchen",
+        "cooking comfort food",
+        "meal prep sunday"
+      ],
+      "score": 3
+    },
+    {
+      "start": 23.5,
+      "end": 29.5,
+      "action": "Spreading and stirring the seasoned minced meat across the sizzling skillet",
+      "emotion": "calm",
+      "good_for": [
+        "dinner routine",
+        "therapeutic cooking",
+        "making dinner after work"
+      ],
+      "score": 3
+    },
+    {
+      "start": 48.5,
+      "end": 53.5,
+      "action": "Scooping a small amount of meat onto a wooden spoon and bringing it to mouth to taste test",
+      "emotion": "taste testing",
+      "good_for": [
+        "the chef always tastes first",
+        "checking seasoning",
+        "recipe testing"
+      ],
+      "score": 4
+    }
+  ]
+}

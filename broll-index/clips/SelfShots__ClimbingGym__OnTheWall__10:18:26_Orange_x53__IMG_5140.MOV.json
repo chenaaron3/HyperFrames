@@ -1,0 +1,116 @@
+{
+  "path": "SelfShots/ClimbingGym/OnTheWall/10:18:26_Orange_x53/IMG_5140.MOV",
+  "folder": "SelfShots/ClimbingGym/OnTheWall/10:18:26_Orange_x53",
+  "fingerprint": "3263c5b7eef13237",
+  "width": 1080,
+  "height": 1920,
+  "fps": 30.0,
+  "duration": 43.837,
+  "model": "gemini-3.8-flash",
+  "annotatedAt": "2026-10-24T18:45:39+00:00",
+  "summary": "A young man tackles a challenging boulder problem on an overhang at an indoor climbing gym, working his way up before falling back onto the safety mat.",
+  "location": "bouldering gym",
+  "setting": "indoor",
+  "time_of_day": "indoor_unknown",
+  "weather": "n/a",
+  "people": {
+    "count": 3,
+    "creator_visible": true,
+    "description": "Young Asian man wearing a grey tank top and loose grey pants climbing; brief bystanders walking in foreground and background"
+  },
+  "camera": {
+    "style": "tripod_static",
+    "framing": "wide",
+    "movement": "static",
+    "angle": "slightly low angle looking up"
+  },
+  "quality": {
+    "usable": true,
+    "stability": "locked",
+    "exposure": "good",
+    "issues": "A passerby briefly cuts through the foreground around 13-14 seconds"
+  },
+  "mood": [
+    "focused",
+    "athletic",
+    "determined",
+    "challenging"
+  ],
+  "energy": "medium",
+  "tags": [
+    "bouldering",
+    "rock climbing",
+    "climbing gym",
+    "chalk",
+    "fitness",
+    "workout",
+    "overhang",
+    "problem solving",
+    "strength",
+    "try hard",
+    "falling",
+    "indoor sports"
+  ],
+  "moments": [
+    {
+      "start": 2.5,
+      "end": 8.5,
+      "action": "Climber chalks hands, inspects the route, and approaches the base of the wall",
+      "emotion": "focused and preparing",
+      "good_for": [
+        "showing up every day",
+        "getting ready to work",
+        "facing big challenges"
+      ],
+      "score": 4
+    },
+    {
+      "start": 15.0,
+      "end": 22.0,
+      "action": "Climber engages core and pulls himself up through the low overhang holds",
+      "emotion": "intense physical focus",
+      "good_for": [
+        "putting in the work",
+        "strength training",
+        "slow steady progress"
+      ],
+      "score": 4
+    },
+    {
+      "start": 22.5,
+      "end": 29.5,
+      "action": "Climber reaches for a high volume and repositions his feet delicately",
+      "emotion": "calculated and concentrated",
+      "good_for": [
+        "finding your balance",
+        "trusting your feet",
+        "navigating life"
+      ],
+      "score": 4
+    },
+    {
+      "start": 33.0,
+      "end": 39.0,
+      "action": "Climber reaches for the top section, loses grip, and drops cleanly onto the padded mat",
+      "emotion": "effort followed by sudden defeat",
+      "good_for": [
+        "falling and getting back up",
+        "failure is part of learning",
+        "almost had it"
+      ],
+      "score": 5
+    },
+    {
+      "start": 38.5,
+      "end": 42.0,
+      "action": "Climber lands on mat and walks towards camera catching breath",
+      "emotion": "tired, slightly frustrated but determined",
+      "good_for": [
+        "brushing it off",
+        "trying again tomorrow",
+        "post-workout fatigue"
+      ],
+      "score": 4
+    }
+  ]
+}

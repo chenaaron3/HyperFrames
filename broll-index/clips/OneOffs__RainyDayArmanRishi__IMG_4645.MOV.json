@@ -1,0 +1,81 @@
+{
+  "path": "OneOffs/RainyDayArmanRishi/IMG_4645.MOV",
+  "folder": "OneOffs/RainyDayArmanRishi",
+  "fingerprint": "c0dd788ee7bdf68d",
+  "width": 1080,
+  "height": 1920,
+  "fps": 30.0,
+  "duration": 6.967,
+  "model": "gemini-3.8-flash",
+  "annotatedAt": "2026-10-24T18:36:51+00:00",
+  "summary": "Handheld pan across the warm interior of a bustling cafe with patrons seated at wooden tables chatting and drinking tea on a rainy day.",
+  "location": "cafe",
+  "setting": "indoor",
+  "time_of_day": "day",
+  "weather": "rain",
+  "people": {
+    "count": 7,
+    "creator_visible": false,
+    "description": "Several diverse cafe patrons seated at wooden tables, conversing, looking at phones, and enjoying warm drinks."
+  },
+  "camera": {
+    "style": "pov_first_person",
+    "framing": "medium",
+    "movement": "pan",
+    "angle": "eye level"
+  },
+  "quality": {
+    "usable": true,
+    "stability": "handheld",
+    "exposure": "good",
+    "issues": ""
+  },
+  "mood": [
+    "cozy",
+    "relaxed",
+    "peaceful",
+    "ambient"
+  ],
+  "energy": "low",
+  "tags": [
+    "cafe",
+    "coffee shop",
+    "tea house",
+    "rainy day",
+    "indoor",
+    "people",
+    "conversation",
+    "cozy",
+    "shelter",
+    "b-roll",
+    "aesthetic",
+    "patrons"
+  ],
+  "moments": [
+    {
+      "start": 0.0,
+      "end": 3.5,
+      "action": "Camera pans slowly from a framed map on a white exposed-brick wall toward patrons sitting near a large window",
+      "emotion": "calm",
+      "good_for": [
+        "rainy day cafe vibes",
+        "finding shelter from the rain",
+        "slow afternoon"
+      ],
+      "score": 3
+    },
+    {
+      "start": 3.5,
+      "end": 6.97,
+      "action": "Camera reveals multiple tables of people chatting and drinking tea while someone with a pink umbrella walks by outside the window",
+      "emotion": "cozy",
+      "good_for": [
+        "cafe b-roll",
+        "warm tea on a rainy day",
+        "people watching",
+        "ambient city life"
+      ],
+      "score": 4
+    }
+  ]
+}

@@ -1,0 +1,74 @@
+{
+  "path": "OneOffs/RainyDayArmanRishi/IMG_4668.MOV",
+  "folder": "OneOffs/RainyDayArmanRishi",
+  "fingerprint": "66638e49d41d0021",
+  "width": 1080,
+  "height": 1920,
+  "fps": 30.0,
+  "duration": 4.5,
+  "model": "gemini-3.8-flash",
+  "annotatedAt": "2026-10-24T18:37:40+00:00",
+  "summary": "First-person POV looking down at boots, jeans, and a long coat walking along a wet concrete sidewalk on a rainy day.",
+  "location": "sidewalk",
+  "setting": "outdoor",
+  "time_of_day": "day",
+  "weather": "rain",
+  "people": {
+    "count": 1,
+    "creator_visible": true,
+    "description": "Person wearing a long black coat, light wash denim jeans, and dark boots walking forward."
+  },
+  "camera": {
+    "style": "pov_first_person",
+    "framing": "close",
+    "movement": "walking",
+    "angle": "top-down"
+  },
+  "quality": {
+    "usable": true,
+    "stability": "handheld",
+    "exposure": "good",
+    "issues": ""
+  },
+  "mood": [
+    "moody",
+    "calm",
+    "reflective",
+    "melancholic",
+    "peaceful"
+  ],
+  "energy": "low",
+  "tags": [
+    "walking",
+    "feet",
+    "boots",
+    "sidewalk",
+    "rain",
+    "rainy day",
+    "wet pavement",
+    "puddle",
+    "coat",
+    "jeans",
+    "pov",
+    "city walk",
+    "commute",
+    "autumn",
+    "solitude"
+  ],
+  "moments": [
+    {
+      "start": 0.0,
+      "end": 4.5,
+      "action": "Walking forward steadily along wet sidewalk pavement in boots and long coat",
+      "emotion": "reflective",
+      "good_for": [
+        "rainy day walks",
+        "romanticizing city life",
+        "stepping forward",
+        "clear your mind",
+        "moody aesthetic"
+      ],
+      "score": 4
+    }
+  ]
+}

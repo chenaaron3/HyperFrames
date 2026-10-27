@@ -1,0 +1,82 @@
+{
+  "path": "SelfShots/ClimbingGym/Setup/Walking/IMG_5195.MOV",
+  "folder": "SelfShots/ClimbingGym/Setup/Walking",
+  "fingerprint": "1e723f477ab28e7c",
+  "width": 1080,
+  "height": 1920,
+  "fps": 30.0,
+  "duration": 13.233,
+  "model": "gemini-3.8-flash",
+  "annotatedAt": "2026-10-24T18:54:46+00:00",
+  "summary": "A young man walks across a sunny city street crosswalk while filming a selfie video as pedestrians and traffic pass by.",
+  "location": "city street",
+  "setting": "outdoor",
+  "time_of_day": "day",
+  "weather": "sunny",
+  "people": {
+    "count": 4,
+    "creator_visible": true,
+    "description": "Young East Asian man with medium-length black hair wearing a brown knit short-sleeve shirt over a grey tank top, backpack, and AirPods, holding a black jacket."
+  },
+  "camera": {
+    "style": "selfie",
+    "framing": "medium",
+    "movement": "walking",
+    "angle": "eye level"
+  },
+  "quality": {
+    "usable": true,
+    "stability": "handheld",
+    "exposure": "good",
+    "issues": "Start and end frames point down toward the ground."
+  },
+  "mood": [
+    "casual",
+    "urban",
+    "active",
+    "spontaneous"
+  ],
+  "energy": "medium",
+  "tags": [
+    "crosswalk",
+    "city walking",
+    "commute",
+    "street",
+    "urban life",
+    "selfie vlog",
+    "daylight",
+    "sunny day",
+    "pedestrian",
+    "traffic",
+    "nyc street",
+    "walking vlog"
+  ],
+  "moments": [
+    {
+      "start": 1.5,
+      "end": 8.0,
+      "action": "Creator walks across the crosswalk holding the camera in front of him with cars waiting in the background.",
+      "emotion": "calm",
+      "good_for": [
+        "city commute",
+        "on my way",
+        "daily routine",
+        "stepping outside"
+      ],
+      "score": 4
+    },
+    {
+      "start": 8.0,
+      "end": 11.0,
+      "action": "An older woman crossing in the opposite direction waves playfully at the camera as the creator keeps walking.",
+      "emotion": "friendly",
+      "good_for": [
+        "friendly strangers",
+        "city moments",
+        "spontaneous interactions",
+        "random smiles"
+      ],
+      "score": 4
+    }
+  ]
+}

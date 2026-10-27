@@ -1,0 +1,83 @@
+{
+  "path": "OneOffs/BrooklynNight/A001_10101955_C001 3.MOV",
+  "folder": "OneOffs/BrooklynNight",
+  "fingerprint": "2deaea9b63f854d4",
+  "width": 2160,
+  "height": 3840,
+  "fps": 24.0,
+  "duration": 10.248,
+  "model": "gemini-3.8-flash",
+  "annotatedAt": "2026-10-24T18:22:22+00:00",
+  "summary": "A nighttime panoramic view across the East River of the illuminated Manhattan Bridge, Brooklyn Bridge, and the Lower Manhattan skyline.",
+  "location": "brooklyn waterfront",
+  "setting": "outdoor",
+  "time_of_day": "night",
+  "weather": "n/a",
+  "people": {
+    "count": 2,
+    "creator_visible": false,
+    "description": "Silhouettes of people sitting and walking along the waterfront railing in the dark foreground"
+  },
+  "camera": {
+    "style": "pov_first_person",
+    "framing": "wide",
+    "movement": "pan",
+    "angle": "eye level"
+  },
+  "quality": {
+    "usable": true,
+    "stability": "steady",
+    "exposure": "good",
+    "issues": ""
+  },
+  "mood": [
+    "scenic",
+    "peaceful",
+    "dreamy",
+    "nostalgic",
+    "romantic"
+  ],
+  "energy": "low",
+  "tags": [
+    "nyc",
+    "brooklyn",
+    "brooklyn bridge",
+    "manhattan skyline",
+    "night",
+    "city lights",
+    "east river",
+    "skyline",
+    "cityscape",
+    "waterfront",
+    "new york city",
+    "night view"
+  ],
+  "moments": [
+    {
+      "start": 0.0,
+      "end": 4.5,
+      "action": "Camera captures the glowing Manhattan Bridge spanning the dark river, beginning to pan right toward Manhattan",
+      "emotion": "awe",
+      "good_for": [
+        "city nights",
+        "late night views",
+        "nyc magic",
+        "wanderlust"
+      ],
+      "score": 4
+    },
+    {
+      "start": 4.5,
+      "end": 10.25,
+      "action": "Camera finishes panning across the East River to showcase the Brooklyn Bridge and illuminated Lower Manhattan skyscrapers",
+      "emotion": "contemplative",
+      "good_for": [
+        "concrete jungle",
+        "late night walks",
+        "falling in love with the city",
+        "chasing dreams"
+      ],
+      "score": 4
+    }
+  ]
+}

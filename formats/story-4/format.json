@@ -1,0 +1,780 @@
+{
+  "id": "story-4",
+  "name": "POV you're single, have no friends, live alone, and won't be",
+  "reference": "references/viral-formats/story-4.mp4",
+  "source": "/Users/aaron/Downloads/100 Viral Formats (Format Book)/Storytelling/#4/#4.mp4",
+  "duration": 82.867,
+  "music": {
+    "from": "reference",
+    "title": "Original Audio"
+  },
+  "text": {
+    "y": 0.227,
+    "size": 56,
+    "weight": 700,
+    "lineHeight": 1.4,
+    "maxWidth": 900,
+    "style": "outline"
+  },
+  "lines": [
+    {
+      "id": "l1",
+      "start": 0.0,
+      "end": 5.4,
+      "ref": "POV\nyou're single, have no\nfriends, live alone, and\nwon't be having kids so\nthis is your life",
+      "y": 0.227,
+      "measuredSize": 68,
+      "style": "plain_white_shadow",
+      "guide": ""
+    },
+    {
+      "id": "l2",
+      "start": 5.4,
+      "end": 8.9,
+      "ref": "6:54 PM",
+      "y": 0.48,
+      "measuredSize": 66,
+      "style": "plain_white_shadow",
+      "guide": ""
+    },
+    {
+      "id": "l3",
+      "start": 8.9,
+      "end": 14.4,
+      "ref": "6:55 PM",
+      "y": 0.48,
+      "measuredSize": 21,
+      "style": "plain_white_shadow",
+      "guide": ""
+    },
+    {
+      "id": "l4",
+      "start": 14.4,
+      "end": 17.933,
+      "ref": "6:57 PM",
+      "y": 0.498,
+      "measuredSize": 58,
+      "style": "plain_white_shadow",
+      "guide": ""
+    },
+    {
+      "id": "l5",
+      "start": 17.933,
+      "end": 21.5,
+      "ref": "6:58 PM",
+      "y": 0.498,
+      "measuredSize": 58,
+      "style": "plain_white_shadow",
+      "guide": ""
+    },
+    {
+      "id": "l6",
+      "start": 21.5,
+      "end": 27.2,
+      "ref": "7:01 PM",
+      "y": 0.498,
+      "measuredSize": 56,
+      "style": "plain_white_shadow",
+      "guide": ""
+    },
+    {
+      "id": "l7",
+      "start": 27.2,
+      "end": 29.3,
+      "ref": "7:04 PM",
+      "y": 0.498,
+      "measuredSize": 56,
+      "style": "plain_white_shadow",
+      "guide": ""
+    },
+    {
+      "id": "l8",
+      "start": 29.3,
+      "end": 30.033,
+      "ref": "7:37 PM",
+      "y": 0.498,
+      "measuredSize": 56,
+      "style": "plain_white_shadow",
+      "guide": ""
+    },
+    {
+      "id": "l9",
+      "start": 30.033,
+      "end": 33.067,
+      "ref": "7:44 PM",
+      "y": 0.498,
+      "measuredSize": 56,
+      "style": "plain_white_shadow",
+      "guide": ""
+    },
+    {
+      "id": "l10",
+      "start": 33.067,
+      "end": 35.867,
+      "ref": "7:47 PM",
+      "y": 0.498,
+      "measuredSize": 56,
+      "style": "plain_white_shadow",
+      "guide": ""
+    },
+    {
+      "id": "l11",
+      "start": 35.867,
+      "end": 40.133,
+      "ref": "7:48 PM",
+      "y": 0.498,
+      "measuredSize": 56,
+      "style": "plain_white_shadow",
+      "guide": ""
+    },
+    {
+      "id": "l12",
+      "start": 40.133,
+      "end": 45.667,
+      "ref": "7:49 PM",
+      "y": 0.498,
+      "measuredSize": 56,
+      "style": "plain_white_shadow",
+      "guide": ""
+    },
+    {
+      "id": "l13",
+      "start": 45.667,
+      "end": 48.467,
+      "ref": "7:51 PM",
+      "y": 0.498,
+      "measuredSize": 56,
+      "style": "plain_white_shadow",
+      "guide": ""
+    },
+    {
+      "id": "l14",
+      "start": 48.467,
+      "end": 50.533,
+      "ref": "7:54 PM",
+      "y": 0.498,
+      "measuredSize": 56,
+      "style": "plain_white_shadow",
+      "guide": ""
+    },
+    {
+      "id": "l15",
+      "start": 50.533,
+      "end": 51.2,
+      "ref": "7:55 PM",
+      "y": 0.498,
+      "measuredSize": 56,
+      "style": "plain_white_shadow",
+      "guide": ""
+    },
+    {
+      "id": "l16",
+      "start": 51.2,
+      "end": 51.9,
+      "ref": "7:56 PM",
+      "y": 0.498,
+      "measuredSize": 56,
+      "style": "plain_white_shadow",
+      "guide": ""
+    },
+    {
+      "id": "l17",
+      "start": 51.9,
+      "end": 52.6,
+      "ref": "7:57 PM",
+      "y": 0.498,
+      "measuredSize": 56,
+      "style": "plain_white_shadow",
+      "guide": ""
+    },
+    {
+      "id": "l18",
+      "start": 52.6,
+      "end": 53.367,
+      "ref": "8:01 PM",
+      "y": 0.498,
+      "measuredSize": 56,
+      "style": "plain_white_shadow",
+      "guide": ""
+    },
+    {
+      "id": "l19",
+      "start": 53.367,
+      "end": 56.933,
+      "ref": "8:04 PM",
+      "y": 0.498,
+      "measuredSize": 56,
+      "style": "plain_white_shadow",
+      "guide": ""
+    },
+    {
+      "id": "l20",
+      "start": 56.933,
+      "end": 58.333,
+      "ref": "8:05 PM",
+      "y": 0.498,
+      "measuredSize": 60,
+      "style": "plain_white_shadow",
+      "guide": ""
+    },
+    {
+      "id": "l21",
+      "start": 58.333,
+      "end": 63.733,
+      "ref": "8:07 PM",
+      "y": 0.498,
+      "measuredSize": 56,
+      "style": "plain_white_shadow",
+      "guide": ""
+    },
+    {
+      "id": "l22",
+      "start": 63.733,
+      "end": 64.467,
+      "ref": "8:08 PM",
+      "y": 0.498,
+      "measuredSize": 56,
+      "style": "plain_white_shadow",
+      "guide": ""
+    },
+    {
+      "id": "l23",
+      "start": 64.467,
+      "end": 65.133,
+      "ref": "8:09 PM",
+      "y": 0.498,
+      "measuredSize": 56,
+      "style": "plain_white_shadow",
+      "guide": ""
+    },
+    {
+      "id": "l24",
+      "start": 65.133,
+      "end": 65.6,
+      "ref": "8:14 PM",
+      "y": 0.498,
+      "measuredSize": 56,
+      "style": "plain_white_shadow",
+      "guide": ""
+    },
+    {
+      "id": "l25",
+      "start": 65.6,
+      "end": 66.4,
+      "ref": "8:17 PM",
+      "y": 0.498,
+      "measuredSize": 56,
+      "style": "plain_white_shadow",
+      "guide": ""
+    },
+    {
+      "id": "l26",
+      "start": 66.4,
+      "end": 67.1,
+      "ref": "8:19 PM",
+      "y": 0.498,
+      "measuredSize": 56,
+      "style": "plain_white_shadow",
+      "guide": ""
+    },
+    {
+      "id": "l27",
+      "start": 67.1,
+      "end": 68.667,
+      "ref": "8:21 PM",
+      "y": 0.498,
+      "measuredSize": 56,
+      "style": "plain_white_shadow",
+      "guide": ""
+    },
+    {
+      "id": "l28",
+      "start": 68.667,
+      "end": 69.1,
+      "ref": "8:24 PM",
+      "y": 0.498,
+      "measuredSize": 56,
+      "style": "plain_white_shadow",
+      "guide": ""
+    },
+    {
+      "id": "l29",
+      "start": 69.1,
+      "end": 69.9,
+      "ref": "8:27 PM",
+      "y": 0.498,
+      "measuredSize": 56,
+      "style": "plain_white_shadow",
+      "guide": ""
+    },
+    {
+      "id": "l30",
+      "start": 69.9,
+      "end": 70.5,
+      "ref": "8:29 PM",
+      "y": 0.498,
+      "measuredSize": 56,
+      "style": "plain_white_shadow",
+      "guide": ""
+    },
+    {
+      "id": "l31",
+      "start": 70.5,
+      "end": 71.533,
+      "ref": "8:34 PM",
+      "y": 0.498,
+      "measuredSize": 56,
+      "style": "plain_white_shadow",
+      "guide": ""
+    },
+    {
+      "id": "l32",
+      "start": 71.533,
+      "end": 74.4,
+      "ref": "8:47 PM",
+      "y": 0.498,
+      "measuredSize": 56,
+      "style": "plain_white_shadow",
+      "guide": ""
+    },
+    {
+      "id": "l33",
+      "start": 74.4,
+      "end": 77.167,
+      "ref": "9:14 PM",
+      "y": 0.498,
+      "measuredSize": 56,
+      "style": "plain_white_shadow",
+      "guide": ""
+    },
+    {
+      "id": "l34",
+      "start": 77.167,
+      "end": 77.867,
+      "ref": "9:15 PM",
+      "y": 0.498,
+      "measuredSize": 56,
+      "style": "plain_white_shadow",
+      "guide": ""
+    },
+    {
+      "id": "l35",
+      "start": 77.867,
+      "end": 80.767,
+      "ref": "9:24 PM",
+      "y": 0.498,
+      "measuredSize": 56,
+      "style": "plain_white_shadow",
+      "guide": ""
+    },
+    {
+      "id": "l36",
+      "start": 80.767,
+      "end": 81.967,
+      "ref": "9:27 PM",
+      "y": 0.498,
+      "measuredSize": 56,
+      "style": "plain_white_shadow",
+      "guide": ""
+    },
+    {
+      "id": "l37",
+      "start": 81.967,
+      "end": 82.867,
+      "ref": "goodnight🐣🐥❤️❤️",
+      "y": 0.5,
+      "measuredSize": 28,
+      "style": "plain_white_shadow",
+      "guide": ""
+    }
+  ],
+  "shots": [
+    {
+      "id": "s1",
+      "start": 0.0,
+      "end": 0.433,
+      "brief": "walking towards camera in a garage or hallway (ref: Creator walking towards the camera in an underground parking garage; tripod)",
+      "line": "l1"
+    },
+    {
+      "id": "s2",
+      "start": 0.433,
+      "end": 1.133,
+      "brief": "fobbing into a building or apartment door (ref: POV tapping key fob onto electronic door sensor; POV)",
+      "line": "l1"
+    },
+    {
+      "id": "s3",
+      "start": 1.133,
+      "end": 1.867,
+      "brief": "stepping out of an elevator (ref: Elevator doors opening and creator walking out into corridor; tripod)",
+      "line": "l1"
+    },
+    {
+      "id": "s4",
+      "start": 1.867,
+      "end": 2.533,
+      "brief": "stepping out of an elevator (ref: Elevator doors opening and creator walking out into corridor; tripod)",
+      "line": "l1"
+    },
+    {
+      "id": "s5",
+      "start": 2.533,
+      "end": 4.7,
+      "brief": "walking down an apartment building hallway with groceries (ref: Long apartment hallway, creator walking towards camera carrying a tote bag; tripod)",
+      "line": "l1"
+    },
+    {
+      "id": "s6",
+      "start": 4.7,
+      "end": 5.4,
+      "brief": "entering an apartment door (ref: Close-up of creator unlocking and entering apartment door; tripod)",
+      "line": "l1"
+    },
+    {
+      "id": "s7",
+      "start": 5.4,
+      "end": 7.5,
+      "brief": "taking off shoes at apartment entrance (ref: Wide shot in apartment entryway, creator walks in, shuts door, takes off shoes; tripod)",
+      "line": "l2"
+    },
+    {
+      "id": "s8",
+      "start": 7.5,
+      "end": 8.9,
+      "brief": "carrying groceries into kitchen (ref: Creator walking into kitchen and placing grocery bag onto island counter; tripod)",
+      "line": "l2"
+    },
+    {
+      "id": "s9",
+      "start": 8.9,
+      "end": 14.4,
+      "brief": "unpacking groceries on a counter (ref: Creator unpacking groceries from reusable bag onto kitchen island; tripod)",
+      "line": "l3"
+    },
+    {
+      "id": "s10",
+      "start": 14.4,
+      "end": 15.833,
+      "brief": "sorting groceries on counter (ref: Overhead/close angle grabbing carton and putting groceries away; filmed by friend)",
+      "line": "l4"
+    },
+    {
+      "id": "s11",
+      "start": 15.833,
+      "end": 19.333,
+      "brief": "putting groceries inside refrigerator (ref: Opening refrigerator door and placing milk and food inside; tripod)",
+      "line": "l4"
+    },
+    {
+      "id": "s12",
+      "start": 19.333,
+      "end": 21.5,
+      "brief": "putting dry goods in kitchen cabinet (ref: Opening kitchen cabinet and putting away grocery item; tripod)",
+      "line": "l5"
+    },
+    {
+      "id": "s13",
+      "start": 21.5,
+      "end": 22.9,
+      "brief": "picking up toiletries from counter (ref: Picking up toiletries from the counter; tripod)",
+      "line": "l6"
+    },
+    {
+      "id": "s14",
+      "start": 22.9,
+      "end": 24.5,
+      "brief": "walking into bathroom (ref: Walking into bathroom; tripod)",
+      "line": "l6"
+    },
+    {
+      "id": "s15",
+      "start": 24.5,
+      "end": 25.067,
+      "brief": "walking into bathroom (ref: Walking into bathroom; tripod)",
+      "line": "l6"
+    },
+    {
+      "id": "s16",
+      "start": 25.067,
+      "end": 26.5,
+      "brief": "starting shower and closing curtain (ref: Turning on the shower and closing the shower curtain; tripod)",
+      "line": "l6"
+    },
+    {
+      "id": "s17",
+      "start": 26.5,
+      "end": 27.2,
+      "brief": "starting shower and closing curtain (ref: Turning on the shower and closing the shower curtain; tripod)",
+      "line": "l6"
+    },
+    {
+      "id": "s18",
+      "start": 27.2,
+      "end": 29.3,
+      "brief": "opening bar of soap (ref: POV opening soap box; POV)",
+      "line": "l7"
+    },
+    {
+      "id": "s19",
+      "start": 29.3,
+      "end": 30.033,
+      "brief": "turning off shower tap (ref: Hand turning off shower valve; POV)",
+      "line": "l8"
+    },
+    {
+      "id": "s20",
+      "start": 30.033,
+      "end": 30.733,
+      "brief": "picking clothes from drawer (ref: Picking loungewear out of a closet organizer drawer; tripod)",
+      "line": "l9"
+    },
+    {
+      "id": "s21",
+      "start": 30.733,
+      "end": 32.3,
+      "brief": "picking clothes from drawer (ref: Picking loungewear out of a closet organizer drawer; tripod)",
+      "line": "l9"
+    },
+    {
+      "id": "s22",
+      "start": 32.3,
+      "end": 33.067,
+      "brief": "picking clothes from drawer (ref: Picking loungewear out of a closet organizer drawer; tripod)",
+      "line": "l9"
+    },
+    {
+      "id": "s23",
+      "start": 33.067,
+      "end": 34.533,
+      "brief": "walking around apartment in loungewear (ref: Creator walking across living room in oversized tee and shorts to fridge; tripod)",
+      "line": "l10"
+    },
+    {
+      "id": "s24",
+      "start": 34.533,
+      "end": 35.867,
+      "brief": "walking around apartment in loungewear (ref: Creator walking across living room in oversized tee and shorts to fridge; tripod)",
+      "line": "l10"
+    },
+    {
+      "id": "s25",
+      "start": 35.867,
+      "end": 37.233,
+      "brief": "preparing wraps or food on kitchen counter, overhead view (ref: Top-down view assembling burritos/tacos on kitchen counter from pre-made tray; top-down)",
+      "line": "l11"
+    },
+    {
+      "id": "s26",
+      "start": 37.233,
+      "end": 45.667,
+      "brief": "preparing wraps or food on kitchen counter, overhead view (ref: Top-down view assembling burritos/tacos on kitchen counter from pre-made tray; top-down)",
+      "line": "l12"
+    },
+    {
+      "id": "s27",
+      "start": 45.667,
+      "end": 48.467,
+      "brief": "putting wrap in frying pan on stove (ref: Turning stove on and placing wrap into skillet; tripod)",
+      "line": "l13"
+    },
+    {
+      "id": "s28",
+      "start": 48.467,
+      "end": 51.2,
+      "brief": "mixing salad or sauce in a bowl (ref: Mixing slaw dressing into a bowl of salad; POV)",
+      "line": "l14"
+    },
+    {
+      "id": "s29",
+      "start": 51.2,
+      "end": 52.6,
+      "brief": "flipping wraps in skillet (ref: Toasting and flipping burritos in the pan; tripod)",
+      "line": "l17"
+    },
+    {
+      "id": "s30",
+      "start": 52.6,
+      "end": 53.367,
+      "brief": "plating food, top down (ref: Scooping slaw onto plate; top-down)",
+      "line": "l18"
+    },
+    {
+      "id": "s31",
+      "start": 53.367,
+      "end": 57.667,
+      "brief": "transferring cooked food onto plate (ref: Transferring toasted wraps from pan to plate and setting salsa cup; top-down)",
+      "line": "l19"
+    },
+    {
+      "id": "s32",
+      "start": 57.667,
+      "end": 58.333,
+      "brief": "cutting sandwich or wrap in half to show cross-section (ref: Cutting wrap in half and displaying the cross-section; top-down)",
+      "line": "l20"
+    },
+    {
+      "id": "s33",
+      "start": 58.333,
+      "end": 59.667,
+      "brief": "carrying dinner plate to living room table (ref: Picking up dinner plate and carrying it to living room coffee table; POV)",
+      "line": "l21"
+    },
+    {
+      "id": "s34",
+      "start": 59.667,
+      "end": 60.333,
+      "brief": "carrying dinner plate to living room table (ref: Picking up dinner plate and carrying it to living room coffee table; POV)",
+      "line": "l21"
+    },
+    {
+      "id": "s35",
+      "start": 60.333,
+      "end": 61.033,
+      "brief": "carrying dinner plate to living room table (ref: Picking up dinner plate and carrying it to living room coffee table; POV)",
+      "line": "l21"
+    },
+    {
+      "id": "s36",
+      "start": 61.033,
+      "end": 61.733,
+      "brief": "taking a can from the fridge (ref: Grabbing a soda can from refrigerator; POV)",
+      "line": "l21"
+    },
+    {
+      "id": "s37",
+      "start": 61.733,
+      "end": 62.4,
+      "brief": "taking a can from the fridge (ref: Grabbing a soda can from refrigerator; POV)",
+      "line": "l21"
+    },
+    {
+      "id": "s38",
+      "start": 62.4,
+      "end": 63.067,
+      "brief": "popping open a soda can (ref: Opening soda can close-up; POV)",
+      "line": "l21"
+    },
+    {
+      "id": "s39",
+      "start": 63.067,
+      "end": 63.733,
+      "brief": "setting drink on coffee table (ref: Placing soda can on coffee table next to food; POV)",
+      "line": "l21"
+    },
+    {
+      "id": "s40",
+      "start": 63.733,
+      "end": 64.467,
+      "brief": "turning on TV with remote (ref: Pointing remote at TV to turn it on; POV)",
+      "line": "l22"
+    },
+    {
+      "id": "s41",
+      "start": 64.467,
+      "end": 71.533,
+      "brief": "sitting on sofa eating dinner and watching TV (ref: Time-lapse / jump cuts of creator sitting on couch eating dinner and watching TV; tripod)",
+      "line": "l27"
+    },
+    {
+      "id": "s42",
+      "start": 71.533,
+      "end": 73.7,
+      "brief": "walking to kitchen cupboard (ref: Walking into kitchen to open upper pantry cabinet; tripod)",
+      "line": "l32"
+    },
+    {
+      "id": "s43",
+      "start": 73.7,
+      "end": 74.4,
+      "brief": "grabbing snack bag from shelf (ref: Grabbing a snack bag from pantry shelf; POV)",
+      "line": "l32"
+    },
+    {
+      "id": "s44",
+      "start": 74.4,
+      "end": 75.133,
+      "brief": "holding snack package (ref: Showing snack bag and wine glass on counter; POV)",
+      "line": "l33"
+    },
+    {
+      "id": "s45",
+      "start": 75.133,
+      "end": 75.8,
+      "brief": "pouring snacks into glass (ref: Pouring cookies into wine glass; POV)",
+      "line": "l33"
+    },
+    {
+      "id": "s46",
+      "start": 75.8,
+      "end": 77.167,
+      "brief": "pouring snacks into glass (ref: Pouring cookies into wine glass; POV)",
+      "line": "l33"
+    },
+    {
+      "id": "s47",
+      "start": 77.167,
+      "end": 77.867,
+      "brief": "putting a book on coffee table (ref: Setting book on table next to snack glass; POV)",
+      "line": "l34"
+    },
+    {
+      "id": "s48",
+      "start": 77.867,
+      "end": 78.6,
+      "brief": "lying on couch under blanket reading or relaxing (ref: Creator lying under blanket on couch cuddling plush toy and reading book; selfie)",
+      "line": "l35"
+    },
+    {
+      "id": "s49",
+      "start": 78.6,
+      "end": 79.333,
+      "brief": "lying on couch under blanket reading or relaxing (ref: Creator lying under blanket on couch cuddling plush toy and reading book; selfie)",
+      "line": "l35"
+    },
+    {
+      "id": "s50",
+      "start": 79.333,
+      "end": 80.033,
+      "brief": "lying on couch under blanket reading or relaxing (ref: Creator lying under blanket on couch cuddling plush toy and reading book; selfie)",
+      "line": "l35"
+    },
+    {
+      "id": "s51",
+      "start": 80.033,
+      "end": 80.767,
+      "brief": "lying on couch under blanket reading or relaxing (ref: Creator lying under blanket on couch cuddling plush toy and reading book; selfie)",
+      "line": "l35"
+    },
+    {
+      "id": "s52",
+      "start": 80.767,
+      "end": 81.467,
+      "brief": "reading book and eating snack, top down (ref: Turning pages of book on table while picking snack from glass; top-down)",
+      "line": "l36"
+    },
+    {
+      "id": "s53",
+      "start": 81.467,
+      "end": 82.867,
+      "brief": "reading book and eating snack, top down (ref: Turning pages of book on table while picking snack from glass; top-down)",
+      "line": "l37"
+    }
+  ],
+  "audit": {
+    "kind": "voiceover_over_broll",
+    "creatorSpeaks": true,
+    "audio": "music + speech",
+    "special": [
+      "Voiceover recording sharing a personal life story"
+    ],
+    "reusable": false,
+    "notes": "The visuals are standard evening home routine B-roll (coming home, making food, eating on couch, reading), but this format depends entirely on an original, highly personal voiceover narration. It cannot be replicated using only silent B-roll and on-screen text.",
+    "summary": "The creator films her evening solo routine at home with digital timestamp overlays while narrating a vulnerable, emotional voiceover about growing up in poverty and why she chooses to live alone."
+  },
+  "caption": {
+    "ref": "",
+    "guide": ""
+  },
+  "draft": true
+}

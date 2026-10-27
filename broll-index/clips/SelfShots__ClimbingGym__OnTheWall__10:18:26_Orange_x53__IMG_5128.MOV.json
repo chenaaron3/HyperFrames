@@ -1,0 +1,104 @@
+{
+  "path": "SelfShots/ClimbingGym/OnTheWall/10:18:26_Orange_x53/IMG_5128.MOV",
+  "folder": "SelfShots/ClimbingGym/OnTheWall/10:18:26_Orange_x53",
+  "fingerprint": "7bed4e2c96b2e5ae",
+  "width": 1080,
+  "height": 1920,
+  "fps": 30.0,
+  "duration": 44.503,
+  "model": "gemini-3.8-flash",
+  "annotatedAt": "2026-10-24T18:43:31+00:00",
+  "summary": "A young man attempts a difficult bouldering route on large yellow holds at an indoor climbing gym before slipping and jumping down.",
+  "location": "gym",
+  "setting": "indoor",
+  "time_of_day": "indoor_unknown",
+  "weather": "n/a",
+  "people": {
+    "count": 1,
+    "creator_visible": true,
+    "description": "Young East Asian man with dark hair wearing a grey ribbed tank top and loose blue pants"
+  },
+  "camera": {
+    "style": "tripod_static",
+    "framing": "wide",
+    "movement": "static",
+    "angle": "eye level"
+  },
+  "quality": {
+    "usable": true,
+    "stability": "locked",
+    "exposure": "good",
+    "issues": ""
+  },
+  "mood": [
+    "focused",
+    "athletic",
+    "determined",
+    "exhausted"
+  ],
+  "energy": "medium",
+  "tags": [
+    "bouldering",
+    "climbing",
+    "climbing gym",
+    "indoor climbing",
+    "fitness",
+    "workout",
+    "slopers",
+    "chalk",
+    "fall",
+    "jump off",
+    "effort",
+    "strength"
+  ],
+  "moments": [
+    {
+      "start": 4.0,
+      "end": 10.0,
+      "action": "Man chalks up, grips the starting yellow sloper holds, and pulls his feet onto the wall",
+      "emotion": "focused",
+      "good_for": [
+        "starting a new challenge",
+        "trusting the process",
+        "lock in"
+      ],
+      "score": 4
+    },
+    {
+      "start": 26.0,
+      "end": 33.5,
+      "action": "Man balances precariously on round yellow slopers and shifts his weight upward",
+      "emotion": "intense concentration",
+      "good_for": [
+        "finding balance",
+        "putting in the work",
+        "one step at a time"
+      ],
+      "score": 4
+    },
+    {
+      "start": 33.5,
+      "end": 39.5,
+      "action": "Man reaches for top holds, hesitates, loses balance, and leaps down onto the padded mat",
+      "emotion": "frustration",
+      "good_for": [
+        "failing close to the finish",
+        "almost made it",
+        "trying again tomorrow"
+      ],
+      "score": 5
+    },
+    {
+      "start": 39.5,
+      "end": 42.0,
+      "action": "Man recovers from the jump onto the mat, rubbing his sore neck and shoulder",
+      "emotion": "exhausted",
+      "good_for": [
+        "post-workout fatigue",
+        "pushing your limits",
+        "that hurt a bit"
+      ],
+      "score": 3
+    }
+  ]
+}

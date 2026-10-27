@@ -1,0 +1,70 @@
+{
+  "path": "Cinematic/Chinatown/IMG_4771.mov",
+  "folder": "Cinematic/Chinatown",
+  "fingerprint": "31e27d2288668383",
+  "width": 1080,
+  "height": 1920,
+  "fps": 30.0,
+  "duration": 2.267,
+  "model": "gemini-3.8-flash",
+  "annotatedAt": "2026-10-24T18:19:07+00:00",
+  "summary": "Handheld street view of a New York City crosswalk on an overcast day, showing traffic passing by including a sheriff vehicle and pedestrians waiting at the corner.",
+  "location": "city street",
+  "setting": "outdoor",
+  "time_of_day": "day",
+  "weather": "overcast",
+  "people": {
+    "count": 4,
+    "creator_visible": false,
+    "description": "Pedestrians waiting at a corner and walking on the sidewalk, including a person in a cream jacket holding a bag looking down at a phone."
+  },
+  "camera": {
+    "style": "handheld_cinematic",
+    "framing": "wide",
+    "movement": "static",
+    "angle": "eye level"
+  },
+  "quality": {
+    "usable": true,
+    "stability": "steady",
+    "exposure": "good",
+    "issues": ""
+  },
+  "mood": [
+    "urban",
+    "moody",
+    "everyday",
+    "calm"
+  ],
+  "energy": "low",
+  "tags": [
+    "nyc",
+    "new york city",
+    "chinatown",
+    "street",
+    "traffic",
+    "pedestrians",
+    "city life",
+    "overcast",
+    "sidewalk",
+    "cars",
+    "urban aesthetic",
+    "rainy day vibes"
+  ],
+  "moments": [
+    {
+      "start": 0.0,
+      "end": 2.27,
+      "action": "Cars and a sheriff patrol car drive past a wet city street corner while pedestrians wait and walk on the sidewalk",
+      "emotion": "neutral everyday urban life",
+      "good_for": [
+        "city living",
+        "rainy day in new york",
+        "on the go",
+        "daily commute",
+        "moody city b-roll"
+      ],
+      "score": 3
+    }
+  ]
+}

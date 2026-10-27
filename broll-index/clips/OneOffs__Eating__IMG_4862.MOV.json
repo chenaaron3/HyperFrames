@@ -1,0 +1,74 @@
+{
+  "path": "OneOffs/Eating/IMG_4862.MOV",
+  "folder": "OneOffs/Eating",
+  "fingerprint": "a5f27166eac9abdd",
+  "width": 1080,
+  "height": 1920,
+  "fps": 30.0,
+  "duration": 4.432,
+  "model": "gemini-3.8-flash",
+  "annotatedAt": "2026-10-24T18:35:01+00:00",
+  "summary": "A peaceful static shot of a grassy lawn with tall trees as golden hour sunlight streams through the branches, casting long shadows across the grass.",
+  "location": "park",
+  "setting": "outdoor",
+  "time_of_day": "golden_hour",
+  "weather": "sunny",
+  "people": {
+    "count": 0,
+    "creator_visible": false,
+    "description": "No people visible in the frame."
+  },
+  "camera": {
+    "style": "handheld_cinematic",
+    "framing": "wide",
+    "movement": "static",
+    "angle": "eye level"
+  },
+  "quality": {
+    "usable": true,
+    "stability": "steady",
+    "exposure": "good",
+    "issues": ""
+  },
+  "mood": [
+    "peaceful",
+    "calm",
+    "serene",
+    "warm",
+    "hopeful"
+  ],
+  "energy": "low",
+  "tags": [
+    "golden hour",
+    "sunlight",
+    "sun flare",
+    "trees",
+    "green grass",
+    "park",
+    "shadows",
+    "nature",
+    "scenic",
+    "calm",
+    "morning light",
+    "sunset",
+    "peaceful",
+    "outdoors"
+  ],
+  "moments": [
+    {
+      "start": 0.0,
+      "end": 4.43,
+      "action": "Sunlight beams brightly through tree branches onto a lush green lawn, creating long shadows and a gentle lens flare.",
+      "emotion": "calm",
+      "good_for": [
+        "a peaceful morning",
+        "taking a breath",
+        "golden hour magic",
+        "romanticizing life",
+        "nature walks",
+        "gratitude for simple moments"
+      ],
+      "score": 4
+    }
+  ]
+}

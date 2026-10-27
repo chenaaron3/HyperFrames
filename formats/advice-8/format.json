@@ -1,0 +1,79 @@
+{
+  "id": "advice-8",
+  "name": "AI vibe coding changed my life",
+  "reference": "references/viral-formats/advice-8.mp4",
+  "source": "/Users/aaron/Downloads/100 Viral Formats (Format Book)/Advice/#8/#8.mp4",
+  "duration": 96.033,
+  "music": {
+    "from": "reference",
+    "title": "Where we’re going"
+  },
+  "text": {
+    "y": 0.282,
+    "size": 64,
+    "weight": 700,
+    "lineHeight": 1.4,
+    "maxWidth": 900,
+    "style": "outline"
+  },
+  "lines": [
+    {
+      "id": "l1",
+      "start": 0.0,
+      "end": 3.5,
+      "ref": "AI vibe coding\nchanged my life",
+      "y": 0.282,
+      "measuredSize": 68,
+      "style": "plain_white_shadow",
+      "guide": ""
+    }
+  ],
+  "shots": [
+    {
+      "id": "s1",
+      "start": 0.0,
+      "end": 8.367,
+      "brief": "talking to camera with graphic overlay (ref: Creator talking to camera with an overlay of a YouTube video thumbnail about building a no-code app; selfie)",
+      "line": null
+    },
+    {
+      "id": "s2",
+      "start": 8.367,
+      "end": 10.267,
+      "brief": "talking to camera, candid gesture (ref: Creator rubbing temple while continuing his story to camera; selfie)",
+      "line": null
+    },
+    {
+      "id": "s3",
+      "start": 10.267,
+      "end": 11.133,
+      "brief": "typing prompt on laptop screen (ref: POV shot looking down at laptop screen displaying the Anything website with text in prompt box; POV)",
+      "line": null
+    },
+    {
+      "id": "s4",
+      "start": 11.133,
+      "end": 96.033,
+      "brief": "extended vulnerable talking head to camera (ref: Creator talks intimately and emotionally about the reality of bugs, failure, feeling like giving up, and finding hope; selfie)",
+      "line": null
+    }
+  ],
+  "audit": {
+    "kind": "talking_head",
+    "creatorSpeaks": true,
+    "audio": "music + speech",
+    "special": [
+      "Laptop screen showing Anything AI interface",
+      "Screenshot/overlay of inspirational YouTube video",
+      "Overlay of creator's own viral short-form video"
+    ],
+    "reusable": false,
+    "notes": "This video relies entirely on the creator speaking directly and authentically to the camera about a deeply personal journey, including specific on-screen overlays of his previous content and work. It cannot be recreated using generic silent b-roll.",
+    "summary": "A creator speaks intimately to the camera about his emotional journey learning to 'vibe code' an app using AI, experiencing early viral success, facing harsh reality and negative reviews due to buggy code, and persevering despite feeling overwhelmed."
+  },
+  "caption": {
+    "ref": "",
+    "guide": ""
+  },
+  "draft": true
+}

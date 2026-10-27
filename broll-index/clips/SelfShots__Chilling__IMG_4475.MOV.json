@@ -1,0 +1,95 @@
+{
+  "path": "SelfShots/Chilling/IMG_4475.MOV",
+  "folder": "SelfShots/Chilling",
+  "fingerprint": "54e3fcb02681196f",
+  "width": 1080,
+  "height": 1920,
+  "fps": 30.0,
+  "duration": 13.2,
+  "model": "gemini-3.8-flash",
+  "annotatedAt": "2026-10-24T18:38:09+00:00",
+  "summary": "A young man walks into the frame, sits on a grassy park lawn overlooking a lake with a scenic pavilion in the background, pauses peacefully, and gets back up.",
+  "location": "park",
+  "setting": "outdoor",
+  "time_of_day": "day",
+  "weather": "sunny",
+  "people": {
+    "count": 1,
+    "creator_visible": true,
+    "description": "Young East Asian man wearing a loose short-sleeve button-down shirt and baggy grey trousers"
+  },
+  "camera": {
+    "style": "tripod_static",
+    "framing": "medium",
+    "movement": "static",
+    "angle": "low angle looking up"
+  },
+  "quality": {
+    "usable": true,
+    "stability": "locked",
+    "exposure": "good",
+    "issues": ""
+  },
+  "mood": [
+    "peaceful",
+    "contemplative",
+    "serene",
+    "solitary",
+    "calm"
+  ],
+  "energy": "low",
+  "tags": [
+    "park",
+    "lake",
+    "grass",
+    "nature",
+    "sitting",
+    "relaxing",
+    "contemplation",
+    "sunny day",
+    "outdoor",
+    "solitude",
+    "scenic",
+    "trees"
+  ],
+  "moments": [
+    {
+      "start": 1.8,
+      "end": 4.5,
+      "action": "Creator walks into the frame and sits down on the grass facing the lake",
+      "emotion": "calm",
+      "good_for": [
+        "taking a breather",
+        "finding quiet spots",
+        "stepping outside"
+      ],
+      "score": 4
+    },
+    {
+      "start": 4.5,
+      "end": 9.2,
+      "action": "Creator sits still on the grass from behind, admiring the peaceful lake and trees",
+      "emotion": "reflective",
+      "good_for": [
+        "peace of mind",
+        "romanticizing life",
+        "alone time",
+        "mental health check",
+        "grateful for stillness"
+      ],
+      "score": 5
+    },
+    {
+      "start": 9.2,
+      "end": 11.5,
+      "action": "Creator stands up from the lawn and walks out of frame",
+      "emotion": "neutral",
+      "good_for": [
+        "moving forward",
+        "time to get back to work",
+        "leaving worries behind"
+      ],
+      "score": 3
+    }
+  ]
+}

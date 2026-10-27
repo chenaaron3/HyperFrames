@@ -1,0 +1,81 @@
+{
+  "path": "OneOffs/BrooklynNight/IMG_4553 3.MOV",
+  "folder": "OneOffs/BrooklynNight",
+  "fingerprint": "10a8eab1874a5e03",
+  "width": 1080,
+  "height": 1920,
+  "fps": 30.0,
+  "duration": 5.032,
+  "model": "gemini-3.8-flash",
+  "annotatedAt": "2026-10-24T18:23:40+00:00",
+  "summary": "A man carrying a shopping bag walks down a busy New York City sidewalk while being filmed from behind by a friend.",
+  "location": "city street",
+  "setting": "outdoor",
+  "time_of_day": "day",
+  "weather": "overcast",
+  "people": {
+    "count": 6,
+    "creator_visible": true,
+    "description": "Young Black man seen from behind walking in a black graphic t-shirt, black shorts, and sneakers, carrying a paper shopping bag, alongside other pedestrians."
+  },
+  "camera": {
+    "style": "filmed_by_friend",
+    "framing": "medium",
+    "movement": "walking",
+    "angle": "eye level"
+  },
+  "quality": {
+    "usable": true,
+    "stability": "handheld",
+    "exposure": "good",
+    "issues": ""
+  },
+  "mood": [
+    "casual",
+    "urban",
+    "chill",
+    "routine"
+  ],
+  "energy": "medium",
+  "tags": [
+    "nyc",
+    "manhattan",
+    "city life",
+    "street",
+    "sidewalk",
+    "walking",
+    "shopping bag",
+    "errands",
+    "lifestyle",
+    "pedestrians",
+    "day in the life"
+  ],
+  "moments": [
+    {
+      "start": 0.0,
+      "end": 3.5,
+      "action": "Subject walks away down a city sidewalk past a school crosswalk sign carrying a paper bag",
+      "emotion": "relaxed",
+      "good_for": [
+        "city walks",
+        "running errands",
+        "nyc living",
+        "just a normal day",
+        "exploring the city"
+      ],
+      "score": 4
+    },
+    {
+      "start": 3.5,
+      "end": 5.03,
+      "action": "Subject continues walking forward down the sidewalk deeper into the block",
+      "emotion": "calm",
+      "good_for": [
+        "on the move",
+        "steps in the city",
+        "afternoon stroll"
+      ],
+      "score": 3
+    }
+  ]
+}

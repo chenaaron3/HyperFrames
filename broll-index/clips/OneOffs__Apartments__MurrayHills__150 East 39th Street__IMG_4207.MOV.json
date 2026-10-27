@@ -1,0 +1,103 @@
+{
+  "path": "OneOffs/Apartments/MurrayHills/150 East 39th Street/IMG_4207.MOV",
+  "folder": "OneOffs/Apartments/MurrayHills/150 East 39th Street",
+  "fingerprint": "f1482ef1ce9a1bdb",
+  "width": 1080,
+  "height": 1920,
+  "fps": 30.0,
+  "duration": 39.237,
+  "model": "gemini-3.8-flash",
+  "annotatedAt": "2026-10-24T18:21:45+00:00",
+  "summary": "A first-person POV tour of a small empty New York City apartment, showing the kitchenette, bathroom, and main living space.",
+  "location": "apartment",
+  "setting": "indoor",
+  "time_of_day": "day",
+  "weather": "n/a",
+  "people": {
+    "count": 2,
+    "creator_visible": true,
+    "description": "The creator filming seen briefly in the bathroom mirror, accompanied by a woman in a black jacket and pants exploring the apartment."
+  },
+  "camera": {
+    "style": "pov_first_person",
+    "framing": "medium",
+    "movement": "walking",
+    "angle": "eye level"
+  },
+  "quality": {
+    "usable": true,
+    "stability": "handheld",
+    "exposure": "good",
+    "issues": "Occasional fast motion blur during turns."
+  },
+  "mood": [
+    "curious",
+    "casual",
+    "exploratory"
+  ],
+  "energy": "medium",
+  "tags": [
+    "apartment hunt",
+    "nyc apartment",
+    "studio apartment",
+    "apartment tour",
+    "kitchenette",
+    "bathroom",
+    "hardwood floors",
+    "moving in",
+    "real estate",
+    "empty room",
+    "first apartment",
+    "relatable"
+  ],
+  "moments": [
+    {
+      "start": 5.0,
+      "end": 9.5,
+      "action": "Camera pans across a compact white kitchen with a small gas stove, sink, and cabinets",
+      "emotion": "curious",
+      "good_for": [
+        "tiny nyc kitchens",
+        "apartment hunting reality",
+        "making it work"
+      ],
+      "score": 3
+    },
+    {
+      "start": 15.5,
+      "end": 20.0,
+      "action": "Hand opens the freezer door of a white standalone refrigerator tucked into a corner",
+      "emotion": "focused",
+      "good_for": [
+        "checking out the amenities",
+        "apartment tour details",
+        "fridge check"
+      ],
+      "score": 3
+    },
+    {
+      "start": 21.0,
+      "end": 25.0,
+      "action": "Walking into the bathroom showing black-and-white checkered tile floor, vanity, and toilet",
+      "emotion": "observant",
+      "good_for": [
+        "vintage bathroom aesthetic",
+        "checking out the bathroom",
+        "apartment hunt reality"
+      ],
+      "score": 3
+    },
+    {
+      "start": 28.5,
+      "end": 35.0,
+      "action": "Walking into the main room featuring parquet hardwood floors and large street-facing windows",
+      "emotion": "impressed",
+      "good_for": [
+        "finding a new home",
+        "empty apartment vibes",
+        "fresh start"
+      ],
+      "score": 4
+    }
+  ]
+}

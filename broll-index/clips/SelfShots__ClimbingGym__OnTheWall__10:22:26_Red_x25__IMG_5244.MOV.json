@@ -1,0 +1,120 @@
+{
+  "path": "SelfShots/ClimbingGym/OnTheWall/10:22:26_Red_x25/IMG_5244.MOV",
+  "folder": "SelfShots/ClimbingGym/OnTheWall/10:22:26_Red_x25",
+  "fingerprint": "c26edde42ca3c640",
+  "width": 1080,
+  "height": 1920,
+  "fps": 30.0,
+  "duration": 51.638,
+  "model": "gemini-3.8-flash",
+  "annotatedAt": "2026-10-24T18:50:34+00:00",
+  "summary": "A young man tackles a challenging indoor bouldering route, maneuvering across large holds before slipping and falling onto the safety mats.",
+  "location": "climbing gym",
+  "setting": "indoor",
+  "time_of_day": "day",
+  "weather": "n/a",
+  "people": {
+    "count": 1,
+    "creator_visible": true,
+    "description": "Young Asian man in a grey ribbed tank top, baggy jeans, and climbing shoes."
+  },
+  "camera": {
+    "style": "tripod_static",
+    "framing": "wide",
+    "movement": "static",
+    "angle": "low angle looking up"
+  },
+  "quality": {
+    "usable": true,
+    "stability": "locked",
+    "exposure": "good",
+    "issues": ""
+  },
+  "mood": [
+    "athletic",
+    "focused",
+    "determined",
+    "relatable",
+    "casual"
+  ],
+  "energy": "medium",
+  "tags": [
+    "bouldering",
+    "climbing gym",
+    "rock climbing",
+    "indoor climbing",
+    "boulder problem",
+    "workout",
+    "training",
+    "fitness",
+    "fall",
+    "failing",
+    "trying again",
+    "persistence",
+    "chalk",
+    "active lifestyle"
+  ],
+  "moments": [
+    {
+      "start": 5.5,
+      "end": 12.0,
+      "action": "Climber mounts the wall and establishes his footing, moving smoothly up the initial holds",
+      "emotion": "focused",
+      "good_for": [
+        "starting a new challenge",
+        "staying active",
+        "focus on the climb"
+      ],
+      "score": 4
+    },
+    {
+      "start": 14.0,
+      "end": 21.0,
+      "action": "Climber makes dynamic reaches toward large yellow volume holds high on the wall",
+      "emotion": "determined effort",
+      "good_for": [
+        "reaching for goals",
+        "pushing your limits",
+        "physical strength"
+      ],
+      "score": 4
+    },
+    {
+      "start": 21.5,
+      "end": 28.5,
+      "action": "Climber locks in a high foot hook and balances across the yellow volume while figuring out his next move",
+      "emotion": "concentrated tension",
+      "good_for": [
+        "problem solving",
+        "holding on",
+        "trust the process"
+      ],
+      "score": 4
+    },
+    {
+      "start": 38.5,
+      "end": 44.0,
+      "action": "Climber attempts the final reach, slips off the hold, and falls backward onto the mat",
+      "emotion": "defeat and surprise",
+      "good_for": [
+        "falling flat",
+        "when life hits you",
+        "laugh at your mistakes",
+        "failing forward"
+      ],
+      "score": 5
+    },
+    {
+      "start": 45.0,
+      "end": 48.5,
+      "action": "Climber pushes himself up from the mat with a slight smile and walks past camera",
+      "emotion": "amused recovery",
+      "good_for": [
+        "getting back up",
+        "shrugging it off",
+        "trying again tomorrow"
+      ],
+      "score": 3
+    }
+  ]
+}

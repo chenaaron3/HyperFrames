@@ -1,0 +1,69 @@
+{
+  "path": "OneOffs/BrooklynNight/IMG_4571 3.MOV",
+  "folder": "OneOffs/BrooklynNight",
+  "fingerprint": "a81f84ae49114074",
+  "width": 1080,
+  "height": 1920,
+  "fps": 30.0,
+  "duration": 4.433,
+  "model": "gemini-3.8-flash",
+  "annotatedAt": "2026-10-24T18:24:03+00:00",
+  "summary": "Crowds of pedestrians walk along the Brooklyn Bridge pedestrian walkway at night with traffic and the illuminated bridge tower visible in the background.",
+  "location": "city street",
+  "setting": "outdoor",
+  "time_of_day": "night",
+  "weather": "n/a",
+  "people": {
+    "count": 15,
+    "creator_visible": false,
+    "description": "Pedestrians and tourists walking along the bridge promenade wearing casual evening attire and jackets."
+  },
+  "camera": {
+    "style": "pov_first_person",
+    "framing": "wide",
+    "movement": "handheld",
+    "angle": "eye level"
+  },
+  "quality": {
+    "usable": true,
+    "stability": "handheld",
+    "exposure": "good",
+    "issues": ""
+  },
+  "mood": [
+    "urban",
+    "atmospheric",
+    "cinematic",
+    "lively"
+  ],
+  "energy": "medium",
+  "tags": [
+    "brooklyn bridge",
+    "new york city",
+    "nyc",
+    "night walk",
+    "city lights",
+    "pedestrians",
+    "traffic",
+    "urban aesthetic",
+    "evening",
+    "travel",
+    "bridge",
+    "nightlife"
+  ],
+  "moments": [
+    {
+      "start": 0.0,
+      "end": 4.43,
+      "action": "Handheld view looking down the busy Brooklyn Bridge walkway at night as people stroll past and cars drive by",
+      "emotion": "contemplative, vibrant city vibe",
+      "good_for": [
+        "late night walks in new york",
+        "city that never sleeps",
+        "traveling to new york",
+        "evening aesthetic"
+      ],
+      "score": 3
+    }
+  ]
+}

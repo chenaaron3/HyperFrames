@@ -1,0 +1,106 @@
+{
+  "path": "SelfShots/ClimbingGym/OnTheWall/10:18:26_Orange_x53/IMG_5096.MOV",
+  "folder": "SelfShots/ClimbingGym/OnTheWall/10:18:26_Orange_x53",
+  "fingerprint": "fa9b21656c51c1b4",
+  "width": 1080,
+  "height": 1920,
+  "fps": 30.0,
+  "duration": 58.838,
+  "model": "gemini-3.8-flash",
+  "annotatedAt": "2026-10-24T18:40:31+00:00",
+  "summary": "A young man climbs an indoor bouldering wall, successfully completes the route by matching hands on the top hold, and drops down onto the safety mat.",
+  "location": "climbing gym",
+  "setting": "indoor",
+  "time_of_day": "indoor_unknown",
+  "weather": "n/a",
+  "people": {
+    "count": 1,
+    "creator_visible": true,
+    "description": "A young Asian man with dark messy hair, wearing a light blue button-down short-sleeve shirt and baggy gray jeans"
+  },
+  "camera": {
+    "style": "tripod_static",
+    "framing": "wide",
+    "movement": "static",
+    "angle": "eye level"
+  },
+  "quality": {
+    "usable": true,
+    "stability": "locked",
+    "exposure": "good",
+    "issues": ""
+  },
+  "mood": [
+    "focused",
+    "athletic",
+    "determined",
+    "satisfying"
+  ],
+  "energy": "medium",
+  "tags": [
+    "bouldering",
+    "rock climbing",
+    "indoor gym",
+    "fitness",
+    "training",
+    "holds",
+    "climbing wall",
+    "active lifestyle",
+    "exercise",
+    "problem solving"
+  ],
+  "moments": [
+    {
+      "start": 3.5,
+      "end": 9.5,
+      "action": "The climber walks up to the climbing wall and sets his hands and feet on the starting holds",
+      "emotion": "focused",
+      "good_for": [
+        "starting a new challenge",
+        "stepping up",
+        "gym routine",
+        "ready to try"
+      ],
+      "score": 3
+    },
+    {
+      "start": 33.0,
+      "end": 39.5,
+      "action": "The climber maneuvers sideways into an awkward stretch across large holds high on the wall",
+      "emotion": "determined",
+      "good_for": [
+        "stretching your limits",
+        "trusting the process",
+        "hard work paying off",
+        "finding balance"
+      ],
+      "score": 4
+    },
+    {
+      "start": 40.0,
+      "end": 47.0,
+      "action": "The climber reaches up and matches both hands onto the top finishing hold",
+      "emotion": "accomplished",
+      "good_for": [
+        "reaching the goal",
+        "finally sent the project",
+        "success",
+        "celebrating small wins"
+      ],
+      "score": 5
+    },
+    {
+      "start": 52.0,
+      "end": 57.0,
+      "action": "The climber drops down from the wall, lands softly on the mat, and walks toward the camera",
+      "emotion": "relieved",
+      "good_for": [
+        "sticking the landing",
+        "walking away accomplished",
+        "session complete",
+        "done for today"
+      ],
+      "score": 4
+    }
+  ]
+}

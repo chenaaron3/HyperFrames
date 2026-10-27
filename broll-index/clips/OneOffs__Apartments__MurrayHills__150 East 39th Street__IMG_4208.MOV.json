@@ -1,0 +1,80 @@
+{
+  "path": "OneOffs/Apartments/MurrayHills/150 East 39th Street/IMG_4208.MOV",
+  "folder": "OneOffs/Apartments/MurrayHills/150 East 39th Street",
+  "fingerprint": "a639e2c2c6c7a7e5",
+  "width": 1080,
+  "height": 1920,
+  "fps": 30.0,
+  "duration": 8.4,
+  "model": "gemini-3.8-flash",
+  "annotatedAt": "2026-10-24T18:21:40+00:00",
+  "summary": "A woman walks through an industrial basement or service corridor past a caged elevator in an apartment building, briefly turning to look back at the camera.",
+  "location": "hallway",
+  "setting": "indoor",
+  "time_of_day": "indoor_unknown",
+  "weather": "n/a",
+  "people": {
+    "count": 1,
+    "creator_visible": true,
+    "description": "Young woman with hair up, wearing a black leather jacket, dark trousers, and carrying a black quilted handbag"
+  },
+  "camera": {
+    "style": "filmed_by_friend",
+    "framing": "medium",
+    "movement": "tracking",
+    "angle": "eye level"
+  },
+  "quality": {
+    "usable": true,
+    "stability": "handheld",
+    "exposure": "good",
+    "issues": "Rapid panning around 00:03-00:05 causes brief disorientation"
+  },
+  "mood": [
+    "exploratory",
+    "gritty",
+    "casual",
+    "curious"
+  ],
+  "energy": "medium",
+  "tags": [
+    "apartment tour",
+    "nyc apartment",
+    "basement",
+    "service elevator",
+    "back hallway",
+    "leather jacket",
+    "city living",
+    "murray hill",
+    "behind the scenes",
+    "walking"
+  ],
+  "moments": [
+    {
+      "start": 0.8,
+      "end": 2.5,
+      "action": "Woman walks ahead through an industrial doorway past exposed pipes and a caged elevator shaft",
+      "emotion": "calm, purposeful",
+      "good_for": [
+        "apartment hunting in nyc",
+        "behind the scenes",
+        "the reality of older buildings",
+        "exploring"
+      ],
+      "score": 3
+    },
+    {
+      "start": 5.4,
+      "end": 7.0,
+      "action": "Woman turns around to face the camera while holding her phone in a dimly lit service hallway",
+      "emotion": "surprised, curious",
+      "good_for": [
+        "where are we going",
+        "nyc real estate reality check",
+        "following a friend",
+        "city adventures"
+      ],
+      "score": 3
+    }
+  ]
+}

@@ -1,0 +1,94 @@
+{
+  "path": "SelfShots/Walking/1stPerson/IMG_4960.MOV",
+  "folder": "SelfShots/Walking/1stPerson",
+  "fingerprint": "4e125d18ac08ab07",
+  "width": 1080,
+  "height": 1920,
+  "fps": 30.0,
+  "duration": 17.002,
+  "model": "gemini-3.8-flash",
+  "annotatedAt": "2026-10-24T19:01:56+00:00",
+  "summary": "A young stylish man walks along a city sidewalk while filming himself from a high selfie angle, wearing a black coat and backpack.",
+  "location": "city street",
+  "setting": "outdoor",
+  "time_of_day": "day",
+  "weather": "overcast",
+  "people": {
+    "count": 1,
+    "creator_visible": true,
+    "description": "Young Asian man with wavy dark hair, wearing a black coat over a brown collared shirt, carrying a black backpack"
+  },
+  "camera": {
+    "style": "selfie",
+    "framing": "medium",
+    "movement": "walking",
+    "angle": "high angle"
+  },
+  "quality": {
+    "usable": true,
+    "stability": "handheld",
+    "exposure": "good",
+    "issues": "Start and end show accidental tilts toward the pavement"
+  },
+  "mood": [
+    "urban",
+    "contemplative",
+    "casual",
+    "lifestyle"
+  ],
+  "energy": "medium",
+  "tags": [
+    "walking",
+    "city",
+    "sidewalk",
+    "street",
+    "new york",
+    "stylish",
+    "coat",
+    "backpack",
+    "commute",
+    "urban life",
+    "selfie video",
+    "thoughtful"
+  ],
+  "moments": [
+    {
+      "start": 1.5,
+      "end": 6.5,
+      "action": "Creator walks down the sidewalk holding camera high in selfie mode, glancing forward and briefly toward the camera",
+      "emotion": "calm, observant",
+      "good_for": [
+        "on my way",
+        "city walks to clear my head",
+        "romanticizing my commute",
+        "stepping out into the world"
+      ],
+      "score": 4
+    },
+    {
+      "start": 6.5,
+      "end": 11.5,
+      "action": "Creator continues walking as a yellow taxi and bike pass by in the street background",
+      "emotion": "focused, contemplative",
+      "good_for": [
+        "city boy aesthetic",
+        "living in my own world",
+        "main character energy",
+        "moving forward"
+      ],
+      "score": 4
+    },
+    {
+      "start": 11.5,
+      "end": 14.5,
+      "action": "Creator walks past a bright yellow parked car on the sidewalk edge",
+      "emotion": "casual",
+      "good_for": [
+        "daily routine",
+        "headed to meetings",
+        "solo walk"
+      ],
+      "score": 3
+    }
+  ]
+}

@@ -1,0 +1,74 @@
+{
+  "id": "easy-8",
+  "name": "“Who are you trying to impress with these travel stories?”",
+  "reference": "references/viral-formats/easy-8.mp4",
+  "source": "/Users/aaron/Downloads/100 Viral Formats (Format Book)/Easy to use format/#8/#8.mp4",
+  "duration": 9.633,
+  "music": {
+    "from": "reference",
+    "title": "Original Audio"
+  },
+  "text": {
+    "y": 0.24,
+    "size": 46,
+    "weight": 700,
+    "lineHeight": 1.4,
+    "maxWidth": 900,
+    "style": "outline"
+  },
+  "lines": [
+    {
+      "id": "l1",
+      "start": 0.0,
+      "end": 4.033,
+      "ref": "“Who are you trying\nto impress with these\ntravel stories?”",
+      "y": 0.24,
+      "measuredSize": null,
+      "style": "plain_white_shadow",
+      "guide": ""
+    },
+    {
+      "id": "l2",
+      "start": 4.033,
+      "end": 9.633,
+      "ref": "her.",
+      "y": 0.658,
+      "measuredSize": 32,
+      "style": "plain_white_shadow",
+      "guide": ""
+    }
+  ],
+  "shots": [
+    {
+      "id": "s1",
+      "start": 0.0,
+      "end": 4.033,
+      "brief": "impressive travel or high-achievement outdoor view, selfie (ref: Creator films a selfie while hiking at sunset, turning around to point at a smoking volcanic peak above the clouds.; selfie)",
+      "line": "l1"
+    },
+    {
+      "id": "s2",
+      "start": 4.033,
+      "end": 9.633,
+      "brief": "old childhood photo of younger self (ref: Still childhood photo of the creator as a little girl sitting on the stairs in pajamas, smiling at the camera.; other)",
+      "line": "l2"
+    }
+  ],
+  "audit": {
+    "kind": "broll_with_text",
+    "creatorSpeaks": false,
+    "audio": "music only",
+    "special": [
+      "old photo of younger self",
+      "epic travel / scenic hike footage"
+    ],
+    "reusable": false,
+    "notes": "Requires an archival childhood photo of the creator to deliver the emotional punchline ('her' / 'him'). A standard library of adult lifestyle b-roll is not sufficient without digging up an old family picture.",
+    "summary": "A travel creator turns the camera to reveal an epic view of an erupting volcano with text asking who she's trying to impress, then cuts to a nostalgic childhood photo with the caption 'her.'"
+  },
+  "caption": {
+    "ref": "",
+    "guide": ""
+  },
+  "draft": true
+}

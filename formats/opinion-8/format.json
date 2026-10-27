@@ -1,0 +1,484 @@
+{
+  "id": "opinion-8",
+  "name": "Oh, and one last thing.",
+  "reference": "references/viral-formats/opinion-8.mp4",
+  "source": "/Users/aaron/Downloads/100 Viral Formats (Format Book)/Opinion/#8/#8.mp4",
+  "duration": 35.467,
+  "music": {
+    "from": "reference",
+    "title": "Inspiring background soundtrack (can’t find the exact name)"
+  },
+  "text": {
+    "y": 0.689,
+    "size": 46,
+    "weight": 700,
+    "lineHeight": 1.4,
+    "maxWidth": 900,
+    "style": "outline"
+  },
+  "lines": [
+    {
+      "id": "l1",
+      "start": 0.25,
+      "end": 1.0,
+      "ref": "Oh, and one last thing.",
+      "y": 0.689,
+      "measuredSize": 39,
+      "style": "plain_white_shadow",
+      "guide": ""
+    },
+    {
+      "id": "l2",
+      "start": 1.25,
+      "end": 2.25,
+      "ref": "The best things in life",
+      "y": 0.689,
+      "measuredSize": 39,
+      "style": "plain_white_shadow",
+      "guide": ""
+    },
+    {
+      "id": "l3",
+      "start": 2.25,
+      "end": 2.75,
+      "ref": "are on the",
+      "y": 0.691,
+      "measuredSize": 28,
+      "style": "plain_white_shadow",
+      "guide": ""
+    },
+    {
+      "id": "l4",
+      "start": 2.75,
+      "end": 3.8,
+      "ref": "opposite side of fear.",
+      "y": 0.691,
+      "measuredSize": 28,
+      "style": "plain_white_shadow",
+      "guide": ""
+    },
+    {
+      "id": "l5",
+      "start": 3.9,
+      "end": 4.25,
+      "ref": "The person",
+      "y": 0.691,
+      "measuredSize": 28,
+      "style": "plain_white_shadow",
+      "guide": ""
+    },
+    {
+      "id": "l6",
+      "start": 4.25,
+      "end": 5.1,
+      "ref": "that you want to become",
+      "y": 0.691,
+      "measuredSize": 28,
+      "style": "plain_white_shadow",
+      "guide": ""
+    },
+    {
+      "id": "l7",
+      "start": 5.1,
+      "end": 6.0,
+      "ref": "is going to cost you",
+      "y": 0.691,
+      "measuredSize": 28,
+      "style": "plain_white_shadow",
+      "guide": ""
+    },
+    {
+      "id": "l8",
+      "start": 6.0,
+      "end": 6.6,
+      "ref": "the person",
+      "y": 0.691,
+      "measuredSize": 28,
+      "style": "plain_white_shadow",
+      "guide": ""
+    },
+    {
+      "id": "l9",
+      "start": 6.6,
+      "end": 7.3,
+      "ref": "that you were.",
+      "y": 0.691,
+      "measuredSize": 28,
+      "style": "plain_white_shadow",
+      "guide": ""
+    },
+    {
+      "id": "l10",
+      "start": 7.4,
+      "end": 8.2,
+      "ref": "And that's scary.",
+      "y": 0.691,
+      "measuredSize": 28,
+      "style": "plain_white_shadow",
+      "guide": ""
+    },
+    {
+      "id": "l11",
+      "start": 8.3,
+      "end": 8.7,
+      "ref": "You know,",
+      "y": 0.691,
+      "measuredSize": 28,
+      "style": "plain_white_shadow",
+      "guide": ""
+    },
+    {
+      "id": "l12",
+      "start": 8.7,
+      "end": 9.6,
+      "ref": "big iron Mike",
+      "y": 0.689,
+      "measuredSize": 39,
+      "style": "plain_white_shadow",
+      "guide": ""
+    },
+    {
+      "id": "l13",
+      "start": 9.6,
+      "end": 10.6,
+      "ref": "Tyson, the boxer,",
+      "y": 0.691,
+      "measuredSize": 28,
+      "style": "plain_white_shadow",
+      "guide": ""
+    },
+    {
+      "id": "l14",
+      "start": 10.6,
+      "end": 11.7,
+      "ref": "he said that he cried",
+      "y": 0.691,
+      "measuredSize": 28,
+      "style": "plain_white_shadow",
+      "guide": ""
+    },
+    {
+      "id": "l15",
+      "start": 11.7,
+      "end": 12.6,
+      "ref": "before every fight",
+      "y": 0.691,
+      "measuredSize": 28,
+      "style": "plain_white_shadow",
+      "guide": ""
+    },
+    {
+      "id": "l16",
+      "start": 12.6,
+      "end": 13.2,
+      "ref": "because he was",
+      "y": 0.691,
+      "measuredSize": 28,
+      "style": "plain_white_shadow",
+      "guide": ""
+    },
+    {
+      "id": "l17",
+      "start": 13.2,
+      "end": 13.8,
+      "ref": "terrified.",
+      "y": 0.691,
+      "measuredSize": 28,
+      "style": "plain_white_shadow",
+      "guide": ""
+    },
+    {
+      "id": "l18",
+      "start": 13.8,
+      "end": 14.4,
+      "ref": "But that's",
+      "y": 0.689,
+      "measuredSize": 39,
+      "style": "plain_white_shadow",
+      "guide": ""
+    },
+    {
+      "id": "l19",
+      "start": 14.4,
+      "end": 15.0,
+      "ref": "what bravery is.",
+      "y": 0.691,
+      "measuredSize": 28,
+      "style": "plain_white_shadow",
+      "guide": ""
+    },
+    {
+      "id": "l20",
+      "start": 15.0,
+      "end": 16.6,
+      "ref": "Bravery is doing",
+      "y": 0.691,
+      "measuredSize": 28,
+      "style": "plain_white_shadow",
+      "guide": ""
+    },
+    {
+      "id": "l21",
+      "start": 16.6,
+      "end": 17.3,
+      "ref": "the thing",
+      "y": 0.691,
+      "measuredSize": 28,
+      "style": "plain_white_shadow",
+      "guide": ""
+    },
+    {
+      "id": "l22",
+      "start": 17.3,
+      "end": 18.0,
+      "ref": "that you don't",
+      "y": 0.691,
+      "measuredSize": 28,
+      "style": "plain_white_shadow",
+      "guide": ""
+    },
+    {
+      "id": "l23",
+      "start": 18.0,
+      "end": 18.6,
+      "ref": "want to do,",
+      "y": 0.691,
+      "measuredSize": 28,
+      "style": "plain_white_shadow",
+      "guide": ""
+    },
+    {
+      "id": "l24",
+      "start": 18.6,
+      "end": 19.2,
+      "ref": "even when",
+      "y": 0.691,
+      "measuredSize": 28,
+      "style": "plain_white_shadow",
+      "guide": ""
+    },
+    {
+      "id": "l25",
+      "start": 19.2,
+      "end": 19.7,
+      "ref": "you're scared.",
+      "y": 0.691,
+      "measuredSize": 28,
+      "style": "plain_white_shadow",
+      "guide": ""
+    },
+    {
+      "id": "l26",
+      "start": 19.7,
+      "end": 20.1,
+      "ref": "This month,",
+      "y": 0.691,
+      "measuredSize": 28,
+      "style": "plain_white_shadow",
+      "guide": ""
+    },
+    {
+      "id": "l27",
+      "start": 20.1,
+      "end": 21.1,
+      "ref": "this week, today,",
+      "y": 0.691,
+      "measuredSize": 28,
+      "style": "plain_white_shadow",
+      "guide": ""
+    },
+    {
+      "id": "l28",
+      "start": 21.1,
+      "end": 21.6,
+      "ref": "whatever it is,",
+      "y": 0.691,
+      "measuredSize": 28,
+      "style": "plain_white_shadow",
+      "guide": ""
+    },
+    {
+      "id": "l29",
+      "start": 21.6,
+      "end": 23.0,
+      "ref": "I challenge you",
+      "y": 0.691,
+      "measuredSize": 28,
+      "style": "plain_white_shadow",
+      "guide": ""
+    },
+    {
+      "id": "l30",
+      "start": 23.0,
+      "end": 23.6,
+      "ref": "to go out",
+      "y": 0.691,
+      "measuredSize": 28,
+      "style": "plain_white_shadow",
+      "guide": ""
+    },
+    {
+      "id": "l31",
+      "start": 23.6,
+      "end": 24.7,
+      "ref": "and do something scary",
+      "y": 0.691,
+      "measuredSize": 28,
+      "style": "plain_white_shadow",
+      "guide": ""
+    },
+    {
+      "id": "l32",
+      "start": 24.7,
+      "end": 25.4,
+      "ref": "because the best",
+      "y": 0.691,
+      "measuredSize": 28,
+      "style": "plain_white_shadow",
+      "guide": ""
+    },
+    {
+      "id": "l33",
+      "start": 25.4,
+      "end": 26.4,
+      "ref": "things in life",
+      "y": 0.691,
+      "measuredSize": 28,
+      "style": "plain_white_shadow",
+      "guide": ""
+    },
+    {
+      "id": "l34",
+      "start": 26.4,
+      "end": 27.0,
+      "ref": "are on the",
+      "y": 0.691,
+      "measuredSize": 28,
+      "style": "plain_white_shadow",
+      "guide": ""
+    },
+    {
+      "id": "l35",
+      "start": 27.0,
+      "end": 29.0,
+      "ref": "opposite side of fear.",
+      "y": 0.691,
+      "measuredSize": 28,
+      "style": "plain_white_shadow",
+      "guide": ""
+    },
+    {
+      "id": "l36",
+      "start": 29.0,
+      "end": 30.567,
+      "ref": "FEAR NOTHING",
+      "y": 0.489,
+      "measuredSize": 88,
+      "style": "other",
+      "guide": ""
+    },
+    {
+      "id": "l37",
+      "start": 30.567,
+      "end": 35.467,
+      "ref": "FEAR NOTHING\n+ for daily motivation",
+      "y": 0.484,
+      "measuredSize": 30,
+      "style": "other",
+      "guide": ""
+    }
+  ],
+  "shots": [
+    {
+      "id": "s1",
+      "start": 0.0,
+      "end": 29.0,
+      "brief": "talking to camera passionately (ref: Creator talks directly into the camera seated at a desk in his room, gesturing passionately.; tripod)",
+      "line": "l19"
+    },
+    {
+      "id": "s2",
+      "start": 29.0,
+      "end": 29.3,
+      "brief": "running outside putting on headphones (ref: Creator running outdoors on a paved road at golden hour putting on over-ear headphones.; filmed by friend)",
+      "line": "l36"
+    },
+    {
+      "id": "s3",
+      "start": 29.3,
+      "end": 30.2,
+      "brief": "running on a treadmill (ref: Creator running on a treadmill in a gym wearing a beanie and hoodie.; filmed by friend)",
+      "line": "l36"
+    },
+    {
+      "id": "s4",
+      "start": 30.2,
+      "end": 30.567,
+      "brief": "running on a treadmill (ref: Creator running on a treadmill in a gym wearing a beanie and hoodie.; filmed by friend)",
+      "line": "l36"
+    },
+    {
+      "id": "s5",
+      "start": 30.567,
+      "end": 31.0,
+      "brief": "car driving off in parking garage (ref: White sports car accelerating away inside an underground parking garage.; low angle ground)",
+      "line": "l37"
+    },
+    {
+      "id": "s6",
+      "start": 31.0,
+      "end": 31.3,
+      "brief": "pumping gas at gas station (ref: Creator standing outside his car fueling it at a gas station at night.; tripod)",
+      "line": "l37"
+    },
+    {
+      "id": "s7",
+      "start": 31.3,
+      "end": 31.667,
+      "brief": "intense cardio on stationary bike (ref: Creator pedaling aggressively on a stationary exercise bike.; filmed by friend)",
+      "line": "l37"
+    },
+    {
+      "id": "s8",
+      "start": 31.667,
+      "end": 32.067,
+      "brief": "sitting in sauna (ref: Creator sitting shirtless inside a wooden sauna with red ambient light.; tripod)",
+      "line": "l37"
+    },
+    {
+      "id": "s9",
+      "start": 32.067,
+      "end": 34.067,
+      "brief": "walking through gym with headphones seen from behind (ref: Tracking shot following creator from behind walking through the gym, then looking over his shoulder.; filmed by friend)",
+      "line": "l37"
+    },
+    {
+      "id": "s10",
+      "start": 34.067,
+      "end": 34.633,
+      "brief": "walking through gym with headphones seen from behind (ref: Tracking shot following creator from behind walking through the gym, then looking over his shoulder.; filmed by friend)",
+      "line": "l37"
+    },
+    {
+      "id": "s11",
+      "start": 34.633,
+      "end": 35.467,
+      "brief": "bicep flex pose shirtless in gym (ref: Creator posing shirtless flexing his bicep and shoulder in the gym.; filmed by friend)",
+      "line": "l37"
+    }
+  ],
+  "audit": {
+    "kind": "talking_head",
+    "creatorSpeaks": true,
+    "audio": "music + speech",
+    "special": [],
+    "reusable": false,
+    "notes": "This video relies heavily on a 29-second direct-to-camera speech delivered with high energy and authentic vocal delivery. Existing b-roll cannot replace the spoken speech segment.",
+    "summary": "Creator delivers an intense motivational monologue directly to the camera about confronting fear and stepping out of comfort zones, transitioning into a high-energy fitness montage."
+  },
+  "caption": {
+    "ref": "",
+    "guide": ""
+  },
+  "draft": true
+}

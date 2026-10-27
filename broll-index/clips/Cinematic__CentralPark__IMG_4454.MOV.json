@@ -1,0 +1,69 @@
+{
+  "path": "Cinematic/CentralPark/IMG_4454.MOV",
+  "folder": "Cinematic/CentralPark",
+  "fingerprint": "a7f6b7ffecf7eaad",
+  "width": 1080,
+  "height": 1920,
+  "fps": 30.0,
+  "duration": 2.465,
+  "model": "gemini-3.8-flash",
+  "annotatedAt": "2026-10-24T18:18:28+00:00",
+  "summary": "A static shot of a tall green Welcome to Central Park map sign in New York City on a sunny day.",
+  "location": "park",
+  "setting": "outdoor",
+  "time_of_day": "day",
+  "weather": "sunny",
+  "people": {
+    "count": 0,
+    "creator_visible": false,
+    "description": "No people visible"
+  },
+  "camera": {
+    "style": "pov_first_person",
+    "framing": "medium",
+    "movement": "static",
+    "angle": "eye level"
+  },
+  "quality": {
+    "usable": true,
+    "stability": "steady",
+    "exposure": "good",
+    "issues": ""
+  },
+  "mood": [
+    "calm",
+    "informative",
+    "peaceful"
+  ],
+  "energy": "low",
+  "tags": [
+    "central park",
+    "new york city",
+    "nyc",
+    "map",
+    "sign",
+    "park",
+    "navigation",
+    "travel",
+    "tourism",
+    "nature",
+    "walking",
+    "city life"
+  ],
+  "moments": [
+    {
+      "start": 0.0,
+      "end": 2.46,
+      "action": "Static eye-level view of the full Welcome to Central Park directory map sign among trees in sunlight",
+      "emotion": "calm",
+      "good_for": [
+        "visiting new york",
+        "finding your way",
+        "getting lost in the city",
+        "central park walks",
+        "travel itinerary"
+      ],
+      "score": 3
+    }
+  ]
+}

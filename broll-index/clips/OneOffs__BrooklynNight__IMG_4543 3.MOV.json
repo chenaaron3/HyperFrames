@@ -1,0 +1,82 @@
+{
+  "path": "OneOffs/BrooklynNight/IMG_4543 3.MOV",
+  "folder": "OneOffs/BrooklynNight",
+  "fingerprint": "4df211e8880d212a",
+  "width": 1080,
+  "height": 1920,
+  "fps": 30.0,
+  "duration": 8.633,
+  "model": "gemini-3.8-flash",
+  "annotatedAt": "2026-10-24T18:23:21+00:00",
+  "summary": "A man attempts a climbing problem on an indoor bouldering wall before losing his grip and dropping down safely onto the mat.",
+  "location": "gym",
+  "setting": "indoor",
+  "time_of_day": "indoor_unknown",
+  "weather": "n/a",
+  "people": {
+    "count": 1,
+    "creator_visible": true,
+    "description": "A man with glasses wearing a black t-shirt, dark shorts, and climbing shoes on a bouldering wall"
+  },
+  "camera": {
+    "style": "filmed_by_friend",
+    "framing": "medium",
+    "movement": "handheld",
+    "angle": "eye level"
+  },
+  "quality": {
+    "usable": true,
+    "stability": "handheld",
+    "exposure": "good",
+    "issues": ""
+  },
+  "mood": [
+    "determined",
+    "active",
+    "playful"
+  ],
+  "energy": "medium",
+  "tags": [
+    "bouldering",
+    "climbing gym",
+    "rock climbing",
+    "indoor climbing",
+    "fitness",
+    "workout",
+    "climbing wall",
+    "holds",
+    "chalk",
+    "sports",
+    "falling",
+    "try again"
+  ],
+  "moments": [
+    {
+      "start": 0.0,
+      "end": 4.5,
+      "action": "Man balances on lower climbing holds, scoping out his next move",
+      "emotion": "focused",
+      "good_for": [
+        "planning your next move",
+        "staying focused",
+        "finding balance",
+        "taking a step back"
+      ],
+      "score": 3
+    },
+    {
+      "start": 4.5,
+      "end": 8.63,
+      "action": "Man reaches up for a higher climbing hold, slips, and jumps safely down to the mat",
+      "emotion": "determined to surprised",
+      "good_for": [
+        "falling flat",
+        "try again tomorrow",
+        "not giving up",
+        "failing forward",
+        "learning the hard way"
+      ],
+      "score": 4
+    }
+  ]
+}

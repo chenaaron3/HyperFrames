@@ -1,0 +1,282 @@
+{
+  "id": "opinion-22",
+  "name": "the silent flexes in life:",
+  "reference": "references/viral-formats/opinion-22.mp4",
+  "source": "/Users/aaron/Downloads/100 Viral Formats (Format Book)/Opinion/#22/#22.mov",
+  "duration": 18.3,
+  "music": {
+    "from": "reference",
+    "title": "American Pie by Don McLean"
+  },
+  "text": {
+    "y": 0.565,
+    "size": 46,
+    "weight": 700,
+    "lineHeight": 1.4,
+    "maxWidth": 900,
+    "style": "outline"
+  },
+  "lines": [
+    {
+      "id": "l1",
+      "start": 0.0,
+      "end": 2.8,
+      "ref": "the silent flexes in life:",
+      "y": 0.565,
+      "measuredSize": 34,
+      "style": "plain_white_shadow",
+      "guide": ""
+    },
+    {
+      "id": "l2",
+      "start": 2.8,
+      "end": 4.033,
+      "ref": "show up on time",
+      "y": 0.5,
+      "measuredSize": 24,
+      "style": "plain_white_shadow",
+      "guide": ""
+    },
+    {
+      "id": "l3",
+      "start": 4.033,
+      "end": 5.233,
+      "ref": "no gossip",
+      "y": 0.5,
+      "measuredSize": 24,
+      "style": "plain_white_shadow",
+      "guide": ""
+    },
+    {
+      "id": "l4",
+      "start": 5.233,
+      "end": 6.467,
+      "ref": "good posture",
+      "y": 0.5,
+      "measuredSize": 26,
+      "style": "plain_white_shadow",
+      "guide": ""
+    },
+    {
+      "id": "l5",
+      "start": 6.467,
+      "end": 7.667,
+      "ref": "admits when you're wrong",
+      "y": 0.5,
+      "measuredSize": 24,
+      "style": "plain_white_shadow",
+      "guide": ""
+    },
+    {
+      "id": "l6",
+      "start": 7.667,
+      "end": 8.8,
+      "ref": "kind to strangers",
+      "y": 0.47,
+      "measuredSize": null,
+      "style": "plain_white_shadow",
+      "guide": ""
+    },
+    {
+      "id": "l7",
+      "start": 8.8,
+      "end": 10.067,
+      "ref": "comfortable being alone",
+      "y": 0.431,
+      "measuredSize": 34,
+      "style": "plain_white_shadow",
+      "guide": ""
+    },
+    {
+      "id": "l8",
+      "start": 10.067,
+      "end": 11.183,
+      "ref": "keeps promises",
+      "y": 0.5,
+      "measuredSize": 24,
+      "style": "plain_white_shadow",
+      "guide": ""
+    },
+    {
+      "id": "l9",
+      "start": 11.183,
+      "end": 12.4,
+      "ref": "walks away from disrespect",
+      "y": 0.496,
+      "measuredSize": 42,
+      "style": "plain_white_shadow",
+      "guide": ""
+    },
+    {
+      "id": "l10",
+      "start": 12.4,
+      "end": 13.5,
+      "ref": "financially responsible",
+      "y": 0.71,
+      "measuredSize": 24,
+      "style": "plain_white_shadow",
+      "guide": ""
+    },
+    {
+      "id": "l11",
+      "start": 13.5,
+      "end": 14.567,
+      "ref": "knows when to rest",
+      "y": 0.449,
+      "measuredSize": 30,
+      "style": "plain_white_shadow",
+      "guide": ""
+    },
+    {
+      "id": "l12",
+      "start": 14.567,
+      "end": 15.733,
+      "ref": "keeps learning",
+      "y": 0.65,
+      "measuredSize": 24,
+      "style": "plain_white_shadow",
+      "guide": ""
+    },
+    {
+      "id": "l13",
+      "start": 15.733,
+      "end": 16.933,
+      "ref": "don't overshare",
+      "y": 0.528,
+      "measuredSize": 44,
+      "style": "plain_white_shadow",
+      "guide": ""
+    },
+    {
+      "id": "l14",
+      "start": 16.933,
+      "end": 17.933,
+      "ref": "can be happy for others",
+      "y": 0.5,
+      "measuredSize": 24,
+      "style": "plain_white_shadow",
+      "guide": ""
+    }
+  ],
+  "shots": [
+    {
+      "id": "s1",
+      "start": 0.0,
+      "end": 0.6,
+      "brief": "jogging or walking outside, selfie (ref: Woman jogging down a residential street at sunset holding the camera in a side-profile selfie angle; selfie)",
+      "line": "l1"
+    },
+    {
+      "id": "s2",
+      "start": 0.6,
+      "end": 2.8,
+      "brief": "jogging or walking outside, selfie (ref: Woman jogging down a residential street at sunset holding the camera in a side-profile selfie angle; selfie)",
+      "line": "l1"
+    },
+    {
+      "id": "s3",
+      "start": 2.8,
+      "end": 4.033,
+      "brief": "stepping out of a vehicle or transit (ref: Woman stepping out of a car carrying her purse, viewed from a low angle; tripod)",
+      "line": "l2"
+    },
+    {
+      "id": "s4",
+      "start": 4.033,
+      "end": 5.233,
+      "brief": "skincare or bathroom morning routine (ref: Woman tying up her hair and putting on a headband in a brightly lit bathroom; tripod)",
+      "line": "l3"
+    },
+    {
+      "id": "s5",
+      "start": 5.233,
+      "end": 6.467,
+      "brief": "working on laptop at desk or table (ref: Woman sitting upright with good posture typing on a laptop at a wooden table; tripod)",
+      "line": "l4"
+    },
+    {
+      "id": "s6",
+      "start": 6.467,
+      "end": 7.667,
+      "brief": "making coffee or tea close-up (ref: Close-up shot of hands whisking matcha powder with a bamboo whisk in a ceramic bowl; tripod)",
+      "line": "l5"
+    },
+    {
+      "id": "s7",
+      "start": 7.667,
+      "end": 8.8,
+      "brief": "cityscape or skyline sunset shot (ref: Scenic view of a city skyline at sunset through a moving car window; POV)",
+      "line": "l6"
+    },
+    {
+      "id": "s8",
+      "start": 8.8,
+      "end": 10.067,
+      "brief": "sitting at a cafe or park bench alone (ref: Woman sitting alone at an outdoor cafe table stirring an iced green drink; tripod)",
+      "line": "l7"
+    },
+    {
+      "id": "s9",
+      "start": 10.067,
+      "end": 11.183,
+      "brief": "workout, gym, stretching, or climbing (ref: Woman working out on a mat doing leg raises on hands and knees; tripod)",
+      "line": "l8"
+    },
+    {
+      "id": "s10",
+      "start": 11.183,
+      "end": 12.4,
+      "brief": "walking outside with coffee or drink (ref: Woman walking on a sunny city street holding an iced drink; selfie)",
+      "line": "l9"
+    },
+    {
+      "id": "s11",
+      "start": 12.4,
+      "end": 13.5,
+      "brief": "ordering or paying at a cafe counter (ref: Woman paying with contactless phone payment at a bakery counter; filmed by friend)",
+      "line": "l10"
+    },
+    {
+      "id": "s12",
+      "start": 13.5,
+      "end": 14.567,
+      "brief": "lying down in bed or resting on couch (ref: Woman lying down to rest in bed wearing pajamas; selfie)",
+      "line": "l11"
+    },
+    {
+      "id": "s13",
+      "start": 14.567,
+      "end": 15.733,
+      "brief": "reading a book or writing in journal (ref: POV of reading an open book while lounging in bed with feet visible; POV)",
+      "line": "l12"
+    },
+    {
+      "id": "s14",
+      "start": 15.733,
+      "end": 16.933,
+      "brief": "standing in kitchen drinking water or coffee (ref: Wide shot of woman standing in an aesthetic kitchen drinking a glass of water; tripod)",
+      "line": "l13"
+    },
+    {
+      "id": "s15",
+      "start": 16.933,
+      "end": 18.3,
+      "brief": "subtle smile to camera in car, cafe, or transit (ref: Selfie shot of woman smiling softly while sitting inside a car; selfie)",
+      "line": "l14"
+    }
+  ],
+  "audit": {
+    "kind": "broll_with_text",
+    "creatorSpeaks": false,
+    "audio": "music only",
+    "special": [],
+    "reusable": true,
+    "notes": "Extremely reusable format. It relies entirely on 1-second cuts of relatable daily lifestyle footage (working, morning routine, resting, walking outside, city views, reading). The library contains ample footage covering every concept.",
+    "summary": "A fast-paced montage of calm, aesthetic lifestyle b-roll clips paired with text lines highlighting mature personal habits labeled as 'silent flexes in life'."
+  },
+  "caption": {
+    "ref": "",
+    "guide": ""
+  },
+  "draft": true
+}

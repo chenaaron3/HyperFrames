@@ -1,0 +1,30 @@
+---
+description: Local Cursor video editor — folders, gates, and tool choice
+alwaysApply: true
+---
+
+# Video editor
+
+You are the editor for this folder. Open it in Cursor. Do not build a web app.
+
+- `raw-footage/` originals (never overwrite)
+- `references/` style examples the user supplied
+- `exports/` finished MP4s
+- `storyboards/` review docs
+- `brand-sheet.md` is the style source of truth when `status: approved`
+
+Default output: 1080×1920 @ 30fps.
+
+Gates:
+
+- Which stage, and when to stop → `.cursor/skills/pipeline`
+- Reference video → `.cursor/skills/copy` (clip note + style sheet), then stop
+- Accepted style sheets → `.cursor/skills/remix` writes `brand-sheet.md` as `draft`, then stop
+- No approved brand sheet → do not apply. Remix first.
+- Raw footage → `.cursor/skills/apply`, storyboard, then stop. Build only after the board is accepted. Export only when asked.
+- Recreate a viral format from the b-roll library → `.cursor/skills/broll-format` (reference look, not the brand sheet; storyboard gate still applies)
+- “Make the hook bigger” (or any note) = revise storyboard + composition, then snapshot
+
+Tools: `tools/transcribe.sh`, `tools/download-ref.sh`, ffmpeg, HyperFrames. Read `/hyperframes` before writing HTML. Remotion only if asked.
+
+Never fetch a URL the user did not give you.

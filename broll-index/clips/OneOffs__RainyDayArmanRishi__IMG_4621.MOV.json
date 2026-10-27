@@ -1,0 +1,71 @@
+{
+  "path": "OneOffs/RainyDayArmanRishi/IMG_4621.MOV",
+  "folder": "OneOffs/RainyDayArmanRishi",
+  "fingerprint": "5e2fe4a2e6613242",
+  "width": 1080,
+  "height": 1920,
+  "fps": 30.0,
+  "duration": 3.9,
+  "model": "gemini-3.8-flash",
+  "annotatedAt": "2026-10-24T18:36:03+00:00",
+  "summary": "Two friends holding umbrellas walk down a wet city sidewalk past parked cars and tall apartment buildings on a rainy day.",
+  "location": "city street",
+  "setting": "outdoor",
+  "time_of_day": "day",
+  "weather": "rain",
+  "people": {
+    "count": 2,
+    "creator_visible": true,
+    "description": "Two young men seen from behind in dark jackets and casual pants, each holding an umbrella while walking down the wet sidewalk."
+  },
+  "camera": {
+    "style": "filmed_by_friend",
+    "framing": "medium",
+    "movement": "walking",
+    "angle": "eye level"
+  },
+  "quality": {
+    "usable": true,
+    "stability": "handheld",
+    "exposure": "good",
+    "issues": ""
+  },
+  "mood": [
+    "rainy",
+    "calm",
+    "urban",
+    "moody",
+    "cozy"
+  ],
+  "energy": "low",
+  "tags": [
+    "rain",
+    "umbrella",
+    "city",
+    "sidewalk",
+    "nyc",
+    "walking",
+    "friends",
+    "wet street",
+    "urban lifestyle",
+    "overcast",
+    "commute",
+    "b-roll"
+  ],
+  "moments": [
+    {
+      "start": 0.0,
+      "end": 3.9,
+      "action": "Camera tracks behind two friends walking down a rain-soaked city sidewalk under umbrellas",
+      "emotion": "calm, relaxed",
+      "good_for": [
+        "rainy days in the city",
+        "friends who show up in any weather",
+        "city walks",
+        "gloomy day vibes",
+        "embracing the rain"
+      ],
+      "score": 4
+    }
+  ]
+}

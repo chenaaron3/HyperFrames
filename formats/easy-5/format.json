@@ -1,0 +1,190 @@
+{
+  "id": "easy-5",
+  "name": "“I feel like i’m not making any progress”",
+  "reference": "references/viral-formats/easy-5.mp4",
+  "source": "/Users/aaron/Downloads/100 Viral Formats (Format Book)/Easy to use format/#5 /#5.mp4",
+  "duration": 13.133,
+  "music": {
+    "from": "reference",
+    "title": "Someone to You - Bannermusic"
+  },
+  "text": {
+    "y": 0.238,
+    "size": 49,
+    "weight": 700,
+    "lineHeight": 1.4,
+    "maxWidth": 900,
+    "style": "outline"
+  },
+  "lines": [
+    {
+      "id": "l1",
+      "start": 0.0,
+      "end": 3.033,
+      "ref": "“I feel like i’m not making any progress”",
+      "y": 0.238,
+      "measuredSize": 49,
+      "style": "plain_white_shadow",
+      "guide": ""
+    },
+    {
+      "id": "l2",
+      "start": 3.033,
+      "end": 4.333,
+      "ref": "you did your best",
+      "y": 0.248,
+      "measuredSize": 58,
+      "style": "plain_white_shadow",
+      "guide": ""
+    },
+    {
+      "id": "l3",
+      "start": 4.333,
+      "end": 5.3,
+      "ref": "you learned something",
+      "y": 0.262,
+      "measuredSize": 51,
+      "style": "plain_white_shadow",
+      "guide": ""
+    },
+    {
+      "id": "l4",
+      "start": 5.3,
+      "end": 6.733,
+      "ref": "you didn’t quit",
+      "y": 0.248,
+      "measuredSize": 51,
+      "style": "plain_white_shadow",
+      "guide": ""
+    },
+    {
+      "id": "l5",
+      "start": 6.733,
+      "end": 7.767,
+      "ref": "you stayed present",
+      "y": 0.241,
+      "measuredSize": 38,
+      "style": "plain_white_shadow",
+      "guide": ""
+    },
+    {
+      "id": "l6",
+      "start": 7.767,
+      "end": 9.0,
+      "ref": "you showed up for yourself",
+      "y": 0.241,
+      "measuredSize": 37,
+      "style": "plain_white_shadow",
+      "guide": ""
+    },
+    {
+      "id": "l7",
+      "start": 9.0,
+      "end": 10.1,
+      "ref": "you woke up that day",
+      "y": 0.247,
+      "measuredSize": 41,
+      "style": "plain_white_shadow",
+      "guide": ""
+    },
+    {
+      "id": "l8",
+      "start": 10.1,
+      "end": 11.467,
+      "ref": "you kept trying",
+      "y": 0.251,
+      "measuredSize": 49,
+      "style": "plain_white_shadow",
+      "guide": ""
+    },
+    {
+      "id": "l9",
+      "start": 11.467,
+      "end": 13.133,
+      "ref": "you made it through",
+      "y": 0.246,
+      "measuredSize": 45,
+      "style": "plain_white_shadow",
+      "guide": ""
+    }
+  ],
+  "shots": [
+    {
+      "id": "s1",
+      "start": 0.0,
+      "end": 3.033,
+      "brief": "sitting at a cafe table sipping a drink thoughtfully (ref: Young man sitting in a cafe drinking a beverage, looking pensive and thoughtful.; filmed by friend)",
+      "line": "l1"
+    },
+    {
+      "id": "s2",
+      "start": 3.033,
+      "end": 4.333,
+      "brief": "cheering or toasting drink at a restaurant or bar (ref: Young man sitting inside a restaurant holding up a beer bottle and glass to toast the camera enthusiastically.; filmed by friend)",
+      "line": "l2"
+    },
+    {
+      "id": "s3",
+      "start": 4.333,
+      "end": 5.3,
+      "brief": "walking outdoors along nature or water, smiling at camera (ref: Walking on an outdoor scenic trail wearing sunglasses and backpack, smiling back at the camera.; selfie)",
+      "line": "l3"
+    },
+    {
+      "id": "s4",
+      "start": 5.3,
+      "end": 6.733,
+      "brief": "cycling or commuting down a city street (ref: Riding a bicycle along a city street wearing a helmet and winter coat.; selfie)",
+      "line": "l4"
+    },
+    {
+      "id": "s5",
+      "start": 6.733,
+      "end": 7.767,
+      "brief": "walking through a park looking up at the trees (ref: Walking through a scenic park lined with trees and looking up at the sunlight and foliage.; filmed by friend)",
+      "line": "l5"
+    },
+    {
+      "id": "s6",
+      "start": 7.767,
+      "end": 9.0,
+      "brief": "playful outdoor nighttime or rainy/snowy moment (ref: Standing on a bridge at night, tossing freshly fallen snow into the air above his head.; tripod)",
+      "line": "l6"
+    },
+    {
+      "id": "s7",
+      "start": 9.0,
+      "end": 10.1,
+      "brief": "adventurous transit shot or moving vehicle selfie (ref: Riding passenger on a motorcycle/scooter through mountain roads, holding a drink and cheering.; selfie)",
+      "line": "l7"
+    },
+    {
+      "id": "s8",
+      "start": 10.1,
+      "end": 11.467,
+      "brief": "scenic walk along waterfront or path (ref: Walking along a riverside path with a backpack, gazing across the water toward the horizon.; selfie)",
+      "line": "l8"
+    },
+    {
+      "id": "s9",
+      "start": 11.467,
+      "end": 13.133,
+      "brief": "walking down stairs with a scenic landscape or city view behind (ref: Descending a wooden outdoor staircase on a scenic hill overlooking a coastal town.; selfie)",
+      "line": "l9"
+    }
+  ],
+  "audit": {
+    "kind": "broll_with_text",
+    "creatorSpeaks": false,
+    "audio": "music only",
+    "special": [],
+    "reusable": true,
+    "notes": "Extremely reusable. Open with a quieter clip (cafe, chilling at home, or laptop work) paired with the doubt hook, then cut through 7-8 varied everyday lifestyle b-roll clips (walking in Central Park, bouldering, grabbing food with friends, subway ride, Brooklyn night shots) matching the rhythmic reassuring text lines.",
+    "summary": "A fast-cut lifestyle montage contrasting an opening feeling of stagnation with affirming reminders of personal effort and resilience over upbeat music."
+  },
+  "caption": {
+    "ref": "",
+    "guide": ""
+  },
+  "draft": true
+}

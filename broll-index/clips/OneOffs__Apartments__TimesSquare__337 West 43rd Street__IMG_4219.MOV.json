@@ -1,0 +1,92 @@
+{
+  "path": "OneOffs/Apartments/TimesSquare/337 West 43rd Street/IMG_4219.MOV",
+  "folder": "OneOffs/Apartments/TimesSquare/337 West 43rd Street",
+  "fingerprint": "3798a3c4a188dee6",
+  "width": 1080,
+  "height": 1920,
+  "fps": 30.0,
+  "duration": 35.76,
+  "model": "gemini-3.8-flash",
+  "annotatedAt": "2026-10-24T18:22:06+00:00",
+  "summary": "First-person POV walkthrough of an empty apartment unit during a tour, showing the bathroom, main room, kitchen, and balcony door.",
+  "location": "apartment",
+  "setting": "indoor",
+  "time_of_day": "night",
+  "weather": "n/a",
+  "people": {
+    "count": 2,
+    "creator_visible": true,
+    "description": "Young East Asian man with dark messy hair holding a phone and paper bag, seen in mirror and glass reflections; another person (realtor/friend) wearing a dark coat and boots walking ahead."
+  },
+  "camera": {
+    "style": "pov_first_person",
+    "framing": "medium",
+    "movement": "walking",
+    "angle": "eye level"
+  },
+  "quality": {
+    "usable": true,
+    "stability": "shaky",
+    "exposure": "mixed",
+    "issues": "Rapid pans, occasional darkness, mirror reflections"
+  },
+  "mood": [
+    "curious",
+    "anticipation",
+    "ordinary",
+    "urban"
+  ],
+  "energy": "medium",
+  "tags": [
+    "apartment hunting",
+    "nyc apartment",
+    "touring apartments",
+    "new home",
+    "real estate",
+    "moving",
+    "walkthrough",
+    "bathroom mirror",
+    "empty apartment",
+    "night tour"
+  ],
+  "moments": [
+    {
+      "start": 8.0,
+      "end": 11.5,
+      "action": "Creator turns on bathroom light and opens the mirrored medicine cabinet while recording his reflection",
+      "emotion": "inquisitive",
+      "good_for": [
+        "apartment hunting in nyc",
+        "checking out the storage",
+        "new beginnings",
+        "finding an apartment"
+      ],
+      "score": 3
+    },
+    {
+      "start": 22.5,
+      "end": 24.5,
+      "action": "Camera pans quickly into the compact kitchen showing stainless steel microwave, stove, and dishwasher",
+      "emotion": "observant",
+      "good_for": [
+        "nyc kitchen reality",
+        "checking out the kitchen",
+        "apartment hunting"
+      ],
+      "score": 2
+    },
+    {
+      "start": 26.5,
+      "end": 31.5,
+      "action": "Creator walks up to a glass balcony door looking out into the night city view, with creator reflection visible in the glass",
+      "emotion": "contemplative",
+      "good_for": [
+        "apartment with a balcony",
+        "city views at night",
+        "looking for my next place",
+        "future home"
+      ],
+      "score": 3
+    }
+  ]
+}

@@ -1,0 +1,105 @@
+{
+  "path": "SelfShots/ClimbingGym/OnTheWall/10:17:26_x9/IMG_4979.MOV",
+  "folder": "SelfShots/ClimbingGym/OnTheWall/10:17:26_x9",
+  "fingerprint": "4bd81c444528d14e",
+  "width": 1080,
+  "height": 1920,
+  "fps": 30.0,
+  "duration": 54.905,
+  "model": "gemini-3.8-flash",
+  "annotatedAt": "2026-10-24T18:39:25+00:00",
+  "summary": "A young man tackles a challenging overhanging route at an indoor bouldering gym, making a horizontal traverse before falling near the top.",
+  "location": "climbing gym",
+  "setting": "indoor",
+  "time_of_day": "indoor_unknown",
+  "weather": "n/a",
+  "people": {
+    "count": 1,
+    "creator_visible": true,
+    "description": "Young man wearing a brown t-shirt and dark pants bouldering on a steep wall."
+  },
+  "camera": {
+    "style": "tripod_static",
+    "framing": "wide",
+    "movement": "static",
+    "angle": "eye level"
+  },
+  "quality": {
+    "usable": true,
+    "stability": "locked",
+    "exposure": "good",
+    "issues": ""
+  },
+  "mood": [
+    "focused",
+    "athletic",
+    "challenging",
+    "active"
+  ],
+  "energy": "high",
+  "tags": [
+    "bouldering",
+    "rock climbing",
+    "indoor climbing",
+    "climbing gym",
+    "fitness",
+    "workout",
+    "calisthenics",
+    "athletic",
+    "overhang",
+    "fall",
+    "persistence",
+    "grip strength"
+  ],
+  "moments": [
+    {
+      "start": 2.5,
+      "end": 8.0,
+      "action": "Man walks up to the climbing wall and establishes his starting position on the holds",
+      "emotion": "focused",
+      "good_for": [
+        "starting a new challenge",
+        "lock in",
+        "day one"
+      ],
+      "score": 3
+    },
+    {
+      "start": 13.5,
+      "end": 22.0,
+      "action": "Climber moves laterally along low overhanging holds using careful footwork",
+      "emotion": "determined",
+      "good_for": [
+        "finding your balance",
+        "trusting the process",
+        "grip strength"
+      ],
+      "score": 4
+    },
+    {
+      "start": 32.0,
+      "end": 38.5,
+      "action": "Climber executes a dynamic, tension-heavy move across the steepest section",
+      "emotion": "intense effort",
+      "good_for": [
+        "giving it everything",
+        "pure effort",
+        "climbing progression"
+      ],
+      "score": 4
+    },
+    {
+      "start": 43.0,
+      "end": 48.5,
+      "action": "Climber reaches for high finishing holds, loses grip, and falls cleanly onto the mat",
+      "emotion": "exhaustion and defeat",
+      "good_for": [
+        "so close yet so far",
+        "falling down 7 times",
+        "trying hard",
+        "bouldering fail"
+      ],
+      "score": 4
+    }
+  ]
+}

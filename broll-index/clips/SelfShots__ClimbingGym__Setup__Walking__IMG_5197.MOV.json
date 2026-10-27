@@ -1,0 +1,83 @@
+{
+  "path": "SelfShots/ClimbingGym/Setup/Walking/IMG_5197.MOV",
+  "folder": "SelfShots/ClimbingGym/Setup/Walking",
+  "fingerprint": "4605cc288642e34b",
+  "width": 1080,
+  "height": 1920,
+  "fps": 30.0,
+  "duration": 7.465,
+  "model": "gemini-3.8-flash",
+  "annotatedAt": "2026-10-24T18:54:42+00:00",
+  "summary": "A young man holds the camera in a walking selfie outside the entrance of a Vital Climbing gym on a sunny city sidewalk.",
+  "location": "city street",
+  "setting": "outdoor",
+  "time_of_day": "day",
+  "weather": "sunny",
+  "people": {
+    "count": 1,
+    "creator_visible": true,
+    "description": "Young Asian man with wavy dark hair, wearing a brown textured open short-sleeve shirt over a light tank top, a backpack, AirPods, and a silver necklace."
+  },
+  "camera": {
+    "style": "selfie",
+    "framing": "medium",
+    "movement": "walking",
+    "angle": "low angle looking up"
+  },
+  "quality": {
+    "usable": true,
+    "stability": "handheld",
+    "exposure": "good",
+    "issues": ""
+  },
+  "mood": [
+    "casual",
+    "urban",
+    "active",
+    "confident"
+  ],
+  "energy": "medium",
+  "tags": [
+    "bouldering",
+    "climbing gym",
+    "nyc",
+    "walking",
+    "selfie",
+    "urban",
+    "vital climbing",
+    "fitness",
+    "lifestyle",
+    "commute",
+    "sunny day",
+    "day in the life"
+  ],
+  "moments": [
+    {
+      "start": 0.0,
+      "end": 3.5,
+      "action": "Creator walks backwards while filming a selfie with the large Vital Climbing sign clearly readable behind him",
+      "emotion": "calm and confident",
+      "good_for": [
+        "arriving at the gym",
+        "day in my life",
+        "staying active",
+        "climbing session",
+        "weekend routine"
+      ],
+      "score": 4
+    },
+    {
+      "start": 3.5,
+      "end": 6.0,
+      "action": "Creator turns slightly while walking, revealing the street intersection and corner signs behind him",
+      "emotion": "neutral casual",
+      "good_for": [
+        "exploring the city",
+        "on the move",
+        "nyc lifestyle",
+        "commute"
+      ],
+      "score": 3
+    }
+  ]
+}

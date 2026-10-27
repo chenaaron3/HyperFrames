@@ -1,0 +1,69 @@
+{
+  "path": "OneOffs/RainyDayArmanRishi/IMG_4643.MOV",
+  "folder": "OneOffs/RainyDayArmanRishi",
+  "fingerprint": "d65d051859e4ff99",
+  "width": 1080,
+  "height": 1920,
+  "fps": 30.0,
+  "duration": 2.6,
+  "model": "gemini-3.8-flash",
+  "annotatedAt": "2026-10-24T18:36:43+00:00",
+  "summary": "A man walks up the steps of a brownstone townhouse holding a wet umbrella on a rainy day.",
+  "location": "brownstone stoop",
+  "setting": "outdoor",
+  "time_of_day": "day",
+  "weather": "rain",
+  "people": {
+    "count": 1,
+    "creator_visible": true,
+    "description": "Man wearing glasses, a dark jacket, grey trousers, and white sneakers, holding a dark patterned umbrella."
+  },
+  "camera": {
+    "style": "filmed_by_friend",
+    "framing": "medium",
+    "movement": "handheld",
+    "angle": "low angle looking up"
+  },
+  "quality": {
+    "usable": true,
+    "stability": "handheld",
+    "exposure": "good",
+    "issues": ""
+  },
+  "mood": [
+    "mundane",
+    "cozy",
+    "urban",
+    "casual"
+  ],
+  "energy": "low",
+  "tags": [
+    "brownstone",
+    "rainy day",
+    "umbrella",
+    "stoop",
+    "city life",
+    "entrance",
+    "steps",
+    "coming home",
+    "new york city",
+    "autumn vibes",
+    "potted plants",
+    "urban living"
+  ],
+  "moments": [
+    {
+      "start": 0.0,
+      "end": 2.6,
+      "action": "A man walks up wet brownstone steps carrying an umbrella and approaches the front door",
+      "emotion": "focused, casual",
+      "good_for": [
+        "coming home in the rain",
+        "city apartment living",
+        "rainy day errands",
+        "arriving home"
+      ],
+      "score": 3
+    }
+  ]
+}

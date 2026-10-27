@@ -1,0 +1,72 @@
+{
+  "path": "Cinematic/Chinatown/IMG_4776.mov",
+  "folder": "Cinematic/Chinatown",
+  "fingerprint": "4a5012d709c95e28",
+  "width": 1080,
+  "height": 1920,
+  "fps": 30.0,
+  "duration": 4.467,
+  "model": "gemini-3.8-flash",
+  "annotatedAt": "2026-10-24T18:19:10+00:00",
+  "summary": "A static shot of a red concrete fountain feature in an urban park in Chinatown, with a stone pavilion building and leafy trees in the background under an overcast sky.",
+  "location": "park",
+  "setting": "outdoor",
+  "time_of_day": "day",
+  "weather": "overcast",
+  "people": {
+    "count": 4,
+    "creator_visible": false,
+    "description": "Indistinct figures sitting and standing near the park pavilion in the background"
+  },
+  "camera": {
+    "style": "handheld_cinematic",
+    "framing": "wide",
+    "movement": "static",
+    "angle": "eye level"
+  },
+  "quality": {
+    "usable": true,
+    "stability": "steady",
+    "exposure": "good",
+    "issues": ""
+  },
+  "mood": [
+    "peaceful",
+    "calm",
+    "melancholy",
+    "urban",
+    "reflective"
+  ],
+  "energy": "low",
+  "tags": [
+    "chinatown",
+    "columbus park",
+    "new york city",
+    "urban park",
+    "pavilion",
+    "red concrete",
+    "autumn leaves",
+    "trees",
+    "city life",
+    "quiet moment",
+    "overcast day",
+    "b-roll",
+    "cinematic"
+  ],
+  "moments": [
+    {
+      "start": 0.0,
+      "end": 4.47,
+      "action": "Static view of a red concrete water channel feature in a Chinatown park with a stone pavilion in the background",
+      "emotion": "calm",
+      "good_for": [
+        "city walks",
+        "quiet mornings",
+        "peace of mind",
+        "favorite city corners",
+        "finding stillness"
+      ],
+      "score": 4
+    }
+  ]
+}

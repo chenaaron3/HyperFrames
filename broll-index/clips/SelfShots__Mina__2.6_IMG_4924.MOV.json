@@ -1,0 +1,123 @@
+{
+  "path": "SelfShots/Mina/2.6_IMG_4924.MOV",
+  "folder": "SelfShots/Mina",
+  "fingerprint": "29f00ff9e2637f54",
+  "width": 1080,
+  "height": 1920,
+  "fps": 30.0,
+  "duration": 50.437,
+  "model": "gemini-3.8-flash",
+  "annotatedAt": "2026-10-24T18:56:03+00:00",
+  "summary": "A fluffy grey cat with green eyes eagerly licks a squeeze treat directly from a pouch held by its owner indoors on hardwood flooring.",
+  "location": "living room",
+  "setting": "indoor",
+  "time_of_day": "day",
+  "weather": "n/a",
+  "people": {
+    "count": 1,
+    "creator_visible": false,
+    "description": "Owner's hands holding the squeeze treat pouch"
+  },
+  "camera": {
+    "style": "pov_first_person",
+    "framing": "close",
+    "movement": "handheld",
+    "angle": "high angle"
+  },
+  "quality": {
+    "usable": true,
+    "stability": "handheld",
+    "exposure": "good",
+    "issues": ""
+  },
+  "mood": [
+    "cute",
+    "wholesome",
+    "playful",
+    "affectionate",
+    "cozy"
+  ],
+  "energy": "medium",
+  "tags": [
+    "cat",
+    "pet",
+    "feline",
+    "cat treat",
+    "feeding cat",
+    "tabby cat",
+    "fluffy",
+    "green eyes",
+    "pov",
+    "cute pets",
+    "indoor pet",
+    "snack time",
+    "wholesome"
+  ],
+  "moments": [
+    {
+      "start": 0.0,
+      "end": 4.5,
+      "action": "Fluffy cat spots the squeeze treat, looks up wide-eyed, and walks forward eagerly to take the first lick",
+      "emotion": "excited",
+      "good_for": [
+        "the little things",
+        "treat time",
+        "instant happiness",
+        "running for food"
+      ],
+      "score": 4
+    },
+    {
+      "start": 4.5,
+      "end": 11.5,
+      "action": "Cat passionately licks the pureed treat directly from the opening of the red pouch",
+      "emotion": "focused",
+      "good_for": [
+        "obsessed with food",
+        "spoiling my baby",
+        "simple joys",
+        "pure bliss"
+      ],
+      "score": 4
+    },
+    {
+      "start": 23.5,
+      "end": 29.5,
+      "action": "Close-up of the cat enthusiastically gobbling up the paste treat from the squeeze packet",
+      "emotion": "content",
+      "good_for": [
+        "favorite snack",
+        "cat mom life",
+        "feeding routine",
+        "unconditional love"
+      ],
+      "score": 4
+    },
+    {
+      "start": 32.5,
+      "end": 41.0,
+      "action": "Extreme close-up of the cat's striking green eyes and face as it vigorously licks the treat",
+      "emotion": "intense",
+      "good_for": [
+        "those eyes though",
+        "locked in",
+        "pet appreciation",
+        "comfort routine"
+      ],
+      "score": 5
+    },
+    {
+      "start": 46.5,
+      "end": 50.44,
+      "action": "Treat finishes and the cat trots across the wooden floor licking its chops in satisfaction",
+      "emotion": "satisfied",
+      "good_for": [
+        "all done",
+        "food coma",
+        "happy customer",
+        "post snack walk"
+      ],
+      "score": 3
+    }
+  ]
+}

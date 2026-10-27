@@ -1,0 +1,70 @@
+{
+  "path": "OneOffs/RainyDayArmanRishi/IMG_4663.MOV",
+  "folder": "OneOffs/RainyDayArmanRishi",
+  "fingerprint": "ac38fb67233779f5",
+  "width": 1080,
+  "height": 1920,
+  "fps": 30.0,
+  "duration": 4.567,
+  "model": "gemini-3.8-flash",
+  "annotatedAt": "2026-10-24T18:37:26+00:00",
+  "summary": "Friends sitting at a wooden restaurant table covered in dessert plates and tea cups, while a hand points to different desserts planning what to eat.",
+  "location": "restaurant",
+  "setting": "indoor",
+  "time_of_day": "indoor_unknown",
+  "weather": "n/a",
+  "people": {
+    "count": 2,
+    "creator_visible": false,
+    "description": "A person sitting across the table with arms crossed wearing a dark textured shirt, and a person's hand gesturing and pointing at plates."
+  },
+  "camera": {
+    "style": "pov_first_person",
+    "framing": "medium",
+    "movement": "handheld",
+    "angle": "high angle"
+  },
+  "quality": {
+    "usable": true,
+    "stability": "steady",
+    "exposure": "good",
+    "issues": ""
+  },
+  "mood": [
+    "casual",
+    "social",
+    "relaxed",
+    "playful"
+  ],
+  "energy": "low",
+  "tags": [
+    "dessert",
+    "tea",
+    "pastries",
+    "restaurant",
+    "cafe",
+    "table",
+    "food",
+    "foodie",
+    "friends",
+    "dining out",
+    "dim sum",
+    "tasting"
+  ],
+  "moments": [
+    {
+      "start": 0.0,
+      "end": 4.57,
+      "action": "Hand points successively across different plates of pastries, desserts, and tea cups on a wooden table while dining with friends",
+      "emotion": "casual",
+      "good_for": [
+        "dessert after dinner",
+        "sweet treats with friends",
+        "eating good food",
+        "decision paralysis",
+        "catching up over tea"
+      ],
+      "score": 3
+    }
+  ]
+}

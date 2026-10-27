@@ -1,0 +1,280 @@
+<template>
+  <style>
+    #root { position: absolute; inset: 0; overflow: hidden; background: #111; }
+    #face-rig { position: absolute; inset: 0; z-index: 1; }
+    #talk { position: absolute; left: 0; top: 0; width: 1080px; height: 1920px; object-fit: cover; }
+    .paper {
+      position: absolute; left: 0; top: 0; width: 1080px; z-index: 2;
+      background-color: #E7DFD2;
+      background-image:
+        linear-gradient(#D4CBBC 1px, transparent 1px),
+        linear-gradient(90deg, #D4CBBC 1px, transparent 1px);
+      background-size: 48px 48px;
+      overflow: hidden;
+    }
+    .paper.split { height: 883px; }
+    .paper.full { height: 1920px; }
+    .step {
+      position: absolute; left: 64px; right: 64px; top: 168px;
+      text-align: center; font-family: "Archivo Black", sans-serif;
+      font-size: 54px; line-height: 1.15; color: #1C1C1C;
+    }
+    .paper.full .step { top: 220px; }
+    .rust { color: #C4513A; }
+    .stage { position: absolute; left: 0; right: 0; top: 300px; bottom: 40px; }
+    .paper.full .stage { top: 380px; }
+    .label {
+      font-family: Inter, sans-serif; font-weight: 700; font-size: 32px;
+      color: #1C1C1C; text-align: center;
+    }
+    .label.rust { color: #C4513A; }
+    .card, .bubble, .pill {
+      position: absolute; z-index: 4; background: #fff;
+      box-shadow: 0 18px 50px rgba(28, 28, 28, 0.16);
+    }
+    .card {
+      left: 70px; top: 200px; width: 940px; border-radius: 28px;
+      padding: 36px 40px 40px; font-family: Inter, sans-serif; color: #1C1C1C;
+    }
+    .dots { display: flex; gap: 10px; margin-bottom: 18px; }
+    .dots i { width: 16px; height: 16px; border-radius: 50%; display: block; }
+    .dots i:nth-child(1) { background: #E25B45; }
+    .dots i:nth-child(2) { background: #E6B325; }
+    .dots i:nth-child(3) { background: #3FA36A; }
+    .card h2 { font-size: 40px; font-weight: 700; margin: 8px 0 22px; }
+    .card p { font-size: 32px; line-height: 1.35; margin: 0 0 14px; }
+    .mark { background: #F6E27A; padding: 0 6px; }
+    .hook {
+      position: absolute; z-index: 5; left: 48px; right: 48px; top: 188px;
+      text-align: center; font-family: "Archivo Black", sans-serif;
+      font-size: 78px; line-height: 1.05; color: #fff;
+      -webkit-text-stroke: 10px #000; paint-order: stroke fill;
+    }
+    .row { display: flex; justify-content: center; gap: 28px; align-items: flex-end; }
+    .phone {
+      width: 200px; height: 320px; background: #fff; border: 4px solid #1C1C1C;
+      border-radius: 22px; overflow: hidden; box-shadow: 0 8px 0 rgba(28,28,28,0.06);
+    }
+    .phone img { width: 100%; height: 100%; object-fit: cover; }
+    .phone .blank { height: 100%; background: #F6F1E8; }
+    .folder {
+      width: 280px; height: 200px; margin: 0 auto; position: relative;
+    }
+    .folder .tab {
+      width: 110px; height: 28px; background: #7EB6E8; border: 4px solid #1C1C1C;
+      border-bottom: 0; border-radius: 10px 10px 0 0; margin-left: 18px;
+    }
+    .folder .body {
+      height: 160px; background: #7EB6E8; border: 4px solid #1C1C1C; border-radius: 8px 18px 18px 18px;
+    }
+    .folder.sm { width: 210px; height: 150px; }
+    .folder.sm .body { height: 112px; }
+    .menu {
+      width: 640px; margin: 20px auto 0; background: #fff; border-radius: 20px;
+      padding: 22px 28px; font-family: Inter, sans-serif; font-size: 32px;
+      box-shadow: 0 12px 30px rgba(28,28,28,0.08);
+    }
+    .menu .on { background: #F3F0EA; border-radius: 10px; padding: 8px 12px; font-weight: 700; }
+    .icons { display: flex; justify-content: center; gap: 80px; margin-top: 40px; }
+    .icon { width: 280px; text-align: center; }
+    .swatch {
+      height: 150px; border: 4px solid #1C1C1C; border-radius: 18px; background: #fff;
+      margin-bottom: 16px;
+    }
+    .board {
+      width: 760px; margin: 10px auto; background: #1C1C1C; color: #fff;
+      border-radius: 24px; padding: 36px 40px; font-family: Inter, sans-serif;
+    }
+    .board div { font-size: 34px; padding: 14px 0; border-bottom: 2px solid #333; }
+    .bubble { left: 90px; top: 250px; width: 900px; border-radius: 28px; padding: 28px 36px; }
+    .bubble .me { text-align: right; font-family: Inter, sans-serif; font-size: 30px; color: #666; }
+    .bubble .reply { font-family: Inter, sans-serif; font-size: 36px; font-weight: 700; margin-top: 12px; }
+    .star { color: #C4513A; }
+    .pill {
+      left: 140px; top: 220px; width: 800px; height: 96px; border-radius: 48px;
+      display: flex; align-items: center; justify-content: space-between; padding: 0 28px;
+      font-family: "Archivo Black", sans-serif; font-size: 36px;
+    }
+    .pill .go { width: 64px; height: 64px; border-radius: 50%; background: #1C1C1C; color: #fff;
+      display: flex; align-items: center; justify-content: center; font-size: 28px; }
+    .rec { position: absolute; top: 16px; left: 16px; background: #E25B45; color: #fff;
+      font-family: Inter, sans-serif; font-weight: 700; font-size: 28px; padding: 4px 8px; border-radius: 6px; }
+    .laptop { width: 760px; margin: 0 auto; }
+    .blur-word, .step .rust { display: inline-block; margin-right: 0.2em; }
+    #g-tree .folder, #g-tree .label { position: relative; z-index: 2; }
+    #tree-lines { position: absolute; left: 0; top: 248px; width: 1080px; height: 140px; z-index: 1; pointer-events: none; }
+    #tree-lines .link { fill: none; stroke: #C4513A; stroke-width: 4; stroke-linecap: round; stroke-dasharray: 280; stroke-dashoffset: 280; }
+    #g-tools { overflow: hidden; }
+    #g-tools .spot {
+      position: absolute; width: 560px; height: 420px; left: -40px; top: -80px; border-radius: 50%;
+      background: radial-gradient(circle, rgba(246, 226, 122, 0.85), rgba(196, 81, 58, 0.22) 42%, transparent 70%);
+      pointer-events: none; mix-blend-mode: multiply;
+    }
+    #g-fix .w { display: inline-block; }
+</style>
+  <div data-hf-id="hf-tgml" id="root" data-composition-id="picture" data-width="1080" data-height="1920" data-layout-allow-overlap="true">
+    <div data-hf-id="hf-4dre" id="face-rig" data-layout-allow-overflow="true">
+      <video data-hf-id="hf-yci9" id="talk" class="clip" src="assets/talking-head.mp4" data-start="0" data-duration="95.200" data-track-index="0" data-has-audio="true" playsinline></video>
+    </div>
+    <div data-hf-id="hf-t9l3" id="hook" class="clip hook" data-start="0.120" data-duration="8.663" data-track-index="5" data-layout-allow-overlap="true" data-var-text="hook"><span class="blur-word">Everyone</span><span class="blur-word">is</span><span class="blur-word">editing</span><br data-hf-id="hf-x5px"><span class="blur-word">their</span><span class="blur-word">videos</span><span class="blur-word">with</span><span class="blur-word">Claude</span><span class="blur-word">Code</span></div>
+<div data-hf-id="hf-a7gy" id="g-s1" class="clip paper split" data-start="14.502" data-duration="4.958" data-track-index="2"><div data-hf-id="hf-1pt8" class="step"><span data-hf-id="hf-7qso" class="rust">Step 1.</span><span class="blur-word">On</span><span class="blur-word">the</span><span class="blur-word">desktop</span></div>
+      <div data-hf-id="hf-tan6" class="stage"><div data-hf-id="hf-3gh1" class="row" style="align-items:center;gap:40px;margin-top:40px">
+        <div data-hf-id="hf-yeow"><div data-hf-id="hf-lmbl" class="swatch" style="width:220px;display:flex;align-items:center;justify-content:center;font-family:Inter,sans-serif;font-size:28px;text-decoration:line-through">Browser</div></div>
+        <div data-hf-id="hf-b4uj" class="rust" style="font-family:'Archivo Black',sans-serif;font-size:64px">↓</div>
+        <div data-hf-id="hf-y7yw"><div data-hf-id="hf-rcgq" class="swatch" style="width:220px;background:#C4513A;color:#fff;display:flex;align-items:center;justify-content:center;font-family:Inter,sans-serif;font-weight:700;font-size:28px">Desktop</div></div>
+      </div></div></div>
+<div data-hf-id="hf-jmrm" id="g-folder" class="clip paper split" data-start="19.460" data-duration="4.020" data-track-index="2"><div data-hf-id="hf-p9xg" class="step"><span data-hf-id="hf-o8rk" class="rust">Step 1.</span><span class="blur-word">On</span><span class="blur-word">the</span><span class="blur-word">desktop</span></div>
+      <div data-hf-id="hf-xa86" class="stage"><div data-hf-id="hf-zy98" class="folder "><div data-hf-id="hf-clpx" class="tab"></div><div data-hf-id="hf-2t3w" class="body"></div></div><div data-hf-id="hf-9u93" class="label" style="margin-top:18px">AI Video Editor</div></div></div>
+<div data-hf-id="hf-x849" id="g-tree" class="clip paper full" data-start="23.480" data-duration="7.860" data-track-index="2"><div data-hf-id="hf-o30d" class="step"><span data-hf-id="hf-n1uh" class="rust">Step 1.</span><span class="blur-word">On</span><span class="blur-word">the</span><span class="blur-word">desktop</span></div>
+      <div data-hf-id="hf-xoj7" class="stage">
+        <svg id="tree-lines" viewBox="0 0 1080 140" aria-hidden="true">
+          <path class="link" d="M540 8 L302 92"/>
+          <path class="link" d="M540 8 L540 92"/>
+          <path class="link" d="M540 8 L778 92"/>
+        </svg>
+        <div data-hf-id="hf-imdg" class="folder "><div data-hf-id="hf-zp61" class="tab"></div><div data-hf-id="hf-6g9g" class="body"></div></div>
+        <div data-hf-id="hf-8a52" class="label" style="margin:12px 0 64px">AI Video Editor</div>
+        <div data-hf-id="hf-thy4" class="row">
+          <div data-hf-id="hf-x11t"><div data-hf-id="hf-xbhk" class="folder sm"><div data-hf-id="hf-0w34" class="tab"></div><div data-hf-id="hf-59cd" class="body"></div></div><div data-hf-id="hf-zhyt" class="label" id="lab-raw">Raw footage</div></div>
+          <div data-hf-id="hf-xfcu"><div data-hf-id="hf-dxeo" class="folder sm"><div data-hf-id="hf-0hs3" class="tab"></div><div data-hf-id="hf-5nne" class="body"></div></div><div data-hf-id="hf-15qr" class="label" id="lab-ref">References</div></div>
+          <div data-hf-id="hf-w8fr"><div data-hf-id="hf-cqhl" class="folder sm"><div data-hf-id="hf-yi8y" class="tab"></div><div data-hf-id="hf-7n6j" class="body"></div></div><div data-hf-id="hf-ocv0" class="label rust" id="lab-exp">Exports</div></div>
+        </div>
+      </div></div>
+<div data-hf-id="hf-6ya9" id="g-local" class="clip paper split" data-start="31.340" data-duration="6.720" data-track-index="2"><div data-hf-id="hf-a99n" class="step"><span data-hf-id="hf-gihj" class="rust">Step 2.</span><span class="blur-word">Point</span><span class="blur-word">it</span><span class="blur-word">at</span><span class="blur-word">the</span><span class="blur-word">folder</span></div>
+      <div data-hf-id="hf-y2u8" class="stage"><div data-hf-id="hf-upnx" class="menu">
+        <div data-hf-id="hf-fb9h" style="color:#888;font-size:26px;margin-bottom:8px">Local</div>
+        <div data-hf-id="hf-2gt0" class="on">This computer</div>
+        <div data-hf-id="hf-vu74" style="padding:8px 12px">Cloud</div>
+      </div></div></div>
+<div data-hf-id="hf-4r59" id="g-tools" class="clip card" data-start="38.060" data-duration="6.576" data-track-index="3">
+      <div class="spot"></div>
+      <div data-hf-id="hf-zx1w" class="dots"><i data-hf-id="hf-wt6k"></i><i data-hf-id="hf-zeb8"></i><i data-hf-id="hf-y7e5"></i></div>
+      <h2 data-hf-id="hf-rphu">Install these tools</h2>
+      <p data-hf-id="hf-jt7h">Give Claude the links on screen.</p>
+      <p data-hf-id="hf-hgg6">Install each one, then say when they're ready.</p>
+    </div>
+<div data-hf-id="hf-rsq2" id="g-mimic" class="clip paper split" data-start="44.636" data-duration="7.155" data-track-index="2"><div data-hf-id="hf-b56f" class="step"><span data-hf-id="hf-gb0a" class="rust">Step 3.</span><span class="blur-word">Lock</span><span class="blur-word">the</span><span class="blur-word">style</span></div>
+      <div data-hf-id="hf-vap1" class="stage"><div data-hf-id="hf-lt04" class="row">
+        <div data-hf-id="hf-kda4" class="phone"><div data-hf-id="hf-arfm" class="blank"></div></div>
+        <div data-hf-id="hf-3kj8" class="phone"><div data-hf-id="hf-2lom" class="blank"></div></div>
+        <div data-hf-id="hf-2dm5" class="phone"><div data-hf-id="hf-2zzn" class="blank"></div></div>
+      </div><div data-hf-id="hf-mo4k" class="label" style="margin-top:16px">3 to 5 videos</div></div></div>
+<div data-hf-id="hf-pdgg" id="g-own" class="clip paper split" data-start="51.791" data-duration="3.611" data-track-index="2"><div data-hf-id="hf-wrg7" class="step"><span data-hf-id="hf-7l9a" class="rust">Step 3.</span><span class="blur-word">Lock</span><span class="blur-word">the</span><span class="blur-word">style</span></div>
+      <div data-hf-id="hf-vp02" class="stage"><div data-hf-id="hf-km31" class="row"><div data-hf-id="hf-2rx6" class="phone"><img data-hf-id="hf-y45s" src="assets/poster.jpg" alt=""></div></div>
+      <div data-hf-id="hf-lxl2" class="label" style="margin-top:16px">your own</div></div></div>
+<div data-hf-id="hf-1zrv" id="g-style" class="clip card" data-start="55.402" data-duration="6.023" data-track-index="3">
+      <div data-hf-id="hf-2trg" class="dots"><i data-hf-id="hf-ylp6"></i><i data-hf-id="hf-0l8b"></i><i data-hf-id="hf-0zjc"></i></div>
+      <h2 data-hf-id="hf-s828">Learn this style</h2>
+      <p data-hf-id="hf-wbvw" class="mark">Paste 3 to 5 video links.</p>
+      <p data-hf-id="hf-t9rq">Study what they share. Write a brand sheet I can review.</p>
+    </div>
+<div data-hf-id="hf-s410" id="g-film" class="clip paper split" data-start="61.425" data-duration="2.750" data-track-index="2"><div data-hf-id="hf-xt61" class="step"><span data-hf-id="hf-3sht" class="rust">Step 4.</span><span class="blur-word">Film,</span><span class="blur-word">then</span><span class="blur-word">hand</span><span class="blur-word">it</span><span class="blur-word">over</span></div>
+      <div data-hf-id="hf-w3b3" class="stage"><div data-hf-id="hf-x10l" class="row" style="align-items:center">
+        <div data-hf-id="hf-hq5d" class="phone" style="position:relative"><img data-hf-id="hf-7nmw" src="assets/poster.jpg" alt=""><div data-hf-id="hf-tt6s" class="rec">REC</div></div>
+        <div data-hf-id="hf-hfgd" class="folder "><div data-hf-id="hf-y3xx" class="tab"></div><div data-hf-id="hf-81hk" class="body"></div></div>
+      </div><div data-hf-id="hf-0orq" class="label" style="margin-top:12px">Raw footage</div></div></div>
+<div data-hf-id="hf-57ho" id="g-drop" class="clip card" data-start="64.175" data-duration="6.920" data-track-index="3">
+      <div data-hf-id="hf-1mud" class="dots"><i data-hf-id="hf-zsm9"></i><i data-hf-id="hf-06xa"></i><i data-hf-id="hf-26gf"></i></div>
+      <h2 data-hf-id="hf-ist6">Edit this video</h2>
+      <p data-hf-id="hf-fvng">The footage is in <span data-hf-id="hf-gp1j" class="mark">raw footage</span>.</p>
+      <p data-hf-id="hf-5mpi">Follow the brand sheet. Show a storyboard first.</p>
+    </div>
+<div data-hf-id="hf-oudk" id="g-cuts" class="clip paper split" data-start="71.095" data-duration="3.273" data-track-index="2"><div data-hf-id="hf-b00t" class="step"><span data-hf-id="hf-5k45" class="rust">Step 4.</span><span class="blur-word">Film,</span><span class="blur-word">then</span><span class="blur-word">hand</span><span class="blur-word">it</span><span class="blur-word">over</span></div>
+      <div data-hf-id="hf-whm4" class="stage"><div data-hf-id="hf-ss4i" class="icons">
+        <div data-hf-id="hf-eto3" class="icon"><div data-hf-id="hf-3s6c" class="swatch"></div><div data-hf-id="hf-tgzn" class="label">Cuts</div></div>
+        <div data-hf-id="hf-dez7" class="icon"><div data-hf-id="hf-5y9i" class="swatch" style="background:#C4513A"></div><div data-hf-id="hf-h8mb" class="label rust">Captions</div></div>
+      </div></div></div>
+<div data-hf-id="hf-kody" id="g-board" class="clip paper full" data-start="74.368" data-duration="2.263" data-track-index="2">
+      <div data-hf-id="hf-tpgx" class="stage"><div data-hf-id="hf-vhiw" class="board">
+        <div data-hf-id="hf-8b5i">1 &nbsp; Hook</div><div data-hf-id="hf-3yvb">2 &nbsp; The folder</div><div data-hf-id="hf-devr">3 &nbsp; The style</div><div data-hf-id="hf-7u0h">4 &nbsp; The edit</div>
+      </div><div data-hf-id="hf-2i4b" class="label" style="color:#1C1C1C;margin-top:28px">for your review</div></div></div>
+<div data-hf-id="hf-j296" id="g-fix" class="clip bubble" data-start="76.631" data-duration="4.979" data-track-index="3">
+      <div data-hf-id="hf-wyyq" class="me">Make the hook bigger</div>
+      <div data-hf-id="hf-7hby" class="reply"><span data-hf-id="hf-x4ds" class="star">✱</span> <span class="w">Done.</span> <span class="w">The</span> <span class="w">hook</span> <span class="w">is</span> <span class="w">bigger.</span></div>
+    </div>
+<div data-hf-id="hf-crwk" id="g-flow" class="clip paper full" data-start="81.610" data-duration="4.133" data-track-index="2">
+      <div data-hf-id="hf-qqps" class="stage" style="text-align:center">
+        <div data-hf-id="hf-htre" class="folder "><div data-hf-id="hf-zav0" class="tab"></div><div data-hf-id="hf-6ukh" class="body"></div></div>
+        <div data-hf-id="hf-lgkm" class="label" style="margin:10px 0 36px">AI Video Editor</div>
+        <div data-hf-id="hf-1kvl" class="row" style="gap:18px">
+          <div data-hf-id="hf-7vwn" class="label rust">Step 1.<br data-hf-id="hf-rsrt">Desktop</div>
+          <div data-hf-id="hf-n7ba" class="label rust">Step 2.<br data-hf-id="hf-szow">Folder</div>
+          <div data-hf-id="hf-1bac" class="label rust">Step 3.<br data-hf-id="hf-sldv">Style</div>
+          <div data-hf-id="hf-12g6" class="label rust">Step 4.<br data-hf-id="hf-qluq">Film</div>
+        </div>
+      </div></div>
+<div data-hf-id="hf-fn0l" id="g-mix" class="clip paper full" data-start="85.743" data-duration="7.460" data-track-index="2">
+      <div data-hf-id="hf-u3ry" class="stage"><div data-hf-id="hf-b1ng" class="laptop">
+        <svg data-hf-id="hf-ck36" viewBox="0 0 760 460" width="760" height="460">
+          <rect data-hf-id="hf-yfbq" x="80" y="20" width="600" height="380" rx="16" fill="#fff" stroke="#1C1C1C" stroke-width="6"/>
+          <rect data-hf-id="hf-w3ch" x="110" y="52" width="540" height="300" rx="8" fill="#E7DFD2"/>
+          <rect data-hf-id="hf-9l0t" x="250" y="120" width="260" height="160" rx="12" fill="none" stroke="#1C1C1C" stroke-width="4"/>
+          <circle data-hf-id="hf-67or" cx="380" cy="190" r="28" fill="none" stroke="#1C1C1C" stroke-width="4"/>
+          <rect data-hf-id="hf-mdgq" x="40" y="400" width="680" height="22" rx="6" fill="#fff" stroke="#1C1C1C" stroke-width="6"/>
+        </svg>
+      </div></div></div>
+<div data-hf-id="hf-hl4z" id="g-cta" class="clip pill" data-start="93.203" data-duration="1.997" data-track-index="3">
+      <span data-hf-id="hf-7z9k" class="star">✱</span><span data-hf-id="hf-ffx7">MOTION</span><span data-hf-id="hf-e9zz" class="go">→</span>
+    </div>
+<audio data-hf-id="hf-bpig" id="tick-1" class="clip" src="assets/sfx/click-soft.mp3" data-start="14.502" data-duration="0.37" data-volume="0.28" data-track-index="6"></audio>
+<audio data-hf-id="hf-g8gw" id="tick-2" class="clip" src="assets/sfx/click-soft.mp3" data-start="31.340" data-duration="0.37" data-volume="0.28" data-track-index="6"></audio>
+<audio data-hf-id="hf-za1j" id="tick-3" class="clip" src="assets/sfx/click-soft.mp3" data-start="44.636" data-duration="0.37" data-volume="0.28" data-track-index="6"></audio>
+<audio data-hf-id="hf-a0td" id="tick-4" class="clip" src="assets/sfx/click-soft.mp3" data-start="61.425" data-duration="0.37" data-volume="0.28" data-track-index="6"></audio>
+  </div>
+  <script>
+    const tl = gsap.timeline({ paused: true });
+    const rig = "#face-rig";
+    const zones = [[0, 14.502, "chest"], [14.502, 23.48, "seam"], [23.48, 31.34, "paper"], [31.34, 38.06, "seam"], [38.06, 44.636, "chest"], [44.636, 55.402, "seam"], [55.402, 61.425, "chest"], [61.425, 64.175, "seam"], [64.175, 71.095, "chest"], [71.095, 74.368, "seam"], [74.368, 76.631, "paper"], [76.631, 81.61, "chest"], [81.61, 93.203, "paper"], [93.203, 96.2, "chest"]];
+    zones.forEach(([a, b, name]) => {
+      const y = name === "seam" ? 140 : 0;
+      const scale = name === "seam" ? 1.08 : 1;
+      tl.set(rig, { y, scale, transformOrigin: "50% 42%" }, a);
+    });
+    function enter(sel, at, stagger, ease, y, dur, blur) {
+      const nodes = gsap.utils.toArray(sel);
+      if (!nodes.length) return;
+      tl.fromTo(
+        nodes,
+        { opacity: 0, y: y, filter: blur ? "blur(10px)" : "blur(0px)" },
+        { opacity: 1, y: 0, filter: "blur(0px)", duration: dur, stagger: stagger, ease: ease },
+        at,
+      );
+    }
+    enter("#hook .blur-word", 0.18, 0.055, "power3.out", 10, 0.42, true);
+    enter("#g-s1 .step span", 14.502, 0.05, "power3.out", 8, 0.4, true);
+    enter("#g-s1 .row > div", 14.72, 0.09, "power2.out", 22, 0.55, false);
+    enter("#g-folder .step span", 19.46, 0.05, "power3.out", 8, 0.4, true);
+    enter("#g-folder .folder, #g-folder .label", 19.62, 0.1, "expo.out", 20, 0.5, false);
+    enter("#g-tree .step span", 23.48, 0.05, "power3.out", 8, 0.4, true);
+    enter("#g-tree .stage > .folder, #g-tree .stage > .label", 23.7, 0.08, "expo.out", 18, 0.5, false);
+    tl.fromTo("#tree-lines .link", { strokeDashoffset: 280 }, { strokeDashoffset: 0, duration: 0.5, stagger: 0.1, ease: "power2.out" }, 24.22);
+    enter("#g-tree .row > div", 24.3, 0.1, "power2.out", 26, 0.55, false);
+    enter("#g-local .step span", 31.34, 0.045, "power3.out", 8, 0.4, true);
+    enter("#g-local .menu > div", 31.55, 0.09, "power3.inOut", 16, 0.48, false);
+    tl.fromTo("#g-tools", { opacity: 0 }, { opacity: 1, duration: 0.35, ease: "power3.out" }, 38.06);
+    enter("#g-tools .dots, #g-tools h2, #g-tools p", 38.2, 0.09, "power3.out", 18, 0.5, false);
+    tl.fromTo("#g-tools .spot", { x: -160, y: -20, opacity: 0 }, { x: 340, y: 70, opacity: 1, duration: 1.7, ease: "sine.inOut" }, 38.2);
+    enter("#g-mimic .step span", 44.636, 0.05, "power3.out", 8, 0.4, true);
+    enter("#g-mimic .phone", 44.85, 0.1, "power2.out", 28, 0.6, false);
+    enter("#g-mimic .label", 45.2, 0, "power3.out", 8, 0.36, true);
+    enter("#g-own .step span", 51.791, 0.05, "power3.out", 8, 0.36, true);
+    enter("#g-own .phone", 51.95, 0, "expo.out", 24, 0.5, false);
+    tl.fromTo("#g-style", { opacity: 0 }, { opacity: 1, duration: 0.35, ease: "power3.inOut" }, 55.402);
+    enter("#g-style .dots, #g-style h2, #g-style p", 55.55, 0.09, "power3.out", 16, 0.48, false);
+    enter("#g-film .step span", 61.425, 0.04, "power3.out", 8, 0.36, true);
+    enter("#g-film .phone, #g-film .folder", 61.58, 0.12, "expo.out", 22, 0.5, false);
+    tl.fromTo("#g-drop", { opacity: 0 }, { opacity: 1, duration: 0.35, ease: "power3.inOut" }, 64.175);
+    enter("#g-drop .dots, #g-drop h2, #g-drop p", 64.32, 0.08, "power3.out", 16, 0.46, false);
+    enter("#g-cuts .step span", 71.095, 0.04, "power3.out", 8, 0.36, true);
+    enter("#g-cuts .icon", 71.25, 0.12, "power2.out", 24, 0.5, false);
+    enter("#g-board .board div", 74.368, 0.07, "expo.out", 14, 0.4, false);
+    enter("#g-board .label", 74.72, 0, "power3.out", 8, 0.35, true);
+    enter("#g-fix .me", 76.631, 0, "expo.out", 12, 0.4, false);
+    enter("#g-fix .w", 77.05, 0.08, "power3.out", 0, 0.28, true);
+    enter("#g-flow .folder, #g-flow .stage > .label", 81.61, 0.08, "expo.out", 16, 0.45, false);
+    enter("#g-flow .row .label", 81.95, 0.08, "power2.out", 18, 0.45, false);
+    enter("#g-mix .laptop", 85.743, 0, "expo.out", 30, 0.6, false);
+    enter("#g-cta span", 93.203, 0.06, "expo.out", 10, 0.35, false);
+    window.__timelines["picture"] = tl;
+  </script>
+</template>

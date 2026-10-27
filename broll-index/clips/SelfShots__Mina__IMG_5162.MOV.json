@@ -1,0 +1,117 @@
+{
+  "path": "SelfShots/Mina/IMG_5162.MOV",
+  "folder": "SelfShots/Mina",
+  "fingerprint": "c2ce5d04218644d8",
+  "width": 1080,
+  "height": 1920,
+  "fps": 30.0,
+  "duration": 71.137,
+  "model": "gemini-3.8-flash",
+  "annotatedAt": "2026-10-24T18:57:49+00:00",
+  "summary": "A creator rests on the couch with their fluffy grey cat, Mina, lounging on their lap while receiving gentle head scratches.",
+  "location": "living room",
+  "setting": "indoor",
+  "time_of_day": "indoor_unknown",
+  "weather": "n/a",
+  "people": {
+    "count": 1,
+    "creator_visible": true,
+    "description": "Young person wearing a grey shirt and denim jeans, largely off-camera except for their hands petting the cat and a brief glance into the frame."
+  },
+  "camera": {
+    "style": "selfie",
+    "framing": "close",
+    "movement": "handheld_cinematic",
+    "angle": "low angle looking up"
+  },
+  "quality": {
+    "usable": true,
+    "stability": "steady",
+    "exposure": "good",
+    "issues": "Occasional slight motion blur when camera shifts."
+  },
+  "mood": [
+    "cozy",
+    "peaceful",
+    "affectionate",
+    "wholesome"
+  ],
+  "energy": "low",
+  "tags": [
+    "cat",
+    "pet",
+    "petting cat",
+    "couch",
+    "cuddles",
+    "lap cat",
+    "fluffy cat",
+    "relaxation",
+    "wholesome",
+    "feline",
+    "cozy evening",
+    "bonding"
+  ],
+  "moments": [
+    {
+      "start": 5.0,
+      "end": 13.5,
+      "action": "Creator gently pets the grey cat on the top of the head while it rests comfortably on their lap",
+      "emotion": "calm and sleepy",
+      "good_for": [
+        "peaceful moments at home",
+        "cat mom / cat dad life",
+        "soft living",
+        "unwinding after work"
+      ],
+      "score": 4
+    },
+    {
+      "start": 16.0,
+      "end": 26.5,
+      "action": "Owner rhythmically scritches the cat between its ears as the cat purrs softly with eyes half-closed",
+      "emotion": "content and relaxed",
+      "good_for": [
+        "reasons to stay home",
+        "little daily joys",
+        "mental health booster"
+      ],
+      "score": 4
+    },
+    {
+      "start": 28.5,
+      "end": 37.0,
+      "action": "Close-up of the cat looking right into the lens with big green eyes while getting head rubs",
+      "emotion": "curious and affectionate",
+      "good_for": [
+        "my favorite coworker",
+        "unconditional love",
+        "pet appreciation"
+      ],
+      "score": 5
+    },
+    {
+      "start": 44.0,
+      "end": 52.5,
+      "action": "Owner massages the cat under the chin and around the cheeks as the cat leans into the touch",
+      "emotion": "pure bliss",
+      "good_for": [
+        "the simple things in life",
+        "therapy animal",
+        "cozy vibes only"
+      ],
+      "score": 4
+    },
+    {
+      "start": 58.0,
+      "end": 65.5,
+      "action": "Owner's face peeks into the frame smiling gently while continuing to stroke the cat's head",
+      "emotion": "fond and loving",
+      "good_for": [
+        "who I do it for",
+        "coming home to this",
+        "best friends"
+      ],
+      "score": 4
+    }
+  ]
+}

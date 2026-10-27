@@ -1,0 +1,68 @@
+{
+  "path": "OneOffs/Apartments/FIDI/63WS/IMG_4349.MOV",
+  "folder": "OneOffs/Apartments/FIDI/63WS",
+  "fingerprint": "ba7709cbf1d5bc50",
+  "width": 1080,
+  "height": 1920,
+  "fps": 29.97,
+  "duration": 4.235,
+  "model": "gemini-3.8-flash",
+  "annotatedAt": "2026-10-24T18:20:29+00:00",
+  "summary": "Handheld shot panning across a shared apartment building laundry room with rows of stacked washers and dryers.",
+  "location": "laundry room",
+  "setting": "indoor",
+  "time_of_day": "indoor_unknown",
+  "weather": "n/a",
+  "people": {
+    "count": 0,
+    "creator_visible": false,
+    "description": "No people clearly visible in the frame."
+  },
+  "camera": {
+    "style": "handheld_cinematic",
+    "framing": "wide",
+    "movement": "pan",
+    "angle": "eye level"
+  },
+  "quality": {
+    "usable": true,
+    "stability": "steady",
+    "exposure": "good",
+    "issues": "None"
+  },
+  "mood": [
+    "mundane",
+    "neutral",
+    "routine",
+    "quiet"
+  ],
+  "energy": "low",
+  "tags": [
+    "laundry room",
+    "apartment building",
+    "washing machines",
+    "dryers",
+    "laundromat",
+    "chores",
+    "city living",
+    "fidi",
+    "routine",
+    "basement"
+  ],
+  "moments": [
+    {
+      "start": 0.0,
+      "end": 4.24,
+      "action": "Camera slowly pans across a clean, tiled apartment laundry room lined with stacked white commercial washers and dryers.",
+      "emotion": "mundane",
+      "good_for": [
+        "apartment hunting",
+        "amenities check",
+        "doing chores",
+        "city apartment reality",
+        "laundry day"
+      ],
+      "score": 3
+    }
+  ]
+}

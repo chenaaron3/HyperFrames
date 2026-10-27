@@ -1,0 +1,80 @@
+{
+  "path": "OneOffs/Cooking/IMG_4816.MOV",
+  "folder": "OneOffs/Cooking",
+  "fingerprint": "f14f5323657a3f01",
+  "width": 1080,
+  "height": 1920,
+  "fps": 30.0,
+  "duration": 6.533,
+  "model": "gemini-3.8-flash",
+  "annotatedAt": "2026-10-24T18:25:06+00:00",
+  "summary": "A person opens the lid of an Instant Pot on a kitchen counter to reveal freshly cooked white rice.",
+  "location": "kitchen",
+  "setting": "indoor",
+  "time_of_day": "indoor_unknown",
+  "weather": "n/a",
+  "people": {
+    "count": 0,
+    "creator_visible": false,
+    "description": "Only the creator's hand is seen twisting and opening the cooker lid"
+  },
+  "camera": {
+    "style": "pov_first_person",
+    "framing": "medium",
+    "movement": "handheld",
+    "angle": "high angle"
+  },
+  "quality": {
+    "usable": true,
+    "stability": "steady",
+    "exposure": "good",
+    "issues": ""
+  },
+  "mood": [
+    "cozy",
+    "domestic",
+    "calm",
+    "satisfying"
+  ],
+  "energy": "low",
+  "tags": [
+    "instant pot",
+    "cooking",
+    "rice",
+    "steamed rice",
+    "kitchen",
+    "meal prep",
+    "home cooking",
+    "dinner",
+    "pressure cooker",
+    "food",
+    "countertop"
+  ],
+  "moments": [
+    {
+      "start": 0.8,
+      "end": 4.5,
+      "action": "A hand twists and removes the lid of an Instant Pot, revealing cooked white rice inside",
+      "emotion": "satisfying",
+      "good_for": [
+        "food on my plate",
+        "home cooked meal",
+        "meal prep sunday",
+        "learning to cook"
+      ],
+      "score": 4
+    },
+    {
+      "start": 3.2,
+      "end": 6.5,
+      "action": "Static close shot of cooked white rice resting inside the open Instant Pot",
+      "emotion": "peaceful",
+      "good_for": [
+        "simple pleasures",
+        "warm meal",
+        "dinner ready"
+      ],
+      "score": 3
+    }
+  ]
+}

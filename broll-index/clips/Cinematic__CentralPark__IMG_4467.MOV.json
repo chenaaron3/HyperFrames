@@ -1,0 +1,70 @@
+{
+  "path": "Cinematic/CentralPark/IMG_4467.MOV",
+  "folder": "Cinematic/CentralPark",
+  "fingerprint": "f8043b1f017e9ae3",
+  "width": 1080,
+  "height": 1920,
+  "fps": 30.0,
+  "duration": 3.533,
+  "model": "gemini-3.8-flash",
+  "annotatedAt": "2026-10-24T18:18:41+00:00",
+  "summary": "A peaceful handheld shot of a paved walking path winding through dense green trees in Central Park, tilting up toward the leafy canopy and sky.",
+  "location": "park",
+  "setting": "outdoor",
+  "time_of_day": "day",
+  "weather": "sunny",
+  "people": {
+    "count": 0,
+    "creator_visible": false,
+    "description": "No people visible on screen"
+  },
+  "camera": {
+    "style": "pov_first_person",
+    "framing": "wide",
+    "movement": "tilt up",
+    "angle": "eye level to low angle looking up"
+  },
+  "quality": {
+    "usable": true,
+    "stability": "steady",
+    "exposure": "good",
+    "issues": ""
+  },
+  "mood": [
+    "peaceful",
+    "serene",
+    "nature",
+    "grounded"
+  ],
+  "energy": "low",
+  "tags": [
+    "central park",
+    "trees",
+    "canopy",
+    "nature walk",
+    "foliage",
+    "greenery",
+    "forest path",
+    "tranquility",
+    "outdoors",
+    "park walk",
+    "summer",
+    "peace of mind"
+  ],
+  "moments": [
+    {
+      "start": 0.0,
+      "end": 3.53,
+      "action": "Camera captures a shaded walking path lined by foliage and fences, then smoothly tilts up toward the lush green tree canopy.",
+      "emotion": "calm",
+      "good_for": [
+        "nature walks to clear your mind",
+        "finding peace in the city",
+        "grounding yourself outdoors",
+        "peace of mind",
+        "taking a breather"
+      ],
+      "score": 3
+    }
+  ]
+}

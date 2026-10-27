@@ -1,0 +1,69 @@
+{
+  "path": "Cinematic/Chinatown/IMG_4793.mov",
+  "folder": "Cinematic/Chinatown",
+  "fingerprint": "3b1b421892e1bdd5",
+  "width": 1080,
+  "height": 1920,
+  "fps": 30.0,
+  "duration": 4.6,
+  "model": "gemini-3.8-flash",
+  "annotatedAt": "2026-10-24T18:19:34+00:00",
+  "summary": "Interior view of an Asian grocery market showing a deli/prep counter with workers in aprons and stacked food containers behind fresh produce displays.",
+  "location": "Asian grocery store",
+  "setting": "indoor",
+  "time_of_day": "indoor_unknown",
+  "weather": "n/a",
+  "people": {
+    "count": 4,
+    "creator_visible": false,
+    "description": "Store employees in white shirts and aprons working behind a food prep counter, along with a couple of background shoppers browsing shelves."
+  },
+  "camera": {
+    "style": "pov_first_person",
+    "framing": "medium",
+    "movement": "static",
+    "angle": "eye level"
+  },
+  "quality": {
+    "usable": true,
+    "stability": "steady",
+    "exposure": "mixed",
+    "issues": "Slight fluorescent glare and lower contrast typical of indoor market lighting"
+  },
+  "mood": [
+    "mundane",
+    "authentic",
+    "everyday",
+    "calm"
+  ],
+  "energy": "low",
+  "tags": [
+    "chinatown",
+    "asian market",
+    "grocery store",
+    "food prep",
+    "asian pears",
+    "shopping",
+    "city life",
+    "b-roll",
+    "daily routine",
+    "errands",
+    "produce",
+    "supermarket"
+  ],
+  "moments": [
+    {
+      "start": 0.0,
+      "end": 4.6,
+      "action": "A steady POV shot of a busy market counter with workers packaging food and crates of packaged fruit in the foreground",
+      "emotion": "calm",
+      "good_for": [
+        "grocery run",
+        "sunday errands",
+        "neighborhood market",
+        "exploring chinatown"
+      ],
+      "score": 3
+    }
+  ]
+}

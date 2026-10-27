@@ -1,0 +1,79 @@
+{
+  "path": "OneOffs/RainyDayArmanRishi/IMG_4646.MOV",
+  "folder": "OneOffs/RainyDayArmanRishi",
+  "fingerprint": "8ea60e6ea7de251b",
+  "width": 1080,
+  "height": 1920,
+  "fps": 30.0,
+  "duration": 5.9,
+  "model": "gemini-3.8-flash",
+  "annotatedAt": "2026-10-24T18:36:52+00:00",
+  "summary": "A young man browses shelves filled with tea and artisan goods inside a cozy specialty shop while an employee works behind the counter.",
+  "location": "tea shop",
+  "setting": "indoor",
+  "time_of_day": "indoor_unknown",
+  "weather": "n/a",
+  "people": {
+    "count": 3,
+    "creator_visible": true,
+    "description": "A young man wearing glasses and a black jacket looking at products, a friend standing next to him, and a shopkeeper behind the counter."
+  },
+  "camera": {
+    "style": "filmed_by_friend",
+    "framing": "medium",
+    "movement": "pan",
+    "angle": "eye level"
+  },
+  "quality": {
+    "usable": true,
+    "stability": "handheld",
+    "exposure": "good",
+    "issues": ""
+  },
+  "mood": [
+    "calm",
+    "curious",
+    "cozy",
+    "peaceful"
+  ],
+  "energy": "low",
+  "tags": [
+    "tea shop",
+    "shopping",
+    "browsing",
+    "friends",
+    "cozy aesthetic",
+    "rainy day activity",
+    "teaware",
+    "boutique",
+    "indoor",
+    "lifestyle"
+  ],
+  "moments": [
+    {
+      "start": 0.0,
+      "end": 3.0,
+      "action": "A man in glasses looks attentively at curated tea and gift packages on wooden shelves.",
+      "emotion": "focused",
+      "good_for": [
+        "rainy day routines",
+        "supporting small businesses",
+        "weekend errands",
+        "romanticizing little moments"
+      ],
+      "score": 3
+    },
+    {
+      "start": 3.0,
+      "end": 5.9,
+      "action": "The camera pans past the browsing friends toward the cozy store interior and tea counter.",
+      "emotion": "calm",
+      "good_for": [
+        "exploring local shops",
+        "cozy tea spots",
+        "afternoon aesthetic"
+      ],
+      "score": 3
+    }
+  ]
+}

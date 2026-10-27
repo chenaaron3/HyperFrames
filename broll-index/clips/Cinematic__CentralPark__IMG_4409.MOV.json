@@ -1,0 +1,81 @@
+{
+  "path": "Cinematic/CentralPark/IMG_4409.MOV",
+  "folder": "Cinematic/CentralPark",
+  "fingerprint": "9904288eebf1bed2",
+  "width": 1080,
+  "height": 1920,
+  "fps": 30.0,
+  "duration": 6.867,
+  "model": "gemini-3.8-flash",
+  "annotatedAt": "2026-10-24T18:17:36+00:00",
+  "summary": "Crew members setting up a fake snow ground covering and a snowman on a sunny day in Central Park under leafy green trees.",
+  "location": "park",
+  "setting": "outdoor",
+  "time_of_day": "day",
+  "weather": "sunny",
+  "people": {
+    "count": 6,
+    "creator_visible": false,
+    "description": "Production crew in the background smoothing out a white sheet with a snowman, and park visitors walking past in the foreground"
+  },
+  "camera": {
+    "style": "pov_first_person",
+    "framing": "wide",
+    "movement": "static",
+    "angle": "eye level"
+  },
+  "quality": {
+    "usable": true,
+    "stability": "steady",
+    "exposure": "good",
+    "issues": "people walking across foreground in second half"
+  },
+  "mood": [
+    "curious",
+    "surreal",
+    "peaceful",
+    "quirky"
+  ],
+  "energy": "low",
+  "tags": [
+    "central park",
+    "new york city",
+    "movie set",
+    "production",
+    "fake snow",
+    "snowman",
+    "trees",
+    "summer",
+    "behind the scenes",
+    "nyc life",
+    "park",
+    "sunlight"
+  ],
+  "moments": [
+    {
+      "start": 0.0,
+      "end": 3.5,
+      "action": "Wide view of a movie crew setting up a fake snow blanket and a snowman under lush green trees",
+      "emotion": "curious",
+      "good_for": [
+        "only in new york",
+        "behind the scenes",
+        "movie magic in the park",
+        "random things you see on a walk"
+      ],
+      "score": 3
+    },
+    {
+      "start": 3.5,
+      "end": 6.87,
+      "action": "Pedestrians walk through the foreground as the crew finishes laying down the fake snow",
+      "emotion": "indifferent",
+      "good_for": [
+        "city strolls",
+        "unfazed new yorkers",
+        "weekend wandering"
+      ],
+      "score": 2
+    }
+  ]
+}

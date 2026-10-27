@@ -1,0 +1,71 @@
+{
+  "path": "Cinematic/CentralPark/IMG_4484.MOV",
+  "folder": "Cinematic/CentralPark",
+  "fingerprint": "ced13213111d9f79",
+  "width": 1080,
+  "height": 1920,
+  "fps": 30.0,
+  "duration": 4.333,
+  "model": "gemini-3.8-flash",
+  "annotatedAt": "2026-10-24T18:19:01+00:00",
+  "summary": "Pedestrians stroll along a wide tree-lined sidewalk bordering Central Park in New York City under a lush green canopy.",
+  "location": "park",
+  "setting": "outdoor",
+  "time_of_day": "day",
+  "weather": "overcast",
+  "people": {
+    "count": 15,
+    "creator_visible": false,
+    "description": "Diverse crowd of pedestrians walking along the path in casual and smart-casual clothing, seen from behind and approaching."
+  },
+  "camera": {
+    "style": "pov_first_person",
+    "framing": "wide",
+    "movement": "walking",
+    "angle": "eye level"
+  },
+  "quality": {
+    "usable": true,
+    "stability": "steady",
+    "exposure": "good",
+    "issues": ""
+  },
+  "mood": [
+    "peaceful",
+    "autumnal",
+    "urban",
+    "relaxed"
+  ],
+  "energy": "low",
+  "tags": [
+    "central park",
+    "new york city",
+    "manhattan",
+    "pedestrians",
+    "walking",
+    "trees",
+    "canopy",
+    "sidewalk",
+    "autumn",
+    "fall vibes",
+    "nature in city",
+    "stroll",
+    "b roll"
+  ],
+  "moments": [
+    {
+      "start": 0.0,
+      "end": 4.33,
+      "action": "Camera tracks slowly forward behind people walking along the tree-covered Central Park perimeter pathway.",
+      "emotion": "calm",
+      "good_for": [
+        "autumn in new york",
+        "taking a walk to clear my head",
+        "sunday stroll",
+        "city breaks",
+        "peace in the middle of chaos"
+      ],
+      "score": 4
+    }
+  ]
+}

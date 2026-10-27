@@ -1,0 +1,590 @@
+{
+  "id": "story-2",
+  "name": "This is Makayla.",
+  "reference": "references/viral-formats/story-2.mp4",
+  "source": "/Users/aaron/Downloads/100 Viral Formats (Format Book)/Storytelling/#2/#2.mp4",
+  "duration": 63.133,
+  "music": {
+    "from": "reference",
+    "title": "None. (The voice over is from Capcut) - Father Christmas"
+  },
+  "text": {
+    "y": 0.729,
+    "size": 54,
+    "weight": 700,
+    "lineHeight": 1.4,
+    "maxWidth": 900,
+    "style": "outline"
+  },
+  "lines": [
+    {
+      "id": "l1",
+      "start": 0.0,
+      "end": 1.033,
+      "ref": "This is Makayla.",
+      "y": 0.729,
+      "measuredSize": 58,
+      "style": "plain_white_shadow",
+      "guide": ""
+    },
+    {
+      "id": "l2",
+      "start": 2.467,
+      "end": 4.633,
+      "ref": "She is a nineteen\nyear old unemployed\ndropout now.",
+      "y": 0.73,
+      "measuredSize": 54,
+      "style": "plain_white_shadow",
+      "guide": ""
+    },
+    {
+      "id": "l3",
+      "start": 4.633,
+      "end": 6.333,
+      "ref": "Why is she in such a\npickle you may ask?",
+      "y": 0.73,
+      "measuredSize": 58,
+      "style": "plain_white_shadow",
+      "guide": ""
+    },
+    {
+      "id": "l4",
+      "start": 6.333,
+      "end": 8.833,
+      "ref": "Well just last month\nher creative writing\nprofessor told her",
+      "y": 0.73,
+      "measuredSize": 62,
+      "style": "plain_white_shadow",
+      "guide": ""
+    },
+    {
+      "id": "l5",
+      "start": 8.833,
+      "end": 11.833,
+      "ref": "to never try to become\na professional author\nbecause she won’t “make it”.",
+      "y": 0.732,
+      "measuredSize": 56,
+      "style": "plain_white_shadow",
+      "guide": ""
+    },
+    {
+      "id": "l6",
+      "start": 11.833,
+      "end": 13.5,
+      "ref": "And because Makayla\nis such a petty bitch",
+      "y": 0.73,
+      "measuredSize": 56,
+      "style": "plain_white_shadow",
+      "guide": ""
+    },
+    {
+      "id": "l7",
+      "start": 13.667,
+      "end": 15.167,
+      "ref": "that likes to clap\nback at men,",
+      "y": 0.73,
+      "measuredSize": 49,
+      "style": "plain_white_shadow",
+      "guide": ""
+    },
+    {
+      "id": "l8",
+      "start": 15.167,
+      "end": 16.6,
+      "ref": "she is determined\nto prove him wrong.",
+      "y": 0.73,
+      "measuredSize": 50,
+      "style": "plain_white_shadow",
+      "guide": ""
+    },
+    {
+      "id": "l9",
+      "start": 16.6,
+      "end": 18.4,
+      "ref": "So she dropped\nher classes for\nnext semester,",
+      "y": 0.73,
+      "measuredSize": 43,
+      "style": "plain_white_shadow",
+      "guide": ""
+    },
+    {
+      "id": "l10",
+      "start": 18.4,
+      "end": 20.1,
+      "ref": "finally quit her\nmind numbing job,",
+      "y": 0.732,
+      "measuredSize": 66,
+      "style": "plain_white_shadow",
+      "guide": ""
+    },
+    {
+      "id": "l11",
+      "start": 20.1,
+      "end": 22.0,
+      "ref": "and thought of an\nabsolute banger\nbook idea.",
+      "y": 0.73,
+      "measuredSize": 52,
+      "style": "plain_white_shadow",
+      "guide": ""
+    },
+    {
+      "id": "l12",
+      "start": 22.0,
+      "end": 23.033,
+      "ref": "✨Imagine a world✨",
+      "y": 0.734,
+      "measuredSize": 41,
+      "style": "plain_white_shadow",
+      "guide": ""
+    },
+    {
+      "id": "l13",
+      "start": 23.033,
+      "end": 23.6,
+      "ref": "where a witch",
+      "y": 0.73,
+      "measuredSize": 54,
+      "style": "plain_white_shadow",
+      "guide": ""
+    },
+    {
+      "id": "l14",
+      "start": 23.6,
+      "end": 24.933,
+      "ref": "strikes a deal\nwith a Crown Prince",
+      "y": 0.73,
+      "measuredSize": 57,
+      "style": "plain_white_shadow",
+      "guide": ""
+    },
+    {
+      "id": "l15",
+      "start": 24.933,
+      "end": 26.033,
+      "ref": "that promises\nher freedom.",
+      "y": 0.733,
+      "measuredSize": 42,
+      "style": "plain_white_shadow",
+      "guide": ""
+    },
+    {
+      "id": "l16",
+      "start": 26.033,
+      "end": 27.5,
+      "ref": "Only, she isn’t after\nfreedom...",
+      "y": 0.729,
+      "measuredSize": 51,
+      "style": "plain_white_shadow",
+      "guide": ""
+    },
+    {
+      "id": "l17",
+      "start": 27.5,
+      "end": 28.5,
+      "ref": "...she’s after revenge.",
+      "y": 0.73,
+      "measuredSize": 56,
+      "style": "plain_white_shadow",
+      "guide": ""
+    },
+    {
+      "id": "l18",
+      "start": 28.5,
+      "end": 30.767,
+      "ref": "And has some crazy\nass plans to manipulate\nhis feelings,",
+      "y": 0.732,
+      "measuredSize": 43,
+      "style": "plain_white_shadow",
+      "guide": ""
+    },
+    {
+      "id": "l19",
+      "start": 30.767,
+      "end": 32.533,
+      "ref": "and infiltrate his palace\nthrough marriage",
+      "y": 0.733,
+      "measuredSize": 59,
+      "style": "plain_white_shadow",
+      "guide": ""
+    },
+    {
+      "id": "l20",
+      "start": 32.533,
+      "end": 34.033,
+      "ref": "to take down his\nfamily’s corrupt legacy.",
+      "y": 0.733,
+      "measuredSize": 66,
+      "style": "plain_white_shadow",
+      "guide": ""
+    },
+    {
+      "id": "l21",
+      "start": 34.033,
+      "end": 34.933,
+      "ref": "Pretty epic right?",
+      "y": 0.733,
+      "measuredSize": 75,
+      "style": "plain_white_shadow",
+      "guide": ""
+    },
+    {
+      "id": "l22",
+      "start": 34.933,
+      "end": 36.8,
+      "ref": "So Makayla has\nspent the past\nmonth writing",
+      "y": 0.72,
+      "measuredSize": 52,
+      "style": "plain_white_shadow",
+      "guide": ""
+    },
+    {
+      "id": "l23",
+      "start": 36.8,
+      "end": 39.9,
+      "ref": "to deliver this book\nto the die-hard fans\nof Powerless & ACOTAR",
+      "y": 0.707,
+      "measuredSize": 57,
+      "style": "plain_white_shadow",
+      "guide": ""
+    },
+    {
+      "id": "l24",
+      "start": 39.9,
+      "end": 42.567,
+      "ref": "Because not only is\nshe going to be a\nbestseller to prove her\nprofessor wrong...",
+      "y": 0.741,
+      "measuredSize": 57,
+      "style": "plain_white_shadow",
+      "guide": ""
+    },
+    {
+      "id": "l25",
+      "start": 42.567,
+      "end": 45.567,
+      "ref": "she is going to be\na bestseller in the\nromantasy genre to\nhaunt him even more.",
+      "y": 0.734,
+      "measuredSize": 54,
+      "style": "plain_white_shadow",
+      "guide": ""
+    },
+    {
+      "id": "l26",
+      "start": 45.567,
+      "end": 48.9,
+      "ref": "So she calls upon the\nbook girlies that are\nnot just interested\nin her story...",
+      "y": 0.73,
+      "measuredSize": 55,
+      "style": "plain_white_shadow",
+      "guide": ""
+    },
+    {
+      "id": "l27",
+      "start": 48.9,
+      "end": 50.367,
+      "ref": "...but interested in\nforming an alliance.",
+      "y": 0.736,
+      "measuredSize": 49,
+      "style": "plain_white_shadow",
+      "guide": ""
+    },
+    {
+      "id": "l28",
+      "start": 50.4,
+      "end": 52.033,
+      "ref": "An army of book\ngirlies, if you will",
+      "y": 0.73,
+      "measuredSize": 49,
+      "style": "plain_white_shadow",
+      "guide": ""
+    },
+    {
+      "id": "l29",
+      "start": 52.033,
+      "end": 56.1,
+      "ref": "that think standing\nup for our art,\nstories, and dreams\nagainst mean ass men\nis important.",
+      "y": 0.729,
+      "measuredSize": 43,
+      "style": "plain_white_shadow",
+      "guide": ""
+    },
+    {
+      "id": "l30",
+      "start": 56.1,
+      "end": 59.167,
+      "ref": "Makayla asks that\nyou wish her luck\nand follow along\nif you’re ready to see",
+      "y": 0.729,
+      "measuredSize": 58,
+      "style": "plain_white_shadow",
+      "guide": ""
+    },
+    {
+      "id": "l31",
+      "start": 59.167,
+      "end": 60.667,
+      "ref": "a journey full\nof imposter\nsyndrome,",
+      "y": 0.733,
+      "measuredSize": 41,
+      "style": "plain_white_shadow",
+      "guide": ""
+    },
+    {
+      "id": "l32",
+      "start": 60.667,
+      "end": 61.533,
+      "ref": "writers block,",
+      "y": 0.73,
+      "measuredSize": 56,
+      "style": "plain_white_shadow",
+      "guide": ""
+    },
+    {
+      "id": "l33",
+      "start": 61.533,
+      "end": 63.133,
+      "ref": "and most of all\nreally fucking hard work 🫶",
+      "y": 0.82,
+      "measuredSize": 24,
+      "style": "plain_white_shadow",
+      "guide": ""
+    }
+  ],
+  "shots": [
+    {
+      "id": "s1",
+      "start": 0.0,
+      "end": 2.467,
+      "brief": "walking outside in extreme weather (snow or rain), selfie (ref: Creator walking outside through heavy snow, bundled in beanie and scarf, smiling and reacting to the weather.; selfie)",
+      "line": null
+    },
+    {
+      "id": "s2",
+      "start": 2.467,
+      "end": 4.633,
+      "brief": "sitting in public transit or waiting room holding a book and being playful (ref: Creator sitting in an airport waiting area holding a paperback book open, sticking her tongue out playfully.; filmed by friend)",
+      "line": "l2"
+    },
+    {
+      "id": "s3",
+      "start": 4.633,
+      "end": 6.333,
+      "brief": "lying in bed drinking from a mug or tumbler (ref: Creator lying in bed under a heavy blanket sipping from a travel tumbler.; tripod)",
+      "line": "l3"
+    },
+    {
+      "id": "s4",
+      "start": 6.333,
+      "end": 8.833,
+      "brief": "talking/ranting animatedly to camera (ref: Creator in red sleeveless top gesturing and venting animatedly toward camera.; selfie)",
+      "line": "l4"
+    },
+    {
+      "id": "s5",
+      "start": 8.833,
+      "end": 11.833,
+      "brief": "running hand through hair, posing thoughtfully (ref: Creator running hand through styled hair, gazing thoughtfully slightly off-camera.; selfie)",
+      "line": "l5"
+    },
+    {
+      "id": "s6",
+      "start": 11.833,
+      "end": 15.167,
+      "brief": "working on a laptop on the couch (ref: Creator sitting on couch typing determinedly on a laptop.; tripod)",
+      "line": null
+    },
+    {
+      "id": "s7",
+      "start": 15.167,
+      "end": 16.6,
+      "brief": "typing on laptop on a couch (ref: Creator seated on a dark sofa with laptop on lap, continuing to type.; tripod)",
+      "line": "l8"
+    },
+    {
+      "id": "s8",
+      "start": 16.6,
+      "end": 18.4,
+      "brief": "close-up of a digital calendar or course schedule on laptop screen (ref: Close-up of laptop screen displaying a university course registration portal schedule.; POV)",
+      "line": "l9"
+    },
+    {
+      "id": "s9",
+      "start": 18.4,
+      "end": 20.1,
+      "brief": "POV walking out of a retail/workplace setting (ref: POV looking out from a greenhouse or garden center nursery toward stacks of soil bags on a sunny day.; POV)",
+      "line": "l10"
+    },
+    {
+      "id": "s10",
+      "start": 20.1,
+      "end": 22.0,
+      "brief": "corkboard or whiteboard covered in project sticky notes (ref: Close-up of a cork pinboard filled with colorful sticky notes, novel character maps, and plot outlines.; tripod)",
+      "line": "l11"
+    },
+    {
+      "id": "s11",
+      "start": 22.0,
+      "end": 23.033,
+      "brief": "fantasy battlefield concept art image (ref: Fantasy illustration of twin swords in a grassy battlefield under sunbeams breaking through storm clouds.; other)",
+      "line": "l12"
+    },
+    {
+      "id": "s12",
+      "start": 23.033,
+      "end": 23.6,
+      "brief": "witch/scholar in dark library concept art image (ref: Fantasy illustration of a cloaked figure reading a book in an ancient candlelit gothic library.; other)",
+      "line": "l13"
+    },
+    {
+      "id": "s13",
+      "start": 23.6,
+      "end": 24.933,
+      "brief": "warrior prince concept art image (ref: Fantasy illustration of a muscular warrior prince in armor with a sword strapped on his back in a dark misty forest.; other)",
+      "line": "l14"
+    },
+    {
+      "id": "s14",
+      "start": 24.933,
+      "end": 26.033,
+      "brief": "rooftop assassin/witch overlooking city concept art image (ref: Fantasy illustration of a hooded woman in a red cape sitting on a high castle ledge overlooking a sprawling medieval city at sunset.; other)",
+      "line": "l15"
+    },
+    {
+      "id": "s15",
+      "start": 26.033,
+      "end": 27.5,
+      "brief": "fairytale castle concept art image (ref: Fantasy illustration of a grand fairytale castle nestled among pine trees, mountains, and a waterfall.; other)",
+      "line": "l16"
+    },
+    {
+      "id": "s16",
+      "start": 27.5,
+      "end": 29.6,
+      "brief": "grand royal gothic ballroom concept art image (ref: Fantasy illustration of a grand crimson ballroom filled with masked nobles, with a woman in a dramatic black dress walking down the center.; other)",
+      "line": "l18"
+    },
+    {
+      "id": "s17",
+      "start": 29.6,
+      "end": 30.767,
+      "brief": "coronation amid fire fantasy art image (ref: Fantasy illustration of a queen placing a crown on a kneeling knight against a backdrop of fire.; other)",
+      "line": "l18"
+    },
+    {
+      "id": "s18",
+      "start": 30.767,
+      "end": 34.033,
+      "brief": "gothic palace hall concept art image (ref: Fantasy illustration of a shadowy gothic palace hall with towering stone pillars and candle sconces.; other)",
+      "line": "l19"
+    },
+    {
+      "id": "s19",
+      "start": 34.033,
+      "end": 34.933,
+      "brief": "posing playfully holding a pet cat or dog (ref: Creator holding a black-and-white cat close to her face, making a playful pouting expression.; selfie)",
+      "line": "l21"
+    },
+    {
+      "id": "s20",
+      "start": 34.933,
+      "end": 36.8,
+      "brief": "working at desk on laptop (ref: Creator in hoodie sitting at desk writing on laptop, hand on mouse, looking focused.; tripod)",
+      "line": "l22"
+    },
+    {
+      "id": "s21",
+      "start": 36.8,
+      "end": 39.433,
+      "brief": "displaying a popular book cover (ref: Close-up shot of the fantasy romance book 'Powerless' by Lauren Roberts on a textured throw.; top-down)",
+      "line": "l23"
+    },
+    {
+      "id": "s22",
+      "start": 39.433,
+      "end": 39.9,
+      "brief": "displaying a fantasy book cover (ref: Close-up shot of Sarah J. Maas's 'A Court of Mist and Fury' on a fuzzy blanket.; top-down)",
+      "line": "l23"
+    },
+    {
+      "id": "s23",
+      "start": 39.9,
+      "end": 42.567,
+      "brief": "pinning notes onto corkboard from behind (ref: Over-the-shoulder view of creator pinning plot index cards and notes onto corkboard wall.; tripod)",
+      "line": "l24"
+    },
+    {
+      "id": "s24",
+      "start": 42.567,
+      "end": 45.567,
+      "brief": "double thumbs-up celebration at desk followed by picking up drink (ref: Creator sitting at desk giving enthusiastic double thumbs-up and laughing, then picking up an iced coffee glass.; tripod)",
+      "line": "l25"
+    },
+    {
+      "id": "s25",
+      "start": 45.567,
+      "end": 48.9,
+      "brief": "speaking into a mini lapel mic in front of a bookshelf (ref: Creator sitting in front of packed bookshelves holding a tiny wireless lapel microphone to her mouth.; tripod)",
+      "line": "l26"
+    },
+    {
+      "id": "s26",
+      "start": 48.9,
+      "end": 52.033,
+      "brief": "posing outdoors on a nature trail with drink (ref: Full-body shot of creator on a forest trail path in black outfit, flashing a peace sign with her phone and tumbler.; tripod)",
+      "line": "l28"
+    },
+    {
+      "id": "s27",
+      "start": 52.033,
+      "end": 56.1,
+      "brief": "typing intently at desk looking at monitor (ref: Side-angle medium close-up of creator staring intently at computer screen while typing.; tripod)",
+      "line": "l29"
+    },
+    {
+      "id": "s28",
+      "start": 56.1,
+      "end": 59.167,
+      "brief": "sitting on floor working on laptop (ref: Creator sitting cross-legged on floor in front of bed/desk typing quickly on laptop.; tripod)",
+      "line": "l30"
+    },
+    {
+      "id": "s29",
+      "start": 59.167,
+      "end": 60.667,
+      "brief": "wearing headphones looking exhausted/stressed (ref: Creator wearing over-ear headphones looking stressed, sighing and putting hands on hips.; selfie)",
+      "line": "l31"
+    },
+    {
+      "id": "s30",
+      "start": 60.667,
+      "end": 61.533,
+      "brief": "head resting on hand looking bored/stuck at counter (ref: Creator resting head in hand at kitchen counter looking fatigued with writer's block.; tripod)",
+      "line": "l32"
+    },
+    {
+      "id": "s31",
+      "start": 61.533,
+      "end": 63.133,
+      "brief": "typing on laptop in cafe/coworking space (ref: Creator typing quickly on laptop at a cafe table with AirPods in, smiling as she works.; tripod)",
+      "line": "l33"
+    }
+  ],
+  "audit": {
+    "kind": "voiceover_over_broll",
+    "creatorSpeaks": false,
+    "audio": "speech",
+    "special": [
+      "Fantasy concept art / digital illustrations matching book trope",
+      "Plotting board / corkboard with colored index cards",
+      "Physical copies of target comp books (Powerless, ACOTAR)",
+      "College course portal schedule screen",
+      "Handheld mini microphone"
+    ],
+    "reusable": false,
+    "notes": "This video relies entirely on a pre-recorded CapCut automated text-to-speech voiceover narrating a highly specific personal backstory and fantasy book pitch. Furthermore, it incorporates nine consecutive fantasy novel concept art stills, actual physical book covers, and plot outlining boards that cannot be substituted with generic lifestyle clips.",
+    "summary": "A writer introduces herself and her journey using a third-person CapCut TTS voiceover, recounting how she dropped out of college out of spite after a professor doubted her, pitching her upcoming romantasy novel with fantasy art illustrations, and inviting book lovers to follow along."
+  },
+  "caption": {
+    "ref": "",
+    "guide": ""
+  },
+  "draft": true
+}

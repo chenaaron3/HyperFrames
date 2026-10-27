@@ -1,0 +1,94 @@
+{
+  "path": "OneOffs/Cooking/IMG_4805.MOV",
+  "folder": "OneOffs/Cooking",
+  "fingerprint": "1f35bedd8fbab0e0",
+  "width": 1080,
+  "height": 1920,
+  "fps": 30.0,
+  "duration": 53.803,
+  "model": "gemini-3.8-flash",
+  "annotatedAt": "2026-10-24T18:24:46+00:00",
+  "summary": "A person cooks green curry paste in a stainless steel saucepan over a gas burner flame in a kitchen.",
+  "location": "kitchen",
+  "setting": "indoor",
+  "time_of_day": "indoor_unknown",
+  "weather": "n/a",
+  "people": {
+    "count": 1,
+    "creator_visible": false,
+    "description": "Only hands and arms of the person cooking are visible."
+  },
+  "camera": {
+    "style": "pov_first_person",
+    "framing": "medium",
+    "movement": "handheld_cinematic",
+    "angle": "high angle"
+  },
+  "quality": {
+    "usable": true,
+    "stability": "steady",
+    "exposure": "good",
+    "issues": ""
+  },
+  "mood": [
+    "culinary",
+    "routine",
+    "domestic",
+    "focused"
+  ],
+  "energy": "low",
+  "tags": [
+    "cooking",
+    "curry paste",
+    "gas stove",
+    "saucepan",
+    "kitchen",
+    "home cooking",
+    "sautéing",
+    "stirring",
+    "food prep",
+    "curry",
+    "dinner time"
+  ],
+  "moments": [
+    {
+      "start": 1.5,
+      "end": 3.5,
+      "action": "Person holds up an open can of Thai green curry paste towards the camera over the stove",
+      "emotion": "focused",
+      "good_for": [
+        "secret ingredient",
+        "making dinner",
+        "home cooked meal",
+        "curry night"
+      ],
+      "score": 3
+    },
+    {
+      "start": 13.0,
+      "end": 18.0,
+      "action": "Person shakes and dumps green curry paste from the can into the hot saucepan where it sizzles",
+      "emotion": "anticipatory",
+      "good_for": [
+        "cooking from scratch",
+        "satisfying sizzle",
+        "dinner prep",
+        "easy meals"
+      ],
+      "score": 4
+    },
+    {
+      "start": 44.5,
+      "end": 53.0,
+      "action": "Using a grey silicone spatula, the person stirs and breaks down the green curry paste frying in the pot",
+      "emotion": "calm",
+      "good_for": [
+        "cooking therapy",
+        "weekday dinner",
+        "learning to cook",
+        "comfort food"
+      ],
+      "score": 4
+    }
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "path": "Cinematic/CentralPark/IMG_4451.MOV",
+  "folder": "Cinematic/CentralPark",
+  "fingerprint": "0b1c7cbc47ca27fa",
+  "width": 1080,
+  "height": 1920,
+  "fps": 30.0,
+  "duration": 2.1,
+  "model": "gemini-3.8-flash",
+  "annotatedAt": "2026-10-24T18:18:20+00:00",
+  "summary": "A peaceful handheld shot panning across a curved paved walking path lined with trees and a classic lamppost in Central Park.",
+  "location": "park",
+  "setting": "outdoor",
+  "time_of_day": "day",
+  "weather": "sunny",
+  "people": {
+    "count": 0,
+    "creator_visible": false,
+    "description": "No people visible."
+  },
+  "camera": {
+    "style": "handheld_cinematic",
+    "framing": "wide",
+    "movement": "pan",
+    "angle": "eye level"
+  },
+  "quality": {
+    "usable": true,
+    "stability": "steady",
+    "exposure": "good",
+    "issues": ""
+  },
+  "mood": [
+    "peaceful",
+    "serene",
+    "nature",
+    "quiet",
+    "calm"
+  ],
+  "energy": "low",
+  "tags": [
+    "central park",
+    "new york",
+    "park path",
+    "walking trail",
+    "trees",
+    "lamppost",
+    "nature walk",
+    "sunny day",
+    "lush foliage",
+    "scenic",
+    "tranquility",
+    "outdoors"
+  ],
+  "moments": [
+    {
+      "start": 0.0,
+      "end": 2.1,
+      "action": "Camera slowly pans right along a paved walkway framed by green trees and a traditional black park lamppost under a sunny sky.",
+      "emotion": "calm",
+      "good_for": [
+        "morning walks",
+        "peace of mind",
+        "finding quiet in the city",
+        "fresh air",
+        "nature healing"
+      ],
+      "score": 4
+    }
+  ]
+}

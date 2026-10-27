@@ -1,0 +1,71 @@
+{
+  "path": "Cinematic/CentralPark/IMG_4455.MOV",
+  "folder": "Cinematic/CentralPark",
+  "fingerprint": "43550a10141c69ed",
+  "width": 1080,
+  "height": 1920,
+  "fps": 30.0,
+  "duration": 2.598,
+  "model": "gemini-3.8-flash",
+  "annotatedAt": "2026-10-24T18:18:29+00:00",
+  "summary": "A peaceful wide shot of a tree-lined dirt path in Central Park with lush green foliage and distant visitors walking.",
+  "location": "park",
+  "setting": "outdoor",
+  "time_of_day": "day",
+  "weather": "sunny",
+  "people": {
+    "count": 3,
+    "creator_visible": false,
+    "description": "Distant pedestrians strolling along the dirt path under the tree canopy, one carrying a red bag"
+  },
+  "camera": {
+    "style": "handheld_cinematic",
+    "framing": "wide",
+    "movement": "static",
+    "angle": "eye level"
+  },
+  "quality": {
+    "usable": true,
+    "stability": "steady",
+    "exposure": "good",
+    "issues": ""
+  },
+  "mood": [
+    "peaceful",
+    "serene",
+    "tranquil",
+    "refreshing"
+  ],
+  "energy": "low",
+  "tags": [
+    "central park",
+    "park path",
+    "greenery",
+    "trees",
+    "nature",
+    "foliage",
+    "nyc",
+    "walking",
+    "stroll",
+    "summer",
+    "peaceful",
+    "scenic"
+  ],
+  "moments": [
+    {
+      "start": 0.0,
+      "end": 2.6,
+      "action": "Static view of a lush green tree canopy framing a quiet dirt path with distant people walking",
+      "emotion": "calm",
+      "good_for": [
+        "peace of mind",
+        "getting outside",
+        "taking a breath",
+        "sunday stroll",
+        "nature in the city",
+        "simple moments"
+      ],
+      "score": 4
+    }
+  ]
+}

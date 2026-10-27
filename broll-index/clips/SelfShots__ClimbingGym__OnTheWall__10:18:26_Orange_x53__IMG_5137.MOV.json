@@ -1,0 +1,119 @@
+{
+  "path": "SelfShots/ClimbingGym/OnTheWall/10:18:26_Orange_x53/IMG_5137.MOV",
+  "folder": "SelfShots/ClimbingGym/OnTheWall/10:18:26_Orange_x53",
+  "fingerprint": "fb0775927b6bdc25",
+  "width": 1080,
+  "height": 1920,
+  "fps": 30.0,
+  "duration": 60.505,
+  "model": "gemini-3.8-flash",
+  "annotatedAt": "2026-10-24T18:45:24+00:00",
+  "summary": "A young man in a tank top climbs an indoor bouldering wall, navigating challenging holds carefully before reaching the top finish hold and dropping down.",
+  "location": "climbing gym",
+  "setting": "indoor",
+  "time_of_day": "indoor_unknown",
+  "weather": "n/a",
+  "people": {
+    "count": 3,
+    "creator_visible": true,
+    "description": "Young Asian male in a grey tank top and baggy jeans climbing; another friend in a black tank top walks past, and others visible briefly in background"
+  },
+  "camera": {
+    "style": "tripod_static",
+    "framing": "medium",
+    "movement": "static",
+    "angle": "low angle looking up"
+  },
+  "quality": {
+    "usable": true,
+    "stability": "locked",
+    "exposure": "good",
+    "issues": ""
+  },
+  "mood": [
+    "focused",
+    "athletic",
+    "determined",
+    "accomplished"
+  ],
+  "energy": "medium",
+  "tags": [
+    "bouldering",
+    "climbing",
+    "rock climbing",
+    "indoor gym",
+    "fitness",
+    "workout",
+    "problem solving",
+    "chalk",
+    "holds",
+    "sports",
+    "perseverance",
+    "strength training"
+  ],
+  "moments": [
+    {
+      "start": 6.5,
+      "end": 14.0,
+      "action": "Climber approaches the wall, establishes hand and foot holds, and starts his initial ascent",
+      "emotion": "focused and deliberate",
+      "good_for": [
+        "starting a new challenge",
+        "taking the first step",
+        "gym routine",
+        "finding your footing"
+      ],
+      "score": 3
+    },
+    {
+      "start": 14.5,
+      "end": 22.0,
+      "action": "Climber moves up dynamically, hooking his foot and pulling up on sloper holds",
+      "emotion": "intense physical effort",
+      "good_for": [
+        "putting in the work",
+        "pushing through resistance",
+        "trust the process",
+        "building strength"
+      ],
+      "score": 4
+    },
+    {
+      "start": 26.0,
+      "end": 34.0,
+      "action": "Climber balances across holds on the angled wall, methodically shifting weight to the right",
+      "emotion": "calculated and concentrated",
+      "good_for": [
+        "navigating tricky situations",
+        "balance in life",
+        "staying composed under pressure"
+      ],
+      "score": 4
+    },
+    {
+      "start": 39.5,
+      "end": 49.0,
+      "action": "Climber reaches for the high orange finish hold, matches both hands on top to complete the route",
+      "emotion": "triumphant and relieved",
+      "good_for": [
+        "reaching the top",
+        "mission accomplished",
+        "finally sending the project",
+        "success after hard work"
+      ],
+      "score": 5
+    },
+    {
+      "start": 51.0,
+      "end": 57.5,
+      "action": "Climber safely drops down from the wall to the mat and walks away catching his breath",
+      "emotion": "satisfied and exhausted",
+      "good_for": [
+        "job done",
+        "relieved sigh",
+        "post-workout satisfaction"
+      ],
+      "score": 4
+    }
+  ]
+}

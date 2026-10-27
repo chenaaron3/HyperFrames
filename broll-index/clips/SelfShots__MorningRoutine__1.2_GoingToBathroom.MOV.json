@@ -1,0 +1,82 @@
+{
+  "path": "SelfShots/MorningRoutine/1.2_GoingToBathroom.MOV",
+  "folder": "SelfShots/MorningRoutine",
+  "fingerprint": "c56906a54c289491",
+  "width": 1080,
+  "height": 1920,
+  "fps": 29.97,
+  "duration": 13.707,
+  "model": "gemini-3.8-flash",
+  "annotatedAt": "2026-10-24T18:57:57+00:00",
+  "summary": "A young man in a tank top walks groggily down an apartment hallway into the bathroom, then walks back towards the camera.",
+  "location": "apartment hallway",
+  "setting": "indoor",
+  "time_of_day": "day",
+  "weather": "n/a",
+  "people": {
+    "count": 1,
+    "creator_visible": true,
+    "description": "Young Asian man with messy hair, wearing a grey tank top and black shorts, barefoot"
+  },
+  "camera": {
+    "style": "tripod_static",
+    "framing": "wide",
+    "movement": "static",
+    "angle": "eye level"
+  },
+  "quality": {
+    "usable": true,
+    "stability": "locked",
+    "exposure": "good",
+    "issues": ""
+  },
+  "mood": [
+    "sleepy",
+    "calm",
+    "relatable",
+    "casual"
+  ],
+  "energy": "low",
+  "tags": [
+    "morning routine",
+    "waking up",
+    "groggy",
+    "sleepy",
+    "hallway",
+    "bathroom",
+    "tank top",
+    "barefoot",
+    "home",
+    "apartment",
+    "daily life",
+    "vlog b-roll"
+  ],
+  "moments": [
+    {
+      "start": 4.2,
+      "end": 7.2,
+      "action": "Man walks down the hallway away from camera scratching his head and enters the bathroom",
+      "emotion": "groggy, sleepy",
+      "good_for": [
+        "waking up early",
+        "first thing in the morning",
+        "morning routine begins",
+        "relatable tired morning"
+      ],
+      "score": 4
+    },
+    {
+      "start": 9.0,
+      "end": 12.0,
+      "action": "Man emerges from the bathroom and walks down the hallway towards the camera looking drowsy",
+      "emotion": "sleepy, unbothered",
+      "good_for": [
+        "barely functioning",
+        "need coffee immediately",
+        "day in my life",
+        "surviving the morning"
+      ],
+      "score": 4
+    }
+  ]
+}

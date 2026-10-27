@@ -1,0 +1,107 @@
+{
+  "path": "SelfShots/ClimbingGym/OnTheWall/10:23:26_Red_x8/IMG_5273.MOV",
+  "folder": "SelfShots/ClimbingGym/OnTheWall/10:23:26_Red_x8",
+  "fingerprint": "6a07d154c0c4df4e",
+  "width": 1080,
+  "height": 1920,
+  "fps": 30.0,
+  "duration": 89.573,
+  "model": "gemini-3.8-flash",
+  "annotatedAt": "2026-10-24T18:51:40+00:00",
+  "summary": "A young man tackles a challenging route on an indoor bouldering wall, navigating overhangs and large volumes before jumping down to the mat.",
+  "location": "climbing gym",
+  "setting": "indoor",
+  "time_of_day": "indoor_unknown",
+  "weather": "n/a",
+  "people": {
+    "count": 1,
+    "creator_visible": true,
+    "description": "Young Asian male with dark wavy hair wearing an oversized grey t-shirt and loose grey pants"
+  },
+  "camera": {
+    "style": "tripod_static",
+    "framing": "wide",
+    "movement": "static",
+    "angle": "eye level"
+  },
+  "quality": {
+    "usable": true,
+    "stability": "locked",
+    "exposure": "good",
+    "issues": ""
+  },
+  "mood": [
+    "focused",
+    "athletic",
+    "determined",
+    "active"
+  ],
+  "energy": "medium",
+  "tags": [
+    "bouldering",
+    "rock climbing",
+    "climbing gym",
+    "fitness",
+    "workout",
+    "athletics",
+    "holds",
+    "overhang",
+    "volume",
+    "indoor sports",
+    "determination",
+    "problem solving"
+  ],
+  "moments": [
+    {
+      "start": 10.5,
+      "end": 26.0,
+      "action": "Climber mounts the wall and starts traversing the low overhang section",
+      "emotion": "focused and concentrated",
+      "good_for": [
+        "starting a new challenge",
+        "trusting the process",
+        "gym routine",
+        "taking on hard things"
+      ],
+      "score": 4
+    },
+    {
+      "start": 26.5,
+      "end": 44.0,
+      "action": "Climber makes dynamic reaching moves and grabs onto a large white volume hold",
+      "emotion": "determined effort",
+      "good_for": [
+        "pushing through the hard part",
+        "one step at a time",
+        "holding on tight",
+        "fitness journey"
+      ],
+      "score": 4
+    },
+    {
+      "start": 54.0,
+      "end": 68.0,
+      "action": "Climber balances carefully on the volume and repositions feet to stand up",
+      "emotion": "calculated and steady",
+      "good_for": [
+        "finding your balance",
+        "problem solving in real time",
+        "focusing on the next move"
+      ],
+      "score": 3
+    },
+    {
+      "start": 89.57,
+      "end": 89.57,
+      "action": "Climber reaches for high finish holds before letting go and dropping safely down to the padded floor",
+      "emotion": "relieved and accomplished",
+      "good_for": [
+        "giving it everything",
+        "learning to fall safely",
+        "finishing the workout",
+        "progress over perfection"
+      ],
+      "score": 4
+    }
+  ]
+}

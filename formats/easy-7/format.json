@@ -1,0 +1,54 @@
+{
+  "id": "easy-7",
+  "name": "having money in your bank account but still telling yourself",
+  "reference": "references/viral-formats/easy-7.mp4",
+  "source": "/Users/aaron/Downloads/100 Viral Formats (Format Book)/Easy to use format/#7/#7.mp4",
+  "duration": 5.167,
+  "music": {
+    "from": "reference",
+    "title": "Original audio"
+  },
+  "text": {
+    "y": 0.593,
+    "size": 46,
+    "weight": 700,
+    "lineHeight": 1.4,
+    "maxWidth": 900,
+    "style": "outline"
+  },
+  "lines": [
+    {
+      "id": "l1",
+      "start": 0.0,
+      "end": 5.167,
+      "ref": "having money in your bank\naccount but still telling\nyourself, no I'm not buying\nthis, I'm broke, is another level\nof self discipline",
+      "y": 0.593,
+      "measuredSize": 43,
+      "style": "plain_white_shadow",
+      "guide": ""
+    }
+  ],
+  "shots": [
+    {
+      "id": "s1",
+      "start": 0.0,
+      "end": 5.167,
+      "brief": "subtle selfie in transit or chilling, looking at camera and away (ref: Young woman sitting in a car passenger seat looking at the camera and turning to look out the window thoughtfully.; selfie)",
+      "line": "l1"
+    }
+  ],
+  "audit": {
+    "kind": "broll_with_text",
+    "creatorSpeaks": false,
+    "audio": "music only",
+    "special": [],
+    "reusable": true,
+    "notes": "Can easily be recreated using any chill lifestyle selfie or candid b-roll (riding the subway, sitting in a cafe, or walking in the city) paired with the financial discipline text hook.",
+    "summary": "A creator sits in a car looking around thoughtfully with relatable text on screen about self-discipline and saving money."
+  },
+  "caption": {
+    "ref": "",
+    "guide": ""
+  },
+  "draft": true
+}

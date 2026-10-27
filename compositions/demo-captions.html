@@ -1,0 +1,56 @@
+<template>
+  <style>
+    #dc-root { position: absolute; inset: 0; pointer-events: none; }
+    .dc-cap {
+      position: absolute; left: 0; width: 1080px; text-align: center; padding: 0 80px; box-sizing: border-box;
+      font-family: "Inter", sans-serif; font-weight: 700; font-size: 54px; line-height: 1.1; letter-spacing: -0.01em;
+    }
+    .dc-cap i { display: inline-block; font-style: normal; white-space: pre; }
+    .dc-chest { top: 1050px; color: #FFFFFF; text-shadow: 0 2px 12px rgba(0, 0, 0, 0.45), 0 0 2px rgba(0, 0, 0, 0.25); }
+    .dc-seam { top: 784px; color: #B8452F; font-size: 50px; }
+  </style>
+  <div id="dc-root" data-composition-id="demo-captions" data-start="0" data-duration="17.65" data-width="1080" data-height="1920" data-layout-allow-overlap="true">
+    <div id="dc-0" class="clip dc-cap dc-chest" data-start="0.302" data-duration="0.548" data-track-index="0"><i>Okay,</i><i> first</i></div>
+    <div id="dc-1" class="clip dc-cap dc-chest" data-start="0.850" data-duration="0.700" data-track-index="0"><i>you</i><i> do</i><i> need</i></div>
+    <div id="dc-2" class="clip dc-cap dc-chest" data-start="2.466" data-duration="0.774" data-track-index="0"><i>but</i><i> use</i><i> it</i></div>
+    <div id="dc-3" class="clip dc-cap dc-chest" data-start="4.254" data-duration="0.626" data-track-index="0"><i>Download</i><i> the</i></div>
+    <div id="dc-4" class="clip dc-cap dc-chest" data-start="4.884" data-duration="0.716" data-track-index="0"><i>desktop</i><i> app</i></div>
+    <div id="dc-5" class="clip dc-cap dc-seam" data-start="5.719" data-duration="1.010" data-track-index="0"><i>Create</i><i> a</i><i> folder</i></div>
+    <div id="dc-6" class="clip dc-cap dc-seam" data-start="6.729" data-duration="1.230" data-track-index="0"><i>on</i><i> your</i><i> computer</i></div>
+    <div id="dc-7" class="clip dc-cap dc-seam" data-start="7.959" data-duration="0.780" data-track-index="0"><i>and</i><i> call</i><i> it</i></div>
+    <div id="dc-8" class="clip dc-cap dc-seam" data-start="8.739" data-duration="0.541" data-track-index="0"><i>AI</i><i> video</i></div>
+    <div id="dc-9" class="clip dc-cap dc-seam" data-start="9.280" data-duration="0.650" data-track-index="0"><i>Then</i><i> within</i></div>
+    <div id="dc-10" class="clip dc-cap dc-seam" data-start="9.930" data-duration="0.780" data-track-index="0"><i>that</i><i> folder</i></div>
+    <div id="dc-11" class="clip dc-cap dc-seam" data-start="10.710" data-duration="0.506" data-track-index="0"><i>I</i><i> want</i><i> you</i></div>
+    <div id="dc-12" class="clip dc-cap dc-seam" data-start="11.216" data-duration="0.841" data-track-index="0"><i>to</i><i> create</i><i> three</i></div>
+    <div id="dc-13" class="clip dc-cap dc-seam" data-start="12.057" data-duration="0.663" data-track-index="0"><i>subfolders</i></div>
+    <div id="dc-14" class="clip dc-cap dc-seam" data-start="12.720" data-duration="1.156" data-track-index="0"><i>for</i><i> raw</i><i> footage</i></div>
+    <div id="dc-15" class="clip dc-cap dc-seam" data-start="13.876" data-duration="1.441" data-track-index="0"><i>one</i><i> for</i><i> references</i></div>
+    <div id="dc-16" class="clip dc-cap dc-seam" data-start="15.317" data-duration="0.910" data-track-index="0"><i>then</i><i> a</i><i> third</i></div>
+    <div id="dc-17" class="clip dc-cap dc-seam" data-start="16.227" data-duration="1.273" data-track-index="0"><i>one</i><i> for</i><i> exports</i></div>
+  </div>
+  <script>
+    (function () {
+      var tl = gsap.timeline({ paused: true });
+      tl.fromTo("#dc-0 i", { opacity: 0, y: 10, filter: "blur(6px)" }, { opacity: 1, y: 0, filter: "blur(0px)", duration: 0.16, stagger: 0.06, ease: "power3.out" }, 0.302);
+      tl.fromTo("#dc-1 i", { opacity: 0, y: 10, filter: "blur(6px)" }, { opacity: 1, y: 0, filter: "blur(0px)", duration: 0.16, stagger: 0.06, ease: "power3.out" }, 0.850);
+      tl.fromTo("#dc-2 i", { opacity: 0, y: 10, filter: "blur(6px)" }, { opacity: 1, y: 0, filter: "blur(0px)", duration: 0.16, stagger: 0.06, ease: "power3.out" }, 2.466);
+      tl.fromTo("#dc-3 i", { opacity: 0, y: 10, filter: "blur(6px)" }, { opacity: 1, y: 0, filter: "blur(0px)", duration: 0.16, stagger: 0.06, ease: "power3.out" }, 4.254);
+      tl.fromTo("#dc-4 i", { opacity: 0, y: 10, filter: "blur(6px)" }, { opacity: 1, y: 0, filter: "blur(0px)", duration: 0.16, stagger: 0.06, ease: "power3.out" }, 4.884);
+      tl.fromTo("#dc-5 i", { opacity: 0, y: 10, filter: "blur(6px)" }, { opacity: 1, y: 0, filter: "blur(0px)", duration: 0.16, stagger: 0.06, ease: "power3.out" }, 5.719);
+      tl.fromTo("#dc-6 i", { opacity: 0, y: 10, filter: "blur(6px)" }, { opacity: 1, y: 0, filter: "blur(0px)", duration: 0.16, stagger: 0.06, ease: "power3.out" }, 6.729);
+      tl.fromTo("#dc-7 i", { opacity: 0, y: 10, filter: "blur(6px)" }, { opacity: 1, y: 0, filter: "blur(0px)", duration: 0.16, stagger: 0.06, ease: "power3.out" }, 7.959);
+      tl.fromTo("#dc-8 i", { opacity: 0, y: 10, filter: "blur(6px)" }, { opacity: 1, y: 0, filter: "blur(0px)", duration: 0.16, stagger: 0.06, ease: "power3.out" }, 8.739);
+      tl.fromTo("#dc-9 i", { opacity: 0, y: 10, filter: "blur(6px)" }, { opacity: 1, y: 0, filter: "blur(0px)", duration: 0.16, stagger: 0.06, ease: "power3.out" }, 9.280);
+      tl.fromTo("#dc-10 i", { opacity: 0, y: 10, filter: "blur(6px)" }, { opacity: 1, y: 0, filter: "blur(0px)", duration: 0.16, stagger: 0.06, ease: "power3.out" }, 9.930);
+      tl.fromTo("#dc-11 i", { opacity: 0, y: 10, filter: "blur(6px)" }, { opacity: 1, y: 0, filter: "blur(0px)", duration: 0.16, stagger: 0.06, ease: "power3.out" }, 10.710);
+      tl.fromTo("#dc-12 i", { opacity: 0, y: 10, filter: "blur(6px)" }, { opacity: 1, y: 0, filter: "blur(0px)", duration: 0.16, stagger: 0.06, ease: "power3.out" }, 11.216);
+      tl.fromTo("#dc-13 i", { opacity: 0, y: 10, filter: "blur(6px)" }, { opacity: 1, y: 0, filter: "blur(0px)", duration: 0.16, stagger: 0.06, ease: "power3.out" }, 12.057);
+      tl.fromTo("#dc-14 i", { opacity: 0, y: 10, filter: "blur(6px)" }, { opacity: 1, y: 0, filter: "blur(0px)", duration: 0.16, stagger: 0.06, ease: "power3.out" }, 12.720);
+      tl.fromTo("#dc-15 i", { opacity: 0, y: 10, filter: "blur(6px)" }, { opacity: 1, y: 0, filter: "blur(0px)", duration: 0.16, stagger: 0.06, ease: "power3.out" }, 13.876);
+      tl.fromTo("#dc-16 i", { opacity: 0, y: 10, filter: "blur(6px)" }, { opacity: 1, y: 0, filter: "blur(0px)", duration: 0.16, stagger: 0.06, ease: "power3.out" }, 15.317);
+      tl.fromTo("#dc-17 i", { opacity: 0, y: 10, filter: "blur(6px)" }, { opacity: 1, y: 0, filter: "blur(0px)", duration: 0.16, stagger: 0.06, ease: "power3.out" }, 16.227);
+      window.__timelines["demo-captions"] = tl;
+    })();
+  </script>
+</template>

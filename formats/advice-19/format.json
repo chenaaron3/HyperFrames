@@ -1,0 +1,54 @@
+{
+  "id": "advice-19",
+  "name": "Advice I'd give you as a sleep doctor for a decade—if I wasn",
+  "reference": "references/viral-formats/advice-19.mp4",
+  "source": "/Users/aaron/Downloads/100 Viral Formats (Format Book)/Advice/#19/#19.mp4",
+  "duration": 5.733,
+  "music": {
+    "from": "reference",
+    "title": "Volto di donna - Piero Umiliani"
+  },
+  "text": {
+    "y": 0.283,
+    "size": 64,
+    "weight": 700,
+    "lineHeight": 1.4,
+    "maxWidth": 900,
+    "style": "outline"
+  },
+  "lines": [
+    {
+      "id": "l1",
+      "start": 0.0,
+      "end": 5.733,
+      "ref": "Advice I'd give you as a sleep\ndoctor for a decade—if I wasn't\nafraid of hurting your feelings.",
+      "y": 0.283,
+      "measuredSize": 77,
+      "style": "plain_white_shadow",
+      "guide": ""
+    }
+  ],
+  "shots": [
+    {
+      "id": "s1",
+      "start": 0.0,
+      "end": 5.733,
+      "brief": "eating food while looking at camera, selfie (ref: Man sitting at a table/booth eating a small bite of food, chewing, and glancing directly into the camera.; tripod)",
+      "line": "l1"
+    }
+  ],
+  "audit": {
+    "kind": "broll_with_text",
+    "creatorSpeaks": false,
+    "audio": "music only",
+    "special": [],
+    "reusable": true,
+    "notes": "Easily recreated with any casual b-roll clip (e.g. eating at a cafe, working on a laptop, or looking up thoughtfully at the camera) paired with an authoritative hook text pointing to a high-value listicle caption.",
+    "summary": "A creator eats food while looking directly into the camera as an advice hook text displays on screen, directing viewers to the caption."
+  },
+  "caption": {
+    "ref": "",
+    "guide": ""
+  },
+  "draft": true
+}

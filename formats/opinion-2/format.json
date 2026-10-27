@@ -1,0 +1,54 @@
+{
+  "id": "opinion-2",
+  "name": "working on myself because what happened to me isn't my fault",
+  "reference": "references/viral-formats/opinion-2.mp4",
+  "source": "/Users/aaron/Downloads/100 Viral Formats (Format Book)/Opinion/#2/#2.mp4",
+  "duration": 6.033,
+  "music": {
+    "from": "reference",
+    "title": "All Night - Beyonce"
+  },
+  "text": {
+    "y": 0.28,
+    "size": 46,
+    "weight": 700,
+    "lineHeight": 1.4,
+    "maxWidth": 900,
+    "style": "outline"
+  },
+  "lines": [
+    {
+      "id": "l1",
+      "start": 0.0,
+      "end": 6.033,
+      "ref": "working on myself because what\nhappened to me isn't my fault but who I\nbecome is entirely my responsibility",
+      "y": 0.28,
+      "measuredSize": null,
+      "style": "other",
+      "guide": ""
+    }
+  ],
+  "shots": [
+    {
+      "id": "s1",
+      "start": 0.0,
+      "end": 6.033,
+      "brief": "running or jogging outdoors, selfie angle (ref: Young woman in athletic wear running on an elevated wooden boardwalk over a foggy lake/river, holding camera out in a selfie low-angle angle.; selfie)",
+      "line": "l1"
+    }
+  ],
+  "audit": {
+    "kind": "broll_with_text",
+    "creatorSpeaks": false,
+    "audio": "music only",
+    "special": [],
+    "reusable": true,
+    "notes": "This format is purely a motivational quote overlaid on a workout or daily routine clip. Any existing b-roll showing personal effort (running, climbing gym, morning routine, or walking through the city) fits the message.",
+    "summary": "A woman runs along a foggy wooden bridge walkway holding a selfie stick/camera, transitioning into a POV shot of walking down wooden stairs, accompanied by motivational self-improvement text."
+  },
+  "caption": {
+    "ref": "",
+    "guide": ""
+  },
+  "draft": true
+}

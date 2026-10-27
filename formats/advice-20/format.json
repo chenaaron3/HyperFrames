@@ -1,0 +1,54 @@
+{
+  "id": "advice-20",
+  "name": "10 everyday habits you should quit now  From a doctor",
+  "reference": "references/viral-formats/advice-20.mp4",
+  "source": "/Users/aaron/Downloads/100 Viral Formats (Format Book)/Advice/#20/#20.mp4",
+  "duration": 6.833,
+  "music": {
+    "from": "reference",
+    "title": "Strangers - Kenya Grace"
+  },
+  "text": {
+    "y": 0.275,
+    "size": 62,
+    "weight": 700,
+    "lineHeight": 1.4,
+    "maxWidth": 900,
+    "style": "outline"
+  },
+  "lines": [
+    {
+      "id": "l1",
+      "start": 0.0,
+      "end": 6.5,
+      "ref": "10 everyday habits you should quit now\n\nFrom a doctor",
+      "y": 0.275,
+      "measuredSize": 62,
+      "style": "plain_white_shadow",
+      "guide": ""
+    }
+  ],
+  "shots": [
+    {
+      "id": "s1",
+      "start": 0.0,
+      "end": 6.833,
+      "brief": "sitting down at a desk or table and working on a laptop/computer (ref: A man wearing medical scrubs walks up to a desk, pulls out his rolling office chair, sits down, and begins typing on the computer.; tripod)",
+      "line": "l1"
+    }
+  ],
+  "audit": {
+    "kind": "broll_with_text",
+    "creatorSpeaks": false,
+    "audio": "music only",
+    "special": [],
+    "reusable": true,
+    "notes": "Easily recreated with any clip of sitting down to work at a desk or laptop. The text hook can be adapted to any profession or niche (e.g. 'From a software engineer', 'From a personal trainer') while putting the full educational list in the caption.",
+    "summary": "A doctor in scrubs sits down at his desk and types on his computer, with text overlay teasing 10 habits to quit while directing viewers to the caption."
+  },
+  "caption": {
+    "ref": "",
+    "guide": ""
+  },
+  "draft": true
+}

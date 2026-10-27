@@ -1,0 +1,68 @@
+{
+  "path": "Cinematic/Chinatown/IMG_4773.mov",
+  "folder": "Cinematic/Chinatown",
+  "fingerprint": "616c9b1c0814b95b",
+  "width": 1080,
+  "height": 1920,
+  "fps": 30.0,
+  "duration": 2.433,
+  "model": "gemini-3.8-flash",
+  "annotatedAt": "2026-10-24T18:19:09+00:00",
+  "summary": "Handheld eye-level view of a USMS SDNY security booth positioned outside a neoclassical courthouse in lower Manhattan.",
+  "location": "courthouse exterior",
+  "setting": "outdoor",
+  "time_of_day": "day",
+  "weather": "overcast",
+  "people": {
+    "count": 1,
+    "creator_visible": false,
+    "description": "Silhouette of a security officer visible inside the glass guard booth."
+  },
+  "camera": {
+    "style": "pov_first_person",
+    "framing": "medium",
+    "movement": "static",
+    "angle": "eye level"
+  },
+  "quality": {
+    "usable": true,
+    "stability": "handheld",
+    "exposure": "good",
+    "issues": ""
+  },
+  "mood": [
+    "neutral",
+    "serious",
+    "observational"
+  ],
+  "energy": "low",
+  "tags": [
+    "usms",
+    "sdny",
+    "courthouse",
+    "security booth",
+    "foley square",
+    "lower manhattan",
+    "new york city",
+    "barricades",
+    "legal",
+    "architecture",
+    "government"
+  ],
+  "moments": [
+    {
+      "start": 0.0,
+      "end": 2.43,
+      "action": "Handheld static shot of a small white USMS SDNY guard booth behind metal barriers in front of large stone columns.",
+      "emotion": "calm",
+      "good_for": [
+        "jury duty b-roll",
+        "city exploration",
+        "legal system",
+        "law school aesthetic",
+        "nyc streets"
+      ],
+      "score": 3
+    }
+  ]
+}

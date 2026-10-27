@@ -1,0 +1,82 @@
+{
+  "path": "OneOffs/RainyDayArmanRishi/IMG_4632.MOV",
+  "folder": "OneOffs/RainyDayArmanRishi",
+  "fingerprint": "07f52928fb105722",
+  "width": 1080,
+  "height": 1920,
+  "fps": 30.0,
+  "duration": 15.333,
+  "model": "gemini-3.8-flash",
+  "annotatedAt": "2026-10-24T18:36:25+00:00",
+  "summary": "A handheld shot capturing the illuminated sign of Té Company tea room before panning across the cozy, dimly lit interior filled with seated and standing patrons.",
+  "location": "cafe",
+  "setting": "indoor",
+  "time_of_day": "indoor_unknown",
+  "weather": "n/a",
+  "people": {
+    "count": 7,
+    "creator_visible": false,
+    "description": "Patrons seated at small wooden tables eating and chatting, with a few visitors waiting and checking phones near the entrance."
+  },
+  "camera": {
+    "style": "pov_first_person",
+    "framing": "medium",
+    "movement": "pan",
+    "angle": "eye level"
+  },
+  "quality": {
+    "usable": true,
+    "stability": "handheld",
+    "exposure": "mixed",
+    "issues": "Dark entrance transition and slight motion blur during quick pans."
+  },
+  "mood": [
+    "cozy",
+    "intimate",
+    "casual",
+    "atmospheric"
+  ],
+  "energy": "low",
+  "tags": [
+    "te company",
+    "tea shop",
+    "tea salon",
+    "cafe interior",
+    "nyc spots",
+    "cozy vibes",
+    "dim lighting",
+    "rainy day activity",
+    "indoor dining",
+    "patrons",
+    "hidden gems",
+    "ambience"
+  ],
+  "moments": [
+    {
+      "start": 0.0,
+      "end": 3.4,
+      "action": "Close-up static shot of a glowing wall lamp casting warm light onto a metallic brass plaque engraved with Té Company",
+      "emotion": "calm",
+      "good_for": [
+        "places you have to visit",
+        "finding hidden spots",
+        "aesthetic entrance",
+        "cozy tea spots"
+      ],
+      "score": 4
+    },
+    {
+      "start": 5.8,
+      "end": 9.8,
+      "action": "Camera pans across the cozy dining space showing patrons seated at wooden tables eating pastries and conversing",
+      "emotion": "relaxed",
+      "good_for": [
+        "weekend cafe dates",
+        "rainy afternoon vibes",
+        "favorite city corners",
+        "catching up over tea"
+      ],
+      "score": 3
+    }
+  ]
+}

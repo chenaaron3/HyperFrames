@@ -1,0 +1,195 @@
+{
+  "id": "opinion-25",
+  "name": "It's always \"my son is a doctor\"",
+  "reference": "references/viral-formats/opinion-25.mp4",
+  "source": "/Users/aaron/Downloads/100 Viral Formats (Format Book)/Opinion/#25/#25.mp4",
+  "duration": 12.933,
+  "music": {
+    "from": "reference",
+    "title": "Back to friends by Sombr"
+  },
+  "text": {
+    "y": 0.281,
+    "size": 57,
+    "weight": 700,
+    "lineHeight": 1.4,
+    "maxWidth": 900,
+    "style": "outline"
+  },
+  "lines": [
+    {
+      "id": "l1",
+      "start": 0.0,
+      "end": 1.933,
+      "ref": "It's always\n\"my son is a doctor\"",
+      "y": 0.281,
+      "measuredSize": 57,
+      "style": "plain_white_shadow",
+      "guide": ""
+    },
+    {
+      "id": "l2",
+      "start": 1.933,
+      "end": 3.033,
+      "ref": "It's always\n\"my son is a teacher\"",
+      "y": 0.281,
+      "measuredSize": 57,
+      "style": "plain_white_shadow",
+      "guide": ""
+    },
+    {
+      "id": "l3",
+      "start": 3.033,
+      "end": 5.167,
+      "ref": "It's always\n\"my son is a lawyer\"",
+      "y": 0.281,
+      "measuredSize": 56,
+      "style": "plain_white_shadow",
+      "guide": ""
+    },
+    {
+      "id": "l4",
+      "start": 5.167,
+      "end": 6.467,
+      "ref": "F*ck society's script",
+      "y": 0.498,
+      "measuredSize": 58,
+      "style": "plain_white_shadow",
+      "guide": ""
+    },
+    {
+      "id": "l5",
+      "start": 6.467,
+      "end": 10.1,
+      "ref": "my son is happy.",
+      "y": 0.287,
+      "measuredSize": 58,
+      "style": "plain_white_shadow",
+      "guide": ""
+    },
+    {
+      "id": "l6",
+      "start": 10.1,
+      "end": 12.933,
+      "ref": "welcome to the community❤️",
+      "y": 0.282,
+      "measuredSize": 47,
+      "style": "plain_white_shadow",
+      "guide": ""
+    }
+  ],
+  "shots": [
+    {
+      "id": "s1",
+      "start": 0.0,
+      "end": 1.933,
+      "brief": "traveling or riding transit, selfie angle (ref: Man looking out while hanging onto the open doorway of a moving passenger train.; selfie)",
+      "line": "l1"
+    },
+    {
+      "id": "s2",
+      "start": 1.933,
+      "end": 3.033,
+      "brief": "outdoors in winter or at night smiling (ref: Smiling and laughing outdoors at night in falling snow.; selfie)",
+      "line": "l2"
+    },
+    {
+      "id": "s3",
+      "start": 3.033,
+      "end": 3.233,
+      "brief": "walking outside in nature, selfie (ref: Walking along a dirt path surrounded by lush trees, looking around contentedly.; selfie)",
+      "line": "l3"
+    },
+    {
+      "id": "s4",
+      "start": 3.233,
+      "end": 5.167,
+      "brief": "walking outside in nature, selfie (ref: Walking along a dirt path surrounded by lush trees, looking around contentedly.; selfie)",
+      "line": "l3"
+    },
+    {
+      "id": "s5",
+      "start": 5.167,
+      "end": 6.467,
+      "brief": "solid black screen or graphic card (ref: Solid black screen transition.; other)",
+      "line": "l4"
+    },
+    {
+      "id": "s6",
+      "start": 6.467,
+      "end": 7.1,
+      "brief": "running happily outdoors or on a beach (ref: Running across a sunny beach holding a surfboard, smiling excitedly.; filmed by friend)",
+      "line": "l5"
+    },
+    {
+      "id": "s7",
+      "start": 7.1,
+      "end": 7.767,
+      "brief": "smiling at the camera during golden hour (ref: Smiling warmly into the camera at sunset in a coastal/outdoor setting.; selfie)",
+      "line": "l5"
+    },
+    {
+      "id": "s8",
+      "start": 7.767,
+      "end": 8.4,
+      "brief": "singing along passionately in a car or room (ref: Singing and laughing enthusiastically while driving a car.; tripod)",
+      "line": "l5"
+    },
+    {
+      "id": "s9",
+      "start": 8.4,
+      "end": 9.067,
+      "brief": "playing sports or socializing casually outdoors (ref: Playing soccer barefoot on an outdoor dirt pitch with local kids.; filmed by friend)",
+      "line": "l5"
+    },
+    {
+      "id": "s10",
+      "start": 9.067,
+      "end": 9.7,
+      "brief": "running or skipping toward camera with arms open (ref: Skipping down a dirt jungle path with arms outstretched.; tripod)",
+      "line": "l5"
+    },
+    {
+      "id": "s11",
+      "start": 9.7,
+      "end": 11.0,
+      "brief": "riding a bike, scooter, or skate with arms spread (ref: Riding passenger on a scooter down a street with arms open wide.; filmed by friend)",
+      "line": "l6"
+    },
+    {
+      "id": "s12",
+      "start": 11.0,
+      "end": 11.667,
+      "brief": "joyful car ride selfie (ref: Leaning out the passenger window of a moving vehicle grinning with excitement.; selfie)",
+      "line": "l6"
+    },
+    {
+      "id": "s13",
+      "start": 11.667,
+      "end": 12.3,
+      "brief": "laughing outdoors during an adventure or hike, selfie (ref: Laughing while wading through a rainforest creek with friends.; selfie)",
+      "line": "l6"
+    },
+    {
+      "id": "s14",
+      "start": 12.3,
+      "end": 12.933,
+      "brief": "cheering and laughing together with friends, selfie (ref: Singing and cheering loudly with a group of friends crammed in an open vehicle.; selfie)",
+      "line": "l6"
+    }
+  ],
+  "audit": {
+    "kind": "broll_with_text",
+    "creatorSpeaks": false,
+    "audio": "music only",
+    "special": [],
+    "reusable": true,
+    "notes": "Very easy to recreate with an existing library. The first half uses calm, everyday or travel clips to accompany the traditional career quotes. After the black screen beat drop, rapid-fire cuts show the creator at their most joyful (smiling, laughing, bouldering, hanging out with friends, city views).",
+    "summary": "A fast-paced montage contrasting traditional societal career expectations with personal happiness and genuine joy, ending with an invitation to join the community."
+  },
+  "caption": {
+    "ref": "",
+    "guide": ""
+  },
+  "draft": true
+}

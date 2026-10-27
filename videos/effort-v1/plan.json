@@ -1,0 +1,204 @@
+{
+  "format": "opinion-20",
+  "title": "\u201cjust chatgpt it, it\u2019s easier\u201d",
+  "lines": {
+    "l1": "\u201cjust chatgpt it, it\u2019s easier\u201d",
+    "l2": "literally\neverything",
+    "l3": "literally\neverything\nmeaningful",
+    "l4": "literally\neverything\nmeaningful\nin",
+    "l5": "literally\neverything\nmeaningful\nin\nlife",
+    "l6": "literally\neverything\nmeaningful\nin\nlife\nrequires",
+    "l7": "literally\neverything\nmeaningful\nin\nlife\nrequires\neffort",
+    "l8": "if\nyou",
+    "l9": "if\nyou\nnever",
+    "l10": "if\nyou\nnever\nstruggle",
+    "l11": "if\nyou\nnever\nstruggle\nyou",
+    "l12": "if\nyou\nnever\nstruggle\nyou\nnever\ngrow",
+    "l13": "your willingness to take the easy\nroute is depriving you of a full life"
+  },
+  "shots": {
+    "s1": {
+      "clip": "SelfShots/Working/UsingLaptop.MOV",
+      "in": 4.0,
+      "speed": 1.0,
+      "note": "hand pick",
+      "query": "standing home apartment tired contemplative",
+      "motion": {
+        "speed": 0.1,
+        "jitter": 0.07,
+        "verdict": "ok"
+      }
+    },
+    "s2": {
+      "clip": "SelfShots/Working/IMG_5154.MOV",
+      "in": 2.0,
+      "speed": 1.0,
+      "note": "hand pick",
+      "query": "working laptop desk focused",
+      "motion": {
+        "speed": 0.1,
+        "jitter": 0.06,
+        "verdict": "ok"
+      }
+    },
+    "s3": {
+      "clip": "SelfShots/ClimbingGym/OnTheWall/10:18:26_Orange_x53/IMG_5151.MOV",
+      "in": 80.08,
+      "speed": 1.0,
+      "note": "Climber attempts the final reach, drops down onto the crash pad, and walks off smiling and catching his breath (relieved and exhausted)",
+      "query": "climbing bouldering attempt hard move",
+      "alts": [
+        "SelfShots/ClimbingGym/OnTheWall/10:22:26_Red_x25/IMG_5217.MOV @4.5-11.5: Man mounts the bouldering wall and steps up onto the starting foothold",
+        "SelfShots/ClimbingGym/OnTheWall/10:22:26_Red_x25/IMG_5222.MOV @33.0-39.5: Man makes a dynamic reach toward the top pink hold, holds on briefly, ",
+        "SelfShots/ClimbingGym/Setup/Walking/IMG_4970.MOV @1.8-6.2: Creator approaches the glass turnstile gate, taps to enter, and walks ",
+        "SelfShots/ClimbingGym/Setup/Walking/IMG_5199.MOV @5.0-10.5: Creator continues walking into the main gym floor, turning slightly as",
+        "SelfShots/ClimbingGym/OnTheWall/10:18:26_Orange_x53/IMG_5105.MOV @26.0-33.5: Climber reaches up towards the large yellow volume and holds, shifting"
+      ],
+      "motion": {
+        "speed": 0.0,
+        "jitter": 0.01,
+        "verdict": "ok"
+      }
+    },
+    "s4": {
+      "clip": "SelfShots/Walking/1stPerson/IMG_5261.MOV",
+      "in": 3.7,
+      "speed": 1.0,
+      "note": "Creator walks forward holding the camera, looking around calmly with the wind in his hair and green trees behind him (calm)",
+      "query": "walking park trees outdoors",
+      "alts": [
+        "SelfShots/Walking/1stPerson/IMG_5264.MOV @1.0-5.0: Creator walks forward holding phone at arm's length, glancing between ",
+        "SelfShots/Walking/1stPerson/IMG_5262.MOV @2.0-4.5: Man walks along park path holding camera extended, glancing at the len",
+        "Cinematic/CentralPark/IMG_4447.MOV @6.0-14.0: Creator sits relaxed on the rock, gazing out over the trees and green ",
+        "SelfShots/Chilling/IMG_4475.MOV @4.5-9.2: Creator sits still on the grass from behind, admiring the peaceful lak",
+        "Cinematic/CentralPark/IMG_4406.MOV @0.0-3.8: Camera pans right across lush green park lawns and trees bathed in bri"
+      ],
+      "motion": {
+        "speed": 3.3,
+        "jitter": 6.31,
+        "verdict": "ok"
+      }
+    },
+    "s5": {
+      "clip": "SelfShots/ClimbingGym/OnTheWall/10:18:26_Orange_x53/IMG_5112.MOV",
+      "in": 52.23,
+      "speed": 1.0,
+      "note": "Man reaches for the final hold, matches hands on top to complete the bouldering route (accomplished)",
+      "query": "climbing wall reaching hold",
+      "alts": [
+        "SelfShots/ClimbingGym/OnTheWall/10:22:26_Red_x25/IMG_5212.MOV @33.0-41.5: Climber executes the final difficult reach to the top hold and matches",
+        "SelfShots/ClimbingGym/OnTheWall/10:22:26_Red_x25/IMG_5244.MOV @38.5-44.0: Climber attempts the final reach, slips off the hold, and falls backwa",
+        "SelfShots/ClimbingGym/OnTheWall/10:22:26_Red_x25/IMG_5209.MOV @54.0-62.0: Climber reaches up to the red top holds near the summit of the wall an",
+        "SelfShots/ClimbingGym/OnTheWall/10:23:26_Red_x8/IMG_5280.MOV @53.0-64.0: Climber reaches and matches the final top hold, completes the problem,",
+        "SelfShots/ClimbingGym/OnTheWall/10:18:26_Orange_x53/IMG_5133.MOV @72.0-82.0: Climber reaches up toward high holds, fights for balance, and slips of"
+      ],
+      "motion": {
+        "speed": 0.1,
+        "jitter": 0.02,
+        "verdict": "ok"
+      }
+    },
+    "s6": {
+      "clip": "SelfShots/Walking/1stPerson/IMG_5158.MOV",
+      "in": 5.22,
+      "speed": 1.0,
+      "note": "Creator walks across the crosswalk while looking forward and slightly up at city surroundings as a yellow taxi stops behind him. (thoughtful)",
+      "query": "walking chinatown street city",
+      "alts": [
+        "SelfShots/Walking/1stPerson/IMG_4942.MOV @4.5-7.3: Creator continues walking under the scaffolding, glancing away and dow",
+        "SelfShots/Walking/1stPerson/IMG_4965.MOV @0.5-4.5: Creator holds phone walking along a sidewalk past a colorful storefron",
+        "SelfShots/Walking/1stPerson/IMG_4965.MOV @6.8-11.5: Creator steps off the curb and crosses the street past parked cars.",
+        "OneOffs/BrooklynNight/IMG_4553 3.MOV @0.0-3.5: Subject walks away down a city sidewalk past a school crosswalk sign c",
+        "OneOffs/RainyDayArmanRishi/IMG_4624.MOV @0.0-3.9: Camera tracks behind two friends walking together down a wet sidewalk "
+      ],
+      "motion": {
+        "speed": 8.4,
+        "jitter": 4.06,
+        "verdict": "ok"
+      }
+    },
+    "s7": {
+      "clip": "OneOffs/RainyDayArmanRishi/IMG_4654.MOV",
+      "in": 1.32,
+      "speed": 1.0,
+      "note": "Man flips through the blank pages of a leather-bound notebook while laughing happily at a friend off-camera (big laugh)",
+      "query": "friends talking conversation laughing",
+      "alts": [
+        "OneOffs/BrooklynNight/IMG_4542 3.MOV @3.7-4.8: Man drops back down onto the padded mat, turns toward the camera, and ",
+        "SelfShots/ClimbingGym/OnTheWall/10:22:26_Red_x25/IMG_5244.MOV @38.5-44.0: Climber attempts the final reach, slips off the hold, and falls backwa",
+        "OneOffs/Cooking/IMG_4804.MOV @7.5-14.5: Friend walks up and creator gestures to his cutting board and laughs a",
+        "OneOffs/Eating/IMG_4891.MOV @2.2-3.9: Camera turns selfie-style showing the creator and his friend smiling a",
+        "OneOffs/RainyDayArmanRishi/IMG_4627.MOV @0.0-2.3: Creator holds phone in selfie view on the subway, looking into the len"
+      ],
+      "motion": {
+        "speed": 0.4,
+        "jitter": 0.19,
+        "verdict": "ok"
+      }
+    },
+    "s8": {
+      "clip": "OneOffs/RainyDayArmanRishi/IMG_4624.MOV",
+      "in": 0.8,
+      "speed": 1.0,
+      "note": "hand pick",
+      "query": "friends outdoors rain walking",
+      "motion": {
+        "speed": 0.4,
+        "jitter": 0.2,
+        "verdict": "ok"
+      }
+    },
+    "s9": {
+      "clip": "OneOffs/Cooking/IMG_4809.MOV",
+      "in": 26.0,
+      "speed": 1.0,
+      "note": "hand pick",
+      "query": "cooking kitchen preparing food",
+      "motion": {
+        "speed": 0.0,
+        "jitter": 0.05,
+        "verdict": "ok"
+      }
+    },
+    "s10": {
+      "clip": "SelfShots/ClimbingGym/Setup/HangBoard/IMG_4973.MOV",
+      "in": 5.7,
+      "speed": 1.0,
+      "note": "Creator steps onto the black plyo box, grabs the wooden hangboard rungs, and lifts his feet off to hang (focused)",
+      "query": "hangboard training grip",
+      "alts": [
+        "SelfShots/ClimbingGym/OnTheWall/10:22:26_Red_x25/IMG_5244.MOV @38.5-44.0: Climber attempts the final reach, slips off the hold, and falls backwa",
+        "SelfShots/ClimbingGym/Setup/HangBoard/IMG_5205.MOV @3.8-8.5: Hands reach up and grip onto the wooden hangboard edges",
+        "SelfShots/ClimbingGym/OnTheWall/10:18:26_Orange_x53/IMG_5124.MOV @15.0-22.5: Climber maneuvers horizontally across the steep roof using intense cor",
+        "SelfShots/ClimbingGym/OnTheWall/10:18:26_Orange_x53/IMG_5145.MOV @31.0-38.5: Climber pushes toward the top hold, loses grip, and falls down onto th",
+        "SelfShots/ClimbingGym/OnTheWall/10:18:26_Orange_x53/IMG_5133.MOV @72.0-82.0: Climber reaches up toward high holds, fights for balance, and slips of"
+      ],
+      "motion": {
+        "speed": 0.2,
+        "jitter": 0.06,
+        "verdict": "ok"
+      }
+    },
+    "s11": {
+      "clip": "SelfShots/Working/IMG_5002.MOV",
+      "in": 9.0,
+      "speed": 1.0,
+      "note": "Man takes a slow sip from his iced latte while staring attentively at his laptop screen (relaxed)",
+      "query": "working laptop typing",
+      "alts": [
+        "SelfShots/Working/UsingLaptop.MOV @3.5-11.0: Man types continuously on the MacBook keyboard, with code visible on t",
+        "SelfShots/Working/IMG_5154.MOV @17.5-24.5: Creator repositions fingers and resumes typing rapidly on the keyboard",
+        "SelfShots/Working/IMG_5169.MOV @21.0-29.0: Medium shot of the man working diligently on his laptop as people walk",
+        "SelfShots/Working/IMG_5259.MOV @78.0-85.4: Types intently on the laptop before stopping and looking straight into",
+        "SelfShots/Working/UsingLaptop.MOV @11.0-13.5: Man closes the laptop lid shut after finishing work"
+      ],
+      "motion": {
+        "speed": 0.1,
+        "jitter": 0.02,
+        "verdict": "ok"
+      }
+    }
+  },
+  "caption": "The struggle is the point.",
+  "textY": 0.5
+}

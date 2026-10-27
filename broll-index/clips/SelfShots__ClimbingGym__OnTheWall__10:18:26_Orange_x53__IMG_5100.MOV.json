@@ -1,0 +1,104 @@
+{
+  "path": "SelfShots/ClimbingGym/OnTheWall/10:18:26_Orange_x53/IMG_5100.MOV",
+  "folder": "SelfShots/ClimbingGym/OnTheWall/10:18:26_Orange_x53",
+  "fingerprint": "78178968b7a83195",
+  "width": 1080,
+  "height": 1920,
+  "fps": 30.0,
+  "duration": 38.837,
+  "model": "gemini-3.8-flash",
+  "annotatedAt": "2026-10-24T18:40:28+00:00",
+  "summary": "A young male climber works on a tricky boulder problem at an indoor climbing gym, carefully positioning his feet and hands before slipping off near the top.",
+  "location": "gym",
+  "setting": "indoor",
+  "time_of_day": "indoor_unknown",
+  "weather": "n/a",
+  "people": {
+    "count": 1,
+    "creator_visible": true,
+    "description": "Young male climber with dark hair, wearing a loose light-blue short-sleeve button-down shirt and grey trousers."
+  },
+  "camera": {
+    "style": "tripod_static",
+    "framing": "wide",
+    "movement": "static",
+    "angle": "low angle looking up"
+  },
+  "quality": {
+    "usable": true,
+    "stability": "locked",
+    "exposure": "good",
+    "issues": ""
+  },
+  "mood": [
+    "focused",
+    "athletic",
+    "challenging",
+    "persistent"
+  ],
+  "energy": "medium",
+  "tags": [
+    "bouldering",
+    "climbing gym",
+    "rock climbing",
+    "problem solving",
+    "indoor climbing",
+    "fitness",
+    "workout",
+    "athletic",
+    "sports",
+    "determination",
+    "fall"
+  ],
+  "moments": [
+    {
+      "start": 2.0,
+      "end": 7.5,
+      "action": "Climber approaches the wall and establishes his initial hand and foot holds on the large pink volumes",
+      "emotion": "focused",
+      "good_for": [
+        "starting a new challenge",
+        "first steps",
+        "showing up every day"
+      ],
+      "score": 3
+    },
+    {
+      "start": 8.0,
+      "end": 15.0,
+      "action": "Climber slowly traverses left, stretching his arms across to balance on low-profile holds",
+      "emotion": "concentrated",
+      "good_for": [
+        "trusting the process",
+        "deliberate moves",
+        "balance in life"
+      ],
+      "score": 4
+    },
+    {
+      "start": 16.5,
+      "end": 24.5,
+      "action": "Climber shifts into an awkward crouch and locks his core to reach up for higher green and black holds",
+      "emotion": "intense focus",
+      "good_for": [
+        "pushing through discomfort",
+        "finding your footing",
+        "hard work"
+      ],
+      "score": 4
+    },
+    {
+      "start": 25.0,
+      "end": 32.5,
+      "action": "Climber attempts to mantle up and reach the top finish hold before losing grip and falling off the wall",
+      "emotion": "frustrated effort",
+      "good_for": [
+        "trying your hardest",
+        "learning from failure",
+        "almost had it",
+        "try again tomorrow"
+      ],
+      "score": 4
+    }
+  ]
+}

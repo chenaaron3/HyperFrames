@@ -1,0 +1,81 @@
+{
+  "path": "SelfShots/Walking/1stPerson/IMG_4941.MOV",
+  "folder": "SelfShots/Walking/1stPerson",
+  "fingerprint": "4f7a4505dd3f2613",
+  "width": 1080,
+  "height": 1920,
+  "fps": 29.97,
+  "duration": 10.772,
+  "model": "gemini-3.8-flash",
+  "annotatedAt": "2026-10-24T19:01:55+00:00",
+  "summary": "A stylishly dressed young man films himself walking across a busy New York City crosswalk from a low-angle selfie perspective.",
+  "location": "city street",
+  "setting": "outdoor",
+  "time_of_day": "day",
+  "weather": "overcast",
+  "people": {
+    "count": 6,
+    "creator_visible": true,
+    "description": "Young Asian man with wavy dark hair, wearing a long black coat over a rust-colored shirt, backpack, and silver chain bracelet. Pedestrians walk behind him in casual streetwear."
+  },
+  "camera": {
+    "style": "selfie",
+    "framing": "medium",
+    "movement": "walking",
+    "angle": "low angle looking up"
+  },
+  "quality": {
+    "usable": true,
+    "stability": "steady",
+    "exposure": "good",
+    "issues": ""
+  },
+  "mood": [
+    "confident",
+    "urban",
+    "stylish",
+    "cool",
+    "cinematic"
+  ],
+  "energy": "medium",
+  "tags": [
+    "new york city",
+    "crosswalk",
+    "street style",
+    "walking",
+    "black coat",
+    "urban life",
+    "fashion",
+    "selfie video",
+    "commute",
+    "city stroll",
+    "manhattan"
+  ],
+  "moments": [
+    {
+      "start": 2.0,
+      "end": 6.0,
+      "action": "Creator strides forward across the crosswalk holding the camera low, looking around with city traffic and pedestrians behind him",
+      "emotion": "confident",
+      "good_for": [
+        "main character energy",
+        "city walks",
+        "stepping into my power",
+        "outfit check"
+      ],
+      "score": 4
+    },
+    {
+      "start": 6.0,
+      "end": 9.0,
+      "action": "Creator reaches the pedestrian curb while looking around the busy intersection",
+      "emotion": "calm",
+      "good_for": [
+        "moving forward",
+        "exploring new streets",
+        "living in the city"
+      ],
+      "score": 4
+    }
+  ]
+}

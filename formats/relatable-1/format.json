@@ -1,0 +1,82 @@
+{
+  "id": "relatable-1",
+  "name": "Living alone for the first time, you realise 90% of life is ",
+  "reference": "references/viral-formats/relatable-1.mp4",
+  "source": "/Users/aaron/Downloads/100 Viral Formats (Format Book)/Relatable/#1/#1.mp4",
+  "duration": 5.067,
+  "music": {
+    "from": "reference",
+    "title": "No Broke Boys"
+  },
+  "text": {
+    "y": 0.253,
+    "size": 46,
+    "weight": 700,
+    "lineHeight": 1.4,
+    "maxWidth": 900,
+    "style": "outline"
+  },
+  "lines": [
+    {
+      "id": "l1",
+      "start": 0.0,
+      "end": 5.067,
+      "ref": "Living alone for the first time,\nyou realise 90% of life is\njust cooking or cleaning...",
+      "y": 0.253,
+      "measuredSize": 44,
+      "style": "plain_white_shadow",
+      "guide": ""
+    }
+  ],
+  "shots": [
+    {
+      "id": "s1",
+      "start": 0.0,
+      "end": 1.033,
+      "brief": "cleaning or dusting ceiling / high shelf at home (ref: Young man using an extended duster to clean a ceiling fan in the living room.; tripod)",
+      "line": "l1"
+    },
+    {
+      "id": "s2",
+      "start": 1.033,
+      "end": 2.067,
+      "brief": "making bed or lint-rolling furniture (ref: Man rolling a lint roller across a large bolster pillow on a bed.; tripod)",
+      "line": "l1"
+    },
+    {
+      "id": "s3",
+      "start": 2.067,
+      "end": 3.067,
+      "brief": "cooking food in kitchen pot (ref: Close-up of man dropping dumplings into a pot of boiling water on the stove.; tripod)",
+      "line": "l1"
+    },
+    {
+      "id": "s4",
+      "start": 3.067,
+      "end": 4.1,
+      "brief": "vacuuming or sweeping apartment floor (ref: Man vacuuming the hallway floor with a stick vacuum.; tripod)",
+      "line": "l1"
+    },
+    {
+      "id": "s5",
+      "start": 4.1,
+      "end": 5.067,
+      "brief": "washing dishes or wiping down kitchen counter (ref: Man washing a wooden cutting board in the kitchen sink.; tripod)",
+      "line": "l1"
+    }
+  ],
+  "audit": {
+    "kind": "broll_with_text",
+    "creatorSpeaks": false,
+    "audio": "music only",
+    "special": [],
+    "reusable": true,
+    "notes": "Easily recreated with any ~1-second clips of mundane household maintenance, cooking, wiping surfaces, doing laundry, or dishwashing from the creator's apartment routine footage.",
+    "summary": "A montage of quick 1-second cuts showing everyday solo apartment chores (dusting, lint-rolling bedding, boiling dumplings, vacuuming, washing dishes) accompanied by a relatable text hook about adulthood."
+  },
+  "caption": {
+    "ref": "",
+    "guide": ""
+  },
+  "draft": true
+}

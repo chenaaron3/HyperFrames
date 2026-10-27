@@ -1,0 +1,71 @@
+{
+  "path": "Cinematic/CentralPark/IMG_4464.MOV",
+  "folder": "Cinematic/CentralPark",
+  "fingerprint": "751ce5427b4bbc4c",
+  "width": 1080,
+  "height": 1920,
+  "fps": 30.0,
+  "duration": 2.467,
+  "model": "gemini-3.8-flash",
+  "annotatedAt": "2026-10-24T18:18:43+00:00",
+  "summary": "A peaceful high-angle view overlooking a winding woodland footpath in Central Park framed by trees and fallen autumn leaves.",
+  "location": "park",
+  "setting": "outdoor",
+  "time_of_day": "day",
+  "weather": "overcast",
+  "people": {
+    "count": 0,
+    "creator_visible": false,
+    "description": "No people visible"
+  },
+  "camera": {
+    "style": "handheld_cinematic",
+    "framing": "wide",
+    "movement": "static",
+    "angle": "high angle"
+  },
+  "quality": {
+    "usable": true,
+    "stability": "steady",
+    "exposure": "good",
+    "issues": ""
+  },
+  "mood": [
+    "peaceful",
+    "serene",
+    "calm",
+    "solitary",
+    "autumnal"
+  ],
+  "energy": "low",
+  "tags": [
+    "central park",
+    "nature",
+    "woods",
+    "forest path",
+    "trail",
+    "trees",
+    "foliage",
+    "leaves",
+    "walkway",
+    "new york city",
+    "peaceful",
+    "scenic"
+  ],
+  "moments": [
+    {
+      "start": 0.0,
+      "end": 2.47,
+      "action": "Static high-angle shot overlooking a secluded winding stone pathway through dense Central Park woodland",
+      "emotion": "calm",
+      "good_for": [
+        "finding peace in the city",
+        "taking the road less traveled",
+        "morning walks",
+        "nature therapy",
+        "unplugging from the noise"
+      ],
+      "score": 4
+    }
+  ]
+}

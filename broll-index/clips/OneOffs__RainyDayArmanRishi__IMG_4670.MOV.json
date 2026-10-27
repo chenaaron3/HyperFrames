@@ -1,0 +1,80 @@
+{
+  "path": "OneOffs/RainyDayArmanRishi/IMG_4670.MOV",
+  "folder": "OneOffs/RainyDayArmanRishi",
+  "fingerprint": "f71c914dc687f28f",
+  "width": 1080,
+  "height": 1920,
+  "fps": 30.0,
+  "duration": 5.233,
+  "model": "gemini-3.8-flash",
+  "annotatedAt": "2026-10-24T18:37:46+00:00",
+  "summary": "A New York City subway train speeds along the tracks through an underground station, filmed from an adjacent platform.",
+  "location": "subway car",
+  "setting": "indoor",
+  "time_of_day": "indoor_unknown",
+  "weather": "n/a",
+  "people": {
+    "count": 0,
+    "creator_visible": false,
+    "description": "No people clearly visible in frame, just the moving subway train and empty platform area."
+  },
+  "camera": {
+    "style": "pov_first_person",
+    "framing": "wide",
+    "movement": "tracking",
+    "angle": "eye level"
+  },
+  "quality": {
+    "usable": true,
+    "stability": "handheld",
+    "exposure": "good",
+    "issues": "motion blur from fast-moving train"
+  },
+  "mood": [
+    "urban",
+    "transit",
+    "moody",
+    "fast-paced"
+  ],
+  "energy": "medium",
+  "tags": [
+    "subway",
+    "train",
+    "mta",
+    "nyc",
+    "station",
+    "tracks",
+    "transit",
+    "commute",
+    "city life",
+    "underground",
+    "urban aesthetic"
+  ],
+  "moments": [
+    {
+      "start": 0.0,
+      "end": 3.0,
+      "action": "A subway train zooms past on the center tracks through the underground station",
+      "emotion": "rushed, urban rhythm",
+      "good_for": [
+        "city commute",
+        "always on the move",
+        "nyc living",
+        "late night travel"
+      ],
+      "score": 3
+    },
+    {
+      "start": 3.0,
+      "end": 5.23,
+      "action": "The tail end of the train accelerates away down the tunnel into the distance",
+      "emotion": "fleeting, contemplative",
+      "good_for": [
+        "leaving things behind",
+        "next stop",
+        "commuter life"
+      ],
+      "score": 3
+    }
+  ]
+}

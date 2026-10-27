@@ -1,0 +1,70 @@
+{
+  "path": "OneOffs/Apartments/Gramercy/144 East 22nd Street/IMG_4297.MOV",
+  "folder": "OneOffs/Apartments/Gramercy/144 East 22nd Street",
+  "fingerprint": "76e2ac6e65769442",
+  "width": 1080,
+  "height": 1920,
+  "fps": 30.0,
+  "duration": 2.3,
+  "model": "gemini-3.8-flash",
+  "annotatedAt": "2026-10-24T18:20:46+00:00",
+  "summary": "A street-level perspective of a sidewalk in Gramercy, New York City, showing residential brownstones, apartment buildings, and a discarded red sofa on the curb.",
+  "location": "city street",
+  "setting": "outdoor",
+  "time_of_day": "day",
+  "weather": "sunny",
+  "people": {
+    "count": 4,
+    "creator_visible": false,
+    "description": "Pedestrians walking in the background along the sidewalk"
+  },
+  "camera": {
+    "style": "pov_first_person",
+    "framing": "wide",
+    "movement": "static",
+    "angle": "eye level"
+  },
+  "quality": {
+    "usable": true,
+    "stability": "steady",
+    "exposure": "good",
+    "issues": ""
+  },
+  "mood": [
+    "calm",
+    "urban",
+    "peaceful",
+    "casual"
+  ],
+  "energy": "low",
+  "tags": [
+    "new york city",
+    "gramercy",
+    "manhattan",
+    "sidewalk",
+    "city life",
+    "apartment buildings",
+    "red couch",
+    "stoop",
+    "urban aesthetic",
+    "neighborhood",
+    "sunny day",
+    "b roll"
+  ],
+  "moments": [
+    {
+      "start": 0.0,
+      "end": 2.3,
+      "action": "Static view looking down a quiet tree-lined Manhattan street sidewalk with a discarded red couch on the curb",
+      "emotion": "calm",
+      "good_for": [
+        "living in new york",
+        "city walks",
+        "moving day",
+        "stoop find",
+        "apartment hunting"
+      ],
+      "score": 3
+    }
+  ]
+}

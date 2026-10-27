@@ -1,0 +1,83 @@
+{
+  "path": "Cinematic/CentralPark/IMG_4415.MOV",
+  "folder": "Cinematic/CentralPark",
+  "fingerprint": "9e528f2a87469645",
+  "width": 1080,
+  "height": 1920,
+  "fps": 30.0,
+  "duration": 5.167,
+  "model": "gemini-3.8-flash",
+  "annotatedAt": "2026-10-24T18:17:40+00:00",
+  "summary": "A sunny wide shot panning across a grassy lawn in Central Park, showing people picnicking and relaxing by the lake with boats and classic architecture in the background.",
+  "location": "park",
+  "setting": "outdoor",
+  "time_of_day": "day",
+  "weather": "sunny",
+  "people": {
+    "count": 15,
+    "creator_visible": false,
+    "description": "Various parkgoers sitting on picnic blankets and lying on the grass under trees enjoying a sunny afternoon."
+  },
+  "camera": {
+    "style": "handheld_cinematic",
+    "framing": "wide",
+    "movement": "pan",
+    "angle": "eye level"
+  },
+  "quality": {
+    "usable": true,
+    "stability": "steady",
+    "exposure": "good",
+    "issues": ""
+  },
+  "mood": [
+    "peaceful",
+    "relaxed",
+    "serene",
+    "scenic"
+  ],
+  "energy": "low",
+  "tags": [
+    "central park",
+    "new york city",
+    "nyc",
+    "park",
+    "lake",
+    "picnic",
+    "sunny day",
+    "relaxing",
+    "greenery",
+    "trees",
+    "boats",
+    "summer",
+    "weekend vibes"
+  ],
+  "moments": [
+    {
+      "start": 0.0,
+      "end": 3.0,
+      "action": "Camera pans slowly from the shade across the lake filled with rowboats and historic city buildings on the skyline, showing parkgoers on the lawn",
+      "emotion": "calm",
+      "good_for": [
+        "sunny afternoons",
+        "romanticizing life",
+        "favorite city spots",
+        "weekend recap"
+      ],
+      "score": 4
+    },
+    {
+      "start": 2.5,
+      "end": 5.17,
+      "action": "Camera continues panning across the grassy lawn where several people lounge and lie down in the sun under green trees",
+      "emotion": "peaceful",
+      "good_for": [
+        "taking it slow",
+        "peace of mind",
+        "summer in the city",
+        "outdoor reset"
+      ],
+      "score": 3
+    }
+  ]
+}

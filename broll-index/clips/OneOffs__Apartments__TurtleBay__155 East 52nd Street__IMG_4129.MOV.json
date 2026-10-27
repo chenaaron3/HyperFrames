@@ -1,0 +1,70 @@
+{
+  "path": "OneOffs/Apartments/TurtleBay/155 East 52nd Street/IMG_4129.MOV",
+  "folder": "OneOffs/Apartments/TurtleBay/155 East 52nd Street",
+  "fingerprint": "c7606f86d66397b8",
+  "width": 1080,
+  "height": 1920,
+  "fps": 30.0,
+  "duration": 2.4,
+  "model": "gemini-3.8-flash",
+  "annotatedAt": "2026-10-24T18:22:07+00:00",
+  "summary": "Handheld panning shot across an old New York apartment bathroom showing the bathtub, sink vanity, mirror, and toilet.",
+  "location": "bathroom",
+  "setting": "indoor",
+  "time_of_day": "indoor_unknown",
+  "weather": "n/a",
+  "people": {
+    "count": 0,
+    "creator_visible": false,
+    "description": "No people visible."
+  },
+  "camera": {
+    "style": "pov_first_person",
+    "framing": "medium",
+    "movement": "pan",
+    "angle": "eye level"
+  },
+  "quality": {
+    "usable": true,
+    "stability": "handheld",
+    "exposure": "good",
+    "issues": ""
+  },
+  "mood": [
+    "neutral",
+    "mundane",
+    "nostalgic",
+    "realistic"
+  ],
+  "energy": "low",
+  "tags": [
+    "apartment hunting",
+    "nyc apartment",
+    "bathroom",
+    "bathtub",
+    "sink",
+    "medicine cabinet",
+    "toilet",
+    "white tiles",
+    "vintage bathroom",
+    "turtle bay",
+    "real estate",
+    "rental"
+  ],
+  "moments": [
+    {
+      "start": 0.0,
+      "end": 2.4,
+      "action": "Camera pans slowly from the bathtub and shower head past the sink vanity and mirror to the toilet in an apartment bathroom.",
+      "emotion": "calm",
+      "good_for": [
+        "apartment hunting in nyc",
+        "first apartment tour",
+        "humble beginnings",
+        "nyc real estate reality",
+        "vintage bathroom vibes"
+      ],
+      "score": 3
+    }
+  ]
+}

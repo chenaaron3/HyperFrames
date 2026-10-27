@@ -1,0 +1,71 @@
+{
+  "path": "OneOffs/RainyDayArmanRishi/IMG_4625.MOV",
+  "folder": "OneOffs/RainyDayArmanRishi",
+  "fingerprint": "acb10ca5728b031d",
+  "width": 1080,
+  "height": 1920,
+  "fps": 30.0,
+  "duration": 1.633,
+  "model": "gemini-3.8-flash",
+  "annotatedAt": "2026-10-24T18:36:09+00:00",
+  "summary": "First-person top-down shot of the creator standing still on tiled flooring with water droplets, wearing dark shoes, jeans, and a long dark coat.",
+  "location": "indoor hallway or entryway",
+  "setting": "indoor",
+  "time_of_day": "indoor_unknown",
+  "weather": "rain",
+  "people": {
+    "count": 1,
+    "creator_visible": true,
+    "description": "Creator's feet and coat visible from POV, wearing dark boots, blue jeans, and a dark overcoat"
+  },
+  "camera": {
+    "style": "pov_first_person",
+    "framing": "close",
+    "movement": "static",
+    "angle": "top-down"
+  },
+  "quality": {
+    "usable": true,
+    "stability": "steady",
+    "exposure": "mixed",
+    "issues": ""
+  },
+  "mood": [
+    "contemplative",
+    "quiet",
+    "melancholy",
+    "gloomy"
+  ],
+  "energy": "low",
+  "tags": [
+    "shoes",
+    "boots",
+    "rain",
+    "rainy day",
+    "tiles",
+    "water drops",
+    "puddle",
+    "pov",
+    "coat",
+    "standing",
+    "waiting",
+    "indoor",
+    "feet"
+  ],
+  "moments": [
+    {
+      "start": 0.0,
+      "end": 1.63,
+      "action": "Standing motionless looking straight down at dark shoes and a wet tiled floor",
+      "emotion": "somber, still",
+      "good_for": [
+        "rainy day thoughts",
+        "standing in the rain",
+        "taking a pause",
+        "winter aesthetic",
+        "where my feet take me"
+      ],
+      "score": 3
+    }
+  ]
+}

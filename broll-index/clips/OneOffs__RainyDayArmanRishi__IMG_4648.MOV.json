@@ -1,0 +1,70 @@
+{
+  "path": "OneOffs/RainyDayArmanRishi/IMG_4648.MOV",
+  "folder": "OneOffs/RainyDayArmanRishi",
+  "fingerprint": "d3e0cc3b366f27cb",
+  "width": 1080,
+  "height": 1920,
+  "fps": 30.0,
+  "duration": 1.967,
+  "model": "gemini-3.8-flash",
+  "annotatedAt": "2026-10-24T18:36:52+00:00",
+  "summary": "A friendly barista or tea shop owner stands behind the counter surrounded by tea tins, smiling and flashing a peace sign toward the camera.",
+  "location": "tea shop",
+  "setting": "indoor",
+  "time_of_day": "indoor_unknown",
+  "weather": "n/a",
+  "people": {
+    "count": 1,
+    "creator_visible": false,
+    "description": "Middle-aged man with salt-and-pepper hair, wearing a button-up shirt and a black apron behind a tea counter."
+  },
+  "camera": {
+    "style": "pov_first_person",
+    "framing": "medium",
+    "movement": "static",
+    "angle": "eye level"
+  },
+  "quality": {
+    "usable": true,
+    "stability": "steady",
+    "exposure": "good",
+    "issues": ""
+  },
+  "mood": [
+    "warm",
+    "friendly",
+    "cheerful",
+    "welcoming"
+  ],
+  "energy": "medium",
+  "tags": [
+    "tea shop",
+    "barista",
+    "peace sign",
+    "cafe",
+    "smiling",
+    "counter",
+    "apron",
+    "tea canisters",
+    "shelves",
+    "warm lighting",
+    "hospitality",
+    "local business"
+  ],
+  "moments": [
+    {
+      "start": 0.0,
+      "end": 1.97,
+      "action": "A tea shop worker behind the counter smiles warmly, flashes a peace sign at the camera, and laughs.",
+      "emotion": "warm and playful",
+      "good_for": [
+        "meeting friendly locals",
+        "supporting small businesses",
+        "good customer service",
+        "cozy tea spots",
+        "friendly faces"
+      ],
+      "score": 4
+    }
+  ]
+}

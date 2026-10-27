@@ -1,0 +1,104 @@
+{
+  "path": "SelfShots/ClimbingGym/OnTheWall/10:18:26_Orange_x53/IMG_5138.MOV",
+  "folder": "SelfShots/ClimbingGym/OnTheWall/10:18:26_Orange_x53",
+  "fingerprint": "7a39bb7cf3bc5e6e",
+  "width": 1080,
+  "height": 1920,
+  "fps": 30.0,
+  "duration": 52.472,
+  "model": "gemini-3.8-flash",
+  "annotatedAt": "2026-10-24T18:45:18+00:00",
+  "summary": "A young man tackles an overhanging route on an indoor bouldering wall before dropping safely onto the gym mat.",
+  "location": "climbing gym",
+  "setting": "indoor",
+  "time_of_day": "indoor_unknown",
+  "weather": "n/a",
+  "people": {
+    "count": 3,
+    "creator_visible": true,
+    "description": "Young East Asian man wearing a grey tank top and loose jeans bouldering, with other climbers resting in the background"
+  },
+  "camera": {
+    "style": "tripod_static",
+    "framing": "wide",
+    "movement": "static",
+    "angle": "eye level"
+  },
+  "quality": {
+    "usable": true,
+    "stability": "locked",
+    "exposure": "good",
+    "issues": ""
+  },
+  "mood": [
+    "focused",
+    "athletic",
+    "challenging",
+    "motivated"
+  ],
+  "energy": "medium",
+  "tags": [
+    "bouldering",
+    "rock climbing",
+    "indoor climbing",
+    "gym",
+    "fitness",
+    "workout",
+    "overhang",
+    "holds",
+    "climbing gym",
+    "athletic",
+    "strength",
+    "active lifestyle"
+  ],
+  "moments": [
+    {
+      "start": 3.0,
+      "end": 8.5,
+      "action": "Climber mounts the starting holds and engages his core on the steep overhang",
+      "emotion": "focused",
+      "good_for": [
+        "starting a new hobby",
+        "taking on a challenge",
+        "lock in"
+      ],
+      "score": 4
+    },
+    {
+      "start": 13.5,
+      "end": 21.5,
+      "action": "Climber methodically works his way up the pink holds using heel hooks and toe placements",
+      "emotion": "determined",
+      "good_for": [
+        "one step at a time",
+        "trusting the process",
+        "workout motivation"
+      ],
+      "score": 4
+    },
+    {
+      "start": 33.5,
+      "end": 41.5,
+      "action": "Climber navigates the difficult top section of the overhang, adjusting grip carefully",
+      "emotion": "intense concentration",
+      "good_for": [
+        "almost there",
+        "pushing through fatigue",
+        "testing limits"
+      ],
+      "score": 4
+    },
+    {
+      "start": 44.5,
+      "end": 49.5,
+      "action": "Climber loses grip, drops down onto the crash mat, and walks past the camera",
+      "emotion": "relieved exhaustion",
+      "good_for": [
+        "failing forward",
+        "falling is part of it",
+        "trying again tomorrow"
+      ],
+      "score": 4
+    }
+  ]
+}

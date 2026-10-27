@@ -1,0 +1,96 @@
+{
+  "path": "SelfShots/Subway/IMG_5186.MOV",
+  "folder": "SelfShots/Subway",
+  "fingerprint": "d5f88c27790c9582",
+  "width": 1080,
+  "height": 1920,
+  "fps": 30.0,
+  "duration": 14.167,
+  "model": "gemini-3.8-flash",
+  "annotatedAt": "2026-10-24T19:01:15+00:00",
+  "summary": "A young man with wavy hair and earbuds sits on a moving subway car with his backpack, looking thoughtfully into the distance while filming a low-angle selfie.",
+  "location": "subway car",
+  "setting": "vehicle",
+  "time_of_day": "indoor_unknown",
+  "weather": "n/a",
+  "people": {
+    "count": 1,
+    "creator_visible": true,
+    "description": "Young East Asian man with dark wavy hair, wearing a brown t-shirt, white wireless earbuds, and carrying a large black backpack with a tripod attached."
+  },
+  "camera": {
+    "style": "selfie",
+    "framing": "medium",
+    "movement": "static",
+    "angle": "low angle looking up"
+  },
+  "quality": {
+    "usable": true,
+    "stability": "handheld",
+    "exposure": "good",
+    "issues": ""
+  },
+  "mood": [
+    "pensive",
+    "calm",
+    "urban",
+    "introspective",
+    "cinematic"
+  ],
+  "energy": "low",
+  "tags": [
+    "subway",
+    "commute",
+    "train",
+    "transit",
+    "travel",
+    "backpack",
+    "earbuds",
+    "city life",
+    "public transport",
+    "contemplative",
+    "solo travel",
+    "low angle",
+    "new york"
+  ],
+  "moments": [
+    {
+      "start": 0.0,
+      "end": 2.5,
+      "action": "Man looks towards the camera briefly then turns his gaze to the side of the train car",
+      "emotion": "calm",
+      "good_for": [
+        "daily commute",
+        "headed into the city",
+        "on my way"
+      ],
+      "score": 3
+    },
+    {
+      "start": 2.5,
+      "end": 8.0,
+      "action": "Man sits quietly looking into the distance as the train car rocks and lights streak outside the window",
+      "emotion": "pensive",
+      "good_for": [
+        "thinking about life",
+        "quiet moments",
+        "commute thoughts",
+        "romanticizing life"
+      ],
+      "score": 4
+    },
+    {
+      "start": 8.0,
+      "end": 14.17,
+      "action": "Slight low-angle shot continues with the young man looking off-camera listening to music",
+      "emotion": "contemplative",
+      "good_for": [
+        "main character energy",
+        "listening to music on the subway",
+        "city dreamer",
+        "solo commute"
+      ],
+      "score": 4
+    }
+  ]
+}

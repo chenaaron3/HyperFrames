@@ -1,0 +1,71 @@
+{
+  "path": "OneOffs/Cooking/IMG_4825.MOV",
+  "folder": "OneOffs/Cooking",
+  "fingerprint": "e8c008751800aaf9",
+  "width": 1080,
+  "height": 1920,
+  "fps": 30.0,
+  "duration": 3.633,
+  "model": "gemini-3.8-flash",
+  "annotatedAt": "2026-10-24T18:28:05+00:00",
+  "summary": "A close-up shot of a pot of yellow curry or creamy soup simmering gently on a gas stove.",
+  "location": "kitchen",
+  "setting": "indoor",
+  "time_of_day": "indoor_unknown",
+  "weather": "n/a",
+  "people": {
+    "count": 0,
+    "creator_visible": false,
+    "description": "No people visible, only a metal spoon held briefly above the pot"
+  },
+  "camera": {
+    "style": "pov_first_person",
+    "framing": "close",
+    "movement": "static",
+    "angle": "high angle"
+  },
+  "quality": {
+    "usable": true,
+    "stability": "steady",
+    "exposure": "good",
+    "issues": ""
+  },
+  "mood": [
+    "cozy",
+    "comforting",
+    "peaceful",
+    "domestic"
+  ],
+  "energy": "low",
+  "tags": [
+    "cooking",
+    "curry",
+    "soup",
+    "stovetop",
+    "saucepan",
+    "simmering",
+    "kitchen",
+    "home cooking",
+    "comfort food",
+    "dinner prep",
+    "food",
+    "recipe"
+  ],
+  "moments": [
+    {
+      "start": 0.0,
+      "end": 3.63,
+      "action": "Yellow curry simmering gently on a lit gas stove burner as a spoon dips in and out",
+      "emotion": "calm",
+      "good_for": [
+        "home cooked meal",
+        "comfort food",
+        "nourishing meals",
+        "cooking dinner at home",
+        "food on my plate",
+        "quiet evening routine"
+      ],
+      "score": 4
+    }
+  ]
+}

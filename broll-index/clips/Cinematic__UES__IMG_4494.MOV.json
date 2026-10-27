@@ -1,0 +1,69 @@
+{
+  "path": "Cinematic/UES/IMG_4494.MOV",
+  "folder": "Cinematic/UES",
+  "fingerprint": "f828df08cf3954c7",
+  "width": 1080,
+  "height": 1920,
+  "fps": 30.0,
+  "duration": 2.533,
+  "model": "gemini-3.8-flash",
+  "annotatedAt": "2026-10-24T18:20:01+00:00",
+  "summary": "Exterior shot of a luxury Upper East Side building entrance numbered 40, where a suited doorman holds open the ornate Art Deco glass door.",
+  "location": "apartment building entrance",
+  "setting": "mixed",
+  "time_of_day": "day",
+  "weather": "overcast",
+  "people": {
+    "count": 1,
+    "creator_visible": false,
+    "description": "A doorman in a formal dark suit and tie standing inside by the doorway"
+  },
+  "camera": {
+    "style": "pov_first_person",
+    "framing": "medium",
+    "movement": "handheld",
+    "angle": "eye level"
+  },
+  "quality": {
+    "usable": true,
+    "stability": "handheld",
+    "exposure": "good",
+    "issues": ""
+  },
+  "mood": [
+    "luxurious",
+    "classic",
+    "sophisticated",
+    "aspirational"
+  ],
+  "energy": "low",
+  "tags": [
+    "upper east side",
+    "ues",
+    "nyc",
+    "manhattan",
+    "doorman",
+    "luxury apartment",
+    "entryway",
+    "art deco",
+    "city life",
+    "architecture",
+    "wealthy"
+  ],
+  "moments": [
+    {
+      "start": 0.0,
+      "end": 2.53,
+      "action": "Handheld view of a luxury residential building entrance as a doorman in a suit stands by the open ornate brass and glass door",
+      "emotion": "formal",
+      "good_for": [
+        "upper east side living",
+        "luxury apartment dreams",
+        "manifesting my dream building",
+        "nyc aesthetic",
+        "arriving home"
+      ],
+      "score": 3
+    }
+  ]
+}

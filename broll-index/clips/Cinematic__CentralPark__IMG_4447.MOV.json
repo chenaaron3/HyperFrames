@@ -1,0 +1,106 @@
+{
+  "path": "Cinematic/CentralPark/IMG_4447.MOV",
+  "folder": "Cinematic/CentralPark",
+  "fingerprint": "da642066bb2c1ec7",
+  "width": 1080,
+  "height": 1920,
+  "fps": 30.0,
+  "duration": 28.168,
+  "model": "gemini-3.8-flash",
+  "annotatedAt": "2026-10-24T18:18:25+00:00",
+  "summary": "A young man sits on a large rock in Central Park with his back to the camera, enjoying the view of the lawn and city architecture on a sunny day.",
+  "location": "Central Park",
+  "setting": "outdoor",
+  "time_of_day": "day",
+  "weather": "sunny",
+  "people": {
+    "count": 1,
+    "creator_visible": true,
+    "description": "Young East Asian man with black wavy hair, wearing a light blue short-sleeve shirt, baggy light-wash jeans, and white wireless earbuds"
+  },
+  "camera": {
+    "style": "tripod_static",
+    "framing": "medium",
+    "movement": "static",
+    "angle": "low angle looking up"
+  },
+  "quality": {
+    "usable": true,
+    "stability": "locked",
+    "exposure": "good",
+    "issues": "Empty frame at start, reaches to turn off camera at end"
+  },
+  "mood": [
+    "peaceful",
+    "contemplative",
+    "relaxed",
+    "serene"
+  ],
+  "energy": "low",
+  "tags": [
+    "central park",
+    "new york city",
+    "rock",
+    "sitting",
+    "back view",
+    "nature",
+    "city park",
+    "sunny day",
+    "relaxation",
+    "alone time",
+    "contemplation",
+    "trees",
+    "skyline"
+  ],
+  "moments": [
+    {
+      "start": 2.5,
+      "end": 6.0,
+      "action": "Creator walks into frame and sits down on the rock facing away towards the park meadow",
+      "emotion": "calm, settling down",
+      "good_for": [
+        "finding peace in the city",
+        "taking a breather",
+        "my favorite spot"
+      ],
+      "score": 4
+    },
+    {
+      "start": 6.0,
+      "end": 14.0,
+      "action": "Creator sits relaxed on the rock, gazing out over the trees and green lawn",
+      "emotion": "peaceful, reflective",
+      "good_for": [
+        "romanticizing life",
+        "living in new york",
+        "solo date in the park",
+        "clearing my mind"
+      ],
+      "score": 5
+    },
+    {
+      "start": 17.0,
+      "end": 24.0,
+      "action": "Creator pulls knees up and sits quietly while looking across the park",
+      "emotion": "introspective, thoughtful",
+      "good_for": [
+        "taking things slow",
+        "healing era",
+        "quiet moments"
+      ],
+      "score": 4
+    },
+    {
+      "start": 24.0,
+      "end": 26.5,
+      "action": "Creator turns around, faces the lens, and leans down toward the camera to grab it",
+      "emotion": "focused, casual",
+      "good_for": [
+        "moving on",
+        "time to go",
+        "transition to next scene"
+      ],
+      "score": 3
+    }
+  ]
+}

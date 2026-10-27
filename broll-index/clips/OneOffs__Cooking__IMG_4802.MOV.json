@@ -1,0 +1,68 @@
+{
+  "path": "OneOffs/Cooking/IMG_4802.MOV",
+  "folder": "OneOffs/Cooking",
+  "fingerprint": "46616af61187d6f0",
+  "width": 1080,
+  "height": 1920,
+  "fps": 30.0,
+  "duration": 4.167,
+  "model": "gemini-3.8-flash",
+  "annotatedAt": "2026-10-24T18:24:35+00:00",
+  "summary": "View from the backseat of a car showing a young man with glasses driving on a sunny day with a GPS navigation phone mounted on the dashboard.",
+  "location": "car interior",
+  "setting": "vehicle",
+  "time_of_day": "day",
+  "weather": "sunny",
+  "people": {
+    "count": 1,
+    "creator_visible": false,
+    "description": "Young man driving, wearing glasses, an earbud, and a dark jacket or hoodie, seen from the back and side profile"
+  },
+  "camera": {
+    "style": "pov_first_person",
+    "framing": "medium",
+    "movement": "static",
+    "angle": "eye level"
+  },
+  "quality": {
+    "usable": true,
+    "stability": "steady",
+    "exposure": "mixed",
+    "issues": ""
+  },
+  "mood": [
+    "calm",
+    "routine",
+    "focused"
+  ],
+  "energy": "low",
+  "tags": [
+    "car",
+    "driving",
+    "passenger",
+    "rideshare",
+    "uber",
+    "commute",
+    "traffic",
+    "road trip",
+    "interior",
+    "daytime",
+    "travel"
+  ],
+  "moments": [
+    {
+      "start": 0.0,
+      "end": 4.17,
+      "action": "The driver navigates through traffic while keeping hands on the wheel, viewed from the backseat",
+      "emotion": "focused",
+      "good_for": [
+        "on the way",
+        "running errands",
+        "commute vibes",
+        "getting an uber",
+        "road trip diary"
+      ],
+      "score": 3
+    }
+  ]
+}

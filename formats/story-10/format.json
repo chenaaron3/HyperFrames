@@ -1,0 +1,57 @@
+{
+  "id": "story-10",
+  "name": "Healthy Relationship Tips pt 1",
+  "reference": "references/viral-formats/story-10.mp4",
+  "source": "/Users/aaron/Downloads/100 Viral Formats (Format Book)/Storytelling/#10/#10.mp4",
+  "duration": 61.6,
+  "music": {
+    "from": "reference",
+    "title": "None"
+  },
+  "text": {
+    "y": 0.178,
+    "size": 64,
+    "weight": 700,
+    "lineHeight": 1.4,
+    "maxWidth": 900,
+    "style": "outline"
+  },
+  "lines": [
+    {
+      "id": "l1",
+      "start": 0.0,
+      "end": 3.633,
+      "ref": "Healthy Relationship Tips pt 1",
+      "y": 0.178,
+      "measuredSize": 68,
+      "style": "plain_white_shadow",
+      "guide": ""
+    }
+  ],
+  "shots": [
+    {
+      "id": "s1",
+      "start": 0.0,
+      "end": 61.6,
+      "brief": "talking directly to camera inside a car holding a mini microphone (ref: A young Asian man sits in the driver's seat of a car, holding a wireless mini microphone up to his mouth, passionately explaining a relationship lesson directly to the camera.; tripod)",
+      "line": null
+    }
+  ],
+  "audit": {
+    "kind": "talking_head",
+    "creatorSpeaks": true,
+    "audio": "speech",
+    "special": [
+      "Car interior setup",
+      "Handheld mini clip-on microphone"
+    ],
+    "reusable": false,
+    "notes": "This format is entirely an authentic first-person storytelling talking-head video. It requires the creator to speak candidly to the camera and cannot be recreated with silent lifestyle b-roll and text overlays alone.",
+    "summary": "A creator sits in his car holding a small lav mic, talking directly to the camera about relationship tips regarding accepting a partner's core traits across all contexts."
+  },
+  "caption": {
+    "ref": "",
+    "guide": ""
+  },
+  "draft": true
+}

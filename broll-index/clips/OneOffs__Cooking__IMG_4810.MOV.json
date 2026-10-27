@@ -1,0 +1,91 @@
+{
+  "path": "OneOffs/Cooking/IMG_4810.MOV",
+  "folder": "OneOffs/Cooking",
+  "fingerprint": "fbfd59c0604e5156",
+  "width": 1080,
+  "height": 1920,
+  "fps": 30.0,
+  "duration": 19.568,
+  "model": "gemini-3.8-flash",
+  "annotatedAt": "2026-10-24T18:24:56+00:00",
+  "summary": "A person shows a bottle of Vietnamese fish sauce to the camera before pouring drops of it into a creamy sauce simmering in a small saucepan on a gas stove.",
+  "location": "kitchen",
+  "setting": "indoor",
+  "time_of_day": "indoor_unknown",
+  "weather": "n/a",
+  "people": {
+    "count": 1,
+    "creator_visible": false,
+    "description": "Person's hands holding a fish sauce bottle and pouring it into a pot"
+  },
+  "camera": {
+    "style": "pov_first_person",
+    "framing": "close",
+    "movement": "handheld_cinematic",
+    "angle": "high angle"
+  },
+  "quality": {
+    "usable": true,
+    "stability": "steady",
+    "exposure": "good",
+    "issues": ""
+  },
+  "mood": [
+    "focused",
+    "cozy",
+    "domestic"
+  ],
+  "energy": "low",
+  "tags": [
+    "cooking",
+    "kitchen",
+    "saucepan",
+    "stove",
+    "fish sauce",
+    "curry",
+    "sauce",
+    "recipe",
+    "home cooking",
+    "simmering",
+    "culinary",
+    "vietnamese ingredients"
+  ],
+  "moments": [
+    {
+      "start": 1.0,
+      "end": 3.5,
+      "action": "Person holds up a bottle of Phan Thiet fish sauce directly in front of the camera",
+      "emotion": "focused",
+      "good_for": [
+        "secret ingredient",
+        "home cooking recipe",
+        "flavor booster"
+      ],
+      "score": 4
+    },
+    {
+      "start": 3.8,
+      "end": 8.0,
+      "action": "Person tips the fish sauce bottle and shakes drops into the simmering pot on the stove",
+      "emotion": "attentive",
+      "good_for": [
+        "seasoning to taste",
+        "cooking from scratch",
+        "making dinner"
+      ],
+      "score": 4
+    },
+    {
+      "start": 11.0,
+      "end": 16.5,
+      "action": "Close-up of splashing drops of fish sauce into the hot creamy bubbling sauce",
+      "emotion": "calm",
+      "good_for": [
+        "cooking sounds",
+        "comfort meal",
+        "learning to cook"
+      ],
+      "score": 3
+    }
+  ]
+}

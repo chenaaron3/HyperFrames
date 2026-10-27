@@ -1,0 +1,81 @@
+{
+  "path": "OneOffs/BrooklynNight/IMG_4579 3.MOV",
+  "folder": "OneOffs/BrooklynNight",
+  "fingerprint": "717d35837abb9f57",
+  "width": 1080,
+  "height": 1920,
+  "fps": 30.0,
+  "duration": 5.067,
+  "model": "gemini-3.8-flash",
+  "annotatedAt": "2026-10-24T18:24:12+00:00",
+  "summary": "POV walking along the pedestrian wooden deck toward the illuminated Brooklyn Bridge tower at night amidst crowds of people.",
+  "location": "brooklyn bridge pedestrian walkway",
+  "setting": "outdoor",
+  "time_of_day": "night",
+  "weather": "n/a",
+  "people": {
+    "count": 25,
+    "creator_visible": false,
+    "description": "Crowds of pedestrians and tourists walking along the wooden walkway at night, including a person in a black graphic t-shirt and shorts walking ahead."
+  },
+  "camera": {
+    "style": "pov_first_person",
+    "framing": "wide",
+    "movement": "walking",
+    "angle": "eye level"
+  },
+  "quality": {
+    "usable": true,
+    "stability": "handheld",
+    "exposure": "mixed",
+    "issues": "Night grain and typical smartphone low-light compression"
+  },
+  "mood": [
+    "adventurous",
+    "urban",
+    "atmospheric",
+    "lively"
+  ],
+  "energy": "medium",
+  "tags": [
+    "brooklyn bridge",
+    "new york city",
+    "nyc",
+    "night walk",
+    "city lights",
+    "pedestrians",
+    "travel",
+    "urban aesthetic",
+    "manhattan skyline",
+    "nightlife",
+    "bridge walk"
+  ],
+  "moments": [
+    {
+      "start": 0.0,
+      "end": 2.5,
+      "action": "Walking behind visitors on the wooden walkway facing the illuminated Brooklyn Bridge tower",
+      "emotion": "captivated",
+      "good_for": [
+        "late night walks in nyc",
+        "city that never sleeps",
+        "travel memories",
+        "falling in love with new york"
+      ],
+      "score": 3
+    },
+    {
+      "start": 2.5,
+      "end": 5.07,
+      "action": "Continuing forward movement on the boardwalk as people pause and stroll toward the bridge tower",
+      "emotion": "wondrous",
+      "good_for": [
+        "summer nights in the city",
+        "places that feel like a movie",
+        "exploring at night",
+        "nyc bucket list"
+      ],
+      "score": 3
+    }
+  ]
+}

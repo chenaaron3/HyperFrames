@@ -1,0 +1,118 @@
+{
+  "path": "OneOffs/Cooking/IMG_4807.MOV",
+  "folder": "OneOffs/Cooking",
+  "fingerprint": "25add7eb0ca9a366",
+  "width": 1080,
+  "height": 1920,
+  "fps": 30.0,
+  "duration": 53.137,
+  "model": "gemini-3.8-flash",
+  "annotatedAt": "2026-10-24T18:24:58+00:00",
+  "summary": "A home cook pours canned coconut milk into a saucepan of simmering spices on a gas stove and stirs the curry sauce with a spatula.",
+  "location": "kitchen",
+  "setting": "indoor",
+  "time_of_day": "indoor_unknown",
+  "weather": "n/a",
+  "people": {
+    "count": 0,
+    "creator_visible": false,
+    "description": "Only the cook's hand is visible while pouring and stirring."
+  },
+  "camera": {
+    "style": "pov_first_person",
+    "framing": "close",
+    "movement": "handheld",
+    "angle": "high angle"
+  },
+  "quality": {
+    "usable": true,
+    "stability": "steady",
+    "exposure": "good",
+    "issues": ""
+  },
+  "mood": [
+    "calm",
+    "domestic",
+    "casual",
+    "cozy"
+  ],
+  "energy": "low",
+  "tags": [
+    "cooking",
+    "kitchen",
+    "curry",
+    "coconut milk",
+    "stove",
+    "saucepan",
+    "simmering",
+    "homemade",
+    "food prep",
+    "recipe",
+    "dinner",
+    "stirring"
+  ],
+  "moments": [
+    {
+      "start": 2.5,
+      "end": 6.8,
+      "action": "Pouring thick canned coconut milk into the saucepan over the spices on the stove",
+      "emotion": "focused",
+      "good_for": [
+        "cooking from scratch",
+        "dinner at home",
+        "simple pleasures",
+        "home cooked meal"
+      ],
+      "score": 4
+    },
+    {
+      "start": 12.0,
+      "end": 15.5,
+      "action": "Pouring the remainder of the coconut milk can into the hot pot",
+      "emotion": "relaxed",
+      "good_for": [
+        "making dinner",
+        "curry night",
+        "comfort food"
+      ],
+      "score": 3
+    },
+    {
+      "start": 18.0,
+      "end": 24.5,
+      "action": "Using a spatula to stir and combine the coconut milk with the spice paste",
+      "emotion": "calm",
+      "good_for": [
+        "taking time to cook",
+        "cooking therapy",
+        "satisfying cooking",
+        "evening routine"
+      ],
+      "score": 4
+    },
+    {
+      "start": 25.0,
+      "end": 32.5,
+      "action": "Slowly stirring the creamy curry sauce in the pot over the blue gas flame",
+      "emotion": "peaceful",
+      "good_for": [
+        "unwinding after work",
+        "slow living",
+        "kitchen therapy"
+      ],
+      "score": 3
+    },
+    {
+      "start": 47.0,
+      "end": 52.5,
+      "action": "Tapping the spatula on the pot rim and lifting it as the sauce gently simmers",
+      "emotion": "satisfied",
+      "good_for": [
+        "food on my plate",
+        "finished product",
+        "dinner is ready"
+      ],
+      "score": 4
+    }
+  ]
+}

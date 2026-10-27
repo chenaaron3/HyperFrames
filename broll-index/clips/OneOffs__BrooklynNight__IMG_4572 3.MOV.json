@@ -1,0 +1,81 @@
+{
+  "path": "OneOffs/BrooklynNight/IMG_4572 3.MOV",
+  "folder": "OneOffs/BrooklynNight",
+  "fingerprint": "92d5503cc84c896a",
+  "width": 1080,
+  "height": 1920,
+  "fps": 30.0,
+  "duration": 10.333,
+  "model": "gemini-3.8-flash",
+  "annotatedAt": "2026-10-24T18:24:05+00:00",
+  "summary": "Handheld POV pan from the Brooklyn Bridge pedestrian walkway capturing the glowing lower Manhattan skyline at night, traffic below, and fellow pedestrians walking.",
+  "location": "brooklyn bridge",
+  "setting": "outdoor",
+  "time_of_day": "night",
+  "weather": "n/a",
+  "people": {
+    "count": 5,
+    "creator_visible": false,
+    "description": "Pedestrians on the bridge walkway seen from behind, dressed in casual evening jackets"
+  },
+  "camera": {
+    "style": "pov_first_person",
+    "framing": "wide",
+    "movement": "pan",
+    "angle": "eye level"
+  },
+  "quality": {
+    "usable": true,
+    "stability": "steady",
+    "exposure": "good",
+    "issues": ""
+  },
+  "mood": [
+    "cinematic",
+    "atmospheric",
+    "urban",
+    "adventurous",
+    "reflective"
+  ],
+  "energy": "medium",
+  "tags": [
+    "brooklyn bridge",
+    "manhattan",
+    "skyline",
+    "night",
+    "city lights",
+    "one world trade center",
+    "traffic",
+    "new york city",
+    "nyc",
+    "night walk",
+    "urban night"
+  ],
+  "moments": [
+    {
+      "start": 0.0,
+      "end": 5.2,
+      "action": "Pan across the illuminated downtown Manhattan skyline with One World Trade Center and moving traffic on the roadway below",
+      "emotion": "awe",
+      "good_for": [
+        "city that never sleeps",
+        "late night in new york",
+        "city views",
+        "living my dream"
+      ],
+      "score": 4
+    },
+    {
+      "start": 5.2,
+      "end": 9.5,
+      "action": "Camera pans toward the bridge walkway, showing bridge lanterns and pedestrians walking along the path",
+      "emotion": "wanderlust",
+      "good_for": [
+        "late night walks",
+        "brooklyn bridge vibes",
+        "exploring the city"
+      ],
+      "score": 3
+    }
+  ]
+}

@@ -1,0 +1,83 @@
+{
+  "path": "Cinematic/CentralPark/IMG_4444.MOV",
+  "folder": "Cinematic/CentralPark",
+  "fingerprint": "8e9ac363578019f2",
+  "width": 1080,
+  "height": 1920,
+  "fps": 29.97,
+  "duration": 5.503,
+  "model": "gemini-3.8-flash",
+  "annotatedAt": "2026-10-24T18:18:20+00:00",
+  "summary": "A smooth landscape pan across the Central Park Reservoir revealing still blue waters reflecting the sky and the distant Manhattan skyline.",
+  "location": "park",
+  "setting": "outdoor",
+  "time_of_day": "day",
+  "weather": "sunny",
+  "people": {
+    "count": 0,
+    "creator_visible": false,
+    "description": "No people visible in frame."
+  },
+  "camera": {
+    "style": "handheld_cinematic",
+    "framing": "wide",
+    "movement": "pan",
+    "angle": "eye level"
+  },
+  "quality": {
+    "usable": true,
+    "stability": "steady",
+    "exposure": "good",
+    "issues": ""
+  },
+  "mood": [
+    "peaceful",
+    "serene",
+    "scenic",
+    "relaxing",
+    "reflective"
+  ],
+  "energy": "low",
+  "tags": [
+    "central park",
+    "reservoir",
+    "new york city",
+    "nyc",
+    "manhattan skyline",
+    "nature",
+    "reflection",
+    "blue sky",
+    "calm water",
+    "city park",
+    "morning walk",
+    "tranquility"
+  ],
+  "moments": [
+    {
+      "start": 0.0,
+      "end": 3.0,
+      "action": "Camera slowly pans right over wide calm blue water reflecting the bright blue sky toward distant buildings",
+      "emotion": "calm",
+      "good_for": [
+        "finding peace in the city",
+        "clear mind",
+        "taking a breather",
+        "morning walks"
+      ],
+      "score": 4
+    },
+    {
+      "start": 2.5,
+      "end": 5.5,
+      "action": "Camera continues panning right to reveal the distant Central Park fountain, city skyline, and lush green shoreline",
+      "emotion": "peaceful",
+      "good_for": [
+        "romanticizing my life",
+        "favorite corner of the city",
+        "a moment of quiet",
+        "summer in new york"
+      ],
+      "score": 4
+    }
+  ]
+}

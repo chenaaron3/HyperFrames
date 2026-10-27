@@ -1,0 +1,69 @@
+{
+  "path": "SelfShots/Subway/IMG_4949.MOV",
+  "folder": "SelfShots/Subway",
+  "fingerprint": "dc0b9a0141412943",
+  "width": 1080,
+  "height": 1920,
+  "fps": 30.0,
+  "duration": 4.4,
+  "model": "gemini-3.8-flash",
+  "annotatedAt": "2026-10-24T19:00:49+00:00",
+  "summary": "A view along an NYC subway platform at Columbus Circle, where yellow caution tape blocks off a maintenance train parked along the tracks.",
+  "location": "subway car",
+  "setting": "indoor",
+  "time_of_day": "indoor_unknown",
+  "weather": "n/a",
+  "people": {
+    "count": 1,
+    "creator_visible": false,
+    "description": "A commuter partially visible on the far left wearing a dark winter coat"
+  },
+  "camera": {
+    "style": "pov_first_person",
+    "framing": "medium",
+    "movement": "static",
+    "angle": "eye level"
+  },
+  "quality": {
+    "usable": true,
+    "stability": "steady",
+    "exposure": "good",
+    "issues": ""
+  },
+  "mood": [
+    "gritty",
+    "urban",
+    "monotonous",
+    "waiting"
+  ],
+  "energy": "low",
+  "tags": [
+    "subway",
+    "mta",
+    "nyc",
+    "new york city",
+    "columbus circle",
+    "subway station",
+    "caution tape",
+    "train tracks",
+    "commute",
+    "public transit",
+    "delays",
+    "city life"
+  ],
+  "moments": [
+    {
+      "start": 0.0,
+      "end": 4.4,
+      "action": "Static eye-level perspective looking down the yellow platform tactile edge past caution tape towards a stationary maintenance work train",
+      "emotion": "calm",
+      "good_for": [
+        "subway delays",
+        "nyc commuting struggles",
+        "city life reality",
+        "on the way to work"
+      ],
+      "score": 3
+    }
+  ]
+}

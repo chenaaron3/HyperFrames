@@ -1,0 +1,94 @@
+{
+  "path": "OneOffs/BrooklynNight/IMG_4535 3.MOV",
+  "folder": "OneOffs/BrooklynNight",
+  "fingerprint": "b052d0d70bc87bfc",
+  "width": 1080,
+  "height": 1920,
+  "fps": 30.0,
+  "duration": 12.233,
+  "model": "gemini-3.8-flash",
+  "annotatedAt": "2026-10-24T18:23:07+00:00",
+  "summary": "A young man climbs a bouldering wall at an indoor rock climbing gym before dropping safely to the mat and laughing.",
+  "location": "climbing gym",
+  "setting": "indoor",
+  "time_of_day": "indoor_unknown",
+  "weather": "n/a",
+  "people": {
+    "count": 1,
+    "creator_visible": true,
+    "description": "Young man with glasses wearing a black graphic t-shirt, black shorts, and climbing shoes."
+  },
+  "camera": {
+    "style": "filmed_by_friend",
+    "framing": "medium",
+    "movement": "static",
+    "angle": "eye level"
+  },
+  "quality": {
+    "usable": true,
+    "stability": "steady",
+    "exposure": "good",
+    "issues": ""
+  },
+  "mood": [
+    "focused",
+    "athletic",
+    "playful",
+    "determined"
+  ],
+  "energy": "medium",
+  "tags": [
+    "climbing gym",
+    "bouldering",
+    "rock climbing",
+    "indoor climbing",
+    "workout",
+    "fitness",
+    "athletic",
+    "sports",
+    "brooklyn",
+    "recreation",
+    "trying new things"
+  ],
+  "moments": [
+    {
+      "start": 0.0,
+      "end": 4.5,
+      "action": "Man balances and steps up onto bouldering holds while planning his next reach",
+      "emotion": "focused and concentrated",
+      "good_for": [
+        "trusting the process",
+        "taking it one step at a time",
+        "finding balance",
+        "staying active"
+      ],
+      "score": 4
+    },
+    {
+      "start": 4.5,
+      "end": 9.5,
+      "action": "Man pushes upward, reaching high holds and adjusting his footing carefully",
+      "emotion": "determined effort",
+      "good_for": [
+        "pushing yourself",
+        "stepping out of comfort zone",
+        "climbing higher",
+        "trying new hobbies"
+      ],
+      "score": 4
+    },
+    {
+      "start": 9.5,
+      "end": 12.23,
+      "action": "Man drops down onto the gym mat, turning around smiling and gesturing happily",
+      "emotion": "playful relief and laughter",
+      "good_for": [
+        "at least I tried",
+        "not taking life too seriously",
+        "failing forward",
+        "laughing at mistakes"
+      ],
+      "score": 5
+    }
+  ]
+}

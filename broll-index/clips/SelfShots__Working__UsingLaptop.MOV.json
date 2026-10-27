@@ -1,0 +1,93 @@
+{
+  "path": "SelfShots/Working/UsingLaptop.MOV",
+  "folder": "SelfShots/Working",
+  "fingerprint": "a01cd237619e84b1",
+  "width": 1080,
+  "height": 1920,
+  "fps": 30.0,
+  "duration": 16.367,
+  "model": "gemini-3.8-flash",
+  "annotatedAt": "2026-10-24T19:03:03+00:00",
+  "summary": "A young man sits at a long wooden table in a co-working space, opens his MacBook, types lines of code, and then snaps it shut.",
+  "location": "office",
+  "setting": "indoor",
+  "time_of_day": "day",
+  "weather": "sunny",
+  "people": {
+    "count": 1,
+    "creator_visible": true,
+    "description": "A young man with dark hair wearing a grey t-shirt and white wireless earbuds sitting at a desk."
+  },
+  "camera": {
+    "style": "filmed_by_friend",
+    "framing": "medium",
+    "movement": "handheld",
+    "angle": "high angle"
+  },
+  "quality": {
+    "usable": true,
+    "stability": "steady",
+    "exposure": "good",
+    "issues": ""
+  },
+  "mood": [
+    "productive",
+    "focused",
+    "studious"
+  ],
+  "energy": "low",
+  "tags": [
+    "macbook",
+    "coding",
+    "developer",
+    "student",
+    "laptop",
+    "studying",
+    "coworking",
+    "office",
+    "typing",
+    "work",
+    "software engineer"
+  ],
+  "moments": [
+    {
+      "start": 0.5,
+      "end": 3.5,
+      "action": "Man opens his dark MacBook and places his hands on the keyboard as the screen lights up",
+      "emotion": "focused",
+      "good_for": [
+        "getting to work",
+        "study session",
+        "lock in mode",
+        "starting the grind"
+      ],
+      "score": 4
+    },
+    {
+      "start": 3.5,
+      "end": 11.0,
+      "action": "Man types continuously on the MacBook keyboard, with code visible on the screen",
+      "emotion": "deep focus",
+      "good_for": [
+        "coding life",
+        "computer science major",
+        "remote work routine",
+        "building projects"
+      ],
+      "score": 5
+    },
+    {
+      "start": 11.0,
+      "end": 13.5,
+      "action": "Man closes the laptop lid shut after finishing work",
+      "emotion": "satisfied",
+      "good_for": [
+        "calling it a day",
+        "closing tabs",
+        "done for the day",
+        "work life balance"
+      ],
+      "score": 4
+    }
+  ]
+}

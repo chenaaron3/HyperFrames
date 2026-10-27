@@ -1,0 +1,66 @@
+{
+  "path": "OneOffs/Eating/IMG_4887.MOV",
+  "folder": "OneOffs/Eating",
+  "fingerprint": "d1b330b3c56eb968",
+  "width": 1080,
+  "height": 1920,
+  "fps": 30.0,
+  "duration": 2.998,
+  "model": "gemini-3.8-flash",
+  "annotatedAt": "2026-10-24T18:35:18+00:00",
+  "summary": "A young man walks into a dimly lit, ornate restaurant carrying an open laptop in his hand.",
+  "location": "restaurant",
+  "setting": "indoor",
+  "time_of_day": "indoor_unknown",
+  "weather": "n/a",
+  "people": {
+    "count": 2,
+    "creator_visible": true,
+    "description": "Young man wearing a dark jacket over a light shirt carrying an open laptop; patrons seated in the background"
+  },
+  "camera": {
+    "style": "filmed_by_friend",
+    "framing": "medium",
+    "movement": "tracking",
+    "angle": "eye level"
+  },
+  "quality": {
+    "usable": true,
+    "stability": "handheld",
+    "exposure": "mixed",
+    "issues": "Lens flare and slight motion blur"
+  },
+  "mood": [
+    "humorous",
+    "busy",
+    "relatable"
+  ],
+  "energy": "medium",
+  "tags": [
+    "restaurant",
+    "laptop",
+    "multitasking",
+    "workaholic",
+    "working",
+    "digital nomad",
+    "dinner",
+    "lifestyle",
+    "busy",
+    "grind"
+  ],
+  "moments": [
+    {
+      "start": 0.0,
+      "end": 3.0,
+      "action": "Man walks through a restaurant bar area holding an open laptop while talking",
+      "emotion": "focused",
+      "good_for": [
+        "never not working",
+        "responding to emails at dinner",
+        "workaholic friend",
+        "digital nomad life"
+      ],
+      "score": 3
+    }
+  ]
+}

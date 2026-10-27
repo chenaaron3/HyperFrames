@@ -1,0 +1,69 @@
+{
+  "path": "Cinematic/CentralPark/IMG_4426.MOV",
+  "folder": "Cinematic/CentralPark",
+  "fingerprint": "c6602b19d9520805",
+  "width": 1080,
+  "height": 1920,
+  "fps": 30.0,
+  "duration": 2.2,
+  "model": "gemini-3.8-flash",
+  "annotatedAt": "2026-10-24T18:17:54+00:00",
+  "summary": "A peaceful shot of stone stairs winding upward through lush greenery and dappled sunlight in Central Park.",
+  "location": "park",
+  "setting": "outdoor",
+  "time_of_day": "day",
+  "weather": "sunny",
+  "people": {
+    "count": 0,
+    "creator_visible": false,
+    "description": "No people visible on screen."
+  },
+  "camera": {
+    "style": "handheld_cinematic",
+    "framing": "wide",
+    "movement": "static",
+    "angle": "low angle looking up"
+  },
+  "quality": {
+    "usable": true,
+    "stability": "steady",
+    "exposure": "good",
+    "issues": ""
+  },
+  "mood": [
+    "peaceful",
+    "serene",
+    "calm",
+    "nature"
+  ],
+  "energy": "low",
+  "tags": [
+    "central park",
+    "park",
+    "stone stairs",
+    "trees",
+    "nature",
+    "foliage",
+    "sunlight",
+    "path",
+    "peaceful walk",
+    "outdoor scenery",
+    "new york city"
+  ],
+  "moments": [
+    {
+      "start": 0.0,
+      "end": 2.2,
+      "action": "Static view looking up stone stairs surrounded by trees with sunlight filtering through the canopy",
+      "emotion": "calm",
+      "good_for": [
+        "one step at a time",
+        "finding peace in the city",
+        "morning walk",
+        "taking the stairs",
+        "peace of mind"
+      ],
+      "score": 4
+    }
+  ]
+}

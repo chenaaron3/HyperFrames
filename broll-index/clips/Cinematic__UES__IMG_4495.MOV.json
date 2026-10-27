@@ -1,0 +1,81 @@
+{
+  "path": "Cinematic/UES/IMG_4495.MOV",
+  "folder": "Cinematic/UES",
+  "fingerprint": "2e0335c95928b741",
+  "width": 1080,
+  "height": 1920,
+  "fps": 30.0,
+  "duration": 5.0,
+  "model": "gemini-3.8-flash",
+  "annotatedAt": "2026-10-24T18:20:00+00:00",
+  "summary": "Handheld pan across an Upper East Side avenue in New York City, showing classic pre-war apartment buildings, street medians with flowers, and passing traffic.",
+  "location": "city street",
+  "setting": "outdoor",
+  "time_of_day": "day",
+  "weather": "overcast",
+  "people": {
+    "count": 4,
+    "creator_visible": false,
+    "description": "Distant pedestrians and a cyclist crossing the street and walking along the sidewalk."
+  },
+  "camera": {
+    "style": "handheld_cinematic",
+    "framing": "wide",
+    "movement": "pan",
+    "angle": "eye level"
+  },
+  "quality": {
+    "usable": true,
+    "stability": "steady",
+    "exposure": "good",
+    "issues": ""
+  },
+  "mood": [
+    "peaceful",
+    "urban",
+    "reflective",
+    "classic"
+  ],
+  "energy": "low",
+  "tags": [
+    "nyc",
+    "upper east side",
+    "manhattan",
+    "architecture",
+    "cityscape",
+    "yellow taxi",
+    "crosswalk",
+    "apartment buildings",
+    "b-roll",
+    "urban aesthetic",
+    "new york city"
+  ],
+  "moments": [
+    {
+      "start": 0.0,
+      "end": 2.5,
+      "action": "Camera captures a classic Upper East Side avenue with a yellow cab driving past pre-war brick buildings and a landscaped median",
+      "emotion": "calm city energy",
+      "good_for": [
+        "city mornings",
+        "life in new york",
+        "living my dream",
+        "romanticizing my life"
+      ],
+      "score": 4
+    },
+    {
+      "start": 2.0,
+      "end": 5.0,
+      "action": "Camera pans right to reveal a large corner residential building, a street intersection, and distant pedestrians",
+      "emotion": "peaceful",
+      "good_for": [
+        "moving to new york",
+        "neighborhood walks",
+        "sunday morning vibes",
+        "daily commute"
+      ],
+      "score": 3
+    }
+  ]
+}

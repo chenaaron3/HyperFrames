@@ -1,0 +1,96 @@
+{
+  "path": "SelfShots/ClimbingGym/Setup/HangBoard/IMG_5202.MOV",
+  "folder": "SelfShots/ClimbingGym/Setup/HangBoard",
+  "fingerprint": "b86cf25efc97abb6",
+  "width": 1080,
+  "height": 1920,
+  "fps": 30.0,
+  "duration": 20.768,
+  "model": "gemini-3.8-flash",
+  "annotatedAt": "2026-10-24T18:53:03+00:00",
+  "summary": "A young man walks up to a hangboard at a bouldering gym, performs a dead hang to train finger strength, drops down, and walks away.",
+  "location": "climbing gym",
+  "setting": "indoor",
+  "time_of_day": "indoor_unknown",
+  "weather": "n/a",
+  "people": {
+    "count": 2,
+    "creator_visible": true,
+    "description": "A young East Asian man wearing a brown short-sleeved button-up shirt and baggy light-wash jeans, plus another person in a black t-shirt in the background"
+  },
+  "camera": {
+    "style": "tripod_static",
+    "framing": "medium",
+    "movement": "static",
+    "angle": "eye level"
+  },
+  "quality": {
+    "usable": true,
+    "stability": "locked",
+    "exposure": "good",
+    "issues": ""
+  },
+  "mood": [
+    "focused",
+    "athletic",
+    "routine",
+    "casual"
+  ],
+  "energy": "low",
+  "tags": [
+    "climbing gym",
+    "hangboard",
+    "fingerboard",
+    "bouldering",
+    "dead hang",
+    "grip strength",
+    "training",
+    "indoor bouldering",
+    "streetwear",
+    "workout",
+    "fitness",
+    "spray wall"
+  ],
+  "moments": [
+    {
+      "start": 3.8,
+      "end": 6.8,
+      "action": "A young man steps into frame and reaches his hands up to grip a wooden hangboard mounted overhead",
+      "emotion": "focused",
+      "good_for": [
+        "starting the routine",
+        "training day",
+        "climbing progression",
+        "showing up"
+      ],
+      "score": 3
+    },
+    {
+      "start": 6.8,
+      "end": 15.5,
+      "action": "The young man hangs stationary by his fingertips from the wooden hangboard in a full dead hang",
+      "emotion": "focused",
+      "good_for": [
+        "holding on",
+        "hang in there",
+        "finger strength check",
+        "consistency pays off",
+        "endurance test"
+      ],
+      "score": 4
+    },
+    {
+      "start": 15.5,
+      "end": 18.5,
+      "action": "He drops from the board, shakes out his hands, and walks out of frame",
+      "emotion": "satisfied",
+      "good_for": [
+        "releasing tension",
+        "set completed",
+        "onto the next",
+        "gym routine"
+      ],
+      "score": 3
+    }
+  ]
+}

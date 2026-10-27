@@ -1,0 +1,70 @@
+{
+  "path": "Cinematic/CentralPark/IMG_4449.MOV",
+  "folder": "Cinematic/CentralPark",
+  "fingerprint": "f034e59457f6ad53",
+  "width": 1080,
+  "height": 1920,
+  "fps": 30.0,
+  "duration": 1.633,
+  "model": "gemini-3.8-flash",
+  "annotatedAt": "2026-10-24T18:18:20+00:00",
+  "summary": "Bright sunlight bursts through the lush canopy of a tall tree against a lightly clouded sky in Central Park.",
+  "location": "park",
+  "setting": "outdoor",
+  "time_of_day": "day",
+  "weather": "sunny",
+  "people": {
+    "count": 0,
+    "creator_visible": false,
+    "description": "No identifiable people; only indistinguishable silhouettes in the far background"
+  },
+  "camera": {
+    "style": "handheld_cinematic",
+    "framing": "wide",
+    "movement": "static",
+    "angle": "low angle looking up"
+  },
+  "quality": {
+    "usable": true,
+    "stability": "steady",
+    "exposure": "mixed",
+    "issues": ""
+  },
+  "mood": [
+    "peaceful",
+    "serene",
+    "bright",
+    "optimistic"
+  ],
+  "energy": "low",
+  "tags": [
+    "central park",
+    "tree",
+    "sunlight",
+    "sun flare",
+    "nature",
+    "canopy",
+    "sky",
+    "summer",
+    "peaceful",
+    "b-roll",
+    "outdoor",
+    "new york"
+  ],
+  "moments": [
+    {
+      "start": 0.0,
+      "end": 1.63,
+      "action": "Sun glares intensely through the foliage of large trees against a pale blue sky",
+      "emotion": "calm",
+      "good_for": [
+        "sunny days",
+        "nature break",
+        "gratitude for sunny days",
+        "peace of mind",
+        "summer in the city"
+      ],
+      "score": 3
+    }
+  ]
+}

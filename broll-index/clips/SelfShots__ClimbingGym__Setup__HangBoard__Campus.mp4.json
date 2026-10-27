@@ -1,0 +1,83 @@
+{
+  "path": "SelfShots/ClimbingGym/Setup/HangBoard/Campus.mp4",
+  "folder": "SelfShots/ClimbingGym/Setup/HangBoard",
+  "fingerprint": "e15f6416a0f8efef",
+  "width": 1080,
+  "height": 1920,
+  "fps": 30.0,
+  "duration": 13.6,
+  "model": "gemini-3.8-flash",
+  "annotatedAt": "2026-10-24T18:52:18+00:00",
+  "summary": "A climber trains on a wooden campus board in a climbing gym, campusing upward using upper body power before resting on the rungs.",
+  "location": "gym",
+  "setting": "indoor",
+  "time_of_day": "indoor_unknown",
+  "weather": "n/a",
+  "people": {
+    "count": 1,
+    "creator_visible": true,
+    "description": "Male climber seen from behind, wearing a brown t-shirt and dark pants, doing campus board laddering."
+  },
+  "camera": {
+    "style": "tripod_static",
+    "framing": "medium",
+    "movement": "static",
+    "angle": "high angle"
+  },
+  "quality": {
+    "usable": true,
+    "stability": "locked",
+    "exposure": "good",
+    "issues": ""
+  },
+  "mood": [
+    "athletic",
+    "focused",
+    "determined",
+    "hardworking"
+  ],
+  "energy": "high",
+  "tags": [
+    "campus board",
+    "climbing gym",
+    "bouldering",
+    "rock climbing",
+    "finger strength",
+    "training",
+    "workout",
+    "calisthenics",
+    "upper body strength",
+    "indoor climbing",
+    "pull ups",
+    "discipline"
+  ],
+  "moments": [
+    {
+      "start": 0.0,
+      "end": 6.5,
+      "action": "Climber explosively campuses upward on wooden rungs with feet dangling and swinging",
+      "emotion": "focused and intense",
+      "good_for": [
+        "trust the process",
+        "building strength",
+        "grind season",
+        "consistency over intensity",
+        "gym progress"
+      ],
+      "score": 4
+    },
+    {
+      "start": 6.5,
+      "end": 13.5,
+      "action": "Climber reaches high onto the rungs, places his feet on lower rungs, and adjusts grips",
+      "emotion": "determined endurance",
+      "good_for": [
+        "holding on",
+        "one step at a time",
+        "reaching new goals",
+        "fitness motivation"
+      ],
+      "score": 4
+    }
+  ]
+}

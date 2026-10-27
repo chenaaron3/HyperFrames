@@ -1,0 +1,82 @@
+{
+  "path": "SelfShots/Walking/3rdPerson/IMG_4933.MOV",
+  "folder": "SelfShots/Walking/3rdPerson",
+  "fingerprint": "34b04358371404c8",
+  "width": 1080,
+  "height": 1920,
+  "fps": 30.0,
+  "duration": 17.568,
+  "model": "gemini-3.8-flash",
+  "annotatedAt": "2026-10-24T19:02:45+00:00",
+  "summary": "A static wide shot looking out from under a building canopy onto a city sidewalk and street as the creator, wearing a dark coat and backpack, walks across the frame.",
+  "location": "city street",
+  "setting": "outdoor",
+  "time_of_day": "day",
+  "weather": "overcast",
+  "people": {
+    "count": 5,
+    "creator_visible": true,
+    "description": "Creator in a long black winter coat with a backpack walking across; other pedestrians and a pedicab rider visible in the background and foreground."
+  },
+  "camera": {
+    "style": "tripod_static",
+    "framing": "wide",
+    "movement": "static",
+    "angle": "eye level"
+  },
+  "quality": {
+    "usable": true,
+    "stability": "locked",
+    "exposure": "good",
+    "issues": ""
+  },
+  "mood": [
+    "urban",
+    "routine",
+    "commute",
+    "solitary"
+  ],
+  "energy": "low",
+  "tags": [
+    "walking",
+    "commute",
+    "city sidewalk",
+    "street",
+    "urban",
+    "pedestrian",
+    "overcoat",
+    "backpack",
+    "canopy",
+    "nyc street",
+    "solitary walk",
+    "daily routine"
+  ],
+  "moments": [
+    {
+      "start": 6.0,
+      "end": 9.5,
+      "action": "Creator in a long dark coat and backpack walks briskly across the frame along the sidewalk under the canopy",
+      "emotion": "focused, neutral",
+      "good_for": [
+        "city commute",
+        "on my way",
+        "romanticizing the walk",
+        "daily grind",
+        "heading into work"
+      ],
+      "score": 4
+    },
+    {
+      "start": 15.0,
+      "end": 17.57,
+      "action": "Pedestrians walk past on the sidewalk in front of the building canopy",
+      "emotion": "casual",
+      "good_for": [
+        "busy city life",
+        "city streets",
+        "people watching"
+      ],
+      "score": 2
+    }
+  ]
+}

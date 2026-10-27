@@ -1,0 +1,72 @@
+{
+  "path": "Cinematic/CentralPark/IMG_4424.MOV",
+  "folder": "Cinematic/CentralPark",
+  "fingerprint": "c300ccffeb129b31",
+  "width": 1080,
+  "height": 1920,
+  "fps": 30.0,
+  "duration": 2.567,
+  "model": "gemini-3.8-flash",
+  "annotatedAt": "2026-10-24T18:17:52+00:00",
+  "summary": "Sunlight flares brightly through the branches and behind the trunk of a large tree in a leafy park.",
+  "location": "park",
+  "setting": "outdoor",
+  "time_of_day": "day",
+  "weather": "sunny",
+  "people": {
+    "count": 0,
+    "creator_visible": false,
+    "description": "No people visible."
+  },
+  "camera": {
+    "style": "handheld_cinematic",
+    "framing": "medium",
+    "movement": "static",
+    "angle": "low angle looking up"
+  },
+  "quality": {
+    "usable": true,
+    "stability": "steady",
+    "exposure": "mixed",
+    "issues": "Direct sun creates lens flare and high contrast, but looks artistic."
+  },
+  "mood": [
+    "peaceful",
+    "serene",
+    "bright",
+    "dreamy"
+  ],
+  "energy": "low",
+  "tags": [
+    "central park",
+    "sunlight",
+    "lens flare",
+    "sunburst",
+    "tree",
+    "nature",
+    "outdoor",
+    "peaceful",
+    "summer",
+    "leaves",
+    "foliage",
+    "morning light",
+    "cinematic",
+    "b-roll"
+  ],
+  "moments": [
+    {
+      "start": 0.0,
+      "end": 2.57,
+      "action": "Sun flares behind a large tree trunk and branches in the park, casting light beams across the frame",
+      "emotion": "calm",
+      "good_for": [
+        "sunshine on a hard day",
+        "taking a breath outside",
+        "romanticizing nature",
+        "peaceful moments",
+        "simple pleasures"
+      ],
+      "score": 4
+    }
+  ]
+}

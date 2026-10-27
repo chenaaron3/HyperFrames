@@ -1,0 +1,69 @@
+{
+  "path": "Cinematic/CentralPark/IMG_4442.MOV",
+  "folder": "Cinematic/CentralPark",
+  "fingerprint": "6f4c63143ac3c6d3",
+  "width": 1080,
+  "height": 1920,
+  "fps": 30.0,
+  "duration": 3.532,
+  "model": "gemini-3.8-flash",
+  "annotatedAt": "2026-10-24T18:18:12+00:00",
+  "summary": "Handheld pan across a scenic, sunlit green lawn surrounded by trees in Central Park with people lounging in the distance.",
+  "location": "park",
+  "setting": "outdoor",
+  "time_of_day": "day",
+  "weather": "sunny",
+  "people": {
+    "count": 6,
+    "creator_visible": false,
+    "description": "Small distant silhouettes of park visitors sitting on the grass or walking under trees"
+  },
+  "camera": {
+    "style": "pov_first_person",
+    "framing": "wide",
+    "movement": "pan",
+    "angle": "eye level"
+  },
+  "quality": {
+    "usable": true,
+    "stability": "steady",
+    "exposure": "good",
+    "issues": ""
+  },
+  "mood": [
+    "peaceful",
+    "scenic",
+    "relaxing",
+    "nature"
+  ],
+  "energy": "low",
+  "tags": [
+    "central park",
+    "new york city",
+    "trees",
+    "grass",
+    "greenery",
+    "sunny day",
+    "blue sky",
+    "park lawn",
+    "nature in city",
+    "summer vibes",
+    "scenic landscape"
+  ],
+  "moments": [
+    {
+      "start": 0.0,
+      "end": 3.5,
+      "action": "Camera slowly pans right across the open green park lawn bordered by lush trees under a clear blue sky",
+      "emotion": "serene and grounded",
+      "good_for": [
+        "peace of mind",
+        "spending time in nature",
+        "nyc in the summer",
+        "taking a walk",
+        "slow weekends"
+      ],
+      "score": 4
+    }
+  ]
+}

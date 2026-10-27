@@ -1,0 +1,91 @@
+{
+  "path": "OneOffs/Apartments/MurrayHills/150 East 39th Street/IMG_4197.MOV",
+  "folder": "OneOffs/Apartments/MurrayHills/150 East 39th Street",
+  "fingerprint": "0eaafe591e32ff11",
+  "width": 1080,
+  "height": 1920,
+  "fps": 30.0,
+  "duration": 31.203,
+  "model": "gemini-3.8-flash",
+  "annotatedAt": "2026-10-24T18:21:20+00:00",
+  "summary": "POV tour of an empty studio apartment in Murray Hill, showing the vintage bathroom with a pink sink, a walk-in closet, and the main living area with a kitchenette.",
+  "location": "apartment interior",
+  "setting": "indoor",
+  "time_of_day": "day",
+  "weather": "n/a",
+  "people": {
+    "count": 1,
+    "creator_visible": false,
+    "description": "Another viewer in dark pants and black boots briefly walks through the hallway."
+  },
+  "camera": {
+    "style": "pov_first_person",
+    "framing": "wide",
+    "movement": "walking",
+    "angle": "eye level"
+  },
+  "quality": {
+    "usable": true,
+    "stability": "handheld",
+    "exposure": "mixed",
+    "issues": "Finger partially obscures the camera lens during closet shots around seconds 9-13."
+  },
+  "mood": [
+    "curious",
+    "exploratory",
+    "casual",
+    "vintage"
+  ],
+  "energy": "low",
+  "tags": [
+    "apartment hunting",
+    "nyc apartment",
+    "studio apartment",
+    "vintage bathroom",
+    "pink sink",
+    "empty room",
+    "hardwood floors",
+    "kitchenette",
+    "murray hill",
+    "city life",
+    "real estate tour"
+  ],
+  "moments": [
+    {
+      "start": 2.5,
+      "end": 8.5,
+      "action": "Camera enters and pans across a vintage bathroom with dark teal tile, a pink pedestal sink, and glass shower doors",
+      "emotion": "curious",
+      "good_for": [
+        "vintage apartment charm",
+        "nyc bathroom reality",
+        "apartment hunting in nyc"
+      ],
+      "score": 4
+    },
+    {
+      "start": 20.0,
+      "end": 27.5,
+      "action": "Pans across the empty hardwood floor living room to the refrigerator and compact kitchen alcove",
+      "emotion": "evaluating",
+      "good_for": [
+        "studio apartment life",
+        "finding my first apartment",
+        "nyc living"
+      ],
+      "score": 3
+    },
+    {
+      "start": 27.5,
+      "end": 31.0,
+      "action": "Camera approaches the windows overlooking a Manhattan street below",
+      "emotion": "observant",
+      "good_for": [
+        "city views",
+        "nyc window view",
+        "street view"
+      ],
+      "score": 3
+    }
+  ]
+}

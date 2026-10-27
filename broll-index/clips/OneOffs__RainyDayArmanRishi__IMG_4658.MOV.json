@@ -1,0 +1,66 @@
+{
+  "path": "OneOffs/RainyDayArmanRishi/IMG_4658.MOV",
+  "folder": "OneOffs/RainyDayArmanRishi",
+  "fingerprint": "d220d858a8bb197a",
+  "width": 1080,
+  "height": 1920,
+  "fps": 29.97,
+  "duration": 1.733,
+  "model": "gemini-3.8-flash",
+  "annotatedAt": "2026-10-24T18:37:11+00:00",
+  "summary": "A close-up shot of a small white plate with a sliced filled pancake or pastry cut into quarters, sitting on a wooden table beside white ceramic carafes.",
+  "location": "restaurant",
+  "setting": "indoor",
+  "time_of_day": "indoor_unknown",
+  "weather": "n/a",
+  "people": {
+    "count": 0,
+    "creator_visible": false,
+    "description": "No people visible on screen."
+  },
+  "camera": {
+    "style": "pov_first_person",
+    "framing": "close",
+    "movement": "static",
+    "angle": "high angle"
+  },
+  "quality": {
+    "usable": true,
+    "stability": "steady",
+    "exposure": "good",
+    "issues": ""
+  },
+  "mood": [
+    "cozy",
+    "casual",
+    "calm"
+  ],
+  "energy": "low",
+  "tags": [
+    "food",
+    "pastry",
+    "plate",
+    "table",
+    "cafe",
+    "restaurant",
+    "snack",
+    "ceramic",
+    "dessert",
+    "treat"
+  ],
+  "moments": [
+    {
+      "start": 0.0,
+      "end": 1.73,
+      "action": "POV shot looking down at a quartered stuffed pastry on a white plate on a wooden dining table.",
+      "emotion": "calm",
+      "good_for": [
+        "food on my plate",
+        "cafe dates",
+        "sweet treats",
+        "simple pleasures"
+      ],
+      "score": 3
+    }
+  ]
+}

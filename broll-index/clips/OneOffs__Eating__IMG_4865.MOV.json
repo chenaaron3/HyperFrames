@@ -1,0 +1,96 @@
+{
+  "path": "OneOffs/Eating/IMG_4865.MOV",
+  "folder": "OneOffs/Eating",
+  "fingerprint": "373edb0c0b8ab03d",
+  "width": 1080,
+  "height": 1920,
+  "fps": 30.0,
+  "duration": 56.572,
+  "model": "gemini-3.8-flash",
+  "annotatedAt": "2026-10-24T18:35:16+00:00",
+  "summary": "A young man sits on a wooden deck lounger along a riverfront pier at sunset, eating a sandwich and enjoying the view.",
+  "location": "waterfront promenade",
+  "setting": "outdoor",
+  "time_of_day": "golden_hour",
+  "weather": "sunny",
+  "people": {
+    "count": 2,
+    "creator_visible": true,
+    "description": "Young Asian man with wavy dark hair, wearing a black oversized blazer over a rust button-down shirt, eating a sandwich on a pier lounger."
+  },
+  "camera": {
+    "style": "filmed_by_friend",
+    "framing": "medium",
+    "movement": "handheld",
+    "angle": "eye level"
+  },
+  "quality": {
+    "usable": true,
+    "stability": "handheld",
+    "exposure": "good",
+    "issues": ""
+  },
+  "mood": [
+    "peaceful",
+    "chill",
+    "relaxed",
+    "aesthetic",
+    "solitary"
+  ],
+  "energy": "low",
+  "tags": [
+    "eating",
+    "golden hour",
+    "sunset",
+    "waterfront",
+    "pier",
+    "sandwich",
+    "takeout",
+    "city life",
+    "evening",
+    "chill vibe",
+    "b-roll",
+    "lounging"
+  ],
+  "moments": [
+    {
+      "start": 5.0,
+      "end": 9.5,
+      "action": "Young man sits down on a wooden pier chair and takes a big bite of his sandwich in the golden hour sun",
+      "emotion": "hungry, focused",
+      "good_for": [
+        "food on my plate",
+        "solo date",
+        "dinner with a view",
+        "comfort food"
+      ],
+      "score": 4
+    },
+    {
+      "start": 9.5,
+      "end": 18.0,
+      "action": "Young man chews his food while looking out peacefully across the waterfront at sunset",
+      "emotion": "calm, contemplative",
+      "good_for": [
+        "romanticizing life",
+        "peace of mind",
+        "taking a breather",
+        "golden hour magic"
+      ],
+      "score": 4
+    },
+    {
+      "start": 44.5,
+      "end": 53.5,
+      "action": "Young man takes another deep bite of his sandwich and looks up toward the camera while chewing contentedly",
+      "emotion": "content, relaxed",
+      "good_for": [
+        "best meal of the week",
+        "eating alone in peace",
+        "little daily joys",
+        "evening reset"
+      ],
+      "score": 4
+    }
+  ]
+}

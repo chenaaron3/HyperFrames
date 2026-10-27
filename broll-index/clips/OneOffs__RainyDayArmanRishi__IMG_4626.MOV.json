@@ -1,0 +1,71 @@
+{
+  "path": "OneOffs/RainyDayArmanRishi/IMG_4626.MOV",
+  "folder": "OneOffs/RainyDayArmanRishi",
+  "fingerprint": "0eb8701e6ff7eb8a",
+  "width": 1080,
+  "height": 1920,
+  "fps": 30.0,
+  "duration": 4.833,
+  "model": "gemini-3.8-flash",
+  "annotatedAt": "2026-10-24T18:36:15+00:00",
+  "summary": "A person holding an umbrella walks down the outdoor stairs into the 34th Street Penn Station subway entrance in New York City on a rainy day.",
+  "location": "subway entrance",
+  "setting": "mixed",
+  "time_of_day": "day",
+  "weather": "rain",
+  "people": {
+    "count": 1,
+    "creator_visible": true,
+    "description": "Young man filmed from behind wearing a black fleece jacket, grey sweatpants, white sneakers, and holding a patterned umbrella."
+  },
+  "camera": {
+    "style": "filmed_by_friend",
+    "framing": "medium",
+    "movement": "walking",
+    "angle": "eye level"
+  },
+  "quality": {
+    "usable": true,
+    "stability": "handheld",
+    "exposure": "good",
+    "issues": ""
+  },
+  "mood": [
+    "moody",
+    "calm",
+    "urban",
+    "relatable",
+    "rainy"
+  ],
+  "energy": "low",
+  "tags": [
+    "nyc",
+    "new york city",
+    "subway",
+    "penn station",
+    "rain",
+    "rainy day",
+    "umbrella",
+    "commute",
+    "transit",
+    "urban",
+    "stairs",
+    "walking"
+  ],
+  "moments": [
+    {
+      "start": 0.0,
+      "end": 4.83,
+      "action": "Walking down the subway entrance steps into Penn Station while holding an umbrella in the rain",
+      "emotion": "calm",
+      "good_for": [
+        "rainy city commute",
+        "living in new york",
+        "heading into the subway",
+        "everyday routine",
+        "gloomy day vibes"
+      ],
+      "score": 4
+    }
+  ]
+}

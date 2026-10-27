@@ -1,0 +1,90 @@
+{
+  "path": "OneOffs/RainyDayArmanRishi/Gulp/IMG_4608.MOV",
+  "folder": "OneOffs/RainyDayArmanRishi/Gulp",
+  "fingerprint": "896a3ac43e597dad",
+  "width": 1080,
+  "height": 1920,
+  "fps": 30.0,
+  "duration": 5.332,
+  "model": "gemini-3.8-flash",
+  "annotatedAt": "2026-10-24T18:35:44+00:00",
+  "summary": "A creator pans across his friends holding chopsticks at a restaurant table before turning the camera to himself to talk excitedly.",
+  "location": "restaurant",
+  "setting": "indoor",
+  "time_of_day": "indoor_unknown",
+  "weather": "n/a",
+  "people": {
+    "count": 3,
+    "creator_visible": true,
+    "description": "Three young adult male friends sitting at a restaurant table; one in an olive polo with glasses holding chopsticks, one in a black jacket smiling, and the creator in a greyish-blue t-shirt."
+  },
+  "camera": {
+    "style": "selfie",
+    "framing": "medium",
+    "movement": "pan",
+    "angle": "eye level"
+  },
+  "quality": {
+    "usable": true,
+    "stability": "handheld",
+    "exposure": "good",
+    "issues": ""
+  },
+  "mood": [
+    "fun",
+    "friendly",
+    "social",
+    "happy"
+  ],
+  "energy": "medium",
+  "tags": [
+    "friends",
+    "dinner",
+    "restaurant",
+    "food",
+    "chopsticks",
+    "eating out",
+    "socializing",
+    "vlog",
+    "talking to camera",
+    "friend group"
+  ],
+  "moments": [
+    {
+      "start": 0.0,
+      "end": 1.4,
+      "action": "Friend with glasses smiles at the table while holding chopsticks over a dish",
+      "emotion": "smiling and relaxed",
+      "good_for": [
+        "dinner with friends",
+        "good company",
+        "weekend eats"
+      ],
+      "score": 3
+    },
+    {
+      "start": 1.4,
+      "end": 2.8,
+      "action": "Camera pans past a second friend raising his chopsticks with a grin",
+      "emotion": "playful and cheerful",
+      "good_for": [
+        "eating good food",
+        "boys night out",
+        "dinner vibes"
+      ],
+      "score": 3
+    },
+    {
+      "start": 2.8,
+      "end": 5.33,
+      "action": "Creator turns camera to himself, gestures with hand and speaks happily to the camera",
+      "emotion": "excited and friendly",
+      "good_for": [
+        "vlog intro",
+        "catching up with the crew",
+        "storytime"
+      ],
+      "score": 4
+    }
+  ]
+}

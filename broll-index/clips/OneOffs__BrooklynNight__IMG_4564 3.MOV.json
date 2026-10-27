@@ -1,0 +1,73 @@
+{
+  "path": "OneOffs/BrooklynNight/IMG_4564 3.MOV",
+  "folder": "OneOffs/BrooklynNight",
+  "fingerprint": "48de3e3ccd3fe8cc",
+  "width": 1080,
+  "height": 1920,
+  "fps": 29.97,
+  "duration": 4.535,
+  "model": "gemini-3.8-flash",
+  "annotatedAt": "2026-10-24T18:23:55+00:00",
+  "summary": "A man stands outside the Oculus in Lower Manhattan looking up at the surrounding skyscrapers and One World Trade Center at dusk.",
+  "location": "plaza",
+  "setting": "outdoor",
+  "time_of_day": "golden_hour",
+  "weather": "clear",
+  "people": {
+    "count": 12,
+    "creator_visible": true,
+    "description": "Young man filmed from behind wearing a black graphic t-shirt, black shorts, white sneakers, holding a paper shopping bag, surrounded by other pedestrians"
+  },
+  "camera": {
+    "style": "filmed_by_friend",
+    "framing": "wide",
+    "movement": "static",
+    "angle": "low angle looking up"
+  },
+  "quality": {
+    "usable": true,
+    "stability": "steady",
+    "exposure": "good",
+    "issues": ""
+  },
+  "mood": [
+    "awe",
+    "inspired",
+    "peaceful",
+    "contemplative",
+    "urban"
+  ],
+  "energy": "low",
+  "tags": [
+    "oculus",
+    "world trade center",
+    "nyc",
+    "new york city",
+    "manhattan",
+    "skyscrapers",
+    "architecture",
+    "travel",
+    "city life",
+    "twilight",
+    "dusk",
+    "shopping",
+    "sightseeing",
+    "wanderlust"
+  ],
+  "moments": [
+    {
+      "start": 0.0,
+      "end": 4.54,
+      "action": "A man pauses on the plaza outside the Oculus with a shopping bag in hand, tilting his head up to gaze at One World Trade Center against the twilight sky",
+      "emotion": "awe",
+      "good_for": [
+        "dreaming bigger",
+        "city lights and city dreams",
+        "never getting tired of this view",
+        "first time in new york",
+        "feeling small in a big city"
+      ],
+      "score": 4
+    }
+  ]
+}

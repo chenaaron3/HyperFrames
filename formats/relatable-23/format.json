@@ -1,0 +1,156 @@
+{
+  "id": "relatable-23",
+  "name": "\"You talk too much\" Start a podcast.",
+  "reference": "references/viral-formats/relatable-23.mp4",
+  "source": "/Users/aaron/Downloads/100 Viral Formats (Format Book)/Relatable/#23/#23.mp4",
+  "duration": 20.767,
+  "music": {
+    "from": "reference",
+    "title": "Ravyn Lenae - Love Me Not"
+  },
+  "text": {
+    "y": 0.54,
+    "size": 58,
+    "weight": 700,
+    "lineHeight": 1.4,
+    "maxWidth": 900,
+    "style": "outline"
+  },
+  "lines": [
+    {
+      "id": "l1",
+      "start": 0.0,
+      "end": 3.0,
+      "ref": "\"You talk too much\"\nStart a podcast.",
+      "y": 0.54,
+      "measuredSize": 56,
+      "style": "plain_white_shadow",
+      "guide": ""
+    },
+    {
+      "id": "l2",
+      "start": 3.0,
+      "end": 6.0,
+      "ref": "\"You're too sensitive\"\nCreate art.",
+      "y": 0.54,
+      "measuredSize": 54,
+      "style": "plain_white_shadow",
+      "guide": ""
+    },
+    {
+      "id": "l3",
+      "start": 6.0,
+      "end": 9.0,
+      "ref": "\"You ask too many questions\"\nBecome a researcher.",
+      "y": 0.458,
+      "measuredSize": 58,
+      "style": "plain_white_shadow",
+      "guide": ""
+    },
+    {
+      "id": "l4",
+      "start": 9.0,
+      "end": 12.0,
+      "ref": "\"You overthink\"\nBecome a strategist.",
+      "y": 0.539,
+      "measuredSize": 58,
+      "style": "plain_white_shadow",
+      "guide": ""
+    },
+    {
+      "id": "l5",
+      "start": 12.0,
+      "end": 15.0,
+      "ref": "\"You always film everything\"\nBecome a content creator.",
+      "y": 0.461,
+      "measuredSize": 66,
+      "style": "plain_white_shadow",
+      "guide": ""
+    },
+    {
+      "id": "l6",
+      "start": 15.0,
+      "end": 18.0,
+      "ref": "\"You're too stubborn\"\nBuild something difficult.",
+      "y": 0.539,
+      "measuredSize": 58,
+      "style": "plain_white_shadow",
+      "guide": ""
+    },
+    {
+      "id": "l7",
+      "start": 18.0,
+      "end": 20.767,
+      "ref": "Your \"disability\" is your opportunity",
+      "y": 0.502,
+      "measuredSize": 58,
+      "style": "plain_white_shadow",
+      "guide": ""
+    }
+  ],
+  "shots": [
+    {
+      "id": "s1",
+      "start": 0.0,
+      "end": 3.0,
+      "brief": "Drinking coffee or talking casually at home (ref: Creator standing in kitchen, drinking from a mug and gesturing while talking; tripod)",
+      "line": "l1"
+    },
+    {
+      "id": "s2",
+      "start": 3.0,
+      "end": 6.0,
+      "brief": "Admiring or gesturing at wall art (ref: Creator pointing at an art wall hanging/tapestry and gesturing; filmed by friend)",
+      "line": "l2"
+    },
+    {
+      "id": "s3",
+      "start": 6.0,
+      "end": 9.0,
+      "brief": "Writing in a notebook or studying at a desk (ref: Creator wearing sunglasses writing intensely in a journal at a desk; tripod)",
+      "line": "l3"
+    },
+    {
+      "id": "s4",
+      "start": 9.0,
+      "end": 12.0,
+      "brief": "Walking outside on a street or sidewalk (ref: Creator sipping water from a plastic bottle and walking down a sidewalk alongside a stone wall; filmed by friend)",
+      "line": "l4"
+    },
+    {
+      "id": "s5",
+      "start": 12.0,
+      "end": 15.0,
+      "brief": "Casual selfie video out with a friend (ref: Creator filming selfie video smiling and flashing peace signs while friend sits in background at an arcade/mall; selfie)",
+      "line": "l5"
+    },
+    {
+      "id": "s6",
+      "start": 15.0,
+      "end": 18.0,
+      "brief": "Working on a laptop or computer from behind (ref: Over-the-shoulder view of creator working at a computer desk and typing on a keyboard; filmed by friend)",
+      "line": "l6"
+    },
+    {
+      "id": "s7",
+      "start": 18.0,
+      "end": 20.767,
+      "brief": "Walking towards camera outdoors at golden hour (ref: Creator walking forward towards the camera on a quiet street at sunset, smiling and grooving to the music; filmed by friend)",
+      "line": "l7"
+    }
+  ],
+  "audit": {
+    "kind": "broll_with_text",
+    "creatorSpeaks": false,
+    "audio": "music only",
+    "special": [],
+    "reusable": true,
+    "notes": "This template works with almost any existing lifestyle library. Swap the 7 b-roll clips with simple shots from your archive (e.g. morning coffee, museum visit, journal writing, walking in the city, laptop work, smiling outside) and overlay your reframed mindset text.",
+    "summary": "A motivational montage reframing common personal criticisms into productive strengths and career opportunities, paired with casual daily lifestyle b-roll clips."
+  },
+  "caption": {
+    "ref": "",
+    "guide": ""
+  },
+  "draft": true
+}

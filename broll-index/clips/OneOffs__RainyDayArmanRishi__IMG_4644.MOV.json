@@ -1,0 +1,68 @@
+{
+  "path": "OneOffs/RainyDayArmanRishi/IMG_4644.MOV",
+  "folder": "OneOffs/RainyDayArmanRishi",
+  "fingerprint": "5f92c1bd30b0c21b",
+  "width": 1080,
+  "height": 1920,
+  "fps": 30.0,
+  "duration": 3.9,
+  "model": "gemini-3.8-flash",
+  "annotatedAt": "2026-10-24T18:36:47+00:00",
+  "summary": "A young man walks up the wet front steps of a brownstone carrying food takeout and opens the front door to enter.",
+  "location": "brownstone stoop",
+  "setting": "outdoor",
+  "time_of_day": "day",
+  "weather": "rain",
+  "people": {
+    "count": 1,
+    "creator_visible": true,
+    "description": "Young man with dark hair, wearing a black jacket, grey pants, and white sneakers, holding a food bag"
+  },
+  "camera": {
+    "style": "filmed_by_friend",
+    "framing": "medium",
+    "movement": "tracking",
+    "angle": "eye level"
+  },
+  "quality": {
+    "usable": true,
+    "stability": "handheld",
+    "exposure": "good",
+    "issues": ""
+  },
+  "mood": [
+    "cozy",
+    "routine",
+    "casual",
+    "relief"
+  ],
+  "energy": "medium",
+  "tags": [
+    "brownstone",
+    "stoop",
+    "takeout",
+    "rainy day",
+    "nyc",
+    "apartment entrance",
+    "coming home",
+    "urban living",
+    "food delivery",
+    "doorway"
+  ],
+  "moments": [
+    {
+      "start": 0.0,
+      "end": 3.9,
+      "action": "Man walks briskly up the stoop stairs holding takeout, unlocks and opens the apartment building door, and steps inside",
+      "emotion": "hurried, relieved",
+      "good_for": [
+        "finally home",
+        "rainy day takeout",
+        "getting out of the rain",
+        "food on my plate",
+        "city living routine"
+      ],
+      "score": 4
+    }
+  ]
+}

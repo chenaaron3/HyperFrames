@@ -1,0 +1,83 @@
+{
+  "path": "Cinematic/CentralPark/IMG_4459.MOV",
+  "folder": "Cinematic/CentralPark",
+  "fingerprint": "b3fc4453d1514e98",
+  "width": 1080,
+  "height": 1920,
+  "fps": 30.0,
+  "duration": 4.9,
+  "model": "gemini-3.8-flash",
+  "annotatedAt": "2026-10-24T18:18:34+00:00",
+  "summary": "A Canada goose walks along the grassy lawn amidst fallen autumn leaves in Central Park.",
+  "location": "park",
+  "setting": "outdoor",
+  "time_of_day": "day",
+  "weather": "sunny",
+  "people": {
+    "count": 0,
+    "creator_visible": false,
+    "description": "None visible; POV camera following a Canada goose."
+  },
+  "camera": {
+    "style": "pov_first_person",
+    "framing": "medium",
+    "movement": "tracking",
+    "angle": "eye level"
+  },
+  "quality": {
+    "usable": true,
+    "stability": "steady",
+    "exposure": "good",
+    "issues": ""
+  },
+  "mood": [
+    "peaceful",
+    "nature",
+    "calm",
+    "serene"
+  ],
+  "energy": "low",
+  "tags": [
+    "canada goose",
+    "goose",
+    "central park",
+    "nyc",
+    "park",
+    "wildlife",
+    "autumn",
+    "fall leaves",
+    "nature walk",
+    "grass",
+    "trees",
+    "birds",
+    "walking"
+  ],
+  "moments": [
+    {
+      "start": 0.0,
+      "end": 2.5,
+      "action": "A Canada goose waddles past the camera on grassy ground scattered with leaves",
+      "emotion": "calm",
+      "good_for": [
+        "nature walks in the city",
+        "taking a walk to clear my mind",
+        "enjoying the little things",
+        "fall in new york"
+      ],
+      "score": 4
+    },
+    {
+      "start": 2.5,
+      "end": 4.9,
+      "action": "The camera pans slightly following the goose walking away toward lush park trees",
+      "emotion": "peaceful",
+      "good_for": [
+        "unbothered and in my lane",
+        "strolling through the park",
+        "nature b-roll",
+        "autumn vibes"
+      ],
+      "score": 4
+    }
+  ]
+}

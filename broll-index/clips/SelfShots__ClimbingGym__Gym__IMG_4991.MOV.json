@@ -1,0 +1,116 @@
+{
+  "path": "SelfShots/ClimbingGym/Gym/IMG_4991.MOV",
+  "folder": "SelfShots/ClimbingGym/Gym",
+  "fingerprint": "68d10e0378bbb6c7",
+  "width": 1080,
+  "height": 1920,
+  "fps": 30.0,
+  "duration": 61.538,
+  "model": "gemini-3.8-flash",
+  "annotatedAt": "2026-10-24T18:38:46+00:00",
+  "summary": "A young man picks up a pair of dumbbells from a rack in a modern gym and performs dumbbell curls before re-racking them.",
+  "location": "gym",
+  "setting": "indoor",
+  "time_of_day": "indoor_unknown",
+  "weather": "n/a",
+  "people": {
+    "count": 3,
+    "creator_visible": true,
+    "description": "Young East Asian man with dark wavy hair wearing a brown short-sleeve button-up and dark trousers, lifting dumbbells. A woman in gym wear and another person walk by in the background."
+  },
+  "camera": {
+    "style": "tripod_static",
+    "framing": "medium",
+    "movement": "static",
+    "angle": "eye level"
+  },
+  "quality": {
+    "usable": true,
+    "stability": "locked",
+    "exposure": "good",
+    "issues": ""
+  },
+  "mood": [
+    "focused",
+    "casual",
+    "determined",
+    "routine"
+  ],
+  "energy": "medium",
+  "tags": [
+    "gym",
+    "dumbbells",
+    "bicep curls",
+    "arm workout",
+    "weightlifting",
+    "fitness",
+    "exercise",
+    "weight rack",
+    "training",
+    "lifestyle",
+    "daily routine"
+  ],
+  "moments": [
+    {
+      "start": 2.5,
+      "end": 7.5,
+      "action": "Man walks into the frame towards the weight rack and picks up two dumbbells",
+      "emotion": "focused",
+      "good_for": [
+        "time to put the work in",
+        "showing up every day",
+        "gym routine"
+      ],
+      "score": 3
+    },
+    {
+      "start": 10.5,
+      "end": 17.5,
+      "action": "Man performs controlled alternating dumbbell curls beside the weight rack",
+      "emotion": "focused",
+      "good_for": [
+        "arm day",
+        "building consistency",
+        "working on myself",
+        "fitness journey"
+      ],
+      "score": 4
+    },
+    {
+      "start": 25.0,
+      "end": 32.5,
+      "action": "Man continues bicep curls while another gym member grabs weights from the rack behind him",
+      "emotion": "calm",
+      "good_for": [
+        "gym culture",
+        "focusing on your own path",
+        "everyday workout"
+      ],
+      "score": 3
+    },
+    {
+      "start": 44.5,
+      "end": 51.5,
+      "action": "Man powers through the final reps of dumbbell curls",
+      "emotion": "determined",
+      "good_for": [
+        "last reps count the most",
+        "not giving up",
+        "discipline over motivation"
+      ],
+      "score": 4
+    },
+    {
+      "start": 53.0,
+      "end": 58.5,
+      "action": "Man finishes his set and neatly places the dumbbells back on the rack",
+      "emotion": "satisfied",
+      "good_for": [
+        "re-rack your weights",
+        "set completed",
+        "post-workout satisfaction"
+      ],
+      "score": 3
+    }
+  ]
+}

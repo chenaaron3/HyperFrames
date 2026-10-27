@@ -1,0 +1,82 @@
+{
+  "path": "Cinematic/UES/IMG_4486.MOV",
+  "folder": "Cinematic/UES",
+  "fingerprint": "6497d15f7bdf44ee",
+  "width": 1080,
+  "height": 1920,
+  "fps": 30.0,
+  "duration": 4.333,
+  "model": "gemini-3.8-flash",
+  "annotatedAt": "2026-10-24T18:19:50+00:00",
+  "summary": "A handheld street-level shot panning across classic brownstone townhouses and parked cars on a quiet Upper East Side residential street in New York City.",
+  "location": "city street",
+  "setting": "outdoor",
+  "time_of_day": "day",
+  "weather": "overcast",
+  "people": {
+    "count": 1,
+    "creator_visible": false,
+    "description": "A lone pedestrian in dark clothing walking past townhouses on the far sidewalk"
+  },
+  "camera": {
+    "style": "handheld_cinematic",
+    "framing": "wide",
+    "movement": "pan",
+    "angle": "eye level"
+  },
+  "quality": {
+    "usable": true,
+    "stability": "steady",
+    "exposure": "good",
+    "issues": ""
+  },
+  "mood": [
+    "peaceful",
+    "urban",
+    "nostalgic",
+    "calm"
+  ],
+  "energy": "low",
+  "tags": [
+    "nyc",
+    "upper east side",
+    "brownstone",
+    "townhouse",
+    "architecture",
+    "city street",
+    "streetscape",
+    "new york city",
+    "manhattan",
+    "autumn",
+    "quiet morning",
+    "city vibes"
+  ],
+  "moments": [
+    {
+      "start": 0.0,
+      "end": 2.5,
+      "action": "Camera pans slowly across elegant brownstones and a white sedan parked along the curb",
+      "emotion": "calm",
+      "good_for": [
+        "city walks",
+        "nyc living",
+        "dream neighborhood",
+        "quiet mornings in new york"
+      ],
+      "score": 4
+    },
+    {
+      "start": 2.5,
+      "end": 4.33,
+      "action": "Camera continues panning down the street as a dark SUV slowly drives down the block past parked vehicles",
+      "emotion": "relaxed",
+      "good_for": [
+        "city b-roll",
+        "aesthetic city cut",
+        "walking around the city",
+        "neighborhood vibes"
+      ],
+      "score": 3
+    }
+  ]
+}

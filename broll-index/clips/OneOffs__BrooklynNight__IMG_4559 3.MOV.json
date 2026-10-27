@@ -1,0 +1,70 @@
+{
+  "path": "OneOffs/BrooklynNight/IMG_4559 3.MOV",
+  "folder": "OneOffs/BrooklynNight",
+  "fingerprint": "8760ccc17f3624ca",
+  "width": 1080,
+  "height": 1920,
+  "fps": 30.0,
+  "duration": 4.867,
+  "model": "gemini-3.8-flash",
+  "annotatedAt": "2026-10-24T18:23:47+00:00",
+  "summary": "A handheld pan showing the Lower Manhattan skyline behind Castle Clinton and boarding ramps near Battery Park in the evening.",
+  "location": "Battery Park",
+  "setting": "outdoor",
+  "time_of_day": "golden_hour",
+  "weather": "sunny",
+  "people": {
+    "count": 4,
+    "creator_visible": false,
+    "description": "Pedestrians and tourists in casual clothing walking along the perimeter of the brick fort structure in the background"
+  },
+  "camera": {
+    "style": "pov_first_person",
+    "framing": "wide",
+    "movement": "pan",
+    "angle": "eye level"
+  },
+  "quality": {
+    "usable": true,
+    "stability": "steady",
+    "exposure": "good",
+    "issues": ""
+  },
+  "mood": [
+    "peaceful",
+    "urban",
+    "scenic",
+    "adventurous"
+  ],
+  "energy": "low",
+  "tags": [
+    "new york city",
+    "manhattan",
+    "battery park",
+    "castle clinton",
+    "skyline",
+    "skyscrapers",
+    "cityscape",
+    "tourism",
+    "travel",
+    "golden hour",
+    "evening",
+    "ferry terminal"
+  ],
+  "moments": [
+    {
+      "start": 0.0,
+      "end": 4.87,
+      "action": "Camera slowly pans to the right across metal queue railings, revealing Castle Clinton and the Lower Manhattan glass and stone skyscrapers reflecting late daylight",
+      "emotion": "calm and exploratory",
+      "good_for": [
+        "city trips",
+        "visiting new york",
+        "weekend getaway",
+        "exploring the city",
+        "golden hour views"
+      ],
+      "score": 3
+    }
+  ]
+}

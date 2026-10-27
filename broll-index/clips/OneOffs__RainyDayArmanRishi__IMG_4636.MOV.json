@@ -1,0 +1,70 @@
+{
+  "path": "OneOffs/RainyDayArmanRishi/IMG_4636.MOV",
+  "folder": "OneOffs/RainyDayArmanRishi",
+  "fingerprint": "65d725ba2c6d6f09",
+  "width": 1080,
+  "height": 1920,
+  "fps": 30.0,
+  "duration": 5.065,
+  "model": "gemini-3.8-flash",
+  "annotatedAt": "2026-10-24T18:36:31+00:00",
+  "summary": "Interior view of an aesthetic flower and plant shop with hanging greenery and florists working behind the wooden counter.",
+  "location": "flower shop",
+  "setting": "indoor",
+  "time_of_day": "day",
+  "weather": "n/a",
+  "people": {
+    "count": 2,
+    "creator_visible": false,
+    "description": "Two female florists working behind the wooden counter, one arranging flowers and another adjusting her hair"
+  },
+  "camera": {
+    "style": "handheld_cinematic",
+    "framing": "medium",
+    "movement": "static",
+    "angle": "eye level"
+  },
+  "quality": {
+    "usable": true,
+    "stability": "steady",
+    "exposure": "good",
+    "issues": ""
+  },
+  "mood": [
+    "peaceful",
+    "cozy",
+    "aesthetic",
+    "calm"
+  ],
+  "energy": "low",
+  "tags": [
+    "flower shop",
+    "florist",
+    "plants",
+    "greenery",
+    "potted plants",
+    "botanical",
+    "indoor plants",
+    "flowers",
+    "cozy aesthetic",
+    "rainy day vibes",
+    "local business",
+    "interior"
+  ],
+  "moments": [
+    {
+      "start": 0.0,
+      "end": 5.07,
+      "action": "A static wide shot of a cozy flower shop filled with hanging pothos, potted plants, dried arrangements, and florists working behind the register counter",
+      "emotion": "calm",
+      "good_for": [
+        "local flower shop visits",
+        "buying yourself flowers",
+        "rainy day errands",
+        "romanticizing everyday life",
+        "peaceful weekend mornings"
+      ],
+      "score": 4
+    }
+  ]
+}

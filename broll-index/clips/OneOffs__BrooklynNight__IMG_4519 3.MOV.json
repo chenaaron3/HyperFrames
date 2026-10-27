@@ -1,0 +1,82 @@
+{
+  "path": "OneOffs/BrooklynNight/IMG_4519 3.MOV",
+  "folder": "OneOffs/BrooklynNight",
+  "fingerprint": "6a46952b7dd37d3a",
+  "width": 1080,
+  "height": 1920,
+  "fps": 30.0,
+  "duration": 4.8,
+  "model": "gemini-3.8-flash",
+  "annotatedAt": "2026-10-24T18:22:43+00:00",
+  "summary": "A young man checks out an embroidered cardigan jacket in a mirror selfie while shopping in a clothing store.",
+  "location": "clothing store",
+  "setting": "indoor",
+  "time_of_day": "indoor_unknown",
+  "weather": "n/a",
+  "people": {
+    "count": 1,
+    "creator_visible": true,
+    "description": "Young man with dark fluffy hair wearing a brown shirt, navy embroidered cardigan jacket with tags on, and black wide-leg trousers."
+  },
+  "camera": {
+    "style": "mirror_selfie",
+    "framing": "medium",
+    "movement": "handheld",
+    "angle": "eye level"
+  },
+  "quality": {
+    "usable": true,
+    "stability": "handheld",
+    "exposure": "good",
+    "issues": ""
+  },
+  "mood": [
+    "casual",
+    "fashionable",
+    "neutral",
+    "reflective"
+  ],
+  "energy": "medium",
+  "tags": [
+    "clothing store",
+    "mirror selfie",
+    "ootd",
+    "outfit check",
+    "cardigan",
+    "shopping",
+    "trying on clothes",
+    "fashion",
+    "retail",
+    "knitwear",
+    "wardrobe",
+    "brooklyn"
+  ],
+  "moments": [
+    {
+      "start": 0.0,
+      "end": 2.5,
+      "action": "Man turns sideways and examines the fit of the knit jacket in the mirror while holding his phone",
+      "emotion": "focused",
+      "good_for": [
+        "checking out new clothes",
+        "retail therapy",
+        "shopping day",
+        "trying to find my style"
+      ],
+      "score": 4
+    },
+    {
+      "start": 2.5,
+      "end": 4.8,
+      "action": "Man turns back to face the mirror squarely, adjusting his jacket and posing",
+      "emotion": "confident",
+      "good_for": [
+        "should I buy this",
+        "outfit check",
+        "finding pieces that work",
+        "retail shopping"
+      ],
+      "score": 4
+    }
+  ]
+}

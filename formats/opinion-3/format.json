@@ -1,0 +1,141 @@
+{
+  "id": "opinion-3",
+  "name": "life is better when...",
+  "reference": "references/viral-formats/opinion-3.mp4",
+  "source": "/Users/aaron/Downloads/100 Viral Formats (Format Book)/Opinion/#3/#3.mp4",
+  "duration": 8.533,
+  "music": {
+    "from": "reference",
+    "title": "The Way I Are - Timbaland"
+  },
+  "text": {
+    "y": 0.495,
+    "size": 46,
+    "weight": 700,
+    "lineHeight": 1.4,
+    "maxWidth": 900,
+    "style": "outline"
+  },
+  "lines": [
+    {
+      "id": "l1",
+      "start": 0.0,
+      "end": 3.667,
+      "ref": "life is better when...",
+      "y": 0.495,
+      "measuredSize": 22,
+      "style": "plain_white_shadow",
+      "guide": ""
+    },
+    {
+      "id": "l2",
+      "start": 3.667,
+      "end": 8.533,
+      "ref": "When you do it for YOU.",
+      "y": 0.49,
+      "measuredSize": 45,
+      "style": "plain_white_shadow",
+      "guide": ""
+    }
+  ],
+  "shots": [
+    {
+      "id": "s1",
+      "start": 0.0,
+      "end": 3.667,
+      "brief": "setting phone down on the ground outdoors and stepping back (ref: Creator places the phone on the ground on a bridge pathway and stands up, catching her breath.; tripod)",
+      "line": "l1"
+    },
+    {
+      "id": "s2",
+      "start": 3.667,
+      "end": 4.1,
+      "brief": "working out at the gym, incline press (ref: Creator performing incline barbell bench press at the gym.; tripod)",
+      "line": "l2"
+    },
+    {
+      "id": "s3",
+      "start": 4.1,
+      "end": 4.533,
+      "brief": "POV of legs on gym cardio equipment (ref: POV shot looking down at legs stepping on a stair climber machine.; POV)",
+      "line": "l2"
+    },
+    {
+      "id": "s4",
+      "start": 4.533,
+      "end": 4.8,
+      "brief": "working out on a stairmaster or treadmill (ref: Low-angle shot from the front climbing the stairmaster.; tripod)",
+      "line": "l2"
+    },
+    {
+      "id": "s5",
+      "start": 4.8,
+      "end": 5.2,
+      "brief": "sweaty walk after workout, low selfie angle (ref: Low selfie angle walking outdoors wiping forehead after a run.; selfie)",
+      "line": "l2"
+    },
+    {
+      "id": "s6",
+      "start": 5.2,
+      "end": 5.567,
+      "brief": "jogging with friends, selfie (ref: High-angle selfie video jogging alongside a friend on a sidewalk.; selfie)",
+      "line": "l2"
+    },
+    {
+      "id": "s7",
+      "start": 5.567,
+      "end": 6.033,
+      "brief": "doing pull-ups or back workout (ref: Low-angle view of creator doing pull-ups at the gym.; tripod)",
+      "line": "l2"
+    },
+    {
+      "id": "s8",
+      "start": 6.033,
+      "end": 6.467,
+      "brief": "stretching or cool-down at the gym (ref: Silhouette shot of creator stretching on a mat in front of a gym window.; tripod)",
+      "line": "l2"
+    },
+    {
+      "id": "s9",
+      "start": 6.467,
+      "end": 6.9,
+      "brief": "running through a park, wide shot (ref: Wide shot running along a path in a green park.; tripod)",
+      "line": "l2"
+    },
+    {
+      "id": "s10",
+      "start": 6.9,
+      "end": 7.4,
+      "brief": "running selfie in sunglasses outdoors (ref: Selfie running while wearing sunglasses and gesturing to cool down.; selfie)",
+      "line": "l2"
+    },
+    {
+      "id": "s11",
+      "start": 7.4,
+      "end": 8.067,
+      "brief": "running away from camera down an outdoor road (ref: Rear view of creator running away down a tree-lined residential street.; tripod)",
+      "line": "l2"
+    },
+    {
+      "id": "s12",
+      "start": 8.067,
+      "end": 8.533,
+      "brief": "celebratory jump or dance outdoors (ref: Creator performs a celebratory jump kick in the air outdoors on a bridge.; tripod)",
+      "line": "l2"
+    }
+  ],
+  "audit": {
+    "kind": "broll_with_text",
+    "creatorSpeaks": false,
+    "audio": "music only",
+    "special": [],
+    "reusable": true,
+    "notes": "Very straightforward to adapt using any active lifestyle or hobby b-roll (such as bouldering, training, running, or city walking). Starts with one longer clip setting up the curiosity hook, then cuts rapidly on every musical beat to short 0.3-0.5s highlight clips when the punchline appears.",
+    "summary": "A workout montage opens with the creator stepping back after placing the camera down, displaying a teaser hook, followed by rapid beat-synced cuts of various gym and outdoor running clips revealing an empowering message."
+  },
+  "caption": {
+    "ref": "",
+    "guide": ""
+  },
+  "draft": true
+}

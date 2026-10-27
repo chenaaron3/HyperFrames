@@ -1,0 +1,69 @@
+{
+  "path": "OneOffs/BrooklynNight/IMG_4509 3.MOV",
+  "folder": "OneOffs/BrooklynNight",
+  "fingerprint": "99b95392508fe16a",
+  "width": 1080,
+  "height": 1920,
+  "fps": 30.0,
+  "duration": 4.308,
+  "model": "gemini-3.8-flash",
+  "annotatedAt": "2026-10-24T18:22:26+00:00",
+  "summary": "A young man holds his phone in selfie mode while walking along a busy New York City subway platform as commuters move in the background.",
+  "location": "subway platform",
+  "setting": "indoor",
+  "time_of_day": "indoor_unknown",
+  "weather": "n/a",
+  "people": {
+    "count": 5,
+    "creator_visible": true,
+    "description": "Young East Asian man with textured dark hair, wearing a brown textured knit polo, white crossbody bag strap, and AirPods, surrounded by passing subway commuters."
+  },
+  "camera": {
+    "style": "selfie",
+    "framing": "close",
+    "movement": "walking",
+    "angle": "eye level"
+  },
+  "quality": {
+    "usable": true,
+    "stability": "handheld",
+    "exposure": "good",
+    "issues": ""
+  },
+  "mood": [
+    "casual",
+    "urban",
+    "chill",
+    "relatable",
+    "everyday"
+  ],
+  "energy": "medium",
+  "tags": [
+    "subway",
+    "commute",
+    "nyc",
+    "new york city",
+    "metro station",
+    "walking selfie",
+    "city life",
+    "transit",
+    "airpods",
+    "traveling solo"
+  ],
+  "moments": [
+    {
+      "start": 0.0,
+      "end": 4.31,
+      "action": "Creator films a walking selfie while walking along the subway platform past pillars and waiting passengers",
+      "emotion": "calm",
+      "good_for": [
+        "daily commute",
+        "city life",
+        "on my way",
+        "traveling alone",
+        "subway thoughts"
+      ],
+      "score": 4
+    }
+  ]
+}

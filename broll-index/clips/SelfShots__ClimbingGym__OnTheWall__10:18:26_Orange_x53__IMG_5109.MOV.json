@@ -1,0 +1,103 @@
+{
+  "path": "SelfShots/ClimbingGym/OnTheWall/10:18:26_Orange_x53/IMG_5109.MOV",
+  "folder": "SelfShots/ClimbingGym/OnTheWall/10:18:26_Orange_x53",
+  "fingerprint": "b82b03474321bdd1",
+  "width": 1080,
+  "height": 1920,
+  "fps": 30.0,
+  "duration": 40.97,
+  "model": "gemini-3.8-flash",
+  "annotatedAt": "2026-10-24T18:41:10+00:00",
+  "summary": "A young man tackles a difficult overhang bouldering route in an indoor climbing gym, working his way across holds before slipping off near the top.",
+  "location": "climbing gym",
+  "setting": "indoor",
+  "time_of_day": "indoor_unknown",
+  "weather": "n/a",
+  "people": {
+    "count": 1,
+    "creator_visible": true,
+    "description": "Young male climber wearing a white ribbed tank top, loose pants, and climbing shoes"
+  },
+  "camera": {
+    "style": "tripod_static",
+    "framing": "wide",
+    "movement": "static",
+    "angle": "eye level"
+  },
+  "quality": {
+    "usable": true,
+    "stability": "locked",
+    "exposure": "good",
+    "issues": ""
+  },
+  "mood": [
+    "athletic",
+    "focused",
+    "determined",
+    "challenging"
+  ],
+  "energy": "medium",
+  "tags": [
+    "bouldering",
+    "climbing gym",
+    "rock climbing",
+    "indoor climbing",
+    "overhang",
+    "fitness",
+    "calisthenics",
+    "workout",
+    "grip strength",
+    "boulder problem",
+    "athletic"
+  ],
+  "moments": [
+    {
+      "start": 4.5,
+      "end": 9.5,
+      "action": "Young man mounts the wall and extends horizontally across low holds",
+      "emotion": "focused and intense",
+      "good_for": [
+        "starting a hard project",
+        "trusting the process",
+        "lock in"
+      ],
+      "score": 4
+    },
+    {
+      "start": 10.0,
+      "end": 17.5,
+      "action": "Climber engages full core tension and shifts feet while suspended on the steep overhang",
+      "emotion": "determined and concentrated",
+      "good_for": [
+        "holding on when it hurts",
+        "daily workout discipline",
+        "strength building"
+      ],
+      "score": 4
+    },
+    {
+      "start": 20.0,
+      "end": 27.5,
+      "action": "Climber maneuvers dynamically upward on difficult grips, finding foot placement",
+      "emotion": "strained effort",
+      "good_for": [
+        "almost there",
+        "pushing your limits",
+        "grind mentality"
+      ],
+      "score": 4
+    },
+    {
+      "start": 30.5,
+      "end": 37.5,
+      "action": "Climber reaches for high hold, loses grip, and drops safely to the gym mat",
+      "emotion": "fatigued and accepting failure",
+      "good_for": [
+        "fail until you succeed",
+        "so close yet so far",
+        "learning from the fall"
+      ],
+      "score": 5
+    }
+  ]
+}

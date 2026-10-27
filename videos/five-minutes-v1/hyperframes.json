@@ -1,0 +1,50 @@
+{
+  "$schema": "https://hyperframes.heygen.com/schema/hyperframes.json",
+  "registry": "https://raw.githubusercontent.com/heygen-com/hyperframes/main/registry",
+  "paths": {
+    "blocks": "compositions",
+    "components": "compositions/components",
+    "assets": "assets"
+  },
+  "media": {
+    "autoProxy": true
+  },
+  "authoringSkill": "hyperframes",
+  "registryItems": [
+    {
+      "name": "constellation-hub",
+      "type": "hyperframes:component",
+      "target": "compositions/components/constellation-hub.html"
+    },
+    {
+      "name": "panel-reveal",
+      "type": "hyperframes:component",
+      "target": "compositions/components/panel-reveal.html"
+    },
+    {
+      "name": "stagger-cascade",
+      "type": "hyperframes:component",
+      "target": "compositions/components/stagger-cascade.html"
+    },
+    {
+      "name": "blur-in",
+      "type": "hyperframes:component",
+      "target": "compositions/components/blur-in.html"
+    },
+    {
+      "name": "browser-device-stage",
+      "type": "hyperframes:component",
+      "target": "compositions/components/browser-device-stage.html"
+    },
+    {
+      "name": "ai-chat-reveal",
+      "type": "hyperframes:block",
+      "target": "compositions/ai-chat-reveal.html"
+    },
+    {
+      "name": "spotlight-card",
+      "type": "hyperframes:component",
+      "target": "compositions/components/spotlight-card.html"
+    }
+  ]
+}

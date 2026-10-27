@@ -1,0 +1,95 @@
+{
+  "path": "SelfShots/ClimbingGym/OnTheWall/10:22:26_Red_x25/IMG_5231.MOV",
+  "folder": "SelfShots/ClimbingGym/OnTheWall/10:22:26_Red_x25",
+  "fingerprint": "13e5e04bf7f0e7ba",
+  "width": 1080,
+  "height": 1920,
+  "fps": 30.0,
+  "duration": 38.37,
+  "model": "gemini-3.8-flash",
+  "annotatedAt": "2026-10-24T18:49:41+00:00",
+  "summary": "A young man attempts a challenging purple bouldering route at an indoor climbing gym, making solid progress before slipping and falling near the top hold.",
+  "location": "gym",
+  "setting": "indoor",
+  "time_of_day": "indoor_unknown",
+  "weather": "n/a",
+  "people": {
+    "count": 1,
+    "creator_visible": true,
+    "description": "Young male climber wearing a light sleeveless tank top and loose grey pants with climbing shoes."
+  },
+  "camera": {
+    "style": "tripod_static",
+    "framing": "wide",
+    "movement": "static",
+    "angle": "low angle looking up"
+  },
+  "quality": {
+    "usable": true,
+    "stability": "locked",
+    "exposure": "good",
+    "issues": "Empty wall for the first 4 seconds and last 4 seconds."
+  },
+  "mood": [
+    "focused",
+    "athletic",
+    "challenging",
+    "persistent"
+  ],
+  "energy": "medium",
+  "tags": [
+    "bouldering",
+    "rock climbing",
+    "climbing gym",
+    "dyno",
+    "fitness",
+    "training",
+    "workout",
+    "fail",
+    "indoor sports",
+    "athletic",
+    "perseverance",
+    "chalk"
+  ],
+  "moments": [
+    {
+      "start": 4.5,
+      "end": 11.5,
+      "action": "The climber steps up, grabs the starting volume, and performs a dynamic jump to catch the next purple hold.",
+      "emotion": "focused",
+      "good_for": [
+        "starting strong",
+        "taking a leap",
+        "committing to the move",
+        "trusting yourself"
+      ],
+      "score": 4
+    },
+    {
+      "start": 16.0,
+      "end": 22.5,
+      "action": "Climber carefully positions his feet and makes controlled reaching movements up the wall.",
+      "emotion": "determined",
+      "good_for": [
+        "one step at a time",
+        "trusting the process",
+        "focus and precision",
+        "working towards your goals"
+      ],
+      "score": 4
+    },
+    {
+      "start": 27.5,
+      "end": 34.0,
+      "action": "Climber reaches for the top hold, loses grip, falls off the wall, and lands on the padded mat.",
+      "emotion": "frustrated",
+      "good_for": [
+        "so close yet so far",
+        "almost had it",
+        "falling down and getting back up",
+        "failing forward"
+      ],
+      "score": 5
+    }
+  ]
+}

@@ -1,0 +1,81 @@
+{
+  "path": "OneOffs/BrooklynNight/IMG_4542 3.MOV",
+  "folder": "OneOffs/BrooklynNight",
+  "fingerprint": "7bddeeea594b397e",
+  "width": 1080,
+  "height": 1920,
+  "fps": 30.0,
+  "duration": 4.8,
+  "model": "gemini-3.8-flash",
+  "annotatedAt": "2026-10-24T18:23:16+00:00",
+  "summary": "A man attempts a bouldering climb on an indoor wall, jumps up for a hold, drops to the padded mat, and turns to the camera laughing.",
+  "location": "climbing gym",
+  "setting": "indoor",
+  "time_of_day": "indoor_unknown",
+  "weather": "n/a",
+  "people": {
+    "count": 1,
+    "creator_visible": true,
+    "description": "A young man wearing glasses, a black graphic t-shirt, black shorts, and climbing shoes."
+  },
+  "camera": {
+    "style": "filmed_by_friend",
+    "framing": "medium",
+    "movement": "handheld",
+    "angle": "eye level"
+  },
+  "quality": {
+    "usable": true,
+    "stability": "handheld",
+    "exposure": "good",
+    "issues": ""
+  },
+  "mood": [
+    "playful",
+    "active",
+    "fun",
+    "lighthearted"
+  ],
+  "energy": "medium",
+  "tags": [
+    "bouldering",
+    "climbing gym",
+    "indoor climbing",
+    "climbing wall",
+    "exercise",
+    "trying new things",
+    "failing",
+    "laughing",
+    "fitness",
+    "brooklyn",
+    "friends"
+  ],
+  "moments": [
+    {
+      "start": 0.0,
+      "end": 3.7,
+      "action": "Man sets his grip on blue holds and dynos/reaches up toward a high hold on the climbing wall",
+      "emotion": "focused and determined",
+      "good_for": [
+        "taking a leap",
+        "trying something new",
+        "reaching for goals",
+        "bouldering progress"
+      ],
+      "score": 3
+    },
+    {
+      "start": 3.7,
+      "end": 4.8,
+      "action": "Man drops back down onto the padded mat, turns toward the camera, and laughs with a big smile",
+      "emotion": "happy and amused",
+      "good_for": [
+        "laugh at your mistakes",
+        "don't take yourself too seriously",
+        "having fun with friends",
+        "trying your best"
+      ],
+      "score": 4
+    }
+  ]
+}

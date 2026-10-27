@@ -1,0 +1,70 @@
+{
+  "path": "OneOffs/BrooklynNight/IMG_4580 3.MOV",
+  "folder": "OneOffs/BrooklynNight",
+  "fingerprint": "7a282dcec88f408e",
+  "width": 1080,
+  "height": 1920,
+  "fps": 30.0,
+  "duration": 3.298,
+  "model": "gemini-3.8-flash",
+  "annotatedAt": "2026-10-24T18:24:15+00:00",
+  "summary": "First-person perspective walking along the pedestrian boardwalk of the Brooklyn Bridge at night toward the illuminated stone tower, with silhouettes of other walkers ahead.",
+  "location": "Brooklyn Bridge",
+  "setting": "outdoor",
+  "time_of_day": "night",
+  "weather": "n/a",
+  "people": {
+    "count": 10,
+    "creator_visible": false,
+    "description": "Pedestrians walking ahead in silhouette along the bridge walkway at night"
+  },
+  "camera": {
+    "style": "pov_first_person",
+    "framing": "wide",
+    "movement": "walking",
+    "angle": "eye level"
+  },
+  "quality": {
+    "usable": true,
+    "stability": "handheld",
+    "exposure": "good",
+    "issues": ""
+  },
+  "mood": [
+    "cinematic",
+    "atmospheric",
+    "urban",
+    "moody",
+    "peaceful"
+  ],
+  "energy": "low",
+  "tags": [
+    "brooklyn bridge",
+    "nyc",
+    "new york city",
+    "night walk",
+    "bridge",
+    "city lights",
+    "manhattan",
+    "urban exploration",
+    "travel",
+    "night aesthetic",
+    "pedestrian walkway"
+  ],
+  "moments": [
+    {
+      "start": 0.0,
+      "end": 3.3,
+      "action": "Walking forward along the Brooklyn Bridge pedestrian path toward the glowing gothic arches at night",
+      "emotion": "calm",
+      "good_for": [
+        "late night walks in nyc",
+        "city that never sleeps",
+        "wandering new york",
+        "clear your head",
+        "places that feel like magic"
+      ],
+      "score": 4
+    }
+  ]
+}

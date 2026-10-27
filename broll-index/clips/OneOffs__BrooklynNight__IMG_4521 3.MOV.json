@@ -1,0 +1,82 @@
+{
+  "path": "OneOffs/BrooklynNight/IMG_4521 3.MOV",
+  "folder": "OneOffs/BrooklynNight",
+  "fingerprint": "8cc3a9d81dae9f51",
+  "width": 1080,
+  "height": 1920,
+  "fps": 29.97,
+  "duration": 5.235,
+  "model": "gemini-3.8-flash",
+  "annotatedAt": "2026-10-24T18:22:45+00:00",
+  "summary": "Shoppers browse clothing racks inside a modern, stylish retail boutique with warm lighting and wide tiled hallways.",
+  "location": "clothing store",
+  "setting": "indoor",
+  "time_of_day": "day",
+  "weather": "n/a",
+  "people": {
+    "count": 8,
+    "creator_visible": false,
+    "description": "Diverse shoppers in casual streetwear browsing clothes racks and walking through the boutique hallway."
+  },
+  "camera": {
+    "style": "pov_first_person",
+    "framing": "wide",
+    "movement": "walking",
+    "angle": "eye level"
+  },
+  "quality": {
+    "usable": true,
+    "stability": "steady",
+    "exposure": "good",
+    "issues": ""
+  },
+  "mood": [
+    "casual",
+    "urban",
+    "trendy",
+    "calm"
+  ],
+  "energy": "low",
+  "tags": [
+    "clothing store",
+    "boutique",
+    "shopping",
+    "retail",
+    "jackets",
+    "apparel",
+    "streetwear",
+    "fashion",
+    "soho",
+    "brooklyn",
+    "browsing",
+    "lifestyle"
+  ],
+  "moments": [
+    {
+      "start": 0.0,
+      "end": 2.5,
+      "action": "Camera observes customers walking past and looking at racks of coats in a stylish boutique",
+      "emotion": "relaxed",
+      "good_for": [
+        "shopping day",
+        "city vlog",
+        "weekend plans",
+        "retail therapy"
+      ],
+      "score": 3
+    },
+    {
+      "start": 2.5,
+      "end": 5.24,
+      "action": "A shopper holding a paper shopping bag browses through leather and denim jackets on a display rack",
+      "emotion": "focused",
+      "good_for": [
+        "window shopping",
+        "treating myself",
+        "fashion inspo",
+        "finding the fit"
+      ],
+      "score": 4
+    }
+  ]
+}

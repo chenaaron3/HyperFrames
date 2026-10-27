@@ -1,0 +1,94 @@
+{
+  "path": "OneOffs/RainyDayArmanRishi/IMG_4640.MOV",
+  "folder": "OneOffs/RainyDayArmanRishi",
+  "fingerprint": "a02a6544eb968aa9",
+  "width": 1080,
+  "height": 1920,
+  "fps": 30.0,
+  "duration": 8.0,
+  "model": "gemini-3.8-flash",
+  "annotatedAt": "2026-10-24T18:36:38+00:00",
+  "summary": "A young man sits in a cafe surrounded by greenery, takes a sip of an iced creamy beverage, places the glass on the table, and gives a thumbs-up to the camera.",
+  "location": "cafe",
+  "setting": "indoor",
+  "time_of_day": "day",
+  "weather": "n/a",
+  "people": {
+    "count": 1,
+    "creator_visible": true,
+    "description": "Young East Asian man with curly black hair, wearing an oversized dark grey t-shirt and silver bracelet"
+  },
+  "camera": {
+    "style": "filmed_by_friend",
+    "framing": "medium",
+    "movement": "static",
+    "angle": "eye level"
+  },
+  "quality": {
+    "usable": true,
+    "stability": "steady",
+    "exposure": "good",
+    "issues": ""
+  },
+  "mood": [
+    "relaxed",
+    "satisfied",
+    "casual",
+    "cozy"
+  ],
+  "energy": "low",
+  "tags": [
+    "cafe",
+    "coffee shop",
+    "iced latte",
+    "sipping coffee",
+    "thumbs up",
+    "plants",
+    "casual",
+    "hangout",
+    "matcha latte",
+    "cozy aesthetic",
+    "drink review",
+    "weekend vibes"
+  ],
+  "moments": [
+    {
+      "start": 0.0,
+      "end": 3.0,
+      "action": "Man takes a sip of his iced milk beverage using both hands to hold the glass",
+      "emotion": "focused, relaxed",
+      "good_for": [
+        "morning coffee ritual",
+        "cafe hopping",
+        "treating yourself",
+        "simple pleasures"
+      ],
+      "score": 4
+    },
+    {
+      "start": 3.0,
+      "end": 5.5,
+      "action": "Man lowers the glass with both hands and sets it down on the table",
+      "emotion": "reflective, satisfied",
+      "good_for": [
+        "trying new drinks",
+        "slow mornings",
+        "cafe date"
+      ],
+      "score": 3
+    },
+    {
+      "start": 5.5,
+      "end": 8.0,
+      "action": "Man looks straight into the camera and gives an approving thumbs-up gesture",
+      "emotion": "happy approval, subtle smile",
+      "good_for": [
+        "10/10 recommendation",
+        "approved",
+        "worth the hype",
+        "feeling good today"
+      ],
+      "score": 5
+    }
+  ]
+}

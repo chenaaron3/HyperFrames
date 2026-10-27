@@ -1,0 +1,70 @@
+{
+  "path": "OneOffs/BrooklynNight/IMG_4552 3.MOV",
+  "folder": "OneOffs/BrooklynNight",
+  "fingerprint": "9672f0e9a9c75ccf",
+  "width": 1080,
+  "height": 1920,
+  "fps": 30.0,
+  "duration": 4.5,
+  "model": "gemini-3.8-flash",
+  "annotatedAt": "2026-10-24T18:23:39+00:00",
+  "summary": "Street-level shot looking towards the entrance of the Williamsburg Bridge with traffic, pedestrians crossing, and a traffic light overhead at dusk.",
+  "location": "city street",
+  "setting": "outdoor",
+  "time_of_day": "golden_hour",
+  "weather": "overcast",
+  "people": {
+    "count": 3,
+    "creator_visible": false,
+    "description": "Distant pedestrians crossing the multi-lane street in front of waiting cars"
+  },
+  "camera": {
+    "style": "pov_first_person",
+    "framing": "wide",
+    "movement": "handheld_cinematic",
+    "angle": "eye level"
+  },
+  "quality": {
+    "usable": true,
+    "stability": "steady",
+    "exposure": "good",
+    "issues": ""
+  },
+  "mood": [
+    "urban",
+    "atmospheric",
+    "calm",
+    "cinematic"
+  ],
+  "energy": "low",
+  "tags": [
+    "new york city",
+    "brooklyn",
+    "williamsburg bridge",
+    "traffic",
+    "traffic light",
+    "crosswalk",
+    "cars",
+    "pedestrians",
+    "evening",
+    "streetscape",
+    "commute",
+    "city life"
+  ],
+  "moments": [
+    {
+      "start": 0.0,
+      "end": 4.5,
+      "action": "Cars wait at a red light on a city street as pedestrians walk across the crosswalk towards the bridge entrance",
+      "emotion": "calm",
+      "good_for": [
+        "city nights",
+        "late commutes",
+        "new york state of mind",
+        "evening in the city",
+        "crossing the bridge"
+      ],
+      "score": 3
+    }
+  ]
+}

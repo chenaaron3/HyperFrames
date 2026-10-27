@@ -1,0 +1,68 @@
+{
+  "path": "OneOffs/RainyDayArmanRishi/IMG_4660.MOV",
+  "folder": "OneOffs/RainyDayArmanRishi",
+  "fingerprint": "107148f181c516d7",
+  "width": 1080,
+  "height": 1920,
+  "fps": 29.97,
+  "duration": 1.835,
+  "model": "gemini-3.8-flash",
+  "annotatedAt": "2026-10-24T18:37:14+00:00",
+  "summary": "Close-up handheld shot of plates filled with assorted cookies and baked pastries arranged on a wooden table at a cafe.",
+  "location": "cafe",
+  "setting": "indoor",
+  "time_of_day": "indoor_unknown",
+  "weather": "n/a",
+  "people": {
+    "count": 0,
+    "creator_visible": false,
+    "description": "No people visible in the frame"
+  },
+  "camera": {
+    "style": "pov_first_person",
+    "framing": "close",
+    "movement": "handheld_cinematic",
+    "angle": "high angle"
+  },
+  "quality": {
+    "usable": true,
+    "stability": "handheld",
+    "exposure": "good",
+    "issues": ""
+  },
+  "mood": [
+    "cozy",
+    "calm",
+    "aesthetic"
+  ],
+  "energy": "low",
+  "tags": [
+    "cookies",
+    "pastries",
+    "bakery",
+    "cafe",
+    "food",
+    "dessert",
+    "baked goods",
+    "wooden table",
+    "cozy aesthetic",
+    "coffee date",
+    "sweet treats"
+  ],
+  "moments": [
+    {
+      "start": 0.0,
+      "end": 1.83,
+      "action": "Handheld view hovering over plates of cookies and baked pastries on a wooden table",
+      "emotion": "calm",
+      "good_for": [
+        "sweet treats",
+        "little treats to get through the day",
+        "cafe dates",
+        "food on my plate",
+        "cozy rainy day"
+      ],
+      "score": 3
+    }
+  ]
+}

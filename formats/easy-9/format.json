@@ -1,0 +1,129 @@
+{
+  "id": "easy-9",
+  "name": "Life isn't easy when you have...",
+  "reference": "references/viral-formats/easy-9.mp4",
+  "source": "/Users/aaron/Downloads/100 Viral Formats (Format Book)/Easy to use format/#9/#9.mp4",
+  "duration": 14.333,
+  "music": {
+    "from": "reference",
+    "title": "Save My Soul (Live At Sound Emporium) - Noah Rinker"
+  },
+  "text": {
+    "y": 0.553,
+    "size": 47,
+    "weight": 700,
+    "lineHeight": 1.4,
+    "maxWidth": 900,
+    "style": "outline"
+  },
+  "lines": [
+    {
+      "id": "l1",
+      "start": 0.0,
+      "end": 3.033,
+      "ref": "Life isn't easy when you have...",
+      "y": 0.553,
+      "measuredSize": 111,
+      "style": "plain_white_shadow",
+      "guide": ""
+    },
+    {
+      "id": "l2",
+      "start": 3.033,
+      "end": 5.733,
+      "ref": "\"Sensitive heart\"",
+      "y": 0.66,
+      "measuredSize": 30,
+      "style": "plain_white_shadow",
+      "guide": ""
+    },
+    {
+      "id": "l3",
+      "start": 5.733,
+      "end": 8.7,
+      "ref": "\"An overthinking mind\"",
+      "y": 0.599,
+      "measuredSize": 47,
+      "style": "plain_white_shadow",
+      "guide": ""
+    },
+    {
+      "id": "l4",
+      "start": 8.7,
+      "end": 11.7,
+      "ref": "\"Eyes that notice everything\"",
+      "y": 0.609,
+      "measuredSize": 35,
+      "style": "plain_white_shadow",
+      "guide": ""
+    },
+    {
+      "id": "l5",
+      "start": 11.7,
+      "end": 14.0,
+      "ref": "\"A heart that care too much\"",
+      "y": 0.599,
+      "measuredSize": 47,
+      "style": "plain_white_shadow",
+      "guide": ""
+    }
+  ],
+  "shots": [
+    {
+      "id": "s1",
+      "start": 0.0,
+      "end": 3.033,
+      "brief": "walking indoors looking around pensively, selfie (ref: Man walking through a bright indoor hall with undulating ceiling architecture, looking off-camera pensively.; selfie)",
+      "line": "l1"
+    },
+    {
+      "id": "s2",
+      "start": 3.033,
+      "end": 5.033,
+      "brief": "sitting in car looking thoughtful or emotional, selfie (ref: Man sitting in a car wearing headphones around neck, looking upwards and emotionally smiling slightly.; selfie)",
+      "line": "l2"
+    },
+    {
+      "id": "s3",
+      "start": 5.033,
+      "end": 5.733,
+      "brief": "sitting in car looking thoughtful or emotional, selfie (ref: Man sitting in a car wearing headphones around neck, looking upwards and emotionally smiling slightly.; selfie)",
+      "line": "l2"
+    },
+    {
+      "id": "s4",
+      "start": 5.733,
+      "end": 8.7,
+      "brief": "chilling at home in dim lighting looking contemplative, selfie (ref: Close-up of man in dim indoor bedroom lighting, blinking slowly and looking troubled or tired.; selfie)",
+      "line": "l3"
+    },
+    {
+      "id": "s5",
+      "start": 8.7,
+      "end": 11.7,
+      "brief": "riding subway looking around observant, selfie (ref: Man riding a subway car, looking up attentively at the map and surroundings.; selfie)",
+      "line": "l4"
+    },
+    {
+      "id": "s6",
+      "start": 11.7,
+      "end": 14.333,
+      "brief": "resting head on hand in bed or couch looking into camera, selfie (ref: Man resting his head on his hand in bed/couch, gazing directly into camera with a vulnerable expression.; selfie)",
+      "line": "l5"
+    }
+  ],
+  "audit": {
+    "kind": "broll_with_text",
+    "creatorSpeaks": false,
+    "audio": "music only",
+    "special": [],
+    "reusable": true,
+    "notes": "Perfect fit for existing lifestyle b-roll. Recreate by cutting 4-5 quiet, emotive selfie or candid clips (subway ride, resting at home, walking, thoughtful glances) set to a slow melodic audio track.",
+    "summary": "A sequence of quiet, contemplative selfie clips synced to emotional music, pairing personal introspective traits with reflective expressions."
+  },
+  "caption": {
+    "ref": "",
+    "guide": ""
+  },
+  "draft": true
+}

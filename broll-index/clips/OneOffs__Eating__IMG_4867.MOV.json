@@ -1,0 +1,96 @@
+{
+  "path": "OneOffs/Eating/IMG_4867.MOV",
+  "folder": "OneOffs/Eating",
+  "fingerprint": "2ce4c301d98d3cfb",
+  "width": 1080,
+  "height": 1920,
+  "fps": 30.0,
+  "duration": 20.267,
+  "model": "gemini-3.8-flash",
+  "annotatedAt": "2026-10-24T18:35:07+00:00",
+  "summary": "A static wide shot of a sunset over a river or harbor from a paved waterfront pier, with the sun slowly dipping below the horizon and casting golden rays.",
+  "location": "pier",
+  "setting": "outdoor",
+  "time_of_day": "golden_hour",
+  "weather": "sunny",
+  "people": {
+    "count": 1,
+    "creator_visible": false,
+    "description": "A silhouette of a passerby / fisherman briefly appears near the pier railing near the end"
+  },
+  "camera": {
+    "style": "tripod_static",
+    "framing": "wide",
+    "movement": "static",
+    "angle": "eye level"
+  },
+  "quality": {
+    "usable": true,
+    "stability": "locked",
+    "exposure": "good",
+    "issues": "None"
+  },
+  "mood": [
+    "peaceful",
+    "serene",
+    "reflective",
+    "calm"
+  ],
+  "energy": "low",
+  "tags": [
+    "sunset",
+    "golden hour",
+    "waterfront",
+    "pier",
+    "river",
+    "skyline",
+    "sunflare",
+    "sun rays",
+    "evening",
+    "peaceful",
+    "nature",
+    "boardwalk",
+    "dusk",
+    "silhouette"
+  ],
+  "moments": [
+    {
+      "start": 0.0,
+      "end": 6.5,
+      "action": "Bright golden sun shines directly over the water and pier deck with a pronounced sunflare",
+      "emotion": "peaceful",
+      "good_for": [
+        "golden hour peace",
+        "another day done",
+        "romanticizing my life",
+        "take a deep breath"
+      ],
+      "score": 4
+    },
+    {
+      "start": 6.5,
+      "end": 14.0,
+      "action": "Sun lowers closer to the horizon, casting warm reflections across the rippling water and cobblestone ground",
+      "emotion": "reflective",
+      "good_for": [
+        "chasing sunsets",
+        "grateful for today",
+        "slow down and look around",
+        "end of the day thoughts"
+      ],
+      "score": 5
+    },
+    {
+      "start": 14.0,
+      "end": 20.27,
+      "action": "Sun sinks just below the distant hills as dusk settles and a fisherman approaches the railing in silhouette",
+      "emotion": "calm",
+      "good_for": [
+        "evening stillness",
+        "goodnight world",
+        "quiet evenings alone"
+      ],
+      "score": 4
+    }
+  ]
+}

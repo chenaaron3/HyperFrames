@@ -1,0 +1,177 @@
+<!doctype html>
+<html lang="en" data-resolution="landscape">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=1920, height=1080" />
+    <script src="https://cdn.jsdelivr.net/npm/gsap@3.14.2/dist/gsap.min.js"></script>
+    <style>
+      #compare { position: absolute; inset: 0; overflow: hidden; background: #1B1B1A; font-family: "Inter", sans-serif; }
+      .col-title { position: absolute; top: 18px; width: 540px; font-family: "IBM Plex Mono", monospace; font-weight: 600; font-size: 18px; letter-spacing: 0.14em; color: #8A8780; }
+      .col-name { position: absolute; top: 46px; width: 540px; font-family: "Inter", sans-serif; font-weight: 700; font-size: 30px; color: #F4F3F0; }
+      .panel { position: absolute; top: 100px; width: 540px; height: 960px; overflow: hidden; border-radius: 18px; background: #000; }
+      .stage { position: absolute; left: 0; top: 0; width: 1080px; height: 1920px; transform: scale(0.5); transform-origin: 0 0; }
+      .fill { position: absolute; inset: 0; width: 1080px; height: 1920px; object-fit: cover; }
+      .split-cam { position: absolute; inset: 0; transform: translateY(150px) scale(1.08); transform-origin: 50% 40%; z-index: 1; }
+      .z-base { z-index: 1; } .z-paper { z-index: 2; } .z-behind { z-index: 3; } .z-cut { z-index: 4; }
+      .z-front { z-index: 5; } .z-cap { z-index: 6; }
+
+      /* badge-pop, as installed */
+      .bp-wrap { position: absolute; left: 64px; top: 168px; }
+      .hf-transition-badge-pop { --hf-badge-pop-accent: #ef4444; --hf-badge-pop-surface: #ffffff; --hf-badge-pop-border: #e4e4e7; --hf-badge-pop-ink: #18181b; position: relative; display: inline-grid; place-items: center; font-family: Inter, system-ui, sans-serif; }
+      .hf-transition-badge-button { display: grid; place-items: center; width: 76px; height: 76px; border: 1px solid var(--hf-badge-pop-border); border-radius: 22px; background: var(--hf-badge-pop-surface); color: var(--hf-badge-pop-ink); box-shadow: 0 20px 58px rgba(0, 0, 0, 0.12); }
+      .hf-transition-badge-button svg { width: 30px; height: 30px; fill: none; stroke: currentColor; stroke-width: 2.2; stroke-linecap: round; stroke-linejoin: round; }
+      .hf-transition-badge-count { position: absolute; right: -8px; top: -8px; display: grid; place-items: center; min-width: 30px; height: 30px; padding: 0 8px; border: 3px solid var(--hf-badge-pop-surface); border-radius: 999px; background: var(--hf-badge-pop-accent); color: #ffffff; font-size: 13px; font-weight: 900; transform-origin: center; }
+      #bp1 .hf-transition-badge-pop { --hf-badge-pop-accent: #B8452F !important; --hf-badge-pop-surface: #ffffff !important; --hf-badge-pop-border: #E4E1DB !important; --hf-badge-pop-ink: #141414 !important; }
+      #bp1 .hf-transition-badge-count { font-family: "IBM Plex Mono", monospace; }
+
+      /* bottom-up-letters, as installed (the primitive ships no type style) */
+      .hf-bottom-up-letters { display: inline-block; }
+      .hf-bottom-up-letters-char { display: inline-block; opacity: 0; }
+      .bu-wrap { position: absolute; left: 0; top: 250px; width: 1080px; text-align: center; line-height: 0.92; }
+      .bu-l1 { font-size: 210px; } .bu-l2 { font-size: 250px; }
+      #bu0 { font-family: "Inter", sans-serif; font-weight: 800; color: #FFFFFF; }
+      #bu1 { font-family: "Outfit", sans-serif; font-weight: 800; letter-spacing: -0.02em; color: #141414; }
+      #bu1 .bu-l2 { color: #B8452F; }
+
+      /* strikethrough-replace, as installed */
+      .st-wrap { position: absolute; left: 0; top: 1390px; width: 1080px; text-align: center; }
+      .hf-catalog-strikethrough-replace { color: #18181b; font-family: Inter, system-ui, sans-serif; font-weight: 900; letter-spacing: -0.04em; position: relative; display: inline-grid; grid-auto-flow: column; gap: 18px; align-items: center; font-size: 58px; }
+      .hf-catalog-strikethrough-replace i { position: absolute; left: 0; width: 48%; height: 6px; border-radius: 999px; background: #ef4444; transform: scaleX(var(--hf-strike-progress, 1)); transform-origin: left center; }
+      .hf-catalog-strikethrough-replace strong { opacity: var(--hf-replace-opacity, 1); }
+      #st1 .hf-catalog-strikethrough-replace { font-family: "Outfit", sans-serif; font-weight: 800; letter-spacing: -0.02em; font-size: 92px; color: #141414; }
+      #st1 .hf-catalog-strikethrough-replace i { background: #B8452F; height: 10px; }
+      #st1 .hf-catalog-strikethrough-replace strong { color: #B8452F; }
+
+      /* flowchart-vertical, node and connector styles as installed */
+      .fc-wrap { position: absolute; left: 0; top: 0; width: 1080px; height: 883px; overflow: hidden; }
+      #fc0 { background-color: #ffffff; background-image: radial-gradient(#e5e5e5 1px, transparent 1px); background-size: 20px 20px; }
+      .fc-canvas { position: absolute; left: 0; top: 0; width: 1440px; height: 1180px; transform: scale(0.75); transform-origin: 0 0; font-family: "Inter", sans-serif; }
+      .fc-svg { position: absolute; left: 0; top: 0; z-index: 5; }
+      .fc-connector { stroke: #333; stroke-dasharray: 1000; stroke-dashoffset: 1000; }
+      .fc-node { position: absolute; padding: 16px 24px; border-radius: 12px; font-size: 18px; font-weight: 500; color: #333; box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1); white-space: nowrap; z-index: 10; }
+      #fc0 .fc-root { background: #e8d44d; } #fc0 .fc-n1 { background: #c2e8a0; } #fc0 .fc-n2 { background: #f5c5a3; } #fc0 .fc-n3 { background: #d4c5f9; }
+      #fc1, .paper-grid { background-color: #F4F3F0; background-image: linear-gradient(#E4E1DB 1px, transparent 1px), linear-gradient(90deg, #E4E1DB 1px, transparent 1px); background-size: 56px 56px; }
+      .paper-grid { position: absolute; left: 0; top: 0; width: 1080px; height: 883px; }
+      #fc1 .fc-connector { stroke: #B8452F; }
+      #fc1 .fc-node { background: #FFFFFF; color: #141414; font-weight: 700; }
+      #fc1 .fc-root { background: #141414; color: #FFFFFF; } #fc1 .fc-n3 { background: #B8452F; color: #FFFFFF; }
+    </style>
+  </head>
+  <body>
+    <div id="compare" data-composition-id="compare" data-start="0" data-duration="22.75" data-width="1920" data-height="1080">
+      <div class="col-title" style="left:75px">REGISTRY · OUT OF THE BOX</div>
+      <div id="lb-badge-0" class="clip col-name" style="left:75px" data-start="0.0" data-duration="3.0" data-track-index="20">badge-pop</div>
+      <div id="lb-title-0" class="clip col-name" style="left:75px" data-start="3.0" data-duration="2.6" data-track-index="20">bottom-up-letters</div>
+      <div id="lb-proof-0" class="clip col-name" style="left:75px" data-start="5.6" data-duration="2.4" data-track-index="20">strikethrough-replace</div>
+      <div id="lb-window-0" class="clip col-name" style="left:75px" data-start="8.0" data-duration="2.4" data-track-index="20">browser-device-stage</div>
+      <div id="lb-tree-0" class="clip col-name" style="left:75px" data-start="10.4" data-duration="6.75" data-track-index="20">flowchart-vertical</div>
+      <div id="lb-captions-0" class="clip col-name" style="left:75px" data-start="17.15" data-duration="5.6" data-track-index="20">caption-highlight</div>
+      <div class="col-title" style="left:690px">REGISTRY · BRANDED</div>
+      <div id="lb-badge-1" class="clip col-name" style="left:690px" data-start="0.0" data-duration="3.0" data-track-index="21">badge-pop</div>
+      <div id="lb-title-1" class="clip col-name" style="left:690px" data-start="3.0" data-duration="2.6" data-track-index="21">bottom-up-letters</div>
+      <div id="lb-proof-1" class="clip col-name" style="left:690px" data-start="5.6" data-duration="2.4" data-track-index="21">strikethrough-replace</div>
+      <div id="lb-window-1" class="clip col-name" style="left:690px" data-start="8.0" data-duration="2.4" data-track-index="21">browser-device-stage</div>
+      <div id="lb-tree-1" class="clip col-name" style="left:690px" data-start="10.4" data-duration="6.75" data-track-index="21">flowchart-vertical</div>
+      <div id="lb-captions-1" class="clip col-name" style="left:690px" data-start="17.15" data-duration="5.6" data-track-index="21">caption-highlight</div>
+      <div class="col-title" style="left:1305px">CUSTOM KIT</div>
+      <div id="lb-badge-2" class="clip col-name" style="left:1305px" data-start="0.0" data-duration="3.0" data-track-index="22">section-badge</div>
+      <div id="lb-title-2" class="clip col-name" style="left:1305px" data-start="3.0" data-duration="2.6" data-track-index="22">stacked-title</div>
+      <div id="lb-proof-2" class="clip col-name" style="left:1305px" data-start="5.6" data-duration="2.4" data-track-index="22">proof-label</div>
+      <div id="lb-window-2" class="clip col-name" style="left:1305px" data-start="8.0" data-duration="2.4" data-track-index="22">app-window</div>
+      <div id="lb-tree-2" class="clip col-name" style="left:1305px" data-start="10.4" data-duration="6.75" data-track-index="22">folder-tree</div>
+      <div id="lb-captions-2" class="clip col-name" style="left:1305px" data-start="17.15" data-duration="5.6" data-track-index="22">demo captions</div>
+      <div class="panel" style="left:75px"><div class="stage">
+        <video id="v1" class="clip fill z-base" src="assets/talking-head.mp4" data-start="0.0" data-duration="3.0" data-media-start="14.200" data-track-index="0" muted playsinline></video>
+        <video id="v4" class="clip fill z-base" src="assets/talking-head.mp4" data-start="3.0" data-duration="2.6" data-media-start="15.400" data-track-index="0" muted playsinline></video>
+        <video id="v5" class="clip fill z-cut" src="assets/depth/speaker.webm" data-start="3.0" data-duration="2.6" data-media-start="15.400" data-track-index="5" muted playsinline></video>
+        <video id="v10" class="clip fill z-base" src="assets/talking-head.mp4" data-start="5.6" data-duration="2.4" data-media-start="16.800" data-track-index="0" muted playsinline></video>
+        <video id="v13" class="clip fill z-base" src="assets/talking-head.mp4" data-start="8.0" data-duration="2.4" data-media-start="18.200" data-track-index="0" muted playsinline></video>
+        <video id="v14" class="clip fill z-cut" src="assets/depth/speaker.webm" data-start="8.0" data-duration="2.4" data-media-start="18.200" data-track-index="5" muted playsinline></video>
+        <div class="split-cam"><video id="v19" class="clip fill z-base" src="assets/talking-head.mp4" data-start="10.4" data-duration="6.75" data-media-start="25.100" data-track-index="0" muted playsinline></video></div>
+        <video id="v22" class="clip fill z-base" src="assets/talking-head.mp4" data-start="17.15" data-duration="5.6" data-media-start="14.200" data-track-index="0" muted playsinline></video>
+        <div id="bp0" class="clip z-front bp-wrap" data-start="0.3" data-duration="2.7" data-track-index="2"><div class="hf-transition-badge-pop"><button class="hf-transition-badge-button" type="button" aria-label="Notifications"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M18 8a6 6 0 10-12 0c0 7-3 7-3 7h18s-3 0-3-7" /><path d="M10 20a2 2 0 004 0" /></svg></button><span class="hf-transition-badge-count">01</span></div></div>
+        <div id="bu0" class="clip z-behind bu-wrap" data-start="3.3" data-duration="2.0" data-track-index="2"><div class="bu-l1"><span class="hf-bottom-up-letters">Claude</span></div><div class="bu-l2"><span class="hf-bottom-up-letters">Code</span></div></div>
+        <div id="st0" class="clip z-front st-wrap" data-start="5.85" data-duration="1.6" data-track-index="2"><div class="hf-catalog-strikethrough-replace"><span>Browser</span><i></i><strong>Desktop</strong></div></div>
+        <div id="m28" class="z-behind" style="position:absolute;left:0;top:300px;width:1080px;height:700px;" data-composition-id="bds-stock" data-composition-src="compositions/bds-stock.html" data-start="8.25" data-duration="1.75" data-track-index="3" data-width="1080" data-height="1920" data-variable-values='{"chrome": "window", "title": "DESKTOP APP", "exit": "up"}'></div>
+        <div id="fc0" class="clip z-paper fc-wrap" data-start="10.4" data-duration="6.75" data-track-index="2"><div class="fc-canvas"><svg class="fc-svg" width="1440" height="1180" viewBox="0 0 1440 1180"><path class="fc-connector" d="M 720 210 L 720 360 L 300 360 L 300 530" fill="none" stroke-width="4" /><path class="fc-connector" d="M 720 210 L 720 530" fill="none" stroke-width="4" /><path class="fc-connector" d="M 720 210 L 720 360 L 1140 360 L 1140 530" fill="none" stroke-width="4" /></svg><div class="fc-node fc-root" style="left:720px;top:180px">AI Video</div><div class="fc-node fc-n1" style="left:300px;top:560px">Raw footage</div><div class="fc-node fc-n2" style="left:720px;top:560px">References</div><div class="fc-node fc-n3" style="left:1140px;top:560px">Exports</div></div></div>
+        <div id="m32" class="z-cap" style="position:absolute;inset:0;" data-composition-id="cap-stock" data-composition-src="compositions/cap-stock.html" data-start="17.15" data-duration="5.6" data-track-index="7" data-width="1080" data-height="1920"></div>
+      </div></div>
+      <div class="panel" style="left:690px"><div class="stage">
+        <video id="v2" class="clip fill z-base" src="assets/talking-head.mp4" data-start="0.0" data-duration="3.0" data-media-start="14.200" data-track-index="0" muted playsinline></video>
+        <video id="v6" class="clip fill z-base" src="assets/talking-head.mp4" data-start="3.0" data-duration="2.6" data-media-start="15.400" data-track-index="0" muted playsinline></video>
+        <video id="v7" class="clip fill z-cut" src="assets/depth/speaker.webm" data-start="3.0" data-duration="2.6" data-media-start="15.400" data-track-index="5" muted playsinline></video>
+        <video id="v11" class="clip fill z-base" src="assets/talking-head.mp4" data-start="5.6" data-duration="2.4" data-media-start="16.800" data-track-index="0" muted playsinline></video>
+        <video id="v15" class="clip fill z-base" src="assets/talking-head.mp4" data-start="8.0" data-duration="2.4" data-media-start="18.200" data-track-index="0" muted playsinline></video>
+        <video id="v16" class="clip fill z-cut" src="assets/depth/speaker.webm" data-start="8.0" data-duration="2.4" data-media-start="18.200" data-track-index="5" muted playsinline></video>
+        <div class="split-cam"><video id="v20" class="clip fill z-base" src="assets/talking-head.mp4" data-start="10.4" data-duration="6.75" data-media-start="25.100" data-track-index="0" muted playsinline></video></div>
+        <video id="v23" class="clip fill z-base" src="assets/talking-head.mp4" data-start="17.15" data-duration="5.6" data-media-start="14.200" data-track-index="0" muted playsinline></video>
+        <div id="bp1" class="clip z-front bp-wrap" data-start="0.3" data-duration="2.7" data-track-index="2"><div class="hf-transition-badge-pop"><button class="hf-transition-badge-button" type="button" aria-label="Notifications"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M18 8a6 6 0 10-12 0c0 7-3 7-3 7h18s-3 0-3-7" /><path d="M10 20a2 2 0 004 0" /></svg></button><span class="hf-transition-badge-count">01</span></div></div>
+        <div id="bu1" class="clip z-behind bu-wrap" data-start="3.3" data-duration="2.0" data-track-index="2"><div class="bu-l1"><span class="hf-bottom-up-letters">Claude</span></div><div class="bu-l2"><span class="hf-bottom-up-letters">Code</span></div></div>
+        <div id="st1" class="clip z-front st-wrap" data-start="5.85" data-duration="1.6" data-track-index="2"><div class="hf-catalog-strikethrough-replace"><span>Browser</span><i></i><strong>Desktop</strong></div></div>
+        <div id="m29" class="z-behind" style="position:absolute;left:0;top:300px;width:1080px;height:700px;--fg:#141414;--surface:#FFFFFF;--border:#D9D5CC;--muted:#8A8780;--brand:#B8452F;--font-body:Inter,sans-serif;--font-mono:'IBM Plex Mono',monospace;" data-composition-id="bds-brand" data-composition-src="compositions/bds-brand.html" data-start="8.25" data-duration="1.75" data-track-index="3" data-width="1080" data-height="1920" data-variable-values='{"chrome": "window", "title": "DESKTOP APP", "exit": "up"}'></div>
+        <div id="fc1" class="clip z-paper fc-wrap" data-start="10.4" data-duration="6.75" data-track-index="2"><div class="fc-canvas"><svg class="fc-svg" width="1440" height="1180" viewBox="0 0 1440 1180"><path class="fc-connector" d="M 720 210 L 720 360 L 300 360 L 300 530" fill="none" stroke-width="4" /><path class="fc-connector" d="M 720 210 L 720 530" fill="none" stroke-width="4" /><path class="fc-connector" d="M 720 210 L 720 360 L 1140 360 L 1140 530" fill="none" stroke-width="4" /></svg><div class="fc-node fc-root" style="left:720px;top:180px">AI Video</div><div class="fc-node fc-n1" style="left:300px;top:560px">Raw footage</div><div class="fc-node fc-n2" style="left:720px;top:560px">References</div><div class="fc-node fc-n3" style="left:1140px;top:560px">Exports</div></div></div>
+        <div id="m33" class="z-cap" style="position:absolute;inset:0;" data-composition-id="cap-brand" data-composition-src="compositions/cap-brand.html" data-start="17.15" data-duration="5.6" data-track-index="7" data-width="1080" data-height="1920"></div>
+      </div></div>
+      <div class="panel" style="left:1305px"><div class="stage">
+        <video id="v3" class="clip fill z-base" src="assets/talking-head.mp4" data-start="0.0" data-duration="3.0" data-media-start="14.200" data-track-index="0" data-has-audio="true" playsinline></video>
+        <video id="v8" class="clip fill z-base" src="assets/talking-head.mp4" data-start="3.0" data-duration="2.6" data-media-start="15.400" data-track-index="0" data-has-audio="true" playsinline></video>
+        <video id="v9" class="clip fill z-cut" src="assets/depth/speaker.webm" data-start="3.0" data-duration="2.6" data-media-start="15.400" data-track-index="5" muted playsinline></video>
+        <video id="v12" class="clip fill z-base" src="assets/talking-head.mp4" data-start="5.6" data-duration="2.4" data-media-start="16.800" data-track-index="0" data-has-audio="true" playsinline></video>
+        <video id="v17" class="clip fill z-base" src="assets/talking-head.mp4" data-start="8.0" data-duration="2.4" data-media-start="18.200" data-track-index="0" data-has-audio="true" playsinline></video>
+        <video id="v18" class="clip fill z-cut" src="assets/depth/speaker.webm" data-start="8.0" data-duration="2.4" data-media-start="18.200" data-track-index="5" muted playsinline></video>
+        <div class="split-cam"><video id="v21" class="clip fill z-base" src="assets/talking-head.mp4" data-start="10.4" data-duration="6.75" data-media-start="25.100" data-track-index="0" data-has-audio="true" playsinline></video></div>
+        <video id="v24" class="clip fill z-base" src="assets/talking-head.mp4" data-start="17.15" data-duration="5.6" data-media-start="14.200" data-track-index="0" data-has-audio="true" playsinline></video>
+        <div id="m25" class="z-front" style="position:absolute;inset:0;" data-composition-id="section-badge" data-composition-src="compositions/kit/section-badge.html" data-start="0.3" data-duration="2.7" data-track-index="3" data-width="1080" data-height="1920" data-variable-values='{"num": "01", "label": "ON THE DESKTOP", "out": 2.3}'></div>
+        <div id="m26" class="z-behind" style="position:absolute;inset:0;" data-composition-id="stacked-title" data-composition-src="compositions/kit/stacked-title.html" data-start="3.3" data-duration="2.0" data-track-index="3" data-width="1080" data-height="1920" data-variable-values='{"line1": "Claude", "line2": "Code", "at2": 0.476, "top": 250, "out": 1.65}'></div>
+        <div id="m27" class="z-front" style="position:absolute;inset:0;" data-composition-id="proof-label" data-composition-src="compositions/kit/proof-label.html" data-start="5.85" data-duration="1.6" data-track-index="3" data-width="1080" data-height="1920" data-variable-values='{"kicker": "NOT IN THE", "word": "BROWSER", "strikeAt": 0.788, "top": 1390, "out": 1.28}'></div>
+        <div id="m30" class="z-behind" style="position:absolute;inset:0;" data-composition-id="app-window" data-composition-src="compositions/kit/app-window.html" data-start="8.25" data-duration="1.75" data-track-index="3" data-width="1080" data-height="1920" data-variable-values='{"title": "DESKTOP APP", "head": "Ready when you are", "prompt": "Open my folder", "typeAt": 0.7, "top": 300, "out": 1.36}'></div>
+        <div id="paper2" class="clip z-paper paper-grid" data-start="10.4" data-duration="6.75" data-track-index="2"></div>
+        <div id="m31" class="z-front" style="position:absolute;inset:0;" data-composition-id="folder-tree" data-composition-src="compositions/kit/folder-tree.html" data-start="10.4" data-duration="6.75" data-track-index="3" data-width="1080" data-height="1920" data-variable-values='{"root": "AI Video", "labelAt": 0.15, "branchAt": 1.157, "c1": "Raw footage", "c2": "References", "c3": "Exports", "at1": 2.05, "at2": 3.336, "at3": 5.907, "out": 99}'></div>
+        <div id="m34" class="z-cap" style="position:absolute;inset:0;" data-composition-id="cap-custom" data-composition-src="compositions/cap-custom.html" data-start="17.15" data-duration="5.6" data-track-index="7" data-width="1080" data-height="1920"></div>
+      </div></div>
+    </div>
+    <script>
+      (function () {
+        document.querySelectorAll(".hf-bottom-up-letters").forEach(function (el) {
+          var text = el.textContent || "";
+          el.textContent = "";
+          Array.from(text).forEach(function (ch) {
+            var span = document.createElement("span");
+            span.className = "hf-bottom-up-letters-char";
+            span.textContent = ch === " " ? "\u00a0" : ch;
+            el.appendChild(span);
+          });
+        });
+      })();
+      const tl = gsap.timeline({ paused: true });
+      tl.fromTo('#bp0 .hf-transition-badge-button', { y: 18, opacity: 0 }, { y: 0, opacity: 1, duration: 0.34, ease: 'power2.out' }, 0.300);
+      tl.fromTo('#bp0 .hf-transition-badge-count', { scale: 0, opacity: 0 }, { scale: 1, opacity: 1, duration: 0.42, ease: 'back.out(2.4)' }, 0.650);
+      tl.to('#bp0 .hf-transition-badge-count', { scale: 1.18, duration: 0.12, yoyo: true, repeat: 1, ease: 'power1.inOut' }, 1.100);
+      tl.fromTo('#bp1 .hf-transition-badge-button', { y: 18, opacity: 0 }, { y: 0, opacity: 1, duration: 0.34, ease: 'power2.out' }, 0.300);
+      tl.fromTo('#bp1 .hf-transition-badge-count', { scale: 0, opacity: 0 }, { scale: 1, opacity: 1, duration: 0.42, ease: 'back.out(2.4)' }, 0.650);
+      tl.to('#bp1 .hf-transition-badge-count', { scale: 1.18, duration: 0.12, yoyo: true, repeat: 1, ease: 'power1.inOut' }, 1.100);
+      tl.fromTo('#bu0 .bu-l1 .hf-bottom-up-letters-char', { opacity: 0, y: 178.5 }, { opacity: 1, y: 0, duration: 0.48, ease: 'back.out(1.7)', stagger: 0.025 }, 3.316);
+      tl.fromTo('#bu0 .bu-l2 .hf-bottom-up-letters-char', { opacity: 0, y: 212.5 }, { opacity: 1, y: 0, duration: 0.48, ease: 'back.out(1.7)', stagger: 0.025 }, 3.776);
+      tl.fromTo('#bu1 .bu-l1 .hf-bottom-up-letters-char', { opacity: 0, y: 178.5 }, { opacity: 1, y: 0, duration: 0.48, ease: 'back.out(1.7)', stagger: 0.025 }, 3.316);
+      tl.fromTo('#bu1 .bu-l2 .hf-bottom-up-letters-char', { opacity: 0, y: 212.5 }, { opacity: 1, y: 0, duration: 0.48, ease: 'back.out(1.7)', stagger: 0.025 }, 3.776);
+      tl.fromTo('#st0 .hf-catalog-strikethrough-replace i', { '--hf-strike-progress': 0 }, { '--hf-strike-progress': 1, duration: 0.28, ease: 'power2.out' }, 6.638);
+      tl.fromTo('#st0 .hf-catalog-strikethrough-replace strong', { '--hf-replace-opacity': 0, y: 14 }, { '--hf-replace-opacity': 1, y: 0, duration: 0.3, ease: 'power2.out' }, 6.878);
+      tl.fromTo('#st1 .hf-catalog-strikethrough-replace i', { '--hf-strike-progress': 0 }, { '--hf-strike-progress': 1, duration: 0.28, ease: 'power2.out' }, 6.638);
+      tl.fromTo('#st1 .hf-catalog-strikethrough-replace strong', { '--hf-replace-opacity': 0, y: 14 }, { '--hf-replace-opacity': 1, y: 0, duration: 0.3, ease: 'power2.out' }, 6.878);
+      tl.fromTo('#fc0 .fc-node', { xPercent: -50, yPercent: -50, scale: 0 }, { xPercent: -50, yPercent: -50, scale: 0, duration: 0.01 }, 10.400);
+      tl.to('#fc0 .fc-root', { scale: 1, duration: 0.4, ease: 'power2.out' }, 10.400);
+      tl.fromTo('#fc0 .fc-connector', { strokeDashoffset: 1000 }, { strokeDashoffset: 0, duration: 0.5, ease: 'none' }, 11.557);
+      tl.to('#fc0 .fc-n1', { scale: 1, duration: 0.4, ease: 'back.out(1.7)' }, 12.450);
+      tl.to('#fc0 .fc-n2', { scale: 1, duration: 0.4, ease: 'back.out(1.7)' }, 13.736);
+      tl.to('#fc0 .fc-n3', { scale: 1, duration: 0.4, ease: 'back.out(1.7)' }, 16.307);
+      tl.fromTo('#fc1 .fc-node', { xPercent: -50, yPercent: -50, scale: 0 }, { xPercent: -50, yPercent: -50, scale: 0, duration: 0.01 }, 10.400);
+      tl.to('#fc1 .fc-root', { scale: 1, duration: 0.4, ease: 'power2.out' }, 10.400);
+      tl.fromTo('#fc1 .fc-connector', { strokeDashoffset: 1000 }, { strokeDashoffset: 0, duration: 0.5, ease: 'none' }, 11.557);
+      tl.to('#fc1 .fc-n1', { scale: 1, duration: 0.4, ease: 'back.out(1.7)' }, 12.450);
+      tl.to('#fc1 .fc-n2', { scale: 1, duration: 0.4, ease: 'back.out(1.7)' }, 13.736);
+      tl.to('#fc1 .fc-n3', { scale: 1, duration: 0.4, ease: 'back.out(1.7)' }, 16.307);
+      tl.set({}, {}, 22.75);
+      window.__timelines["compare"] = tl;
+    </script>
+  </body>
+</html>

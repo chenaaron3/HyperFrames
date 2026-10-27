@@ -1,0 +1,173 @@
+{
+  "id": "advice-23",
+  "name": "what solo travel taught me that university didn't",
+  "reference": "references/viral-formats/advice-23.mp4",
+  "source": "/Users/aaron/Downloads/100 Viral Formats (Format Book)/Advice/#23/#23.mp4",
+  "duration": 12.467,
+  "music": {
+    "from": "reference",
+    "title": "Wings (feat. sped up nightcore) [Sped Up Version]"
+  },
+  "text": {
+    "y": 0.347,
+    "size": 46,
+    "weight": 700,
+    "lineHeight": 1.4,
+    "maxWidth": 900,
+    "style": "outline"
+  },
+  "lines": [
+    {
+      "id": "l1",
+      "start": 0.0,
+      "end": 3.167,
+      "ref": "what solo travel taught me\nthat university didn't",
+      "y": 0.347,
+      "measuredSize": 51,
+      "style": "plain_white_shadow",
+      "guide": ""
+    },
+    {
+      "id": "l2",
+      "start": 3.167,
+      "end": 4.467,
+      "ref": "how to enjoy my\nown company",
+      "y": 0.343,
+      "measuredSize": 38,
+      "style": "plain_white_shadow",
+      "guide": ""
+    },
+    {
+      "id": "l3",
+      "start": 4.467,
+      "end": 5.733,
+      "ref": "how to be respectful\nof others",
+      "y": 0.339,
+      "measuredSize": 47,
+      "style": "plain_white_shadow",
+      "guide": ""
+    },
+    {
+      "id": "l4",
+      "start": 5.733,
+      "end": 7.0,
+      "ref": "how to budget\nmy money",
+      "y": 0.34,
+      "measuredSize": 44,
+      "style": "plain_white_shadow",
+      "guide": ""
+    },
+    {
+      "id": "l5",
+      "start": 7.0,
+      "end": 8.3,
+      "ref": "how to be humble",
+      "y": 0.339,
+      "measuredSize": 54,
+      "style": "plain_white_shadow",
+      "guide": ""
+    },
+    {
+      "id": "l6",
+      "start": 8.3,
+      "end": 9.533,
+      "ref": "how to pause and\nbe present",
+      "y": 0.343,
+      "measuredSize": 39,
+      "style": "plain_white_shadow",
+      "guide": ""
+    },
+    {
+      "id": "l7",
+      "start": 9.533,
+      "end": 10.667,
+      "ref": "how to overcome\nchallenges",
+      "y": 0.418,
+      "measuredSize": 36,
+      "style": "plain_white_shadow",
+      "guide": ""
+    },
+    {
+      "id": "l8",
+      "start": 10.667,
+      "end": 12.467,
+      "ref": "🌏 🌏 🌏\nworld education >",
+      "y": 0.412,
+      "measuredSize": 58,
+      "style": "plain_white_shadow",
+      "guide": ""
+    }
+  ],
+  "shots": [
+    {
+      "id": "s1",
+      "start": 0.0,
+      "end": 3.167,
+      "brief": "smiling selfie on scenic outdoor transit or boat (ref: Young man smiling holding camera on a boat passing through a foggy river gorge canyon; selfie)",
+      "line": "l1"
+    },
+    {
+      "id": "s2",
+      "start": 3.167,
+      "end": 4.467,
+      "brief": "walking away solo in an open scenic location (ref: Man walking alone along the beach towards the water with hands behind his head; tripod)",
+      "line": "l2"
+    },
+    {
+      "id": "s3",
+      "start": 4.467,
+      "end": 5.733,
+      "brief": "dancing or joking around candidly with a friend (ref: Man wearing a helmet doing a synchronized funny dance with a local friend outdoors; tripod)",
+      "line": "l3"
+    },
+    {
+      "id": "s4",
+      "start": 5.733,
+      "end": 7.0,
+      "brief": "eating a quick snack or street food, selfie (ref: Shirtless man with a cap eating an onigiri snack outdoors by the coast; selfie)",
+      "line": "l4"
+    },
+    {
+      "id": "s5",
+      "start": 7.0,
+      "end": 8.3,
+      "brief": "running or walking through rain/chaotic weather laughing (ref: Man wearing makeshift plastic wrap poncho laughing while running in pouring rain at night; filmed by friend)",
+      "line": "l5"
+    },
+    {
+      "id": "s6",
+      "start": 8.3,
+      "end": 9.533,
+      "brief": "walking away down stairs or trail toward an expansive scenic view (ref: Man walking down scenic steps into a lush green mountain valley panorama; filmed by friend)",
+      "line": "l6"
+    },
+    {
+      "id": "s7",
+      "start": 9.533,
+      "end": 10.667,
+      "brief": "tired, stressed, or relieved reaction selfie after a tough situation (ref: Man in a blue raincoat looking exhausted and smiling wryly with hand on head; selfie)",
+      "line": "l7"
+    },
+    {
+      "id": "s8",
+      "start": 10.667,
+      "end": 12.467,
+      "brief": "looking up in awe at an architectural monument or tall city landmark (ref: Man standing in front of an ancient historical temple, looking up and shielding eyes from the sun; filmed by friend)",
+      "line": "l8"
+    }
+  ],
+  "audit": {
+    "kind": "broll_with_text",
+    "creatorSpeaks": false,
+    "audio": "music only",
+    "special": [],
+    "reusable": true,
+    "notes": "Adapt the hook to any life transition or pursuit (e.g., 'what moving to NYC taught me that university didn't' or 'what freelancing taught me'). Pair snappy lessons with standard city b-roll: subway rides, rainy night runs, eating bodega food, working in cafes, and looking up at skyscrapers.",
+    "summary": "A fast-cut montage of travel b-roll clips showcasing life lessons learned from solo travel that university failed to teach."
+  },
+  "caption": {
+    "ref": "",
+    "guide": ""
+  },
+  "draft": true
+}

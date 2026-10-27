@@ -1,0 +1,108 @@
+{
+  "path": "OneOffs/Cooking/IMG_4821.MOV",
+  "folder": "OneOffs/Cooking",
+  "fingerprint": "647ea3d2d4e6c0b4",
+  "width": 1080,
+  "height": 1920,
+  "fps": 30.0,
+  "duration": 84.64,
+  "model": "gemini-3.8-flash",
+  "annotatedAt": "2026-10-24T18:25:27+00:00",
+  "summary": "A home cook prepares aromatics in a smoking hot carbon steel wok, heating oil and sautéing minced garlic, chilies, and diced onions.",
+  "location": "kitchen",
+  "setting": "indoor",
+  "time_of_day": "indoor_unknown",
+  "weather": "n/a",
+  "people": {
+    "count": 1,
+    "creator_visible": false,
+    "description": "Only the cook's hands and arms are visible holding the wok, pouring oil, and stirring with a spatula."
+  },
+  "camera": {
+    "style": "pov_first_person",
+    "framing": "medium",
+    "movement": "handheld",
+    "angle": "high angle"
+  },
+  "quality": {
+    "usable": true,
+    "stability": "steady",
+    "exposure": "good",
+    "issues": ""
+  },
+  "mood": [
+    "focused",
+    "satisfying",
+    "cozy",
+    "culinary"
+  ],
+  "energy": "medium",
+  "tags": [
+    "cooking",
+    "wok",
+    "stir fry",
+    "kitchen",
+    "onions",
+    "garlic",
+    "sautéing",
+    "stove",
+    "home cooking",
+    "culinary",
+    "food prep",
+    "dinner prep"
+  ],
+  "moments": [
+    {
+      "start": 4.5,
+      "end": 18.5,
+      "action": "Pouring cooking oil into a smoking hot wok and swirling it around the heated surface",
+      "emotion": "focused",
+      "good_for": [
+        "cooking dinner at home",
+        "getting the pan hot",
+        "comfort of home cooking",
+        "culinary skills"
+      ],
+      "score": 4
+    },
+    {
+      "start": 30.0,
+      "end": 44.0,
+      "action": "Scraping minced garlic, chili, and chopped onion from a wooden cutting board into the sizzling wok",
+      "emotion": "satisfying",
+      "good_for": [
+        "aromatics in the pan",
+        "homemade meals",
+        "therapeutic cooking",
+        "meal prep"
+      ],
+      "score": 4
+    },
+    {
+      "start": 47.0,
+      "end": 63.0,
+      "action": "Adding the rest of the diced onions and stirring them vigorously in the smoking pan",
+      "emotion": "energetic",
+      "good_for": [
+        "making dinner",
+        "cooking for loved ones",
+        "learning how to cook",
+        "sizzle sounds"
+      ],
+      "score": 3
+    },
+    {
+      "start": 68.0,
+      "end": 84.5,
+      "action": "Stir-frying and tossing the browned onions, garlic, and chilies in the wok with steam billowing",
+      "emotion": "satisfying",
+      "good_for": [
+        "smells so good",
+        "wok hei vibes",
+        "weeknight dinner",
+        "food on my plate"
+      ],
+      "score": 4
+    }
+  ]
+}

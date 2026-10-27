@@ -1,0 +1,94 @@
+{
+  "path": "OneOffs/Cooking/IMG_4811.MOV",
+  "folder": "OneOffs/Cooking",
+  "fingerprint": "bb5ab7a0366caa0c",
+  "width": 1080,
+  "height": 1920,
+  "fps": 30.0,
+  "duration": 30.67,
+  "model": "gemini-3.8-flash",
+  "annotatedAt": "2026-10-24T18:24:59+00:00",
+  "summary": "A person cooks curry or soup on a gas stovetop, sprinkling seasoning from a bag into the simmering saucepan and stirring it with a spatula.",
+  "location": "kitchen",
+  "setting": "indoor",
+  "time_of_day": "indoor_unknown",
+  "weather": "n/a",
+  "people": {
+    "count": 1,
+    "creator_visible": false,
+    "description": "Only hands are visible cooking at the stove"
+  },
+  "camera": {
+    "style": "pov_first_person",
+    "framing": "medium",
+    "movement": "handheld_cinematic",
+    "angle": "high angle"
+  },
+  "quality": {
+    "usable": true,
+    "stability": "steady",
+    "exposure": "good",
+    "issues": ""
+  },
+  "mood": [
+    "calm",
+    "domestic",
+    "focused"
+  ],
+  "energy": "low",
+  "tags": [
+    "cooking",
+    "stove",
+    "soup",
+    "curry",
+    "saucepan",
+    "seasoning",
+    "recipe",
+    "kitchen",
+    "dinner",
+    "simmering",
+    "stirring",
+    "homemade"
+  ],
+  "moments": [
+    {
+      "start": 5.0,
+      "end": 9.5,
+      "action": "Sprinkling brown seasoning powder from a plastic bag into the simmering pot",
+      "emotion": "focused",
+      "good_for": [
+        "home cooked meal",
+        "cooking dinner",
+        "secret recipe",
+        "food on my plate"
+      ],
+      "score": 4
+    },
+    {
+      "start": 12.0,
+      "end": 16.5,
+      "action": "Close-up of the yellow creamy soup simmering on a blue gas flame",
+      "emotion": "calm",
+      "good_for": [
+        "simmering",
+        "dinner prep",
+        "peaceful evening",
+        "comfort food"
+      ],
+      "score": 3
+    },
+    {
+      "start": 26.5,
+      "end": 30.67,
+      "action": "Stirring the pot with a spatula to reveal carrots and vegetables submerged in sauce",
+      "emotion": "satisfied",
+      "good_for": [
+        "almost ready",
+        "dinner is served",
+        "comfort food",
+        "making dinner at home"
+      ],
+      "score": 4
+    }
+  ]
+}

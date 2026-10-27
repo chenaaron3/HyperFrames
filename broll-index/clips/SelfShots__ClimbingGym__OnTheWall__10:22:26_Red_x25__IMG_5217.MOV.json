@@ -1,0 +1,95 @@
+{
+  "path": "SelfShots/ClimbingGym/OnTheWall/10:22:26_Red_x25/IMG_5217.MOV",
+  "folder": "SelfShots/ClimbingGym/OnTheWall/10:22:26_Red_x25",
+  "fingerprint": "ddfa2992a6b6a28d",
+  "width": 1080,
+  "height": 1920,
+  "fps": 30.0,
+  "duration": 34.135,
+  "model": "gemini-3.8-flash",
+  "annotatedAt": "2026-10-24T18:48:10+00:00",
+  "summary": "A young man attempts a bouldering route in an indoor climbing gym, working his way up an overhang before falling on a dynamic move.",
+  "location": "climbing gym",
+  "setting": "indoor",
+  "time_of_day": "indoor_unknown",
+  "weather": "n/a",
+  "people": {
+    "count": 1,
+    "creator_visible": true,
+    "description": "Young man with dark hair wearing a light tank top and loose denim jeans"
+  },
+  "camera": {
+    "style": "tripod_static",
+    "framing": "medium",
+    "movement": "static",
+    "angle": "eye level"
+  },
+  "quality": {
+    "usable": true,
+    "stability": "locked",
+    "exposure": "good",
+    "issues": ""
+  },
+  "mood": [
+    "focused",
+    "athletic",
+    "determined",
+    "relatable"
+  ],
+  "energy": "medium",
+  "tags": [
+    "bouldering",
+    "rock climbing",
+    "indoor climbing",
+    "climbing gym",
+    "dyno",
+    "fall",
+    "workout",
+    "fitness",
+    "chalk",
+    "overhang",
+    "holds",
+    "training"
+  ],
+  "moments": [
+    {
+      "start": 4.5,
+      "end": 11.5,
+      "action": "Man mounts the bouldering wall and steps up onto the starting footholds",
+      "emotion": "focused",
+      "good_for": [
+        "starting a new challenge",
+        "first steps",
+        "gym routine",
+        "trying something hard"
+      ],
+      "score": 4
+    },
+    {
+      "start": 13.5,
+      "end": 21.0,
+      "action": "Man balances horizontally along the steep wall, adjusting feet and grip",
+      "emotion": "determined",
+      "good_for": [
+        "finding balance",
+        "holding on",
+        "working through the hard part",
+        "trusting the process"
+      ],
+      "score": 4
+    },
+    {
+      "start": 23.5,
+      "end": 29.5,
+      "action": "Man sets his position, dynos toward the top hold, misses and falls backward onto the mat",
+      "emotion": "intense to defeat",
+      "good_for": [
+        "taking risks",
+        "almost made it",
+        "laugh at your mistakes",
+        "failure is part of growth"
+      ],
+      "score": 5
+    }
+  ]
+}

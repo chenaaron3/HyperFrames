@@ -1,0 +1,73 @@
+<!doctype html>
+<html lang="en" data-resolution="portrait">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=1080, height=1920" />
+    <script src="https://cdn.jsdelivr.net/npm/gsap@3.14.2/dist/gsap.min.js"></script>
+    <style>
+      #root { position: absolute; inset: 0; overflow: hidden; background: #141414; }
+      #cam { position: absolute; inset: 0; z-index: 1; transform-origin: 50% 40%; }
+      #base { position: absolute; inset: 0; width: 1080px; height: 1920px; object-fit: cover; }
+      .layer { position: absolute; inset: 0; }
+      #behind { z-index: 2; }
+      .cut-wrap { position: absolute; inset: 0; z-index: 3; }
+      #cutout { position: absolute; inset: 0; width: 1080px; height: 1920px; object-fit: cover; }
+      #front { z-index: 4; }
+      #paper-clip { position: absolute; left: 0; top: 0; width: 1080px; height: 883px; z-index: 5; overflow: hidden; }
+      #paper {
+        position: absolute; inset: 0;
+        background-color: #F4F3F0;
+        background-image: linear-gradient(#E4E1DB 1px, transparent 1px), linear-gradient(90deg, #E4E1DB 1px, transparent 1px);
+        background-size: 56px 56px;
+        box-shadow: 0 10px 40px rgba(0, 0, 0, 0.25);
+      }
+      #paper-ui { z-index: 6; }
+      #hud { z-index: 7; }
+      #captions { z-index: 8; }
+    </style>
+  </head>
+  <body>
+    <div id="root" data-composition-id="main" data-start="0" data-duration="17.65" data-width="1080" data-height="1920">
+      <div id="cam">
+        <video id="base" class="clip" src="assets/talking-head.mp4" data-start="0" data-media-start="14.2" data-duration="17.65" data-track-index="0" data-has-audio="true" data-fade-out="0.3" playsinline></video>
+        <div id="behind" class="layer">
+          <div id="m-title" data-composition-id="stacked-title" data-composition-src="compositions/kit/stacked-title.html" data-start="1.5" data-duration="1.75" data-track-index="2" data-track-kind="graphics" data-width="1080" data-height="1920"
+            data-variable-values='{"line1":"Claude","line2":"Code","at2":0.47,"top":250,"out":1.3}'></div>
+          <div id="m-window" data-composition-id="app-window" data-composition-src="compositions/kit/app-window.html" data-start="4.25" data-duration="1.75" data-track-index="3" data-track-kind="graphics" data-width="1080" data-height="1920"
+            data-variable-values='{"title":"DESKTOP APP","head":"Ready when you are","prompt":"Open my folder","typeAt":0.7,"top":300,"out":1.36}'></div>
+        </div>
+        <div class="cut-wrap">
+          <video id="cutout" class="clip" src="assets/depth/speaker.webm" data-start="0" data-media-start="14.2" data-duration="17.65" data-track-index="1" muted playsinline></video>
+        </div>
+      </div>
+      <div id="front" class="layer">
+        <div id="m-proof" data-composition-id="proof-label" data-composition-src="compositions/kit/proof-label.html" data-start="2.85" data-duration="1.6" data-track-index="4" data-track-kind="graphics" data-width="1080" data-height="1920"
+          data-variable-values='{"kicker":"NOT IN THE","word":"BROWSER","strikeAt":0.79,"top":1390,"out":1.28}'></div>
+      </div>
+      <div id="paper-clip" class="clip" data-start="5.55" data-duration="12.1" data-track-index="5"><div id="paper"></div></div>
+      <div id="paper-ui" class="layer">
+        <div id="m-tree" data-composition-id="folder-tree" data-composition-src="compositions/kit/folder-tree.html" data-start="6.15" data-duration="11.5" data-track-index="6" data-track-kind="graphics" data-width="1080" data-height="1920"
+          data-variable-values='{"root":"AI Video","labelAt":2.59,"branchAt":5.58,"c1":"Raw footage","c2":"References","c3":"Exports","at1":6.8,"at2":8.09,"at3":10.66,"out":12}'></div>
+      </div>
+      <div id="hud" class="layer">
+        <div id="m-badge" data-composition-id="section-badge" data-composition-src="compositions/kit/section-badge.html" data-start="0.3" data-duration="17.35" data-track-index="7" data-track-kind="graphics" data-width="1080" data-height="1920"
+          data-variable-values='{"num":"01","label":"ON THE DESKTOP","out":17}'></div>
+      </div>
+      <div id="captions" data-composition-id="demo-captions" data-composition-src="compositions/demo-captions.html" data-start="0" data-duration="17.65" data-track-index="8" data-track-kind="captions" data-width="1080" data-height="1920"></div>
+      <audio id="sfx-push" src="assets/sfx/click-soft.mp3" data-start="4.88" data-duration="0.37" data-volume="0.22" data-track-index="10"></audio>
+      <audio id="sfx-paper" src="assets/sfx/whoosh-short.mp3" data-start="5.5" data-duration="0.6" data-volume="0.2" data-track-index="10"></audio>
+      <audio id="sfx-c1" src="assets/sfx/pop.mp3" data-start="12.95" data-duration="0.4" data-volume="0.2" data-track-index="11"></audio>
+      <audio id="sfx-c2" src="assets/sfx/pop.mp3" data-start="14.24" data-duration="0.4" data-volume="0.2" data-track-index="11"></audio>
+      <audio id="sfx-c3" src="assets/sfx/pop.mp3" data-start="16.81" data-duration="0.4" data-volume="0.24" data-track-index="11"></audio>
+    </div>
+    <script>
+      const tl = gsap.timeline({ paused: true });
+      tl.fromTo("#cam", { scale: 1, y: 0 }, { scale: 1.05, y: 0, duration: 4.6, ease: "sine.inOut" }, 0.2);
+      tl.to("#cam", { scale: 1.1, duration: 0.45, ease: "power3.out" }, 4.88);
+      tl.to("#cam", { scale: 1.08, y: 150, duration: 0.6, ease: "power3.inOut" }, 5.55);
+      tl.fromTo("#paper", { yPercent: -102 }, { yPercent: 0, duration: 0.6, ease: "power3.inOut" }, 5.55);
+      tl.set({}, {}, 17.65);
+      window.__timelines["main"] = tl;
+    </script>
+  </body>
+</html>

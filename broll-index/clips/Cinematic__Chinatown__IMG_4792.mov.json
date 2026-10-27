@@ -1,0 +1,70 @@
+{
+  "path": "Cinematic/Chinatown/IMG_4792.mov",
+  "folder": "Cinematic/Chinatown",
+  "fingerprint": "08ee0b2330560c25",
+  "width": 1080,
+  "height": 1920,
+  "fps": 30.0,
+  "duration": 4.067,
+  "model": "gemini-3.8-flash",
+  "annotatedAt": "2026-10-24T18:19:36+00:00",
+  "summary": "A handheld wide shot inside an Asian grocery store in Chinatown showing produce bins, handwritten signs, and shoppers browsing the aisles.",
+  "location": "grocery store",
+  "setting": "indoor",
+  "time_of_day": "indoor_unknown",
+  "weather": "n/a",
+  "people": {
+    "count": 4,
+    "creator_visible": false,
+    "description": "A market worker in a yellow shirt sorting produce, while customers with carts and backpacks browse the grocery aisles."
+  },
+  "camera": {
+    "style": "handheld_cinematic",
+    "framing": "wide",
+    "movement": "static",
+    "angle": "eye level"
+  },
+  "quality": {
+    "usable": true,
+    "stability": "handheld",
+    "exposure": "mixed",
+    "issues": "Hazy lens with washed-out contrast"
+  },
+  "mood": [
+    "mundane",
+    "authentic",
+    "calm",
+    "nostalgic"
+  ],
+  "energy": "low",
+  "tags": [
+    "chinatown",
+    "grocery store",
+    "asian market",
+    "supermarket",
+    "produce",
+    "vegetables",
+    "errands",
+    "food shopping",
+    "cabbage",
+    "chinese market",
+    "city life",
+    "daily routine"
+  ],
+  "moments": [
+    {
+      "start": 0.0,
+      "end": 4.07,
+      "action": "A market employee organizes produce near handwritten price signs as shoppers walk through the Asian grocery aisle.",
+      "emotion": "calm",
+      "good_for": [
+        "grocery day",
+        "running weekend errands",
+        "chinatown food runs",
+        "making dinner tonight",
+        "comfort of routine"
+      ],
+      "score": 3
+    }
+  ]
+}

@@ -1,0 +1,82 @@
+{
+  "path": "SelfShots/Subway/IMG_4943.MOV",
+  "folder": "SelfShots/Subway",
+  "fingerprint": "7fbcdeee61978c8e",
+  "width": 1080,
+  "height": 1920,
+  "fps": 30.0,
+  "duration": 9.667,
+  "model": "gemini-3.8-flash",
+  "annotatedAt": "2026-10-24T19:00:45+00:00",
+  "summary": "A young man in a black coat and backpack walks toward the NYC subway entrance stairs, pauses, and turns back around past the camera.",
+  "location": "subway station",
+  "setting": "indoor",
+  "time_of_day": "indoor_unknown",
+  "weather": "n/a",
+  "people": {
+    "count": 2,
+    "creator_visible": true,
+    "description": "Young East Asian male creator wearing a long black coat, dark trousers, and a black backpack, plus a seated person visible on the lower stairs in the background."
+  },
+  "camera": {
+    "style": "tripod_static",
+    "framing": "medium",
+    "movement": "static",
+    "angle": "eye level"
+  },
+  "quality": {
+    "usable": true,
+    "stability": "locked",
+    "exposure": "good",
+    "issues": ""
+  },
+  "mood": [
+    "urban",
+    "cinematic",
+    "reflective",
+    "routine"
+  ],
+  "energy": "low",
+  "tags": [
+    "subway",
+    "mta",
+    "nyc",
+    "commute",
+    "metro",
+    "transit",
+    "walking",
+    "turning back",
+    "city life",
+    "fashion",
+    "streetwear",
+    "overcoat"
+  ],
+  "moments": [
+    {
+      "start": 2.2,
+      "end": 4.8,
+      "action": "Creator walks away from camera toward the subway entrance stairs",
+      "emotion": "purposeful, routine",
+      "good_for": [
+        "daily commute",
+        "leaving",
+        "city routine",
+        "heading out"
+      ],
+      "score": 4
+    },
+    {
+      "start": 4.8,
+      "end": 7.8,
+      "action": "Creator stops at the top of the stairs, turns around, and walks back toward the camera",
+      "emotion": "hesitant, realization, contemplative",
+      "good_for": [
+        "forgetting something",
+        "changing your mind",
+        "taking a different path",
+        "second thoughts"
+      ],
+      "score": 4
+    }
+  ]
+}

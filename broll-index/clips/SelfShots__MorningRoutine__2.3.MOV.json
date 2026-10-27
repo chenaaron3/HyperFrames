@@ -1,0 +1,96 @@
+{
+  "path": "SelfShots/MorningRoutine/2.3.MOV",
+  "folder": "SelfShots/MorningRoutine",
+  "fingerprint": "1b65802427e9ee90",
+  "width": 1080,
+  "height": 1920,
+  "fps": 30.0,
+  "duration": 17.5,
+  "model": "gemini-3.8-flash",
+  "annotatedAt": "2026-10-24T19:00:01+00:00",
+  "summary": "POV shot of someone using a spatula to flip and press golden folded tortillas cooking in a hot skillet on a stovetop.",
+  "location": "kitchen",
+  "setting": "indoor",
+  "time_of_day": "day",
+  "weather": "n/a",
+  "people": {
+    "count": 1,
+    "creator_visible": false,
+    "description": "Only the person's hand holding a spatula is visible"
+  },
+  "camera": {
+    "style": "pov_first_person",
+    "framing": "medium",
+    "movement": "handheld_cinematic",
+    "angle": "high angle"
+  },
+  "quality": {
+    "usable": true,
+    "stability": "steady",
+    "exposure": "good",
+    "issues": ""
+  },
+  "mood": [
+    "cozy",
+    "satisfying",
+    "calm",
+    "domestic"
+  ],
+  "energy": "low",
+  "tags": [
+    "cooking",
+    "breakfast",
+    "stove",
+    "pan",
+    "skillet",
+    "tortilla",
+    "crepe",
+    "spatula",
+    "flipping food",
+    "kitchen",
+    "morning routine",
+    "homemade",
+    "food prep"
+  ],
+  "moments": [
+    {
+      "start": 0.0,
+      "end": 7.5,
+      "action": "Using a spatula to lift and flip a folded wrap in the hot pan, revealing its golden-brown toasted side",
+      "emotion": "focused",
+      "good_for": [
+        "making breakfast",
+        "morning routine",
+        "homemade meals",
+        "food on my plate",
+        "slow mornings"
+      ],
+      "score": 4
+    },
+    {
+      "start": 7.5,
+      "end": 14.5,
+      "action": "Flipping over the second folded wrap and pressing both gently into the pan with the spatula",
+      "emotion": "calm",
+      "good_for": [
+        "cooking at home",
+        "nourishing meals",
+        "simple pleasures",
+        "healthy habits"
+      ],
+      "score": 4
+    },
+    {
+      "start": 14.5,
+      "end": 17.5,
+      "action": "Removing the spatula to let both golden folded wraps sizzle in the hot pan",
+      "emotion": "relaxed",
+      "good_for": [
+        "breakfast is ready",
+        "cozy kitchen vibes",
+        "savoring the morning"
+      ],
+      "score": 3
+    }
+  ]
+}

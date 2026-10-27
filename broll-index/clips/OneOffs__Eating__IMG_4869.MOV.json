@@ -1,0 +1,83 @@
+{
+  "path": "OneOffs/Eating/IMG_4869.MOV",
+  "folder": "OneOffs/Eating",
+  "fingerprint": "6b00f3497de2230a",
+  "width": 1080,
+  "height": 1920,
+  "fps": 30.0,
+  "duration": 10.8,
+  "model": "gemini-3.8-flash",
+  "annotatedAt": "2026-10-24T18:35:13+00:00",
+  "summary": "A young man stands by a waterfront railing contemplating a towering city skyline across the water on a clear afternoon.",
+  "location": "waterfront promenade",
+  "setting": "outdoor",
+  "time_of_day": "day",
+  "weather": "sunny",
+  "people": {
+    "count": 1,
+    "creator_visible": true,
+    "description": "A young man wearing a light beige jacket, dark trousers, and white sneakers leaning against a metal railing."
+  },
+  "camera": {
+    "style": "filmed_by_friend",
+    "framing": "wide",
+    "movement": "static",
+    "angle": "eye level"
+  },
+  "quality": {
+    "usable": true,
+    "stability": "steady",
+    "exposure": "good",
+    "issues": ""
+  },
+  "mood": [
+    "contemplative",
+    "peaceful",
+    "scenic",
+    "solitary",
+    "urban"
+  ],
+  "energy": "low",
+  "tags": [
+    "skyline",
+    "cityscape",
+    "waterfront",
+    "pier",
+    "skyscrapers",
+    "river",
+    "contemplation",
+    "solitude",
+    "city life",
+    "viewpoint",
+    "afternoon",
+    "calm"
+  ],
+  "moments": [
+    {
+      "start": 0.0,
+      "end": 6.0,
+      "action": "Man stands quietly leaning against the pier railing, admiring the expansive city skyline across the river",
+      "emotion": "calm and thoughtful",
+      "good_for": [
+        "city dreamer",
+        "taking a breather",
+        "big city small me",
+        "contemplating life",
+        "moments of peace"
+      ],
+      "score": 4
+    },
+    {
+      "start": 6.0,
+      "end": 10.8,
+      "action": "Man briefly brings his hand to his face while gazing out over the water toward the skyscraper skyline",
+      "emotion": "reflective",
+      "good_for": [
+        "quiet afternoons",
+        "thinking about future plans",
+        "city views"
+      ],
+      "score": 4
+    }
+  ]
+}

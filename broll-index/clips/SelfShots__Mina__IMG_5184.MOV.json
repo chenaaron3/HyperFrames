@@ -1,0 +1,95 @@
+{
+  "path": "SelfShots/Mina/IMG_5184.MOV",
+  "folder": "SelfShots/Mina",
+  "fingerprint": "dd9833fc5fe70abc",
+  "width": 1080,
+  "height": 1920,
+  "fps": 30.0,
+  "duration": 9.9,
+  "model": "gemini-3.8-flash",
+  "annotatedAt": "2026-10-24T18:56:48+00:00",
+  "summary": "A fluffy grey cat playfully swats at a black cable held out by someone next to a laptop in a kitchen setting.",
+  "location": "kitchen",
+  "setting": "indoor",
+  "time_of_day": "indoor_unknown",
+  "weather": "n/a",
+  "people": {
+    "count": 0,
+    "creator_visible": false,
+    "description": "Only a person's hand is visible teasing the cat with a cord."
+  },
+  "camera": {
+    "style": "pov_first_person",
+    "framing": "close",
+    "movement": "handheld",
+    "angle": "eye level"
+  },
+  "quality": {
+    "usable": true,
+    "stability": "handheld",
+    "exposure": "good",
+    "issues": ""
+  },
+  "mood": [
+    "playful",
+    "cute",
+    "funny",
+    "distracted",
+    "cozy"
+  ],
+  "energy": "medium",
+  "tags": [
+    "cat",
+    "tabby cat",
+    "pet",
+    "working from home",
+    "laptop",
+    "playing",
+    "paw",
+    "desk",
+    "distraction",
+    "cable",
+    "funny pet",
+    "cute cat"
+  ],
+  "moments": [
+    {
+      "start": 0.0,
+      "end": 4.0,
+      "action": "Fluffy cat sits next to an open laptop and repeatedly swats at a black cord held in front of it",
+      "emotion": "curious and playful",
+      "good_for": [
+        "working from home with pets",
+        "my coworker",
+        "can't focus",
+        "distractions while working"
+      ],
+      "score": 4
+    },
+    {
+      "start": 4.0,
+      "end": 7.0,
+      "action": "Cat pauses, looks at the wire, then quickly swipes at it with open mouth",
+      "emotion": "mischievous",
+      "good_for": [
+        "aggressive coworker",
+        "trying to finish my work",
+        "cat logic",
+        "pure chaos"
+      ],
+      "score": 4
+    },
+    {
+      "start": 7.0,
+      "end": 9.9,
+      "action": "Cat leans down to sniff and inspect the black wire gently",
+      "emotion": "calm and curious",
+      "good_for": [
+        "inspecting my work",
+        "quality control",
+        "soft pet moments"
+      ],
+      "score": 3
+    }
+  ]
+}

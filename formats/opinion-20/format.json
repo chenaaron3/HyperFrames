@@ -1,0 +1,244 @@
+{
+  "id": "opinion-20",
+  "name": "“just chatgpt it, it’s easier”",
+  "reference": "references/viral-formats/opinion-20.mp4",
+  "source": "/Users/aaron/Downloads/100 Viral Formats (Format Book)/Opinion/#20/#20.mp4",
+  "duration": 11.5,
+  "music": {
+    "from": "reference",
+    "title": "PEEKABOO x LAST CHRISTMAS (ALTÉGO MIX)"
+  },
+  "text": {
+    "y": 0.5,
+    "size": 46,
+    "weight": 700,
+    "lineHeight": 1.4,
+    "maxWidth": 900,
+    "style": "outline"
+  },
+  "lines": [
+    {
+      "id": "l1",
+      "start": 0.0,
+      "end": 2.467,
+      "ref": "“just chatgpt it, it’s easier”",
+      "y": 0.5,
+      "measuredSize": 34,
+      "style": "plain_white_shadow",
+      "guide": ""
+    },
+    {
+      "id": "l2",
+      "start": 2.467,
+      "end": 3.17,
+      "ref": "literally\neverything",
+      "y": 0.436,
+      "measuredSize": 29,
+      "style": "plain_white_shadow",
+      "guide": ""
+    },
+    {
+      "id": "l3",
+      "start": 3.17,
+      "end": 3.46,
+      "ref": "literally\neverything\nmeaningful",
+      "y": 0.448,
+      "measuredSize": 28,
+      "style": "plain_white_shadow",
+      "guide": ""
+    },
+    {
+      "id": "l4",
+      "start": 3.46,
+      "end": 3.75,
+      "ref": "literally\neverything\nmeaningful\nin",
+      "y": 0.448,
+      "measuredSize": 28,
+      "style": "plain_white_shadow",
+      "guide": ""
+    },
+    {
+      "id": "l5",
+      "start": 3.75,
+      "end": 4.0,
+      "ref": "literally\neverything\nmeaningful\nin\nlife",
+      "y": 0.524,
+      "measuredSize": 21,
+      "style": "plain_white_shadow",
+      "guide": ""
+    },
+    {
+      "id": "l6",
+      "start": 4.0,
+      "end": 4.25,
+      "ref": "literally\neverything\nmeaningful\nin\nlife\nrequires",
+      "y": 0.536,
+      "measuredSize": 22,
+      "style": "plain_white_shadow",
+      "guide": ""
+    },
+    {
+      "id": "l7",
+      "start": 4.25,
+      "end": 4.7,
+      "ref": "literally\neverything\nmeaningful\nin\nlife\nrequires\neffort",
+      "y": 0.55,
+      "measuredSize": 22,
+      "style": "plain_white_shadow",
+      "guide": ""
+    },
+    {
+      "id": "l8",
+      "start": 4.7,
+      "end": 5.33,
+      "ref": "if\nyou",
+      "y": 0.448,
+      "measuredSize": 21,
+      "style": "plain_white_shadow",
+      "guide": ""
+    },
+    {
+      "id": "l9",
+      "start": 5.33,
+      "end": 5.67,
+      "ref": "if\nyou\nnever",
+      "y": 0.462,
+      "measuredSize": 22,
+      "style": "plain_white_shadow",
+      "guide": ""
+    },
+    {
+      "id": "l10",
+      "start": 5.67,
+      "end": 6.0,
+      "ref": "if\nyou\nnever\nstruggle",
+      "y": 0.477,
+      "measuredSize": 22,
+      "style": "plain_white_shadow",
+      "guide": ""
+    },
+    {
+      "id": "l11",
+      "start": 6.0,
+      "end": 6.33,
+      "ref": "if\nyou\nnever\nstruggle\nyou",
+      "y": 0.486,
+      "measuredSize": 22,
+      "style": "plain_white_shadow",
+      "guide": ""
+    },
+    {
+      "id": "l12",
+      "start": 6.33,
+      "end": 7.033,
+      "ref": "if\nyou\nnever\nstruggle\nyou\nnever",
+      "y": 0.498,
+      "measuredSize": 22,
+      "style": "plain_white_shadow",
+      "guide": ""
+    },
+    {
+      "id": "l13",
+      "start": 7.033,
+      "end": 11.5,
+      "ref": "your willingness to take the easy\nroute is depriving you of a full life",
+      "y": 0.5,
+      "measuredSize": 30,
+      "style": "plain_white_shadow",
+      "guide": ""
+    }
+  ],
+  "shots": [
+    {
+      "id": "s1",
+      "start": 0.0,
+      "end": 2.467,
+      "brief": "standing at home looking tired or contemplative, medium shot (ref: Creator standing in kitchen at night looking exhausted and contemplative; tripod)",
+      "line": "l1"
+    },
+    {
+      "id": "s2",
+      "start": 2.467,
+      "end": 4.7,
+      "brief": "working or studying at desk with laptop and notebook (ref: Creator sitting at a desk with a laptop, writing notes in a journal; tripod)",
+      "line": "l4"
+    },
+    {
+      "id": "s3",
+      "start": 4.7,
+      "end": 7.033,
+      "brief": "climbing gym bouldering attempt (ref: Creator bouldering and struggling on a climbing wall hold; tripod)",
+      "line": "l10"
+    },
+    {
+      "id": "s4",
+      "start": 7.033,
+      "end": 7.633,
+      "brief": "walking outdoors or hiking in nature (ref: Creator walking in a lush forest and touching the side of a massive mossy tree; filmed by friend)",
+      "line": "l13"
+    },
+    {
+      "id": "s5",
+      "start": 7.633,
+      "end": 8.167,
+      "brief": "climbing gym b-roll (ref: Creator bouldering on a different angle climbing gym wall; tripod)",
+      "line": "l13"
+    },
+    {
+      "id": "s6",
+      "start": 8.167,
+      "end": 8.733,
+      "brief": "walking in a shop, museum, or indoor public space (ref: Creator browsing glass display cases inside an antique store or museum; tripod)",
+      "line": "l13"
+    },
+    {
+      "id": "s7",
+      "start": 8.733,
+      "end": 9.3,
+      "brief": "talking passionately in a chair or presentation setting (ref: Creator sitting in a classroom/office chair talking expressively with hand gestures; tripod)",
+      "line": "l13"
+    },
+    {
+      "id": "s8",
+      "start": 9.3,
+      "end": 9.867,
+      "brief": "friends running outside or hanging out outdoors (ref: Three friends running together into the ocean on a beach at sunset; filmed by friend)",
+      "line": "l13"
+    },
+    {
+      "id": "s9",
+      "start": 9.867,
+      "end": 10.4,
+      "brief": "working on a craft or task on floor with laptop (ref: Creator sitting on the floor wrapping a gift while on a video call on laptop; tripod)",
+      "line": "l13"
+    },
+    {
+      "id": "s10",
+      "start": 10.4,
+      "end": 11.0,
+      "brief": "practicing an instrument or hobby at home (ref: Creator sitting on bed playing acoustic guitar and singing; tripod)",
+      "line": "l13"
+    },
+    {
+      "id": "s11",
+      "start": 11.0,
+      "end": 11.5,
+      "brief": "working on laptop in coffee shop with headphones (ref: Creator sitting in a cafe wearing headphones and typing focused on laptop; tripod)",
+      "line": "l13"
+    }
+  ],
+  "audit": {
+    "kind": "broll_with_text",
+    "creatorSpeaks": false,
+    "audio": "music only",
+    "special": [],
+    "reusable": true,
+    "notes": "Perfect match for the creator's b-roll library. Simply assemble clips of working on a laptop, bouldering at the climbing gym, walking around NYC, and hanging out with friends, paired with the animated beat-synced text overlay.",
+    "summary": "A montage of lifestyle b-roll clips showcasing effort, climbing, studying, and creative hobbies, arguing that taking easy shortcuts like ChatGPT robs life of meaning and personal growth."
+  },
+  "caption": {
+    "ref": "",
+    "guide": ""
+  },
+  "draft": true
+}

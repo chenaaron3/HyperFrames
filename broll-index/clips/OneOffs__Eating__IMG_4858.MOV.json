@@ -1,0 +1,81 @@
+{
+  "path": "OneOffs/Eating/IMG_4858.MOV",
+  "folder": "OneOffs/Eating",
+  "fingerprint": "6f6b0d578842882d",
+  "width": 1080,
+  "height": 1920,
+  "fps": 30.0,
+  "duration": 11.5,
+  "model": "gemini-3.8-flash",
+  "annotatedAt": "2026-10-24T18:35:04+00:00",
+  "summary": "A restaurant cook wearing a black uniform and cap prepares food on a flat-top grill in a commercial kitchen.",
+  "location": "restaurant kitchen",
+  "setting": "indoor",
+  "time_of_day": "indoor_unknown",
+  "weather": "n/a",
+  "people": {
+    "count": 1,
+    "creator_visible": false,
+    "description": "Male restaurant line cook wearing a black shirt, backwards black baseball cap, and black gloves"
+  },
+  "camera": {
+    "style": "filmed_by_friend",
+    "framing": "medium",
+    "movement": "static",
+    "angle": "eye level"
+  },
+  "quality": {
+    "usable": true,
+    "stability": "steady",
+    "exposure": "good",
+    "issues": "slightly noisy lighting"
+  },
+  "mood": [
+    "focused",
+    "mundane",
+    "work"
+  ],
+  "energy": "low",
+  "tags": [
+    "kitchen",
+    "restaurant",
+    "grill",
+    "cook",
+    "cooking",
+    "food prep",
+    "flat top",
+    "line cook",
+    "working",
+    "fast food",
+    "burger joint",
+    "behind the scenes"
+  ],
+  "moments": [
+    {
+      "start": 0.0,
+      "end": 5.5,
+      "action": "Cook works behind the counter and uses a weighted grill press on meat patties on the griddle",
+      "emotion": "focused",
+      "good_for": [
+        "working late",
+        "behind the scenes",
+        "food service life",
+        "late night cravings"
+      ],
+      "score": 3
+    },
+    {
+      "start": 5.5,
+      "end": 11.5,
+      "action": "Cook manages food items on the flat top grill, adjusting ingredients with gloved hands",
+      "emotion": "focused",
+      "good_for": [
+        "restaurant hustle",
+        "making dinner",
+        "food industry reality",
+        "comfort food"
+      ],
+      "score": 3
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "path": "OneOffs/Apartments/Gramercy/144 East 22nd Street/IMG_4303.MOV",
+  "folder": "OneOffs/Apartments/Gramercy/144 East 22nd Street",
+  "fingerprint": "849370ca9f3f0300",
+  "width": 1080,
+  "height": 1920,
+  "fps": 120.0,
+  "duration": 4.978,
+  "model": "gemini-3.8-flash",
+  "annotatedAt": "2026-10-24T18:20:58+00:00",
+  "summary": "First-person POV of someone reaching out and opening a heavy black manual elevator door in an older apartment building hallway.",
+  "location": "apartment building hallway",
+  "setting": "indoor",
+  "time_of_day": "indoor_unknown",
+  "weather": "n/a",
+  "people": {
+    "count": 1,
+    "creator_visible": false,
+    "description": "Only the creator's hand and arm are visible opening the door"
+  },
+  "camera": {
+    "style": "pov_first_person",
+    "framing": "medium",
+    "movement": "handheld",
+    "angle": "eye level"
+  },
+  "quality": {
+    "usable": true,
+    "stability": "handheld",
+    "exposure": "dark",
+    "issues": "dim hallway lighting"
+  },
+  "mood": [
+    "gritty",
+    "nostalgic",
+    "mysterious",
+    "urban"
+  ],
+  "energy": "low",
+  "tags": [
+    "elevator",
+    "vintage elevator",
+    "nyc apartment",
+    "apartment building",
+    "hallway",
+    "old building",
+    "door opening",
+    "porthole window",
+    "city living",
+    "prewar building"
+  ],
+  "moments": [
+    {
+      "start": 0.5,
+      "end": 3.5,
+      "action": "A hand reaches out and turns the knob, pulling open the heavy black door of a vintage elevator",
+      "emotion": "anticipation",
+      "good_for": [
+        "prewar apartment quirks",
+        "sketchy elevators",
+        "apartment hunting in nyc",
+        "arriving home"
+      ],
+      "score": 3
+    }
+  ]
+}

@@ -1,0 +1,81 @@
+{
+  "path": "SelfShots/Subway/IMG_4950.MOV",
+  "folder": "SelfShots/Subway",
+  "fingerprint": "8a9f81ef2bf406a8",
+  "width": 1080,
+  "height": 1920,
+  "fps": 30.0,
+  "duration": 5.567,
+  "model": "gemini-3.8-flash",
+  "annotatedAt": "2026-10-24T19:00:57+00:00",
+  "summary": "Subway train doors open at a busy station platform as commuters exit the crowded train car.",
+  "location": "subway station",
+  "setting": "indoor",
+  "time_of_day": "indoor_unknown",
+  "weather": "n/a",
+  "people": {
+    "count": 8,
+    "creator_visible": false,
+    "description": "Commuters inside a crowded train car, a woman in a black jacket and glasses stepping out, and a man in a bright turquoise puffer jacket following."
+  },
+  "camera": {
+    "style": "pov_first_person",
+    "framing": "medium",
+    "movement": "static",
+    "angle": "eye level"
+  },
+  "quality": {
+    "usable": true,
+    "stability": "steady",
+    "exposure": "good",
+    "issues": ""
+  },
+  "mood": [
+    "everyday",
+    "urban",
+    "routine"
+  ],
+  "energy": "medium",
+  "tags": [
+    "subway",
+    "metro",
+    "train",
+    "transit",
+    "commute",
+    "city life",
+    "urban",
+    "crowd",
+    "passengers",
+    "doors opening",
+    "public transit",
+    "daily grind"
+  ],
+  "moments": [
+    {
+      "start": 0.0,
+      "end": 2.5,
+      "action": "Subway doors slide open revealing a packed train car full of commuters standing together",
+      "emotion": "anticipatory",
+      "good_for": [
+        "the daily commute",
+        "rush hour reality",
+        "city living",
+        "morning grind"
+      ],
+      "score": 4
+    },
+    {
+      "start": 2.5,
+      "end": 5.5,
+      "action": "Passengers step out onto the platform as the doors remain wide open",
+      "emotion": "focused",
+      "good_for": [
+        "arriving at my stop",
+        "back to reality",
+        "on my way",
+        "commuter life"
+      ],
+      "score": 4
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "path": "OneOffs/BrooklynNight/IMG_4523 3.MOV",
+  "folder": "OneOffs/BrooklynNight",
+  "fingerprint": "7961d81a1e6a5203",
+  "width": 1080,
+  "height": 1920,
+  "fps": 30.0,
+  "duration": 2.1,
+  "model": "gemini-3.8-flash",
+  "annotatedAt": "2026-10-24T18:22:46+00:00",
+  "summary": "A young man checks his outfit in a mirror selfie while shopping inside a bustling clothing store or boutique.",
+  "location": "clothing boutique",
+  "setting": "indoor",
+  "time_of_day": "indoor_unknown",
+  "weather": "n/a",
+  "people": {
+    "count": 5,
+    "creator_visible": true,
+    "description": "Young Asian man with dark hair in a dark patterned button-up jacket and black trousers holding a phone, with other shoppers in casual attire milling around in the background."
+  },
+  "camera": {
+    "style": "mirror_selfie",
+    "framing": "medium",
+    "movement": "handheld",
+    "angle": "eye level"
+  },
+  "quality": {
+    "usable": true,
+    "stability": "handheld",
+    "exposure": "good",
+    "issues": "Slight digital compression and softness"
+  },
+  "mood": [
+    "casual",
+    "stylish",
+    "chill"
+  ],
+  "energy": "low",
+  "tags": [
+    "mirror selfie",
+    "boutique",
+    "clothing store",
+    "shopping",
+    "fit check",
+    "fashion",
+    "jacket",
+    "streetwear",
+    "brooklyn",
+    "urban lifestyle",
+    "outfit check"
+  ],
+  "moments": [
+    {
+      "start": 0.0,
+      "end": 2.1,
+      "action": "Creator films himself in the store mirror, adjusting his posture and checking his jacket fit while customers walk by behind him",
+      "emotion": "cool and relaxed",
+      "good_for": [
+        "fit check",
+        "retail therapy",
+        "shopping day",
+        "new jacket",
+        "weekend errands"
+      ],
+      "score": 3
+    }
+  ]
+}

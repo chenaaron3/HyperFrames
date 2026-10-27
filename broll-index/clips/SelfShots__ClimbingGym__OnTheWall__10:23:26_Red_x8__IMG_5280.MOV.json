@@ -1,0 +1,127 @@
+{
+  "path": "SelfShots/ClimbingGym/OnTheWall/10:23:26_Red_x8/IMG_5280.MOV",
+  "folder": "SelfShots/ClimbingGym/OnTheWall/10:23:26_Red_x8",
+  "fingerprint": "0be6a105719ec3ba",
+  "width": 1080,
+  "height": 1920,
+  "fps": 30.0,
+  "duration": 70.107,
+  "model": "gemini-3.8-flash",
+  "annotatedAt": "2026-10-24T18:52:07+00:00",
+  "summary": "A young man tackles a challenging indoor bouldering wall route, methodically climbing up the overhang to reach the top hold before safely dropping down onto the crash mat.",
+  "location": "climbing gym",
+  "setting": "indoor",
+  "time_of_day": "indoor_unknown",
+  "weather": "n/a",
+  "people": {
+    "count": 2,
+    "creator_visible": true,
+    "description": "Young male climber with wavy dark hair wearing an oversized grey-blue t-shirt, baggy jeans, and climbing shoes; another person briefly visible sitting on the mat."
+  },
+  "camera": {
+    "style": "tripod_static",
+    "framing": "wide",
+    "movement": "static",
+    "angle": "low angle looking up"
+  },
+  "quality": {
+    "usable": true,
+    "stability": "locked",
+    "exposure": "good",
+    "issues": ""
+  },
+  "mood": [
+    "focused",
+    "athletic",
+    "determined",
+    "accomplished"
+  ],
+  "energy": "medium",
+  "tags": [
+    "bouldering",
+    "rock climbing",
+    "climbing gym",
+    "fitness",
+    "workout",
+    "problem solving",
+    "strength",
+    "indoor sports",
+    "overhang",
+    "training",
+    "focus"
+  ],
+  "moments": [
+    {
+      "start": 0.0,
+      "end": 8.0,
+      "action": "Climber approaches the colorful bouldering wall, inspecting the holds and preparing to start",
+      "emotion": "focused",
+      "good_for": [
+        "facing a challenge",
+        "pre-workout focus",
+        "planning your next move"
+      ],
+      "score": 3
+    },
+    {
+      "start": 9.5,
+      "end": 17.5,
+      "action": "Climber engages the starting holds low on the wall and pulls into position",
+      "emotion": "determined",
+      "good_for": [
+        "starting from the bottom",
+        "taking the first step",
+        "building physical strength"
+      ],
+      "score": 3
+    },
+    {
+      "start": 25.0,
+      "end": 33.0,
+      "action": "Climber navigates the steep overhang, carefully shifting body weight between holds",
+      "emotion": "intense focus",
+      "good_for": [
+        "trusting the process",
+        "holding on when it gets tough",
+        "athletic discipline"
+      ],
+      "score": 4
+    },
+    {
+      "start": 44.0,
+      "end": 52.0,
+      "action": "Climber reaches through the upper section, executing precise hand placements",
+      "emotion": "concentrated effort",
+      "good_for": [
+        "pushing your limits",
+        "almost there",
+        "daily dedication"
+      ],
+      "score": 4
+    },
+    {
+      "start": 53.0,
+      "end": 64.0,
+      "action": "Climber reaches and matches the final top hold, completes the problem, and drops safely to the mat",
+      "emotion": "relief and achievement",
+      "good_for": [
+        "reaching your goal",
+        "mission accomplished",
+        "the feeling when hard work pays off"
+      ],
+      "score": 5
+    },
+    {
+      "start": 64.0,
+      "end": 70.11,
+      "action": "Climber catches his breath, dusts his hands, and walks back towards the camera smiling slightly",
+      "emotion": "satisfied and exhausted",
+      "good_for": [
+        "post-workout satisfaction",
+        "that winning feeling",
+        "onto the next challenge"
+      ],
+      "score": 4
+    }
+  ]
+}

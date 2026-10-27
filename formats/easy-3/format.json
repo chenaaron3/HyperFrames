@@ -1,0 +1,148 @@
+{
+  "id": "easy-3",
+  "name": "What is your motivation?",
+  "reference": "references/viral-formats/easy-3.mp4",
+  "source": "/Users/aaron/Downloads/100 Viral Formats (Format Book)/Easy to use format/#3/#3.mp4",
+  "duration": 7.667,
+  "music": {
+    "from": "reference",
+    "title": "Original Audio"
+  },
+  "text": {
+    "y": 0.18,
+    "size": 46,
+    "weight": 700,
+    "lineHeight": 1.4,
+    "maxWidth": 900,
+    "style": "outline"
+  },
+  "lines": [
+    {
+      "id": "l1",
+      "start": 0.0,
+      "end": 3.733,
+      "ref": "What is your motivation?",
+      "y": 0.18,
+      "measuredSize": 24,
+      "style": "plain_white_shadow",
+      "guide": ""
+    },
+    {
+      "id": "l2",
+      "start": 3.733,
+      "end": 7.667,
+      "ref": "The future life I promised myself",
+      "y": 0.196,
+      "measuredSize": 41,
+      "style": "plain_white_shadow",
+      "guide": ""
+    }
+  ],
+  "shots": [
+    {
+      "id": "s1",
+      "start": 0.0,
+      "end": 3.733,
+      "brief": "working at a desk or studying intently, tripod (ref: Young woman studying intently at a library desk with an open textbook and taking notes; tripod)",
+      "line": "l1"
+    },
+    {
+      "id": "s2",
+      "start": 3.733,
+      "end": 4.067,
+      "brief": "scenic vacation or city overlook view (ref: Woman looking out over Positano coastal cliffs and yachts on a sunny day; filmed by friend)",
+      "line": "l2"
+    },
+    {
+      "id": "s3",
+      "start": 4.067,
+      "end": 4.4,
+      "brief": "walking outdoors smiling, selfie (ref: Selfie video walking down a sunny European street smiling; selfie)",
+      "line": "l2"
+    },
+    {
+      "id": "s4",
+      "start": 4.4,
+      "end": 4.667,
+      "brief": "aesthetic waterfront or picturesque street b-roll (ref: Harbor view with boats, cafe tables, and colorful seaside buildings; filmed by friend)",
+      "line": "l2"
+    },
+    {
+      "id": "s5",
+      "start": 4.667,
+      "end": 4.967,
+      "brief": "outdoor adventure or active lifestyle selfie (ref: Selfie skiing on a snowy mountain ridge under blue skies; selfie)",
+      "line": "l2"
+    },
+    {
+      "id": "s6",
+      "start": 4.967,
+      "end": 5.233,
+      "brief": "spa, luxury interior, or gym aesthetic clip (ref: Modern wooden glass sauna interior; filmed by friend)",
+      "line": "l2"
+    },
+    {
+      "id": "s7",
+      "start": 5.233,
+      "end": 5.567,
+      "brief": "driving or transit aesthetic POV (ref: Hands on steering wheel driving a luxury Audi car along mountain roads; filmed by friend)",
+      "line": "l2"
+    },
+    {
+      "id": "s8",
+      "start": 5.567,
+      "end": 5.9,
+      "brief": "aesthetic brunch or restaurant food table shot (ref: Top-down view of an aesthetic brunch table with truffle scrambled eggs and coffee; top-down)",
+      "line": "l2"
+    },
+    {
+      "id": "s9",
+      "start": 5.9,
+      "end": 6.2,
+      "brief": "drinks or cocktail bar aesthetic at night (ref: Cocktails including an espresso martini on a dark marble bar counter; tripod)",
+      "line": "l2"
+    },
+    {
+      "id": "s10",
+      "start": 6.2,
+      "end": 6.8,
+      "brief": "coffee cup latte art close-up (ref: Latte art cappuccino in a ceramic cup on a wooden cafe table; top-down)",
+      "line": "l2"
+    },
+    {
+      "id": "s11",
+      "start": 6.8,
+      "end": 7.1,
+      "brief": "golden hour walking or spinning selfie (ref: Holding hands selfie spinning in front of historic Roman ruins at golden hour; selfie)",
+      "line": "l2"
+    },
+    {
+      "id": "s12",
+      "start": 7.1,
+      "end": 7.4,
+      "brief": "golden hour walking or spinning selfie (ref: Holding hands selfie spinning in front of historic Roman ruins at golden hour; selfie)",
+      "line": "l2"
+    },
+    {
+      "id": "s13",
+      "start": 7.4,
+      "end": 7.667,
+      "brief": "rooftop city sunset panorama (ref: Rooftop panoramic view over city skyline at sunset; tripod)",
+      "line": "l2"
+    }
+  ],
+  "audit": {
+    "kind": "broll_with_text",
+    "creatorSpeaks": false,
+    "audio": "music + speech",
+    "special": [],
+    "reusable": true,
+    "notes": "Start with a clip of working focused on a laptop in a cafe or apartment, then cut rapidly through high-energy aspirational clips (Central Park golden hour, rooftop sunset, espresso martini in Brooklyn, coffee latte art, street walking selfie).",
+    "summary": "Opens on a creator studying hard in a library with the text hook 'What is your motivation?', then cuts rapidly to aspirational travel, food, and lifestyle clips on the beat drop with 'The future life I promised myself'."
+  },
+  "caption": {
+    "ref": "",
+    "guide": ""
+  },
+  "draft": true
+}

@@ -1,0 +1,114 @@
+{
+  "path": "SelfShots/MorningRoutine/1.4_CurlCreme.MOV",
+  "folder": "SelfShots/MorningRoutine",
+  "fingerprint": "a3e920b87726e6bb",
+  "width": 1080,
+  "height": 1920,
+  "fps": 29.97,
+  "duration": 57.363,
+  "model": "gemini-3.8-flash",
+  "annotatedAt": "2026-10-24T18:59:54+00:00",
+  "summary": "A young man performs his morning skincare and face-washing routine in front of a bathroom vanity mirror.",
+  "location": "bathroom",
+  "setting": "indoor",
+  "time_of_day": "day",
+  "weather": "n/a",
+  "people": {
+    "count": 1,
+    "creator_visible": true,
+    "description": "Young East Asian male with wavy dark hair, wearing a grey sleeveless tank top."
+  },
+  "camera": {
+    "style": "tripod_static",
+    "framing": "medium",
+    "movement": "static",
+    "angle": "eye level"
+  },
+  "quality": {
+    "usable": true,
+    "stability": "locked",
+    "exposure": "good",
+    "issues": ""
+  },
+  "mood": [
+    "routine",
+    "calm",
+    "focused",
+    "clean"
+  ],
+  "energy": "low",
+  "tags": [
+    "skincare",
+    "morning routine",
+    "bathroom",
+    "washing face",
+    "self care",
+    "mirror",
+    "grooming",
+    "hygiene",
+    "lifestyle",
+    "wellness"
+  ],
+  "moments": [
+    {
+      "start": 2.2,
+      "end": 6.8,
+      "action": "Man picks up a tube of face wash and squeezes it onto his hands",
+      "emotion": "focused",
+      "good_for": [
+        "morning routine",
+        "skincare time",
+        "taking care of myself"
+      ],
+      "score": 4
+    },
+    {
+      "start": 8.0,
+      "end": 12.0,
+      "action": "Man rubs cleanser between his hands in front of the mirror",
+      "emotion": "calm",
+      "good_for": [
+        "daily habits",
+        "reset routine",
+        "simple pleasures"
+      ],
+      "score": 3
+    },
+    {
+      "start": 12.0,
+      "end": 20.0,
+      "action": "Man leans over the sink to lather and massage cleanser into his face and hair",
+      "emotion": "focused",
+      "good_for": [
+        "skincare steps",
+        "washing away yesterday",
+        "morning reset"
+      ],
+      "score": 4
+    },
+    {
+      "start": 30.5,
+      "end": 37.0,
+      "action": "Man vigorously washes and rinses face and wet hair over the sink",
+      "emotion": "engaged",
+      "good_for": [
+        "waking up",
+        "refreshing start",
+        "grind never stops"
+      ],
+      "score": 3
+    },
+    {
+      "start": 42.5,
+      "end": 51.5,
+      "action": "Man looks into the mirror while rinsing his hands under running water",
+      "emotion": "thoughtful",
+      "good_for": [
+        "looking in the mirror",
+        "ready for the day",
+        "slow mornings"
+      ],
+      "score": 4
+    }
+  ]
+}

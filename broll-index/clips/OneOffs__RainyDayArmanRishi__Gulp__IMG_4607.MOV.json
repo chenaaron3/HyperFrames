@@ -1,0 +1,69 @@
+{
+  "path": "OneOffs/RainyDayArmanRishi/Gulp/IMG_4607.MOV",
+  "folder": "OneOffs/RainyDayArmanRishi/Gulp",
+  "fingerprint": "b157c1ba7c34c10f",
+  "width": 1080,
+  "height": 1920,
+  "fps": 29.97,
+  "duration": 2.3,
+  "model": "gemini-3.8-flash",
+  "annotatedAt": "2026-10-24T18:35:39+00:00",
+  "summary": "A close-up shot of a three-section appetizer tray containing pickled cabbage, seasoned glass noodles, and bok choy sitting on a green marble restaurant table.",
+  "location": "restaurant",
+  "setting": "indoor",
+  "time_of_day": "indoor_unknown",
+  "weather": "n/a",
+  "people": {
+    "count": 0,
+    "creator_visible": false,
+    "description": "No people visible in frame."
+  },
+  "camera": {
+    "style": "pov_first_person",
+    "framing": "close",
+    "movement": "static",
+    "angle": "high angle"
+  },
+  "quality": {
+    "usable": true,
+    "stability": "steady",
+    "exposure": "good",
+    "issues": ""
+  },
+  "mood": [
+    "casual",
+    "culinary",
+    "calm"
+  ],
+  "energy": "low",
+  "tags": [
+    "food",
+    "side dishes",
+    "banchan",
+    "appetizer",
+    "noodles",
+    "bok choy",
+    "pickled vegetables",
+    "restaurant",
+    "dining out",
+    "foodie",
+    "marble table",
+    "asian cuisine"
+  ],
+  "moments": [
+    {
+      "start": 0.0,
+      "end": 2.3,
+      "action": "A three-compartment black plate with assorted Asian side dishes rests on a polished dark green marble tabletop.",
+      "emotion": "calm",
+      "good_for": [
+        "food on my plate",
+        "dinner date",
+        "trying new restaurants",
+        "eating good food",
+        "simple pleasures"
+      ],
+      "score": 3
+    }
+  ]
+}

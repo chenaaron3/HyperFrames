@@ -1,0 +1,84 @@
+{
+  "path": "Cinematic/CentralPark/IMG_5270.MOV",
+  "folder": "Cinematic/CentralPark",
+  "fingerprint": "9f7f0a2f453c96a8",
+  "width": 1080,
+  "height": 1920,
+  "fps": 30.0,
+  "duration": 9.867,
+  "model": "gemini-3.8-flash",
+  "annotatedAt": "2026-10-24T18:19:02+00:00",
+  "summary": "A peaceful static shot overlooking the Conservatory Water pond in Central Park on a clear sunny day, with trees, remote-controlled sailboats, and Manhattan skyscrapers in the background.",
+  "location": "park",
+  "setting": "outdoor",
+  "time_of_day": "day",
+  "weather": "sunny",
+  "people": {
+    "count": 10,
+    "creator_visible": false,
+    "description": "Distant park visitors sitting on benches along the edge of the pond across the water"
+  },
+  "camera": {
+    "style": "tripod_static",
+    "framing": "wide",
+    "movement": "static",
+    "angle": "low angle looking up"
+  },
+  "quality": {
+    "usable": true,
+    "stability": "locked",
+    "exposure": "good",
+    "issues": ""
+  },
+  "mood": [
+    "peaceful",
+    "calm",
+    "serene",
+    "reflective"
+  ],
+  "energy": "low",
+  "tags": [
+    "central park",
+    "new york city",
+    "nyc",
+    "conservatory water",
+    "pond",
+    "nature",
+    "city skyline",
+    "skyscrapers",
+    "sunny day",
+    "autumn",
+    "calm",
+    "scenic",
+    "peaceful",
+    "travel"
+  ],
+  "moments": [
+    {
+      "start": 0.0,
+      "end": 5.0,
+      "action": "A static wide view of Central Park's model boat pond under a bright blue sky, with a slight lens flare and leaves hanging above",
+      "emotion": "peaceful",
+      "good_for": [
+        "peace of mind",
+        "sunday mornings in nyc",
+        "finding quiet in the city",
+        "taking a breather"
+      ],
+      "score": 4
+    },
+    {
+      "start": 5.0,
+      "end": 9.87,
+      "action": "A leaf falls gently from above while tiny model boats drift on the sunlit pond against the Manhattan skyline",
+      "emotion": "serene",
+      "good_for": [
+        "fall in new york",
+        "gratitude for sunny days",
+        "romanticizing your life",
+        "slow living"
+      ],
+      "score": 4
+    }
+  ]
+}

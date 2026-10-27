@@ -1,0 +1,103 @@
+{
+  "path": "OneOffs/Cooking/IMG_4818.MOV",
+  "folder": "OneOffs/Cooking",
+  "fingerprint": "4f5374d26bac6c12",
+  "width": 1080,
+  "height": 1920,
+  "fps": 30.0,
+  "duration": 55.472,
+  "model": "gemini-3.8-flash",
+  "annotatedAt": "2026-10-24T18:25:18+00:00",
+  "summary": "A pot of yellow curry simmers on a gas stove as diced raw chicken is added and stirred into the vegetables and broth.",
+  "location": "kitchen",
+  "setting": "indoor",
+  "time_of_day": "indoor_unknown",
+  "weather": "n/a",
+  "people": {
+    "count": 0,
+    "creator_visible": false,
+    "description": "Only hands are visible sliding chicken into the pot and stirring with a spatula."
+  },
+  "camera": {
+    "style": "pov_first_person",
+    "framing": "close",
+    "movement": "handheld",
+    "angle": "high angle"
+  },
+  "quality": {
+    "usable": true,
+    "stability": "steady",
+    "exposure": "good",
+    "issues": ""
+  },
+  "mood": [
+    "cozy",
+    "calm",
+    "domestic",
+    "satisfying"
+  ],
+  "energy": "low",
+  "tags": [
+    "cooking",
+    "curry",
+    "chicken curry",
+    "stovetop",
+    "pot",
+    "simmering",
+    "home cooked meal",
+    "dinner",
+    "food prep",
+    "kitchen",
+    "stirring"
+  ],
+  "moments": [
+    {
+      "start": 0.0,
+      "end": 8.0,
+      "action": "Yellow curry broth bubbling gently in a small pot over a gas burner flame",
+      "emotion": "calm",
+      "good_for": [
+        "home cooked meals",
+        "comfort food",
+        "dinner time"
+      ],
+      "score": 4
+    },
+    {
+      "start": 11.0,
+      "end": 19.5,
+      "action": "Hand sliding fresh diced raw chicken pieces off a wooden board into the simmering curry",
+      "emotion": "focused",
+      "good_for": [
+        "cooking from scratch",
+        "nourishing meal",
+        "dinner prep"
+      ],
+      "score": 4
+    },
+    {
+      "start": 41.0,
+      "end": 48.0,
+      "action": "Stirring the chicken, carrots, and vegetables into the bubbling curry broth using a grey spatula",
+      "emotion": "satisfying",
+      "good_for": [
+        "food on my plate",
+        "cooking therapy",
+        "weeknight dinner"
+      ],
+      "score": 4
+    },
+    {
+      "start": 48.0,
+      "end": 55.4,
+      "action": "Continuing to gently fold and stir the thick curry stew on the stove",
+      "emotion": "content",
+      "good_for": [
+        "warm comfort food",
+        "homemade dinner",
+        "evening routine"
+      ],
+      "score": 4
+    }
+  ]
+}

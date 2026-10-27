@@ -1,0 +1,68 @@
+{
+  "path": "OneOffs/Apartments/FIDI/90W/IMG_4086.MOV",
+  "folder": "OneOffs/Apartments/FIDI/90W",
+  "fingerprint": "cc212ef9c2772e02",
+  "width": 1080,
+  "height": 1920,
+  "fps": 30.0,
+  "duration": 1.8,
+  "model": "gemini-3.8-flash",
+  "annotatedAt": "2026-10-24T18:20:43+00:00",
+  "summary": "A modern pool table with chrome legs sits in an empty luxury residential lounge with floor-to-ceiling windows.",
+  "location": "apartment lounge",
+  "setting": "indoor",
+  "time_of_day": "day",
+  "weather": "sunny",
+  "people": {
+    "count": 0,
+    "creator_visible": false,
+    "description": "None"
+  },
+  "camera": {
+    "style": "handheld_cinematic",
+    "framing": "wide",
+    "movement": "static",
+    "angle": "eye level"
+  },
+  "quality": {
+    "usable": true,
+    "stability": "steady",
+    "exposure": "good",
+    "issues": ""
+  },
+  "mood": [
+    "quiet",
+    "luxurious",
+    "modern",
+    "calm"
+  ],
+  "energy": "low",
+  "tags": [
+    "pool table",
+    "billiards",
+    "game room",
+    "apartment lounge",
+    "amenities",
+    "luxury apartment",
+    "fidi",
+    "interior design",
+    "high ceilings",
+    "empty room"
+  ],
+  "moments": [
+    {
+      "start": 0.0,
+      "end": 1.8,
+      "action": "Static shot of an empty luxury residential pool room with a modern billiard table set with balls and cue sticks.",
+      "emotion": "calm",
+      "good_for": [
+        "building amenities",
+        "apartment hunting",
+        "luxury living",
+        "game night vibes",
+        "quiet spaces"
+      ],
+      "score": 3
+    }
+  ]
+}

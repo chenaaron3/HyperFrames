@@ -1,0 +1,91 @@
+{
+  "path": "OneOffs/Eating/IMG_4898.MOV",
+  "folder": "OneOffs/Eating",
+  "fingerprint": "935d1dac8587f099",
+  "width": 1080,
+  "height": 1920,
+  "fps": 30.0,
+  "duration": 14.568,
+  "model": "gemini-3.8-flash",
+  "annotatedAt": "2026-10-24T18:35:32+00:00",
+  "summary": "A young man sits at a lively wooden bar counter enjoying a red cocktail through a straw before looking up and smiling at the camera.",
+  "location": "restaurant",
+  "setting": "indoor",
+  "time_of_day": "night",
+  "weather": "n/a",
+  "people": {
+    "count": 4,
+    "creator_visible": true,
+    "description": "A young East Asian man wearing a dark jacket over a collared shirt, drinking a red cocktail at a wooden bar, with other patrons sitting nearby in the background."
+  },
+  "camera": {
+    "style": "filmed_by_friend",
+    "framing": "medium",
+    "movement": "static",
+    "angle": "eye level"
+  },
+  "quality": {
+    "usable": true,
+    "stability": "steady",
+    "exposure": "good",
+    "issues": "Hand covers lens at the very end"
+  },
+  "mood": [
+    "playful",
+    "chill",
+    "social"
+  ],
+  "energy": "medium",
+  "tags": [
+    "cocktail",
+    "bar",
+    "drinking",
+    "night out",
+    "restaurant",
+    "straw",
+    "friends",
+    "happy hour",
+    "drinks",
+    "nightlife",
+    "wooden bar",
+    "smiling"
+  ],
+  "moments": [
+    {
+      "start": 0.0,
+      "end": 6.0,
+      "action": "Man bent over the bar intently sipping a red cocktail through a black straw",
+      "emotion": "focused",
+      "good_for": [
+        "drinks with friends",
+        "first sip of the weekend",
+        "trying the special cocktail"
+      ],
+      "score": 3
+    },
+    {
+      "start": 6.0,
+      "end": 11.0,
+      "action": "Man pauses sipping, chuckles to himself, and continues drinking with a smile",
+      "emotion": "amused",
+      "good_for": [
+        "when the drink hits",
+        "friday night drinks",
+        "can't stop sipping"
+      ],
+      "score": 4
+    },
+    {
+      "start": 11.0,
+      "end": 13.2,
+      "action": "Man sets drink down and turns directly toward the camera with a playful smile",
+      "emotion": "playful",
+      "good_for": [
+        "night out with the bestie",
+        "caught in 4k",
+        "POV your friend at happy hour"
+      ],
+      "score": 4
+    }
+  ]
+}

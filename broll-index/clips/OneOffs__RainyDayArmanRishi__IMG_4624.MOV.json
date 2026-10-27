@@ -1,0 +1,70 @@
+{
+  "path": "OneOffs/RainyDayArmanRishi/IMG_4624.MOV",
+  "folder": "OneOffs/RainyDayArmanRishi",
+  "fingerprint": "fec42aef8b21e3ee",
+  "width": 1080,
+  "height": 1920,
+  "fps": 30.0,
+  "duration": 3.865,
+  "model": "gemini-3.8-flash",
+  "annotatedAt": "2026-10-24T18:36:06+00:00",
+  "summary": "Two young men walk side by side down a rainy city sidewalk under umbrellas, filmed from behind as they head towards Hudson Yards.",
+  "location": "city street",
+  "setting": "outdoor",
+  "time_of_day": "day",
+  "weather": "rain",
+  "people": {
+    "count": 4,
+    "creator_visible": true,
+    "description": "Two male friends walking away from camera holding umbrellas, wearing dark jackets and light-colored pants, with pedestrians walking in the background."
+  },
+  "camera": {
+    "style": "filmed_by_friend",
+    "framing": "medium",
+    "movement": "walking",
+    "angle": "eye level"
+  },
+  "quality": {
+    "usable": true,
+    "stability": "handheld",
+    "exposure": "good",
+    "issues": ""
+  },
+  "mood": [
+    "moody",
+    "atmospheric",
+    "calm",
+    "urban"
+  ],
+  "energy": "low",
+  "tags": [
+    "rain",
+    "rainy day",
+    "umbrella",
+    "walking",
+    "city life",
+    "new york city",
+    "sidewalk",
+    "friends",
+    "overcast",
+    "commute",
+    "moody weather",
+    "street style"
+  ],
+  "moments": [
+    {
+      "start": 0.0,
+      "end": 3.87,
+      "action": "Camera tracks behind two friends walking together down a wet sidewalk holding umbrellas on a rainy city day",
+      "emotion": "relaxed",
+      "good_for": [
+        "rainy days in the city",
+        "friends who show up",
+        "walking through the storm",
+        "city routine",
+        "moody vlog intro"
+      ],
+      "score": 4
+    }
+  ]
+}

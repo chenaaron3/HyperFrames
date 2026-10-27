@@ -1,0 +1,91 @@
+{
+  "path": "OneOffs/Apartments/MurrayHills/150 East 39th Street/IMG_4202.MOV",
+  "folder": "OneOffs/Apartments/MurrayHills/150 East 39th Street",
+  "fingerprint": "4c029f2330c9831a",
+  "width": 1080,
+  "height": 1920,
+  "fps": 30.0,
+  "duration": 41.503,
+  "model": "gemini-3.8-flash",
+  "annotatedAt": "2026-10-24T18:21:31+00:00",
+  "summary": "First-person POV tour of a studio apartment in Murray Hill, checking out the bathroom, kitchen, closets, and living area with city views.",
+  "location": "studio apartment",
+  "setting": "indoor",
+  "time_of_day": "day",
+  "weather": "sunny",
+  "people": {
+    "count": 2,
+    "creator_visible": true,
+    "description": "Young East Asian creator holding the camera phone, visible in bathroom mirror reflections, accompanied by a female real estate agent or friend in a black leather jacket."
+  },
+  "camera": {
+    "style": "pov_first_person",
+    "framing": "wide",
+    "movement": "walking",
+    "angle": "eye level"
+  },
+  "quality": {
+    "usable": true,
+    "stability": "handheld",
+    "exposure": "mixed",
+    "issues": "Frequent rapid panning, motion blur, and quick exposure shifts when transitioning between rooms."
+  },
+  "mood": [
+    "curious",
+    "casual",
+    "exploratory"
+  ],
+  "energy": "medium",
+  "tags": [
+    "apartment tour",
+    "apartment hunting",
+    "nyc apartment",
+    "studio apartment",
+    "real estate",
+    "murray hill",
+    "pov",
+    "first apartment",
+    "moving to nyc",
+    "city life"
+  ],
+  "moments": [
+    {
+      "start": 0.0,
+      "end": 3.0,
+      "action": "Opening apartment door number 1106 and walking into the entryway, catching a quick glimpse of the layout and bathroom",
+      "emotion": "anticipation",
+      "good_for": [
+        "apartment hunting in nyc",
+        "touring new places",
+        "first look at the apartment",
+        "moving day"
+      ],
+      "score": 3
+    },
+    {
+      "start": 9.5,
+      "end": 12.5,
+      "action": "Walking past the bathroom sink and looking into the mirror, revealing the creator filming in a black coat",
+      "emotion": "casual inspection",
+      "good_for": [
+        "mirror check during apartment tour",
+        "searching for a place",
+        "pov apartment viewings"
+      ],
+      "score": 3
+    },
+    {
+      "start": 35.0,
+      "end": 41.5,
+      "action": "Panning across the bright studio living space toward the large windows looking out at Manhattan brick buildings",
+      "emotion": "impressed",
+      "good_for": [
+        "the natural light",
+        "city views",
+        "finding the right place",
+        "nyc living"
+      ],
+      "score": 4
+    }
+  ]
+}

@@ -1,0 +1,95 @@
+{
+  "path": "SelfShots/Subway/IMG_5194.MOV",
+  "folder": "SelfShots/Subway",
+  "fingerprint": "daf7ca3c942079af",
+  "width": 1080,
+  "height": 1920,
+  "fps": 30.0,
+  "duration": 21.468,
+  "model": "gemini-3.8-flash",
+  "annotatedAt": "2026-10-24T19:01:22+00:00",
+  "summary": "A young man holds the camera in selfie mode as he walks through a subway station, goes through the turnstiles, and descends a staircase.",
+  "location": "subway station",
+  "setting": "indoor",
+  "time_of_day": "indoor_unknown",
+  "weather": "n/a",
+  "people": {
+    "count": 5,
+    "creator_visible": true,
+    "description": "Young Asian man with shaggy dark hair, wearing a brown open collared shirt over a grey tank top, carrying a backpack and holding a black jacket, wearing AirPods"
+  },
+  "camera": {
+    "style": "selfie",
+    "framing": "medium",
+    "movement": "walking",
+    "angle": "eye level"
+  },
+  "quality": {
+    "usable": true,
+    "stability": "handheld",
+    "exposure": "good",
+    "issues": "Brief motion blur and ground-facing frames at the very start and end"
+  },
+  "mood": [
+    "casual",
+    "urban",
+    "routine",
+    "contemplative"
+  ],
+  "energy": "medium",
+  "tags": [
+    "subway",
+    "metro",
+    "transit",
+    "commute",
+    "city life",
+    "walking",
+    "turnstile",
+    "stairs",
+    "commuter",
+    "airpods",
+    "daily routine",
+    "travel"
+  ],
+  "moments": [
+    {
+      "start": 1.5,
+      "end": 4.5,
+      "action": "Creator walks forward in selfie mode, glancing around as he enters the turnstile gate area",
+      "emotion": "relaxed, observant",
+      "good_for": [
+        "city commute",
+        "on my way",
+        "daily routine",
+        "subway diaries"
+      ],
+      "score": 3
+    },
+    {
+      "start": 5.0,
+      "end": 12.0,
+      "action": "Creator walks along the subway concourse past vending machines and posters, glancing up and around",
+      "emotion": "casual, wandering, thoughtful",
+      "good_for": [
+        "commute thoughts",
+        "headed into the city",
+        "solo travel",
+        "lost in my own world"
+      ],
+      "score": 4
+    },
+    {
+      "start": 15.0,
+      "end": 19.5,
+      "action": "Creator descends the subway stairs with other commuters passing by in the background",
+      "emotion": "focused, calm",
+      "good_for": [
+        "catching the train",
+        "city transit",
+        "commuter lifestyle",
+        "running late"
+      ],
+      "score": 4
+    }
+  ]
+}

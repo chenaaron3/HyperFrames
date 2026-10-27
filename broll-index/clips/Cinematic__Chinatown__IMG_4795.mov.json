@@ -1,0 +1,69 @@
+{
+  "path": "Cinematic/Chinatown/IMG_4795.mov",
+  "folder": "Cinematic/Chinatown",
+  "fingerprint": "8ee56b268db67002",
+  "width": 1080,
+  "height": 1920,
+  "fps": 30.0,
+  "duration": 5.534,
+  "model": "gemini-3.8-flash",
+  "annotatedAt": "2026-10-24T18:19:36+00:00",
+  "summary": "A fishmonger in Chinatown tends to trays of fresh fish on ice outside a bustling open-air street stall.",
+  "location": "fish market",
+  "setting": "mixed",
+  "time_of_day": "day",
+  "weather": "overcast",
+  "people": {
+    "count": 4,
+    "creator_visible": false,
+    "description": "A worker in a cap, blue shirt, plastic apron, and yellow rubber gloves arranging fish, with other vendors and shoppers visible in the shop background."
+  },
+  "camera": {
+    "style": "handheld_cinematic",
+    "framing": "medium",
+    "movement": "static",
+    "angle": "eye level"
+  },
+  "quality": {
+    "usable": true,
+    "stability": "steady",
+    "exposure": "good",
+    "issues": ""
+  },
+  "mood": [
+    "authentic",
+    "observational",
+    "urban",
+    "industrious"
+  ],
+  "energy": "medium",
+  "tags": [
+    "chinatown",
+    "fish market",
+    "seafood",
+    "street market",
+    "fishmonger",
+    "hard work",
+    "urban life",
+    "city b roll",
+    "daily hustle",
+    "local business",
+    "travel"
+  ],
+  "moments": [
+    {
+      "start": 0.0,
+      "end": 5.5,
+      "action": "A fish market worker wearing gloves and a protective apron carefully arranges fresh fish on ice outside a Chinatown storefront.",
+      "emotion": "focused",
+      "good_for": [
+        "exploring chinatown",
+        "the daily grind",
+        "city atmospheres",
+        "hard work ethic",
+        "street culture"
+      ],
+      "score": 4
+    }
+  ]
+}

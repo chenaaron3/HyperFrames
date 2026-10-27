@@ -1,0 +1,70 @@
+{
+  "path": "Cinematic/Chinatown/IMG_4777.mov",
+  "folder": "Cinematic/Chinatown",
+  "fingerprint": "c4389798c75d70a5",
+  "width": 1080,
+  "height": 1920,
+  "fps": 30.0,
+  "duration": 2.233,
+  "model": "gemini-3.8-flash",
+  "annotatedAt": "2026-10-24T18:19:18+00:00",
+  "summary": "Inside a small Chinatown shop with packed shelves and an employee working in the background.",
+  "location": "convenience store",
+  "setting": "indoor",
+  "time_of_day": "indoor_unknown",
+  "weather": "n/a",
+  "people": {
+    "count": 1,
+    "creator_visible": false,
+    "description": "An older man in a light collared shirt and dark trousers stocking shelves in the background"
+  },
+  "camera": {
+    "style": "pov_first_person",
+    "framing": "wide",
+    "movement": "static",
+    "angle": "eye level"
+  },
+  "quality": {
+    "usable": true,
+    "stability": "steady",
+    "exposure": "good",
+    "issues": ""
+  },
+  "mood": [
+    "authentic",
+    "nostalgic",
+    "quiet",
+    "everyday"
+  ],
+  "energy": "low",
+  "tags": [
+    "chinatown",
+    "grocery",
+    "corner store",
+    "asian market",
+    "shelves",
+    "stocking",
+    "shopkeeper",
+    "local business",
+    "neighborhood",
+    "shopping",
+    "authentic",
+    "b-roll"
+  ],
+  "moments": [
+    {
+      "start": 0.0,
+      "end": 2.23,
+      "action": "A quiet shot of the cluttered aisles and shelves of a Chinatown shop while an employee works in the aisle",
+      "emotion": "calm",
+      "good_for": [
+        "exploring the neighborhood",
+        "supporting local businesses",
+        "corner store runs",
+        "city hidden gems",
+        "ordinary everyday moments"
+      ],
+      "score": 3
+    }
+  ]
+}

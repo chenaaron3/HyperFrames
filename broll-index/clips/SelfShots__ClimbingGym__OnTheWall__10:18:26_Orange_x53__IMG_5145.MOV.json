@@ -1,0 +1,107 @@
+{
+  "path": "SelfShots/ClimbingGym/OnTheWall/10:18:26_Orange_x53/IMG_5145.MOV",
+  "folder": "SelfShots/ClimbingGym/OnTheWall/10:18:26_Orange_x53",
+  "fingerprint": "821f8fd7894897ea",
+  "width": 1080,
+  "height": 1920,
+  "fps": 30.0,
+  "duration": 44.17,
+  "model": "gemini-3.8-flash",
+  "annotatedAt": "2026-10-24T18:46:02+00:00",
+  "summary": "A young man climbs a challenging boulder route on an indoor climbing wall before slipping near the top and landing on the mat.",
+  "location": "gym",
+  "setting": "indoor",
+  "time_of_day": "indoor_unknown",
+  "weather": "n/a",
+  "people": {
+    "count": 1,
+    "creator_visible": true,
+    "description": "Young East Asian man with dark wavy hair, wearing a light grey tank top, loose jeans, and climbing shoes"
+  },
+  "camera": {
+    "style": "tripod_static",
+    "framing": "wide",
+    "movement": "static",
+    "angle": "low angle looking up"
+  },
+  "quality": {
+    "usable": true,
+    "stability": "locked",
+    "exposure": "good",
+    "issues": ""
+  },
+  "mood": [
+    "determined",
+    "athletic",
+    "focused",
+    "resilient"
+  ],
+  "energy": "medium",
+  "tags": [
+    "bouldering",
+    "rock climbing",
+    "climbing gym",
+    "workout",
+    "fitness",
+    "grip strength",
+    "overhang",
+    "fall",
+    "athletic",
+    "indoor sport",
+    "training"
+  ],
+  "moments": [
+    {
+      "start": 10.5,
+      "end": 17.5,
+      "action": "Climber starts the boulder problem, grabbing holds and stepping up onto the angled wall",
+      "emotion": "focused and concentrated",
+      "good_for": [
+        "starting a new challenge",
+        "trusting the process",
+        "fitness motivation",
+        "getting to work"
+      ],
+      "score": 4
+    },
+    {
+      "start": 21.0,
+      "end": 28.0,
+      "action": "Climber carefully positions body and feet across large wall volumes and slopers",
+      "emotion": "intense concentration and balance",
+      "good_for": [
+        "finding balance",
+        "calculated risks",
+        "stepping outside comfort zone",
+        "strength training"
+      ],
+      "score": 4
+    },
+    {
+      "start": 31.0,
+      "end": 38.5,
+      "action": "Climber pushes toward the top hold, loses grip, and falls down onto the crash pad",
+      "emotion": "effort followed by sudden slip",
+      "good_for": [
+        "almost made it",
+        "learning from failure",
+        "trying your hardest",
+        "falling flat"
+      ],
+      "score": 5
+    },
+    {
+      "start": 38.5,
+      "end": 42.0,
+      "action": "Climber stands up from the crash mat and walks toward the camera with a calm, stoic expression",
+      "emotion": "unfazed, ready to try again",
+      "good_for": [
+        "brushing it off",
+        "getting back up",
+        "trying again tomorrow",
+        "relatable gym fails"
+      ],
+      "score": 4
+    }
+  ]
+}

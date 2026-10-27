@@ -1,0 +1,83 @@
+{
+  "path": "OneOffs/Cooking/IMG_4826.MOV",
+  "folder": "OneOffs/Cooking",
+  "fingerprint": "c9e81db523ec423a",
+  "width": 1080,
+  "height": 1920,
+  "fps": 30.0,
+  "duration": 11.767,
+  "model": "gemini-3.8-flash",
+  "annotatedAt": "2026-10-24T18:29:57+00:00",
+  "summary": "A young man in a blue button-down shirt tastes a spoonful of broth while cooking in his kitchen and assesses the flavor.",
+  "location": "kitchen",
+  "setting": "indoor",
+  "time_of_day": "indoor_unknown",
+  "weather": "n/a",
+  "people": {
+    "count": 1,
+    "creator_visible": true,
+    "description": "Young East Asian man with fluffy wavy dark hair, wearing a light blue short-sleeved button-up shirt, silver chain necklace, and earring."
+  },
+  "camera": {
+    "style": "tripod_static",
+    "framing": "close",
+    "movement": "static",
+    "angle": "eye level"
+  },
+  "quality": {
+    "usable": true,
+    "stability": "locked",
+    "exposure": "good",
+    "issues": ""
+  },
+  "mood": [
+    "casual",
+    "focused",
+    "relatable",
+    "curious"
+  ],
+  "energy": "low",
+  "tags": [
+    "cooking",
+    "tasting",
+    "soup",
+    "kitchen",
+    "spoon",
+    "home cooking",
+    "recipe",
+    "food test",
+    "culinary",
+    "indoor",
+    "young adult",
+    "asian creator",
+    "lifestyle"
+  ],
+  "moments": [
+    {
+      "start": 4.5,
+      "end": 8.0,
+      "action": "Man raises a metal spoon of broth to his mouth, blows gently, and sips it to taste",
+      "emotion": "focused and anticipatory",
+      "good_for": [
+        "taste testing",
+        "cooking dinner",
+        "making my own food",
+        "recipe testing"
+      ],
+      "score": 4
+    },
+    {
+      "start": 8.0,
+      "end": 11.77,
+      "action": "Man swallows the broth, looks thoughtful to the side while savoring the flavor, then looks back at the camera",
+      "emotion": "thoughtful, analytical",
+      "good_for": [
+        "needs more salt",
+        "evaluating my life choices",
+        "home chef moments",
+        "tasting notes"
+      ],
+      "score": 3
+    }
+  ]
+}

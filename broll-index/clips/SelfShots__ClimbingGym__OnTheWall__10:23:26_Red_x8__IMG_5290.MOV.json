@@ -1,0 +1,116 @@
+{
+  "path": "SelfShots/ClimbingGym/OnTheWall/10:23:26_Red_x8/IMG_5290.MOV",
+  "folder": "SelfShots/ClimbingGym/OnTheWall/10:23:26_Red_x8",
+  "fingerprint": "80f3815cf3dc2565",
+  "width": 1080,
+  "height": 1920,
+  "fps": 30.0,
+  "duration": 63.072,
+  "model": "gemini-3.8-flash",
+  "annotatedAt": "2026-10-24T18:53:02+00:00",
+  "summary": "A young man climbs a challenging route on an indoor bouldering wall before jumping down onto the gym mat.",
+  "location": "climbing gym",
+  "setting": "indoor",
+  "time_of_day": "indoor_unknown",
+  "weather": "n/a",
+  "people": {
+    "count": 1,
+    "creator_visible": true,
+    "description": "Young Asian man with dark hair wearing a grey oversized t-shirt, baggy grey pants, and climbing shoes."
+  },
+  "camera": {
+    "style": "tripod_static",
+    "framing": "wide",
+    "movement": "static",
+    "angle": "low angle looking up"
+  },
+  "quality": {
+    "usable": true,
+    "stability": "locked",
+    "exposure": "good",
+    "issues": ""
+  },
+  "mood": [
+    "focused",
+    "athletic",
+    "challenging",
+    "active"
+  ],
+  "energy": "medium",
+  "tags": [
+    "bouldering",
+    "climbing gym",
+    "rock climbing",
+    "indoor climbing",
+    "climbing wall",
+    "training",
+    "fitness",
+    "sports",
+    "problem solving",
+    "athletic",
+    "grip strength",
+    "focus"
+  ],
+  "moments": [
+    {
+      "start": 5.0,
+      "end": 13.5,
+      "action": "Climber starts off the wall, placing feet on a blue volume and dyno-leaning across to holds on the left",
+      "emotion": "focused",
+      "good_for": [
+        "taking the first leap",
+        "starting a new challenge",
+        "trust the process"
+      ],
+      "score": 4
+    },
+    {
+      "start": 13.5,
+      "end": 26.0,
+      "action": "Climber shifts weight onto large blue holds, adjusting his hips close to the wall",
+      "emotion": "determined",
+      "good_for": [
+        "finding your footing",
+        "staying focused under pressure",
+        "workout routine"
+      ],
+      "score": 4
+    },
+    {
+      "start": 26.0,
+      "end": 39.0,
+      "action": "Climber slowly extends his body, reaching up high to secure a right hand hold and stepping up",
+      "emotion": "intense concentration",
+      "good_for": [
+        "reaching higher",
+        "one step at a time",
+        "slow and steady progress"
+      ],
+      "score": 4
+    },
+    {
+      "start": 39.0,
+      "end": 52.0,
+      "action": "Climber reaches the crux near the top section, making calculated, controlled hand moves",
+      "emotion": "perseverance",
+      "good_for": [
+        "almost at the finish line",
+        "pushing through the hard part",
+        "gym motivation"
+      ],
+      "score": 5
+    },
+    {
+      "start": 52.0,
+      "end": 60.0,
+      "action": "Climber finishes his sequence and drops down onto the safety mat",
+      "emotion": "relief",
+      "good_for": [
+        "mission accomplished",
+        "giving it your all",
+        "post-workout feeling"
+      ],
+      "score": 4
+    }
+  ]
+}

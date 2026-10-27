@@ -1,0 +1,81 @@
+{
+  "path": "OneOffs/RainyDayArmanRishi/IMG_4655.MOV",
+  "folder": "OneOffs/RainyDayArmanRishi",
+  "fingerprint": "12a5d413edec37a1",
+  "width": 1080,
+  "height": 1920,
+  "fps": 30.0,
+  "duration": 6.567,
+  "model": "gemini-3.8-flash",
+  "annotatedAt": "2026-10-24T18:37:10+00:00",
+  "summary": "A first-person view of someone flipping through an elegant leather-bound tea menu at a wooden table in a cafe.",
+  "location": "tea house",
+  "setting": "indoor",
+  "time_of_day": "indoor_unknown",
+  "weather": "n/a",
+  "people": {
+    "count": 1,
+    "creator_visible": false,
+    "description": "Only the hands of a person wearing rings are visible as they flip through a booklet"
+  },
+  "camera": {
+    "style": "pov_first_person",
+    "framing": "close",
+    "movement": "static",
+    "angle": "high angle"
+  },
+  "quality": {
+    "usable": true,
+    "stability": "steady",
+    "exposure": "good",
+    "issues": ""
+  },
+  "mood": [
+    "calm",
+    "aesthetic",
+    "relaxed",
+    "cozy"
+  ],
+  "energy": "low",
+  "tags": [
+    "tea",
+    "menu",
+    "tea house",
+    "cafe",
+    "leather notebook",
+    "reading",
+    "choosing tea",
+    "hands",
+    "pov",
+    "wooden table",
+    "cozy aesthetic"
+  ],
+  "moments": [
+    {
+      "start": 0.0,
+      "end": 3.6,
+      "action": "Hands hold open a page of the tea menu, examining tea profiles",
+      "emotion": "focused",
+      "good_for": [
+        "taking time for yourself",
+        "slow rainy afternoons",
+        "ordering tea",
+        "romanticizing simple moments"
+      ],
+      "score": 4
+    },
+    {
+      "start": 3.6,
+      "end": 6.57,
+      "action": "Turning the paper page of the booklet to reveal a new tea entry",
+      "emotion": "curious",
+      "good_for": [
+        "trying new things",
+        "cafe date vibes",
+        "peaceful routine",
+        "turning a new page"
+      ],
+      "score": 4
+    }
+  ]
+}

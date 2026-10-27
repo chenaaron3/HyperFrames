@@ -1,0 +1,102 @@
+{
+  "path": "SelfShots/ClimbingGym/OnTheWall/10:22:26_Red_x25/IMG_5239.MOV",
+  "folder": "SelfShots/ClimbingGym/OnTheWall/10:22:26_Red_x25",
+  "fingerprint": "a6d4163987284bef",
+  "width": 1080,
+  "height": 1920,
+  "fps": 30.0,
+  "duration": 17.2,
+  "model": "gemini-3.8-flash",
+  "annotatedAt": "2026-10-24T18:49:49+00:00",
+  "summary": "A young man sits on the floor of a climbing gym studying a colorful bouldering wall before turning back to grab the camera.",
+  "location": "gym",
+  "setting": "indoor",
+  "time_of_day": "indoor_unknown",
+  "weather": "n/a",
+  "people": {
+    "count": 2,
+    "creator_visible": true,
+    "description": "Young Asian man with wavy black hair in a grey ribbed tank top and baggy jeans wearing AirPods; another climber in shorts walks by in the background"
+  },
+  "camera": {
+    "style": "tripod_static",
+    "framing": "medium",
+    "movement": "static",
+    "angle": "eye level"
+  },
+  "quality": {
+    "usable": true,
+    "stability": "steady",
+    "exposure": "good",
+    "issues": ""
+  },
+  "mood": [
+    "focused",
+    "contemplative",
+    "calm",
+    "athletic"
+  ],
+  "energy": "low",
+  "tags": [
+    "climbing gym",
+    "bouldering",
+    "climbing wall",
+    "studying route",
+    "tank top",
+    "gym life",
+    "focus",
+    "rest period",
+    "indoor climbing",
+    "fitness"
+  ],
+  "moments": [
+    {
+      "start": 0.0,
+      "end": 1.5,
+      "action": "Creator looks into the camera lens in selfie mode before setting it down and turning around",
+      "emotion": "neutral",
+      "good_for": [
+        "setting up the shot",
+        "starting a workout vlog"
+      ],
+      "score": 2
+    },
+    {
+      "start": 3.0,
+      "end": 6.5,
+      "action": "Creator sits cross-legged on the mat from behind, looking up at the bouldering wall holds",
+      "emotion": "focused",
+      "good_for": [
+        "planning your next move",
+        "locked in",
+        "rest between sets",
+        "gym routine"
+      ],
+      "score": 4
+    },
+    {
+      "start": 6.5,
+      "end": 15.5,
+      "action": "Creator rests his chin on his hand, thoughtfully analyzing the bouldering wall in quiet contemplation",
+      "emotion": "calm",
+      "good_for": [
+        "visualizing success",
+        "overthinking everything",
+        "working through the problem",
+        "bouldering session"
+      ],
+      "score": 4
+    },
+    {
+      "start": 15.5,
+      "end": 17.2,
+      "action": "Creator turns around to face the camera and reaches out to stop recording",
+      "emotion": "neutral",
+      "good_for": [
+        "end of set",
+        "moving to the next boulder"
+      ],
+      "score": 3
+    }
+  ]
+}

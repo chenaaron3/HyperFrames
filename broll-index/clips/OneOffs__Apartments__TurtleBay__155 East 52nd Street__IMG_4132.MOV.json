@@ -1,0 +1,68 @@
+{
+  "path": "OneOffs/Apartments/TurtleBay/155 East 52nd Street/IMG_4132.MOV",
+  "folder": "OneOffs/Apartments/TurtleBay/155 East 52nd Street",
+  "fingerprint": "737c417d25ec58fc",
+  "width": 1080,
+  "height": 1920,
+  "fps": 30.0,
+  "duration": 3.465,
+  "model": "gemini-3.8-flash",
+  "annotatedAt": "2026-10-24T18:22:13+00:00",
+  "summary": "Handheld POV pan across an empty New York City apartment room, showing the window, radiator, hardwood floors, and entry door.",
+  "location": "apartment",
+  "setting": "indoor",
+  "time_of_day": "day",
+  "weather": "n/a",
+  "people": {
+    "count": 0,
+    "creator_visible": false,
+    "description": "None"
+  },
+  "camera": {
+    "style": "pov_first_person",
+    "framing": "medium",
+    "movement": "pan",
+    "angle": "eye level"
+  },
+  "quality": {
+    "usable": true,
+    "stability": "handheld",
+    "exposure": "good",
+    "issues": ""
+  },
+  "mood": [
+    "neutral",
+    "anticipatory",
+    "exploratory"
+  ],
+  "energy": "low",
+  "tags": [
+    "apartment tour",
+    "nyc apartment",
+    "empty room",
+    "moving in",
+    "apartment hunting",
+    "hardwood floors",
+    "radiator",
+    "windows",
+    "real estate",
+    "turtle bay",
+    "new beginning"
+  ],
+  "moments": [
+    {
+      "start": 0.0,
+      "end": 3.46,
+      "action": "Camera pans right from the large windows showing an adjacent brick building toward the front door and entryway of an empty apartment",
+      "emotion": "curious, neutral",
+      "good_for": [
+        "apartment hunting in nyc",
+        "new beginnings",
+        "finding an apartment",
+        "moving to new york",
+        "first place of my own"
+      ],
+      "score": 3
+    }
+  ]
+}

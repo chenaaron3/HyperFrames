@@ -1,0 +1,71 @@
+{
+  "id": "advice-24",
+  "name": "#1 flight hack",
+  "reference": "references/viral-formats/advice-24.mp4",
+  "source": "/Users/aaron/Downloads/100 Viral Formats (Format Book)/Advice/#24/#24.mp4",
+  "duration": 53.9,
+  "music": {
+    "from": "reference",
+    "title": "Original Audio"
+  },
+  "text": {
+    "y": 0.227,
+    "size": 61,
+    "weight": 700,
+    "lineHeight": 1.4,
+    "maxWidth": 900,
+    "style": "outline"
+  },
+  "lines": [
+    {
+      "id": "l1",
+      "start": 0.0,
+      "end": 7.2,
+      "ref": "#1 flight hack",
+      "y": 0.227,
+      "measuredSize": 90,
+      "style": "plain_white_shadow",
+      "guide": ""
+    },
+    {
+      "id": "l2",
+      "start": 17.867,
+      "end": 20.7,
+      "ref": "Flightcheatcode.com",
+      "y": 0.747,
+      "measuredSize": 32,
+      "style": "plain_white_shadow",
+      "guide": ""
+    }
+  ],
+  "shots": [
+    {
+      "id": "s1",
+      "start": 0.0,
+      "end": 7.2,
+      "brief": "talking to camera while fixing hair (ref: Woman tying up her hair while speaking to camera about being a flight attendant with a travel hack.; selfie)",
+      "line": "l1"
+    },
+    {
+      "id": "s2",
+      "start": 7.2,
+      "end": 53.9,
+      "brief": "talking directly to camera (ref: Woman explaining her personal use case for family and friends instead of dealing with airline customer service.; selfie)",
+      "line": null
+    }
+  ],
+  "audit": {
+    "kind": "talking_head",
+    "creatorSpeaks": true,
+    "audio": "speech",
+    "special": [],
+    "reusable": false,
+    "notes": "This video relies entirely on a spoken talking-head delivery where the creator establishes personal authority as a flight attendant to explain a specific service.",
+    "summary": "A flight attendant speaks directly to the camera explaining a flight-booking hack where an automated tool scans confirmed flights and refunds price drops."
+  },
+  "caption": {
+    "ref": "",
+    "guide": ""
+  },
+  "draft": true
+}

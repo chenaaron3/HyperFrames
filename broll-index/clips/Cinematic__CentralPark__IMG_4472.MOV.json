@@ -1,0 +1,66 @@
+{
+  "path": "Cinematic/CentralPark/IMG_4472.MOV",
+  "folder": "Cinematic/CentralPark",
+  "fingerprint": "8eab258858f99cf9",
+  "width": 1080,
+  "height": 1920,
+  "fps": 30.0,
+  "duration": 3.133,
+  "model": "gemini-3.8-flash",
+  "annotatedAt": "2026-10-24T18:18:52+00:00",
+  "summary": "An older man wearing a bicycle helmet carries a fishing rod across a wooden bridge in Central Park, walking past another man who is also fishing.",
+  "location": "park",
+  "setting": "outdoor",
+  "time_of_day": "day",
+  "weather": "sunny",
+  "people": {
+    "count": 2,
+    "creator_visible": false,
+    "description": "An older man in a blue bike helmet, vest, and jeans walking with a fishing rod; another man in a brimmed hat and jacket standing by the bridge railing holding a rod"
+  },
+  "camera": {
+    "style": "handheld_cinematic",
+    "framing": "medium",
+    "movement": "handheld",
+    "angle": "eye level"
+  },
+  "quality": {
+    "usable": true,
+    "stability": "steady",
+    "exposure": "good",
+    "issues": ""
+  },
+  "mood": [
+    "quirky",
+    "peaceful",
+    "observant"
+  ],
+  "energy": "low",
+  "tags": [
+    "central park",
+    "new york city",
+    "fishing",
+    "bridge",
+    "park stroll",
+    "outdoors",
+    "people watching",
+    "urban nature",
+    "hobby",
+    "candid"
+  ],
+  "moments": [
+    {
+      "start": 0.0,
+      "end": 3.13,
+      "action": "A man wearing a blue helmet walks along a wooden bridge holding a fishing rod past another man standing by the railing",
+      "emotion": "calm",
+      "good_for": [
+        "people watching in nyc",
+        "random everyday encounters",
+        "doing what makes you happy",
+        "peaceful afternoon walk"
+      ],
+      "score": 3
+    }
+  ]
+}

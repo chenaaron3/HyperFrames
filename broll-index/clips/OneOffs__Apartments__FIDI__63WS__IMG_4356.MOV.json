@@ -1,0 +1,70 @@
+{
+  "path": "OneOffs/Apartments/FIDI/63WS/IMG_4356.MOV",
+  "folder": "OneOffs/Apartments/FIDI/63WS",
+  "fingerprint": "74573746aac2880e",
+  "width": 1080,
+  "height": 1920,
+  "fps": 30.0,
+  "duration": 2.767,
+  "model": "gemini-3.8-flash",
+  "annotatedAt": "2026-10-24T18:20:38+00:00",
+  "summary": "Handheld view looking down a narrow street in Manhattan's Financial District surrounded by tall skyscrapers under a clear blue sky.",
+  "location": "city street",
+  "setting": "outdoor",
+  "time_of_day": "day",
+  "weather": "sunny",
+  "people": {
+    "count": 0,
+    "creator_visible": false,
+    "description": "No visible people in foreground; some distant pedestrians obscured on the street."
+  },
+  "camera": {
+    "style": "handheld_cinematic",
+    "framing": "wide",
+    "movement": "static",
+    "angle": "low angle looking up"
+  },
+  "quality": {
+    "usable": true,
+    "stability": "steady",
+    "exposure": "good",
+    "issues": ""
+  },
+  "mood": [
+    "urban",
+    "calm",
+    "cinematic",
+    "ambitious"
+  ],
+  "energy": "low",
+  "tags": [
+    "nyc",
+    "financial district",
+    "fidi",
+    "manhattan",
+    "skyscrapers",
+    "city street",
+    "new york city",
+    "urban architecture",
+    "sunny day",
+    "b-roll",
+    "city living",
+    "concrete jungle"
+  ],
+  "moments": [
+    {
+      "start": 0.0,
+      "end": 2.77,
+      "action": "Steady low-angle shot looking down a busy Financial District canyon of skyscrapers toward the blue sky",
+      "emotion": "calm",
+      "good_for": [
+        "living in new york city",
+        "concrete jungle",
+        "finding an apartment",
+        "city life aesthetic",
+        "new beginnings in nyc"
+      ],
+      "score": 3
+    }
+  ]
+}

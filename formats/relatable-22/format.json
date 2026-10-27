@@ -1,0 +1,64 @@
+{
+  "id": "relatable-22",
+  "name": "7 signs you’ve lived in Australia too long",
+  "reference": "references/viral-formats/relatable-22.mp4",
+  "source": "/Users/aaron/Downloads/100 Viral Formats (Format Book)/Relatable/#22/#22.mp4",
+  "duration": 6.233,
+  "music": {
+    "from": "reference",
+    "title": "Down Under - Men At Work"
+  },
+  "text": {
+    "y": 0.497,
+    "size": 58,
+    "weight": 700,
+    "lineHeight": 1.4,
+    "maxWidth": 900,
+    "style": "outline"
+  },
+  "lines": [
+    {
+      "id": "l1",
+      "start": 0.0,
+      "end": 4.25,
+      "ref": "7 signs you’ve lived in\nAustralia too long",
+      "y": 0.497,
+      "measuredSize": 59,
+      "style": "plain_white_shadow",
+      "guide": ""
+    },
+    {
+      "id": "l2",
+      "start": 4.25,
+      "end": 6.233,
+      "ref": "Read caption ⤵️",
+      "y": 0.518,
+      "measuredSize": 58,
+      "style": "plain_white_shadow",
+      "guide": ""
+    }
+  ],
+  "shots": [
+    {
+      "id": "s1",
+      "start": 0.0,
+      "end": 6.233,
+      "brief": "walking towards camera outdoors (ref: A man walks barefoot down a suburban driveway holding mail towards the camera, smiling as he gets closer.; tripod)",
+      "line": "l1"
+    }
+  ],
+  "audit": {
+    "kind": "broll_with_text",
+    "creatorSpeaks": false,
+    "audio": "music only",
+    "special": [],
+    "reusable": true,
+    "notes": "Easily adapted to NYC or any other city (e.g. '7 signs you've lived in NYC too long') using any existing clip of the creator walking toward the camera or down a street, paired with a numbered list in the caption.",
+    "summary": "A man in shorts and a beanie walks barefoot down an asphalt driveway holding mail towards the camera, paired with text hooking a listicle in the caption."
+  },
+  "caption": {
+    "ref": "",
+    "guide": ""
+  },
+  "draft": true
+}

@@ -1,0 +1,70 @@
+{
+  "path": "OneOffs/RainyDayArmanRishi/IMG_4650.MOV",
+  "folder": "OneOffs/RainyDayArmanRishi",
+  "fingerprint": "a46c8324520bde83",
+  "width": 1080,
+  "height": 1920,
+  "fps": 30.0,
+  "duration": 3.265,
+  "model": "gemini-3.8-flash",
+  "annotatedAt": "2026-10-24T18:36:57+00:00",
+  "summary": "A static shot showcasing ceramic teaware, cups, and teapots arranged neatly on dark wooden display shelves in a boutique tea shop.",
+  "location": "tea shop",
+  "setting": "indoor",
+  "time_of_day": "indoor_unknown",
+  "weather": "n/a",
+  "people": {
+    "count": 0,
+    "creator_visible": false,
+    "description": ""
+  },
+  "camera": {
+    "style": "handheld_cinematic",
+    "framing": "medium",
+    "movement": "static",
+    "angle": "eye level"
+  },
+  "quality": {
+    "usable": true,
+    "stability": "steady",
+    "exposure": "good",
+    "issues": ""
+  },
+  "mood": [
+    "peaceful",
+    "aesthetic",
+    "minimalist",
+    "calm"
+  ],
+  "energy": "low",
+  "tags": [
+    "ceramics",
+    "pottery",
+    "tea shop",
+    "teaware",
+    "teapot",
+    "teacups",
+    "shelves",
+    "store display",
+    "minimalism",
+    "calm aesthetic",
+    "interior design",
+    "craftsmanship"
+  ],
+  "moments": [
+    {
+      "start": 0.0,
+      "end": 3.27,
+      "action": "Steady aesthetic shot of ceramic cups, pitchers, and clay teapots neatly displayed on dark floating wooden shelves",
+      "emotion": "calm",
+      "good_for": [
+        "slow living",
+        "tea ceremony aesthetics",
+        "finding peace in small spaces",
+        "mindful moments",
+        "appreciating craftsmanship"
+      ],
+      "score": 3
+    }
+  ]
+}

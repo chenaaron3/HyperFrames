@@ -1,0 +1,416 @@
+{
+  "id": "story-7",
+  "name": "17 “Mum, there's a bad feeling in my stomach that won't go a",
+  "reference": "references/viral-formats/story-7.mp4",
+  "source": "/Users/aaron/Downloads/100 Viral Formats (Format Book)/Storytelling/#7/#7.mp4",
+  "duration": 55.167,
+  "music": {
+    "from": "reference",
+    "title": "Runaway - Kanye West"
+  },
+  "text": {
+    "y": 0.728,
+    "size": 49,
+    "weight": 700,
+    "lineHeight": 1.4,
+    "maxWidth": 900,
+    "style": "outline"
+  },
+  "lines": [
+    {
+      "id": "l1",
+      "start": 0.0,
+      "end": 4.25,
+      "ref": "17\n“Mum, there's a bad feeling\nin my stomach that\nwon't go away”",
+      "y": 0.728,
+      "measuredSize": 45,
+      "style": "plain_white_shadow",
+      "guide": ""
+    },
+    {
+      "id": "l2",
+      "start": 4.25,
+      "end": 5.625,
+      "ref": "what does it feel like?",
+      "y": 0.497,
+      "measuredSize": 52,
+      "style": "plain_white_shadow",
+      "guide": ""
+    },
+    {
+      "id": "l3",
+      "start": 5.625,
+      "end": 9.75,
+      "ref": "17\n“the feeling before something\nbad is about to happen”",
+      "y": 0.728,
+      "measuredSize": 59,
+      "style": "plain_white_shadow",
+      "guide": ""
+    },
+    {
+      "id": "l4",
+      "start": 9.75,
+      "end": 12.625,
+      "ref": "18\n“Mum, I panicked in my exam\nand completely failed”",
+      "y": 0.712,
+      "measuredSize": 51,
+      "style": "plain_white_shadow",
+      "guide": ""
+    },
+    {
+      "id": "l5",
+      "start": 12.625,
+      "end": 14.0,
+      "ref": "“I'm sorry”",
+      "y": 0.63,
+      "measuredSize": 52,
+      "style": "plain_white_shadow",
+      "guide": ""
+    },
+    {
+      "id": "l6",
+      "start": 14.0,
+      "end": 16.75,
+      "ref": "“what if I panic in everything\nand fail at life?”",
+      "y": 0.497,
+      "measuredSize": 59,
+      "style": "plain_white_shadow",
+      "guide": ""
+    },
+    {
+      "id": "l7",
+      "start": 16.75,
+      "end": 19.542,
+      "ref": "18\n“Mum, I feel butterflies in\nmy stomach everyday”",
+      "y": 0.725,
+      "measuredSize": 51,
+      "style": "plain_white_shadow",
+      "guide": ""
+    },
+    {
+      "id": "l8",
+      "start": 19.542,
+      "end": 21.458,
+      "ref": "“I think I need help”",
+      "y": 0.497,
+      "measuredSize": 52,
+      "style": "plain_white_shadow",
+      "guide": ""
+    },
+    {
+      "id": "l9",
+      "start": 21.458,
+      "end": 24.542,
+      "ref": "20\nrealises her anxiety ultimately\nstemmed from fear of rejection..",
+      "y": 0.26,
+      "measuredSize": 49,
+      "style": "plain_white_shadow",
+      "guide": ""
+    },
+    {
+      "id": "l10",
+      "start": 24.542,
+      "end": 26.167,
+      "ref": "and being conditionally loved..",
+      "y": 0.243,
+      "measuredSize": 49,
+      "style": "plain_white_shadow",
+      "guide": ""
+    },
+    {
+      "id": "l11",
+      "start": 26.167,
+      "end": 27.5,
+      "ref": "22\ngraduates",
+      "y": 0.23,
+      "measuredSize": null,
+      "style": "plain_white_shadow",
+      "guide": ""
+    },
+    {
+      "id": "l12",
+      "start": 27.5,
+      "end": 30.167,
+      "ref": "realises anxiety never stopped\nher from “performing”",
+      "y": 0.221,
+      "measuredSize": 49,
+      "style": "plain_white_shadow",
+      "guide": ""
+    },
+    {
+      "id": "l13",
+      "start": 30.167,
+      "end": 32.958,
+      "ref": "23\nstarts accepting it as part of\nher life",
+      "y": 0.604,
+      "measuredSize": 47,
+      "style": "plain_white_shadow",
+      "guide": ""
+    },
+    {
+      "id": "l14",
+      "start": 32.958,
+      "end": 35.542,
+      "ref": "24\n“Mum, I think I'm getting better!”",
+      "y": 0.745,
+      "measuredSize": 51,
+      "style": "plain_white_shadow",
+      "guide": ""
+    },
+    {
+      "id": "l15",
+      "start": 35.542,
+      "end": 38.375,
+      "ref": "“the butterflies don't bother me\nas much anymore”",
+      "y": 0.811,
+      "measuredSize": 38,
+      "style": "plain_white_shadow",
+      "guide": ""
+    },
+    {
+      "id": "l16",
+      "start": 38.375,
+      "end": 41.25,
+      "ref": "25\n“realises she's developed high-\nfunctioning anxiety”",
+      "y": 0.175,
+      "measuredSize": 58,
+      "style": "plain_white_shadow",
+      "guide": ""
+    },
+    {
+      "id": "l17",
+      "start": 41.25,
+      "end": 43.583,
+      "ref": "which only stays silent when\nshe's “achieving”",
+      "y": 0.3,
+      "measuredSize": 47,
+      "style": "plain_white_shadow",
+      "guide": ""
+    },
+    {
+      "id": "l18",
+      "start": 43.583,
+      "end": 46.75,
+      "ref": "28\nstill learning not to tie her self-\nworth to her achievements",
+      "y": 0.315,
+      "measuredSize": 45,
+      "style": "plain_white_shadow",
+      "guide": ""
+    },
+    {
+      "id": "l19",
+      "start": 46.75,
+      "end": 49.458,
+      "ref": "and seek self love from\nwithin",
+      "y": 0.23,
+      "measuredSize": null,
+      "style": "plain_white_shadow",
+      "guide": ""
+    },
+    {
+      "id": "l20",
+      "start": 49.458,
+      "end": 51.125,
+      "ref": "if you were conditionally loved...",
+      "y": 0.271,
+      "measuredSize": 47,
+      "style": "plain_white_shadow",
+      "guide": ""
+    },
+    {
+      "id": "l21",
+      "start": 51.125,
+      "end": 53.833,
+      "ref": "self love is a journey that's\nrarely linear..",
+      "y": 0.267,
+      "measuredSize": 38,
+      "style": "plain_white_shadow",
+      "guide": ""
+    },
+    {
+      "id": "l22",
+      "start": 53.833,
+      "end": 55.167,
+      "ref": "welcome to my journey 🫶",
+      "y": 0.272,
+      "measuredSize": 30,
+      "style": "plain_white_shadow",
+      "guide": ""
+    }
+  ],
+  "shots": [
+    {
+      "id": "s1",
+      "start": 0.0,
+      "end": 4.25,
+      "brief": "archival photo of younger self (teen years) (ref: Archival photo of creator at age 17 smiling at an evening event; filmed by friend)",
+      "line": "l1"
+    },
+    {
+      "id": "s2",
+      "start": 4.25,
+      "end": 5.625,
+      "brief": "black graphic screen (ref: Solid black screen with white text; other)",
+      "line": "l2"
+    },
+    {
+      "id": "s3",
+      "start": 5.625,
+      "end": 9.75,
+      "brief": "archival photo of younger self (teen years) (ref: Same archival photo of creator at age 17; filmed by friend)",
+      "line": "l3"
+    },
+    {
+      "id": "s4",
+      "start": 9.75,
+      "end": 12.625,
+      "brief": "photo in high school or school uniform (ref: Archival photo of creator at age 18 in high school uniform sitting outdoors; filmed by friend)",
+      "line": "l4"
+    },
+    {
+      "id": "s5",
+      "start": 12.625,
+      "end": 14.0,
+      "brief": "photo in high school or school uniform (ref: Cropped closer version of the school uniform photo; filmed by friend)",
+      "line": "l5"
+    },
+    {
+      "id": "s6",
+      "start": 14.0,
+      "end": 16.75,
+      "brief": "black graphic screen (ref: Solid black screen with white text; other)",
+      "line": "l6"
+    },
+    {
+      "id": "s7",
+      "start": 16.75,
+      "end": 19.542,
+      "brief": "party or event photo from late teens (ref: Archival photo of creator at age 18 dressed up at a bar/event; filmed by friend)",
+      "line": "l7"
+    },
+    {
+      "id": "s8",
+      "start": 19.542,
+      "end": 21.458,
+      "brief": "black graphic screen (ref: Solid black screen with white text; other)",
+      "line": "l8"
+    },
+    {
+      "id": "s9",
+      "start": 21.458,
+      "end": 24.542,
+      "brief": "vulnerable crying or tearful selfie video (ref: Close-up selfie video of creator looking teary-eyed and crying; selfie)",
+      "line": "l9"
+    },
+    {
+      "id": "s10",
+      "start": 24.542,
+      "end": 26.167,
+      "brief": "scanned or photo of childhood picture (ref: Printed childhood photo of creator as a young girl; other)",
+      "line": "l10"
+    },
+    {
+      "id": "s11",
+      "start": 26.167,
+      "end": 27.5,
+      "brief": "university graduation photo (ref: Photo of creator at age 22 in graduation gown holding flowers and degree in front of a university building; filmed by friend)",
+      "line": "l11"
+    },
+    {
+      "id": "s12",
+      "start": 27.5,
+      "end": 30.167,
+      "brief": "working on a laptop indoors, low angle (ref: Creator sitting in a modern study lounge working on a laptop; tripod)",
+      "line": "l12"
+    },
+    {
+      "id": "s13",
+      "start": 30.167,
+      "end": 32.958,
+      "brief": "sitting at a cafe with laptop and coffee (ref: Creator sitting at a sunlit cafe table with coffee and laptop, resting chin on hand; tripod)",
+      "line": "l13"
+    },
+    {
+      "id": "s14",
+      "start": 32.958,
+      "end": 35.542,
+      "brief": "smiling outdoor candid photo or clip (ref: Outdoor photo/video of creator at age 24 smiling brightly in a striped shirt; filmed by friend)",
+      "line": "l14"
+    },
+    {
+      "id": "s15",
+      "start": 35.542,
+      "end": 38.375,
+      "brief": "nightlife or museum shot with neon lights (ref: Creator posing inside a neon sign frame reading 'I'M FINE'; filmed by friend)",
+      "line": "l15"
+    },
+    {
+      "id": "s16",
+      "start": 38.375,
+      "end": 41.25,
+      "brief": "mirror selfie video on subway train (ref: Creator taking a mirror selfie video in a subway train window; mirror)",
+      "line": "l16"
+    },
+    {
+      "id": "s17",
+      "start": 41.25,
+      "end": 43.583,
+      "brief": "walking outside holding someone's hand, POV (ref: Wide angle walking video on a sunny outdoor plaza leading the camera; POV)",
+      "line": "l17"
+    },
+    {
+      "id": "s18",
+      "start": 43.583,
+      "end": 46.75,
+      "brief": "walking down street leading camera, POV (ref: Creator walking down a cobblestone street leading camera and laughing back; POV)",
+      "line": "l18"
+    },
+    {
+      "id": "s19",
+      "start": 46.75,
+      "end": 49.458,
+      "brief": "eating takeout lunch on a park bench (ref: Creator sitting on a park bench under green trees, eating a takeout salad bowl; tripod)",
+      "line": "l19"
+    },
+    {
+      "id": "s20",
+      "start": 49.458,
+      "end": 51.125,
+      "brief": "scenic sunset b-roll (ref: Sunset view over a parking lot and palm trees against a pink and orange sky; tripod)",
+      "line": "l20"
+    },
+    {
+      "id": "s21",
+      "start": 51.125,
+      "end": 53.833,
+      "brief": "looking out of subway or train window (ref: Creator looking thoughtfully out of a moving train window wearing earphones; tripod)",
+      "line": "l21"
+    },
+    {
+      "id": "s22",
+      "start": 53.833,
+      "end": 55.167,
+      "brief": "sunset pier or scenic overlook turning to smile (ref: Creator standing at ocean pier railing at sunset, turning around to smile at camera; filmed by friend)",
+      "line": "l22"
+    }
+  ],
+  "audit": {
+    "kind": "photo_slideshow",
+    "creatorSpeaks": false,
+    "audio": "music only",
+    "special": [
+      "Photos of younger self at age 17 and 18 (e.g. high school uniform, social events)",
+      "Childhood photo",
+      "University graduation photo",
+      "Emotional or crying selfie video"
+    ],
+    "reusable": false,
+    "notes": "This format relies on authentic chronological personal history assets: childhood photos, high school photos, graduation portraits, and an emotionally vulnerable crying clip. Generic lifestyle b-roll cannot replace the specific past milestones that make this emotional storytelling work.",
+    "summary": "A chronological personal narrative tracking the creator's journey with anxiety and self-worth from age 17 to 28, moving from teenage photos to adult lifestyle b-roll set to Kanye West's 'Runaway'."
+  },
+  "caption": {
+    "ref": "",
+    "guide": ""
+  },
+  "draft": true
+}

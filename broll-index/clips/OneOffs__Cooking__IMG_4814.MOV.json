@@ -1,0 +1,91 @@
+{
+  "path": "OneOffs/Cooking/IMG_4814.MOV",
+  "folder": "OneOffs/Cooking",
+  "fingerprint": "21605585d868da71",
+  "width": 1080,
+  "height": 1920,
+  "fps": 30.0,
+  "duration": 18.968,
+  "model": "gemini-3.8-flash",
+  "annotatedAt": "2026-10-24T18:25:06+00:00",
+  "summary": "A person trims and preps raw chicken on a wooden cutting board on a kitchen counter next to prepped ingredients.",
+  "location": "kitchen",
+  "setting": "indoor",
+  "time_of_day": "day",
+  "weather": "n/a",
+  "people": {
+    "count": 1,
+    "creator_visible": false,
+    "description": "A man wearing a black watch and dark t-shirt, visible from the arms down"
+  },
+  "camera": {
+    "style": "filmed_by_friend",
+    "framing": "close",
+    "movement": "handheld",
+    "angle": "high angle"
+  },
+  "quality": {
+    "usable": true,
+    "stability": "handheld",
+    "exposure": "good",
+    "issues": ""
+  },
+  "mood": [
+    "focused",
+    "domestic",
+    "routine"
+  ],
+  "energy": "low",
+  "tags": [
+    "cooking",
+    "meal prep",
+    "chicken",
+    "cutting board",
+    "chef knife",
+    "kitchen",
+    "food prep",
+    "culinary",
+    "home cooking",
+    "raw meat",
+    "healthy eating"
+  ],
+  "moments": [
+    {
+      "start": 0.0,
+      "end": 7.5,
+      "action": "Trimming excess fat from raw chicken meat with a sharp knife on a wooden board",
+      "emotion": "focused",
+      "good_for": [
+        "meal prep sunday",
+        "cooking at home",
+        "eating clean",
+        "healthy habits"
+      ],
+      "score": 3
+    },
+    {
+      "start": 7.5,
+      "end": 13.5,
+      "action": "Piercing and scoring the chicken thigh with the knife tip for seasoning",
+      "emotion": "methodical",
+      "good_for": [
+        "trust the process",
+        "cooking techniques",
+        "home chef vibes"
+      ],
+      "score": 4
+    },
+    {
+      "start": 13.5,
+      "end": 18.97,
+      "action": "Slicing through the chicken thigh to portion it into smaller cutlets",
+      "emotion": "focused",
+      "good_for": [
+        "making dinner",
+        "high protein diet",
+        "daily routine"
+      ],
+      "score": 3
+    }
+  ]
+}

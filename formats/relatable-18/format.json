@@ -1,0 +1,91 @@
+{
+  "id": "relatable-18",
+  "name": "One bad month...",
+  "reference": "references/viral-formats/relatable-18.mp4",
+  "source": "/Users/aaron/Downloads/100 Viral Formats (Format Book)/Relatable/#18/#18.mp4",
+  "duration": 8.9,
+  "music": {
+    "from": "reference",
+    "title": "Original Audio"
+  },
+  "text": {
+    "y": 0.543,
+    "size": 46,
+    "weight": 700,
+    "lineHeight": 1.4,
+    "maxWidth": 900,
+    "style": "outline"
+  },
+  "lines": [
+    {
+      "id": "l1",
+      "start": 0.0,
+      "end": 0.0,
+      "ref": "One bad month...",
+      "y": 0.543,
+      "measuredSize": 64,
+      "style": "plain_white_outline",
+      "guide": ""
+    },
+    {
+      "id": "l2",
+      "start": 0.0,
+      "end": 5.067,
+      "ref": "🔴🔴🔴🔴🔴🔴\n🔴🔴🔴🔴🔴🔴\n🔴🔴🔴🔴🔴🔴\n🔴🔴🔴🔴🔴🔴\n🔴🔴🔴🔴🔴🔴",
+      "y": 0.543,
+      "measuredSize": 64,
+      "style": "other",
+      "guide": ""
+    },
+    {
+      "id": "l3",
+      "start": 5.067,
+      "end": 8.9,
+      "ref": "Is not a bad life:)",
+      "y": 0.17,
+      "measuredSize": 22,
+      "style": "plain_white_outline",
+      "guide": ""
+    },
+    {
+      "id": "l4",
+      "start": 5.067,
+      "end": 8.9,
+      "ref": "⚪⚪⚪⚪⚪⚪⚪ ⚪⚪⚪⚪⚪⚪⚪ ⚪⚪⚪⚪⚪⚪⚪\n⚪⚪🔴⚪⚪⚪⚪ ⚪⚪⚪⚪⚪⚪⚪ ⚪⚪⚪⚪⚪⚪⚪\n⚪⚪⚪⚪⚪⚪⚪ ⚪⚪⚪⚪⚪⚪⚪ ⚪⚪⚪⚪⚪⚪⚪\n⚪⚪⚪⚪⚪⚪⚪ ⚪⚪⚪⚪⚪⚪⚪ ⚪⚪⚪⚪⚪⚪⚪\n\n⚪⚪⚪⚪⚪⚪⚪ ⚪⚪⚪⚪⚪⚪⚪ ⚪⚪⚪⚪⚪⚪⚪\n⚪⚪⚪⚪⚪⚪⚪ ⚪⚪⚪⚪⚪⚪⚪ ⚪⚪⚪⚪⚪⚪⚪\n⚪⚪⚪⚪⚪⚪⚪ ⚪⚪⚪⚪⚪⚪⚪ ⚪⚪⚪⚪⚪⚪⚪\n⚪⚪⚪⚪⚪⚪⚪ ⚪⚪⚪⚪⚪⚪⚪ ⚪⚪⚪⚪⚪⚪⚪\n\n⚪⚪⚪⚪⚪⚪⚪ ⚪⚪⚪⚪⚪⚪⚪ ⚪⚪⚪⚪⚪⚪⚪\n⚪⚪⚪⚪⚪⚪⚪ ⚪⚪⚪⚪⚪⚪⚪ ⚪⚪⚪⚪⚪⚪⚪\n⚪⚪⚪⚪⚪⚪⚪ ⚪⚪⚪⚪⚪⚪⚪ ⚪⚪⚪⚪⚪⚪⚪\n⚪⚪⚪⚪⚪⚪⚪ ⚪⚪⚪⚪⚪⚪⚪ ⚪⚪⚪⚪⚪⚪⚪\n\n⚪⚪⚪⚪⚪⚪⚪ ⚪⚪⚪⚪⚪⚪⚪ ⚪⚪⚪⚪⚪⚪⚪\n⚪⚪⚪⚪⚪⚪⚪ ⚪⚪⚪⚪⚪⚪⚪ ⚪⚪⚪⚪⚪⚪⚪\n⚪⚪⚪⚪⚪⚪⚪ ⚪⚪⚪⚪⚪⚪⚪ ⚪⚪⚪⚪⚪⚪⚪\n⚪⚪⚪⚪⚪⚪⚪ ⚪⚪⚪⚪⚪⚪⚪ ⚪⚪⚪⚪⚪⚪⚪",
+      "y": 0.546,
+      "measuredSize": 22,
+      "style": "other",
+      "guide": ""
+    }
+  ],
+  "shots": [
+    {
+      "id": "s1",
+      "start": 0.0,
+      "end": 5.067,
+      "brief": "pensive or downcast person looking away or down, medium shot (ref: Young man in a coral t-shirt leaning against a balcony railing looking down with a serious, pensive expression.; filmed by friend)",
+      "line": "l2"
+    },
+    {
+      "id": "s2",
+      "start": 5.067,
+      "end": 8.9,
+      "brief": "happy or laughing person smiling outdoors, medium shot (ref: The same man in a dark rugby polo shirt smiling widely and laughing by the railing.; filmed by friend)",
+      "line": "l3"
+    }
+  ],
+  "audit": {
+    "kind": "broll_with_text",
+    "creatorSpeaks": false,
+    "audio": "music only",
+    "special": [],
+    "reusable": true,
+    "notes": "Can be completely recreated using any two contrasting clips from the creator's library: one somber or tired clip (e.g. staring pensively on the subway, looking exhausted after working or climbing) followed by an upbeat clip (e.g. laughing with friends in Chinatown or smiling at home). Simply paste the emoji grids and copy the audio.",
+    "summary": "A motivational perspective reel contrasting 'one bad month' (visualized as a 5x6 grid of red dots) with 'not a bad life' (visualized as a massive grid of white dots with just one red dot), set to a somber then uplifting audio transition."
+  },
+  "caption": {
+    "ref": "",
+    "guide": ""
+  },
+  "draft": true
+}

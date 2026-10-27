@@ -1,0 +1,118 @@
+{
+  "path": "SelfShots/ClimbingGym/OnTheWall/10:18:26_Orange_x53/IMG_5124.MOV",
+  "folder": "SelfShots/ClimbingGym/OnTheWall/10:18:26_Orange_x53",
+  "fingerprint": "2e7a146d42049f23",
+  "width": 1080,
+  "height": 1920,
+  "fps": 30.0,
+  "duration": 43.07,
+  "model": "gemini-3.8-flash",
+  "annotatedAt": "2026-10-24T18:43:04+00:00",
+  "summary": "A young man climbs a steep overhanging bouldering problem at an indoor climbing gym before dropping onto the mat.",
+  "location": "climbing gym",
+  "setting": "indoor",
+  "time_of_day": "indoor_unknown",
+  "weather": "n/a",
+  "people": {
+    "count": 1,
+    "creator_visible": true,
+    "description": "Young East Asian athletic male wearing a grey sleeveless tank top and loose grey pants with climbing shoes."
+  },
+  "camera": {
+    "style": "tripod_static",
+    "framing": "wide",
+    "movement": "static",
+    "angle": "eye level"
+  },
+  "quality": {
+    "usable": true,
+    "stability": "locked",
+    "exposure": "good",
+    "issues": ""
+  },
+  "mood": [
+    "athletic",
+    "focused",
+    "determined",
+    "challenging"
+  ],
+  "energy": "high",
+  "tags": [
+    "bouldering",
+    "rock climbing",
+    "climbing gym",
+    "overhang",
+    "fitness",
+    "workout",
+    "calisthenics",
+    "body tension",
+    "athletic",
+    "training",
+    "indoor sports",
+    "strength",
+    "gym session"
+  ],
+  "moments": [
+    {
+      "start": 7.5,
+      "end": 15.0,
+      "action": "Climber mounts the wall and initiates moves underneath the steep roof overhang",
+      "emotion": "focused and determined",
+      "good_for": [
+        "starting a hard workout",
+        "tackling challenges",
+        "gym progress"
+      ],
+      "score": 4
+    },
+    {
+      "start": 15.0,
+      "end": 22.5,
+      "action": "Climber maneuvers horizontally across the steep roof using intense core tension and grip",
+      "emotion": "intense physical effort",
+      "good_for": [
+        "pure grit",
+        "building upper body strength",
+        "trusting your grip",
+        "hard work paying off"
+      ],
+      "score": 5
+    },
+    {
+      "start": 22.5,
+      "end": 31.0,
+      "action": "Climber locks off with one arm while adjusting feet and finding the next hold on the black volume",
+      "emotion": "calculated and composed",
+      "good_for": [
+        "staying calm under pressure",
+        "problem solving",
+        "trusting the process"
+      ],
+      "score": 4
+    },
+    {
+      "start": 31.0,
+      "end": 37.5,
+      "action": "Climber pulls through the crux holds and cleanly drops down onto the safety mat",
+      "emotion": "exhausted relief",
+      "good_for": [
+        "giving it everything",
+        "sticking the landing",
+        "another day another session"
+      ],
+      "score": 4
+    },
+    {
+      "start": 37.5,
+      "end": 40.5,
+      "action": "Climber walks toward the camera recovering breath after finishing the climb",
+      "emotion": "tired but satisfied",
+      "good_for": [
+        "post-workout exhaustion",
+        "walking off the pump",
+        "fitness lifestyle"
+      ],
+      "score": 3
+    }
+  ]
+}

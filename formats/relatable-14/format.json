@@ -1,0 +1,120 @@
+{
+  "id": "relatable-14",
+  "name": "\"I shouldn't have done that\"",
+  "reference": "references/viral-formats/relatable-14.mp4",
+  "source": "/Users/aaron/Downloads/100 Viral Formats (Format Book)/Relatable/#14/#14.mp4",
+  "duration": 12.633,
+  "music": {
+    "from": "reference",
+    "title": "Evergreen Richy Mitch & the Coal Miners"
+  },
+  "text": {
+    "y": 0.175,
+    "size": 60,
+    "weight": 700,
+    "lineHeight": 1.4,
+    "maxWidth": 900,
+    "style": "outline"
+  },
+  "lines": [
+    {
+      "id": "l1",
+      "start": 0.0,
+      "end": 2.867,
+      "ref": "\"I shouldn't have done that\"",
+      "y": 0.175,
+      "measuredSize": 51,
+      "style": "plain_white_shadow",
+      "guide": ""
+    },
+    {
+      "id": "l2",
+      "start": 2.867,
+      "end": 4.167,
+      "ref": "I needed that lesson\nto grow.",
+      "y": 0.147,
+      "measuredSize": 43,
+      "style": "plain_white_shadow",
+      "guide": ""
+    },
+    {
+      "id": "l3",
+      "start": 4.167,
+      "end": 6.9,
+      "ref": "\"Everyone is so much\nbetter than me\"",
+      "y": 0.248,
+      "measuredSize": 60,
+      "style": "plain_white_shadow",
+      "guide": ""
+    },
+    {
+      "id": "l4",
+      "start": 6.9,
+      "end": 8.333,
+      "ref": "I'm only in competition\nwith myself.",
+      "y": 0.25,
+      "measuredSize": 65,
+      "style": "plain_white_shadow",
+      "guide": ""
+    },
+    {
+      "id": "l5",
+      "start": 8.333,
+      "end": 11.067,
+      "ref": "\"Why is this happening\nto me?\"",
+      "y": 0.158,
+      "measuredSize": 71,
+      "style": "plain_white_shadow",
+      "guide": ""
+    },
+    {
+      "id": "l6",
+      "start": 11.067,
+      "end": 12.633,
+      "ref": "What is this teaching me.",
+      "y": 0.145,
+      "measuredSize": 60,
+      "style": "plain_white_shadow",
+      "guide": ""
+    }
+  ],
+  "shots": [
+    {
+      "id": "s1",
+      "start": 0.0,
+      "end": 4.167,
+      "brief": "Person leaning on railing looking serious or contemplative indoors (ref: Young man leaning on an indoor balcony railing, looking thoughtfully into the distance with a serious expression.; tripod)",
+      "line": "l1"
+    },
+    {
+      "id": "s2",
+      "start": 4.167,
+      "end": 8.333,
+      "brief": "Person outdoors looking serious or brooding in profile (ref: Young man standing on a beach at sunset, looking away toward the horizon with a solemn expression.; tripod)",
+      "line": "l3"
+    },
+    {
+      "id": "s3",
+      "start": 8.333,
+      "end": 12.633,
+      "brief": "Person sitting at a desk looking down or defeated (ref: Young man sitting at a classroom desk with arms folded, head lowered in a discouraged posture.; tripod)",
+      "line": "l5"
+    }
+  ],
+  "audit": {
+    "kind": "broll_with_text",
+    "creatorSpeaks": false,
+    "audio": "music only",
+    "special": [
+      "Matched pairs of clips in identical locations and outfits: one looking somber/contemplative and one smiling/laughing at the camera"
+    ],
+    "reusable": false,
+    "notes": "This format depends entirely on matched 'before and after' pairs: a serious/downcast expression cut directly to a cheerful smiling reaction in the exact same spot and outfit. A general B-roll library rarely contains deliberate pairs of opposite emotions in identical scenes.",
+    "summary": "Three pairs of clips contrasting a negative thought with a positive mindset reframe. In each pair, the creator is seen in the same location looking pensive or defeated, followed by a cut where he smiles warmly at the camera."
+  },
+  "caption": {
+    "ref": "",
+    "guide": ""
+  },
+  "draft": true
+}

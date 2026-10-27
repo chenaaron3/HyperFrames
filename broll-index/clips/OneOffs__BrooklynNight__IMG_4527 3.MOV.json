@@ -1,0 +1,83 @@
+{
+  "path": "OneOffs/BrooklynNight/IMG_4527 3.MOV",
+  "folder": "OneOffs/BrooklynNight",
+  "fingerprint": "c73e111686636260",
+  "width": 1080,
+  "height": 1920,
+  "fps": 30.0,
+  "duration": 3.833,
+  "model": "gemini-3.8-flash",
+  "annotatedAt": "2026-10-24T18:22:52+00:00",
+  "summary": "A young man walks up a modern concrete staircase lined with lush indoor plants while carrying yellow CAVA takeout bags, turning back to smile at the camera.",
+  "location": "modern building staircase",
+  "setting": "indoor",
+  "time_of_day": "day",
+  "weather": "n/a",
+  "people": {
+    "count": 1,
+    "creator_visible": true,
+    "description": "Young man in a black graphic t-shirt, black shorts, white sneakers, and glasses carrying takeout bags"
+  },
+  "camera": {
+    "style": "filmed_by_friend",
+    "framing": "medium",
+    "movement": "tracking",
+    "angle": "low angle looking up"
+  },
+  "quality": {
+    "usable": true,
+    "stability": "steady",
+    "exposure": "good",
+    "issues": ""
+  },
+  "mood": [
+    "playful",
+    "casual",
+    "cheerful",
+    "lifestyle"
+  ],
+  "energy": "medium",
+  "tags": [
+    "staircase",
+    "stairs",
+    "walking up",
+    "cava",
+    "takeout bags",
+    "indoor plants",
+    "greenery",
+    "modern building",
+    "bringing food",
+    "smile",
+    "brooklyn",
+    "lunch run",
+    "dinner delivery"
+  ],
+  "moments": [
+    {
+      "start": 0.0,
+      "end": 2.5,
+      "action": "Man climbs stairs carrying CAVA takeout bags and turns around to smile at the camera",
+      "emotion": "cheerful, playful smile",
+      "good_for": [
+        "securing the food",
+        "dinner is served",
+        "bringing takeout to the hangout",
+        "food on my plate",
+        "little daily joys"
+      ],
+      "score": 4
+    },
+    {
+      "start": 2.0,
+      "end": 3.83,
+      "action": "Man finishes walking up the stairs into a lush plant-filled lobby",
+      "emotion": "relaxed, purposeful",
+      "good_for": [
+        "on my way up",
+        "apartment lobby vibes",
+        "casual afternoon"
+      ],
+      "score": 3
+    }
+  ]
+}

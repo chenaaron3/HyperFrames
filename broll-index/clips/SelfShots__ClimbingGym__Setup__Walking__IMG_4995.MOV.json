@@ -1,0 +1,81 @@
+{
+  "path": "SelfShots/ClimbingGym/Setup/Walking/IMG_4995.MOV",
+  "folder": "SelfShots/ClimbingGym/Setup/Walking",
+  "fingerprint": "1bc6468f00869c29",
+  "width": 1080,
+  "height": 1920,
+  "fps": 29.97,
+  "duration": 27.715,
+  "model": "gemini-3.8-flash",
+  "annotatedAt": "2026-10-24T18:54:49+00:00",
+  "summary": "A young man walks up a modern flight of stairs illuminated by hanging light rods, reaches the top landing, and then walks back down.",
+  "location": "gym",
+  "setting": "indoor",
+  "time_of_day": "indoor_unknown",
+  "weather": "n/a",
+  "people": {
+    "count": 1,
+    "creator_visible": true,
+    "description": "Young East Asian man with dark hair, wearing a loose brown short-sleeve button-down shirt and dark pants"
+  },
+  "camera": {
+    "style": "tripod_static",
+    "framing": "wide",
+    "movement": "static",
+    "angle": "low angle looking up"
+  },
+  "quality": {
+    "usable": true,
+    "stability": "locked",
+    "exposure": "good",
+    "issues": ""
+  },
+  "mood": [
+    "calm",
+    "modern",
+    "cinematic",
+    "routine"
+  ],
+  "energy": "low",
+  "tags": [
+    "stairs",
+    "walking",
+    "staircase",
+    "architecture",
+    "modern interior",
+    "lighting",
+    "gym",
+    "transit",
+    "routine",
+    "leaving",
+    "arriving"
+  ],
+  "moments": [
+    {
+      "start": 1.5,
+      "end": 8.0,
+      "action": "Man enters frame from bottom and walks up the stairs towards the bright top landing",
+      "emotion": "neutral, focused",
+      "good_for": [
+        "climbing to the top",
+        "steps in the right direction",
+        "heading into work",
+        "daily commute"
+      ],
+      "score": 4
+    },
+    {
+      "start": 19.0,
+      "end": 23.5,
+      "action": "Man walks down the stairs toward and past the camera",
+      "emotion": "relaxed, casual",
+      "good_for": [
+        "heading out",
+        "on my way",
+        "leaving the gym",
+        "day in my life transition"
+      ],
+      "score": 4
+    }
+  ]
+}

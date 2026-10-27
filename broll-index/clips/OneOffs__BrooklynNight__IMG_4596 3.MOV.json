@@ -1,0 +1,67 @@
+{
+  "path": "OneOffs/BrooklynNight/IMG_4596 3.MOV",
+  "folder": "OneOffs/BrooklynNight",
+  "fingerprint": "e7c8faaa50f4e1ca",
+  "width": 1080,
+  "height": 1920,
+  "fps": 30.0,
+  "duration": 2.633,
+  "model": "gemini-3.8-flash",
+  "annotatedAt": "2026-10-24T18:24:31+00:00",
+  "summary": "A close-up shot of a large public art sculpture resembling a classical sculpted head illuminated outdoors at night in Brooklyn.",
+  "location": "city plaza",
+  "setting": "outdoor",
+  "time_of_day": "night",
+  "weather": "n/a",
+  "people": {
+    "count": 0,
+    "creator_visible": false,
+    "description": "No people are visible in the frame."
+  },
+  "camera": {
+    "style": "pov_first_person",
+    "framing": "medium",
+    "movement": "handheld",
+    "angle": "eye level"
+  },
+  "quality": {
+    "usable": true,
+    "stability": "steady",
+    "exposure": "mixed",
+    "issues": ""
+  },
+  "mood": [
+    "mysterious",
+    "artsy",
+    "urban",
+    "calm"
+  ],
+  "energy": "low",
+  "tags": [
+    "sculpture",
+    "public art",
+    "statue",
+    "brooklyn",
+    "night walk",
+    "art installation",
+    "city at night",
+    "classical head",
+    "architecture",
+    "dumbo"
+  ],
+  "moments": [
+    {
+      "start": 0.0,
+      "end": 2.63,
+      "action": "Camera observes a large carved classical face sculpture lit up against a nighttime city backdrop.",
+      "emotion": "contemplative",
+      "good_for": [
+        "late night walks",
+        "city discoveries",
+        "finding art everywhere",
+        "brooklyn nights"
+      ],
+      "score": 3
+    }
+  ]
+}

@@ -1,0 +1,69 @@
+{
+  "path": "Cinematic/UES/IMG_4500.MOV",
+  "folder": "Cinematic/UES",
+  "fingerprint": "c3f8432ce6af0062",
+  "width": 1080,
+  "height": 1920,
+  "fps": 30.0,
+  "duration": 2.933,
+  "model": "gemini-3.8-flash",
+  "annotatedAt": "2026-10-24T18:20:05+00:00",
+  "summary": "Street scene of a busy Upper East Side intersection in New York City with yellow cabs and cars passing in front of a Whole Foods Market.",
+  "location": "city street",
+  "setting": "outdoor",
+  "time_of_day": "day",
+  "weather": "overcast",
+  "people": {
+    "count": 5,
+    "creator_visible": false,
+    "description": "Pedestrians walking along the sidewalk and crossing the street in the distance."
+  },
+  "camera": {
+    "style": "pov_first_person",
+    "framing": "wide",
+    "movement": "static",
+    "angle": "eye level"
+  },
+  "quality": {
+    "usable": true,
+    "stability": "steady",
+    "exposure": "good",
+    "issues": ""
+  },
+  "mood": [
+    "urban",
+    "bustling",
+    "city life"
+  ],
+  "energy": "medium",
+  "tags": [
+    "nyc",
+    "new york city",
+    "upper east side",
+    "ues",
+    "whole foods",
+    "yellow cab",
+    "taxi",
+    "traffic",
+    "crosswalk",
+    "city street",
+    "manhattan",
+    "b-roll"
+  ],
+  "moments": [
+    {
+      "start": 0.0,
+      "end": 2.93,
+      "action": "Yellow cabs and cars drive through an intersection in front of a Whole Foods Market while pedestrians cross in the background.",
+      "emotion": "busy city atmosphere",
+      "good_for": [
+        "living in nyc",
+        "city life",
+        "running errands",
+        "errand day",
+        "upper east side mornings"
+      ],
+      "score": 3
+    }
+  ]
+}

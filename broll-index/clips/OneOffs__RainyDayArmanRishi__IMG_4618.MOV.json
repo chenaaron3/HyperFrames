@@ -1,0 +1,82 @@
+{
+  "path": "OneOffs/RainyDayArmanRishi/IMG_4618.MOV",
+  "folder": "OneOffs/RainyDayArmanRishi",
+  "fingerprint": "d704b99c68325735",
+  "width": 1080,
+  "height": 1920,
+  "fps": 30.0,
+  "duration": 6.667,
+  "model": "gemini-3.8-flash",
+  "annotatedAt": "2026-10-24T18:35:59+00:00",
+  "summary": "A handheld camera pans across a wet New York City avenue on a rainy day, showing traffic, a yellow cab, and a striped steam pipe venting dense white clouds into the street next to a park.",
+  "location": "city street",
+  "setting": "outdoor",
+  "time_of_day": "day",
+  "weather": "rain",
+  "people": {
+    "count": 8,
+    "creator_visible": false,
+    "description": "Pedestrians carrying umbrellas walking along wet city sidewalks and drivers in street traffic."
+  },
+  "camera": {
+    "style": "pov_first_person",
+    "framing": "wide",
+    "movement": "pan",
+    "angle": "eye level"
+  },
+  "quality": {
+    "usable": true,
+    "stability": "steady",
+    "exposure": "good",
+    "issues": ""
+  },
+  "mood": [
+    "atmospheric",
+    "gloomy",
+    "moody",
+    "urban"
+  ],
+  "energy": "low",
+  "tags": [
+    "nyc",
+    "new york city",
+    "rain",
+    "rainy day",
+    "steam pipe",
+    "wet street",
+    "manhattan",
+    "yellow cab",
+    "bryant park",
+    "city vibes",
+    "overcast",
+    "urban life"
+  ],
+  "moments": [
+    {
+      "start": 0.0,
+      "end": 3.2,
+      "action": "Camera pans across a wet Manhattan avenue with cars, pedestrians with umbrellas, and a passing yellow cab.",
+      "emotion": "moody, urban quiet",
+      "good_for": [
+        "rainy days in the city",
+        "concrete jungle",
+        "city mood",
+        "gloomy commute"
+      ],
+      "score": 3
+    },
+    {
+      "start": 3.5,
+      "end": 6.67,
+      "action": "Panned view settling onto a striped steam chimney vigorously releasing white steam across the wet asphalt.",
+      "emotion": "cinematic, classic NYC aesthetic",
+      "good_for": [
+        "classic NYC moments",
+        "cold rainy weather",
+        "city atmosphere",
+        "walking through the city"
+      ],
+      "score": 4
+    }
+  ]
+}

@@ -1,0 +1,118 @@
+{
+  "path": "SelfShots/Eating/IMG_5155.MOV",
+  "folder": "SelfShots/Eating",
+  "fingerprint": "54880ea5a755d6c4",
+  "width": 1080,
+  "height": 1920,
+  "fps": 30.0,
+  "duration": 134.873,
+  "model": "gemini-3.8-flash",
+  "annotatedAt": "2026-10-24T18:57:33+00:00",
+  "summary": "A young Asian man in a blazer sits inside a busy dumpling shop, dipping fried dumplings into sauce and eating while listening to a conversation.",
+  "location": "restaurant",
+  "setting": "indoor",
+  "time_of_day": "indoor_unknown",
+  "weather": "n/a",
+  "people": {
+    "count": 5,
+    "creator_visible": true,
+    "description": "Young Asian man with wavy dark hair, wearing a black blazer over a light blue polo shirt, sitting at a table eating dumplings while other patrons stand in the background"
+  },
+  "camera": {
+    "style": "tripod_static",
+    "framing": "medium",
+    "movement": "static",
+    "angle": "eye level"
+  },
+  "quality": {
+    "usable": true,
+    "stability": "locked",
+    "exposure": "good",
+    "issues": ""
+  },
+  "mood": [
+    "casual",
+    "attentive",
+    "hungry",
+    "relatable",
+    "calm"
+  ],
+  "energy": "low",
+  "tags": [
+    "dumplings",
+    "eating",
+    "takeout",
+    "casual dining",
+    "street food",
+    "foodie",
+    "chubby cheeks",
+    "listening",
+    "restaurant",
+    "lunch",
+    "solo dining",
+    "blazer"
+  ],
+  "moments": [
+    {
+      "start": 3.5,
+      "end": 12.0,
+      "action": "Dips a fried dumpling into sauce, takes a bite, and chews thoughtfully while looking forward",
+      "emotion": "content",
+      "good_for": [
+        "food on my plate",
+        "comfort food therapy",
+        "cheap eats in the city",
+        "solo lunch dates"
+      ],
+      "score": 4
+    },
+    {
+      "start": 16.5,
+      "end": 23.5,
+      "action": "Dips another dumpling piece into sauce and eats it, nodding slightly as he listens",
+      "emotion": "attentive",
+      "good_for": [
+        "listening to friends yap",
+        "eating good food",
+        "simple daily joys"
+      ],
+      "score": 4
+    },
+    {
+      "start": 51.5,
+      "end": 57.5,
+      "action": "Takes a dumpling bite with a plastic fork and chews pensively",
+      "emotion": "focused",
+      "good_for": [
+        "just nod and eat",
+        "recharging with food",
+        "midday food run"
+      ],
+      "score": 3
+    },
+    {
+      "start": 105.0,
+      "end": 113.5,
+      "action": "Bites into a dumpling, listens intently, and swallows while looking around the room",
+      "emotion": "contemplative",
+      "good_for": [
+        "hearing out my friend's drama",
+        "fueling up",
+        "casual conversations"
+      ],
+      "score": 4
+    },
+    {
+      "start": 134.87,
+      "end": 134.87,
+      "action": "Takes another bite of food and chews quietly as people queue in line behind him",
+      "emotion": "calm",
+      "good_for": [
+        "bustling city vibes",
+        "lunch break moments",
+        "living simply"
+      ],
+      "score": 3
+    }
+  ]
+}

@@ -1,0 +1,94 @@
+{
+  "path": "OneOffs/Eating/IMG_4897.MOV",
+  "folder": "OneOffs/Eating",
+  "fingerprint": "0f4b471059ac86ba",
+  "width": 1080,
+  "height": 1920,
+  "fps": 30.0,
+  "duration": 18.502,
+  "model": "gemini-3.8-flash",
+  "annotatedAt": "2026-10-24T18:35:35+00:00",
+  "summary": "A man in a black shirt sits at a restaurant table, laughing happily before picking up a pink cocktail and taking a drink through a straw.",
+  "location": "restaurant",
+  "setting": "indoor",
+  "time_of_day": "night",
+  "weather": "n/a",
+  "people": {
+    "count": 1,
+    "creator_visible": true,
+    "description": "Young South Asian man with glasses and a black button-down shirt seated at a wooden table"
+  },
+  "camera": {
+    "style": "filmed_by_friend",
+    "framing": "medium",
+    "movement": "static",
+    "angle": "eye level"
+  },
+  "quality": {
+    "usable": true,
+    "stability": "steady",
+    "exposure": "good",
+    "issues": "slight lens flare from restaurant lighting at 00:11"
+  },
+  "mood": [
+    "happy",
+    "amused",
+    "relaxed",
+    "social"
+  ],
+  "energy": "medium",
+  "tags": [
+    "cocktail",
+    "drink",
+    "restaurant",
+    "bar",
+    "happy hour",
+    "laughing",
+    "dinner date",
+    "night out",
+    "straw",
+    "foodie",
+    "drinks with friends"
+  ],
+  "moments": [
+    {
+      "start": 0.0,
+      "end": 5.5,
+      "action": "Man laughs heartily looking down at his cocktail and picks up the glass",
+      "emotion": "big laugh",
+      "good_for": [
+        "when the drinks hit",
+        "drinks with friends",
+        "laughing at nothing",
+        "night out memories"
+      ],
+      "score": 4
+    },
+    {
+      "start": 5.5,
+      "end": 12.0,
+      "action": "Man leans over and sips the pink cocktail through a straw",
+      "emotion": "content and tasting",
+      "good_for": [
+        "first sip of the weekend",
+        "trying new cocktails",
+        "happy hour vibes",
+        "drinks test"
+      ],
+      "score": 4
+    },
+    {
+      "start": 12.0,
+      "end": 18.5,
+      "action": "Man finishes sipping, sits back, and smiles approvingly while talking to friend",
+      "emotion": "impressed and happy",
+      "good_for": [
+        "reviewing the drinks",
+        "finding your new favorite drink",
+        "dinner conversations",
+        "good company"
+      ],
+      "score": 4
+    }
+  ]
+}

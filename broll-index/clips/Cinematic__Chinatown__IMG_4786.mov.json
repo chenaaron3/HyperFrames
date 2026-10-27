@@ -1,0 +1,68 @@
+{
+  "path": "Cinematic/Chinatown/IMG_4786.mov",
+  "folder": "Cinematic/Chinatown",
+  "fingerprint": "054c86b5841c5aec",
+  "width": 1080,
+  "height": 1920,
+  "fps": 30.0,
+  "duration": 5.334,
+  "model": "gemini-3.8-flash",
+  "annotatedAt": "2026-10-24T18:19:25+00:00",
+  "summary": "Shoppers browse a long refrigerated meat and seafood display counter inside a brightly lit Chinatown grocery store.",
+  "location": "supermarket",
+  "setting": "indoor",
+  "time_of_day": "indoor_unknown",
+  "weather": "n/a",
+  "people": {
+    "count": 5,
+    "creator_visible": false,
+    "description": "Shoppers carrying shopping baskets, wearing casual jackets and backpacks, browsing goods in an Asian supermarket aisle"
+  },
+  "camera": {
+    "style": "handheld_cinematic",
+    "framing": "wide",
+    "movement": "static",
+    "angle": "eye level"
+  },
+  "quality": {
+    "usable": true,
+    "stability": "steady",
+    "exposure": "good",
+    "issues": ""
+  },
+  "mood": [
+    "mundane",
+    "observational",
+    "authentic",
+    "routine"
+  ],
+  "energy": "low",
+  "tags": [
+    "chinatown",
+    "supermarket",
+    "grocery shopping",
+    "market",
+    "food counter",
+    "daily life",
+    "errands",
+    "city life",
+    "asian market",
+    "shopping aisle"
+  ],
+  "moments": [
+    {
+      "start": 0.0,
+      "end": 5.33,
+      "action": "Static wide view of customers walking and examining products along a long refrigerated food counter under colorful pendant lights",
+      "emotion": "calm",
+      "good_for": [
+        "grocery run",
+        "running errands",
+        "chinatown routine",
+        "daily chores",
+        "finding comfort in routine"
+      ],
+      "score": 3
+    }
+  ]
+}

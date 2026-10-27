@@ -1,0 +1,107 @@
+{
+  "path": "SelfShots/ClimbingGym/OnTheWall/10:22:26_Red_x25/IMG_5229.MOV",
+  "folder": "SelfShots/ClimbingGym/OnTheWall/10:22:26_Red_x25",
+  "fingerprint": "a7db27a0a006f066",
+  "width": 1080,
+  "height": 1920,
+  "fps": 30.0,
+  "duration": 51.003,
+  "model": "gemini-3.8-flash",
+  "annotatedAt": "2026-10-24T18:49:35+00:00",
+  "summary": "A young man attempts a bouldering problem at an indoor climbing gym, methodically working his way across the wall before falling and walking past the camera.",
+  "location": "climbing gym",
+  "setting": "indoor",
+  "time_of_day": "day",
+  "weather": "n/a",
+  "people": {
+    "count": 1,
+    "creator_visible": true,
+    "description": "Young Asian man with messy dark hair, wearing a white tank top, loose jeans, and climbing shoes"
+  },
+  "camera": {
+    "style": "tripod_static",
+    "framing": "wide",
+    "movement": "static",
+    "angle": "eye level"
+  },
+  "quality": {
+    "usable": true,
+    "stability": "locked",
+    "exposure": "good",
+    "issues": ""
+  },
+  "mood": [
+    "focused",
+    "athletic",
+    "determined",
+    "persistent"
+  ],
+  "energy": "medium",
+  "tags": [
+    "climbing gym",
+    "bouldering",
+    "rock climbing",
+    "indoor climbing",
+    "workout",
+    "fitness",
+    "calisthenics",
+    "problem solving",
+    "active lifestyle",
+    "athletic",
+    "perseverance"
+  ],
+  "moments": [
+    {
+      "start": 3.5,
+      "end": 9.0,
+      "action": "Climber approaches the wall and locks his hands and feet onto the starting holds",
+      "emotion": "focused",
+      "good_for": [
+        "starting the journey",
+        "getting to work",
+        "lock in",
+        "discipline over motivation"
+      ],
+      "score": 4
+    },
+    {
+      "start": 22.0,
+      "end": 28.5,
+      "action": "Climber extends his right leg out wide to smear and balance across holds",
+      "emotion": "composed",
+      "good_for": [
+        "finding balance",
+        "taking a leap of faith",
+        "stretching your limits",
+        "trusting the process"
+      ],
+      "score": 4
+    },
+    {
+      "start": 35.0,
+      "end": 44.5,
+      "action": "Climber maneuvers higher on the wall, carefully shifting weight between holds",
+      "emotion": "determined",
+      "good_for": [
+        "pushing through the fatigue",
+        "almost there",
+        "holding on",
+        "gym progress"
+      ],
+      "score": 4
+    },
+    {
+      "start": 44.5,
+      "end": 50.0,
+      "action": "Climber slips, falls onto the safety mat, and walks past the camera breathing heavily",
+      "emotion": "exhausted",
+      "good_for": [
+        "falling and getting back up",
+        "failure is part of growth",
+        "trying again tomorrow",
+        "post-workout exhaustion"
+      ],
+      "score": 5
+    }
+  ]
+}

@@ -1,0 +1,117 @@
+{
+  "path": "SelfShots/ClimbingGym/OnTheWall/10:22:26_Red_x25/IMG_5222.MOV",
+  "folder": "SelfShots/ClimbingGym/OnTheWall/10:22:26_Red_x25",
+  "fingerprint": "3bfc3ff73a041a2c",
+  "width": 1080,
+  "height": 1920,
+  "fps": 30.0,
+  "duration": 44.77,
+  "model": "gemini-3.8-flash",
+  "annotatedAt": "2026-10-24T18:49:20+00:00",
+  "summary": "A young man at an indoor bouldering gym approaches a climbing wall, tackles a difficult route using purple and blue holds, works through several technical moves, and drops down after attempting the top.",
+  "location": "gym",
+  "setting": "indoor",
+  "time_of_day": "indoor_unknown",
+  "weather": "n/a",
+  "people": {
+    "count": 1,
+    "creator_visible": true,
+    "description": "Young East Asian man with wavy dark hair, wearing a grey ribbed tank top, grey loose trousers, climbing shoes, and white earbuds"
+  },
+  "camera": {
+    "style": "tripod_static",
+    "framing": "wide",
+    "movement": "static",
+    "angle": "eye level"
+  },
+  "quality": {
+    "usable": true,
+    "stability": "locked",
+    "exposure": "good",
+    "issues": ""
+  },
+  "mood": [
+    "focused",
+    "athletic",
+    "determined",
+    "active"
+  ],
+  "energy": "medium",
+  "tags": [
+    "bouldering",
+    "climbing",
+    "climbing gym",
+    "indoor climbing",
+    "rock climbing",
+    "grip strength",
+    "fitness",
+    "workout",
+    "problem solving",
+    "athletic",
+    "training"
+  ],
+  "moments": [
+    {
+      "start": 2.0,
+      "end": 7.0,
+      "action": "Man walks toward the climbing wall, chalks his hands, and reaches out to inspect and grip the starting holds",
+      "emotion": "focused",
+      "good_for": [
+        "pre-workout focus",
+        "getting ready to try again",
+        "lock in",
+        "starting the routine"
+      ],
+      "score": 4
+    },
+    {
+      "start": 7.0,
+      "end": 14.0,
+      "action": "Man pulls himself onto the starting volumes and positions his feet on lower wall chips",
+      "emotion": "determined",
+      "good_for": [
+        "trust the process",
+        "the first step",
+        "finding your footing"
+      ],
+      "score": 3
+    },
+    {
+      "start": 23.0,
+      "end": 30.0,
+      "action": "Man extends one arm high to reach a purple slope hold and adjusts his body positioning against the wall",
+      "emotion": "intense concentration",
+      "good_for": [
+        "pushing past limits",
+        "reaching higher",
+        "core strength"
+      ],
+      "score": 4
+    },
+    {
+      "start": 33.0,
+      "end": 39.5,
+      "action": "Man makes a dynamic reach toward the top pink hold, holds on briefly, and drops safely onto the padded mat",
+      "emotion": "effort followed by release",
+      "good_for": [
+        "almost had it",
+        "trying hard",
+        "fail until you succeed",
+        "gym progress"
+      ],
+      "score": 4
+    },
+    {
+      "start": 39.5,
+      "end": 42.5,
+      "action": "Man lands on his feet, turns around, exhales, and walks toward the camera",
+      "emotion": "exhausted but calm",
+      "good_for": [
+        "time to reset",
+        "back to the drawing board",
+        "post-attempt breath"
+      ],
+      "score": 3
+    }
+  ]
+}

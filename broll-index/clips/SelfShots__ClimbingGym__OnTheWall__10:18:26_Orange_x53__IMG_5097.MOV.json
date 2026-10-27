@@ -1,0 +1,80 @@
+{
+  "path": "SelfShots/ClimbingGym/OnTheWall/10:18:26_Orange_x53/IMG_5097.MOV",
+  "folder": "SelfShots/ClimbingGym/OnTheWall/10:18:26_Orange_x53",
+  "fingerprint": "a62a195d20044a94",
+  "width": 1080,
+  "height": 1920,
+  "fps": 120.0,
+  "duration": 7.5,
+  "model": "gemini-3.8-flash",
+  "annotatedAt": "2026-10-24T18:39:57+00:00",
+  "summary": "A young man sits in the seating area of an indoor climbing gym and takes a sip from a Celsius energy drink can before reaching to adjust the camera.",
+  "location": "climbing gym",
+  "setting": "indoor",
+  "time_of_day": "indoor_unknown",
+  "weather": "n/a",
+  "people": {
+    "count": 6,
+    "creator_visible": true,
+    "description": "Young East Asian man with wavy dark hair, wearing a light blue short-sleeve button-down shirt, silver necklace, and earrings. Other gym patrons sit on benches in the blurred background."
+  },
+  "camera": {
+    "style": "tripod_static",
+    "framing": "medium",
+    "movement": "static",
+    "angle": "eye level"
+  },
+  "quality": {
+    "usable": true,
+    "stability": "steady",
+    "exposure": "good",
+    "issues": "Can occludes lens between 1.5s and 2.2s; hand reaching for camera at end"
+  },
+  "mood": [
+    "casual",
+    "routine",
+    "calm"
+  ],
+  "energy": "low",
+  "tags": [
+    "celsius",
+    "energy drink",
+    "climbing gym",
+    "bouldering",
+    "drinking",
+    "hydration",
+    "workout break",
+    "rest",
+    "casual",
+    "gym lounge",
+    "lifestyle"
+  ],
+  "moments": [
+    {
+      "start": 2.5,
+      "end": 5.2,
+      "action": "Creator raises a Celsius energy drink can to his lips and takes a long drink while looking forward and slightly to the side",
+      "emotion": "calm and focused",
+      "good_for": [
+        "caffeine kick",
+        "pre workout routine",
+        "staying hydrated",
+        "fueling up",
+        "gym break"
+      ],
+      "score": 4
+    },
+    {
+      "start": 5.2,
+      "end": 6.8,
+      "action": "Creator lowers the can, swallows, and glances around the gym lounge before leaning forward",
+      "emotion": "neutral",
+      "good_for": [
+        "rest between sets",
+        "observing people",
+        "gym thoughts"
+      ],
+      "score": 3
+    }
+  ]
+}

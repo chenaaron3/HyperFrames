@@ -1,0 +1,505 @@
+{
+  "id": "relatable-6",
+  "name": "My First Day at a New Job (Tech Sales)",
+  "reference": "references/viral-formats/relatable-6.mp4",
+  "source": "/Users/aaron/Downloads/100 Viral Formats (Format Book)/Relatable/#6/#6.mp4",
+  "duration": 50.867,
+  "music": {
+    "from": "reference",
+    "title": "Incubus - Drive"
+  },
+  "text": {
+    "y": 0.498,
+    "size": 52,
+    "weight": 700,
+    "lineHeight": 1.4,
+    "maxWidth": 900,
+    "style": "outline"
+  },
+  "lines": [
+    {
+      "id": "l1",
+      "start": 0.0,
+      "end": 1.8,
+      "ref": "My First Day\nat a New Job\n(Tech Sales)",
+      "y": 0.498,
+      "measuredSize": 77,
+      "style": "plain_white_outline",
+      "guide": ""
+    },
+    {
+      "id": "l2",
+      "start": 1.8,
+      "end": 3.867,
+      "ref": "9:50am\nlogin",
+      "y": 0.689,
+      "measuredSize": 46,
+      "style": "plain_white_outline",
+      "guide": ""
+    },
+    {
+      "id": "l3",
+      "start": 3.867,
+      "end": 6.033,
+      "ref": "10am\nintro meeting",
+      "y": 0.693,
+      "measuredSize": 38,
+      "style": "plain_white_outline",
+      "guide": ""
+    },
+    {
+      "id": "l4",
+      "start": 6.033,
+      "end": 9.233,
+      "ref": "10:35am\ncoffee break",
+      "y": 0.689,
+      "measuredSize": 48,
+      "style": "plain_white_outline",
+      "guide": ""
+    },
+    {
+      "id": "l5",
+      "start": 9.233,
+      "end": 10.8,
+      "ref": "11am",
+      "y": 0.69,
+      "measuredSize": 43,
+      "style": "plain_white_outline",
+      "guide": ""
+    },
+    {
+      "id": "l6",
+      "start": 10.8,
+      "end": 14.733,
+      "ref": "Setup equipment & tech",
+      "y": 0.692,
+      "measuredSize": 43,
+      "style": "plain_white_outline",
+      "guide": ""
+    },
+    {
+      "id": "l7",
+      "start": 14.733,
+      "end": 16.5,
+      "ref": "11:54am",
+      "y": 0.689,
+      "measuredSize": 52,
+      "style": "plain_white_outline",
+      "guide": ""
+    },
+    {
+      "id": "l8",
+      "start": 16.5,
+      "end": 19.533,
+      "ref": "break for lunch",
+      "y": 0.689,
+      "measuredSize": 52,
+      "style": "plain_white_outline",
+      "guide": ""
+    },
+    {
+      "id": "l9",
+      "start": 19.533,
+      "end": 20.733,
+      "ref": "12:01pm",
+      "y": 0.689,
+      "measuredSize": 52,
+      "style": "plain_white_outline",
+      "guide": ""
+    },
+    {
+      "id": "l10",
+      "start": 20.733,
+      "end": 24.8,
+      "ref": "had to make\na pit stop",
+      "y": 0.693,
+      "measuredSize": 40,
+      "style": "plain_white_outline",
+      "guide": ""
+    },
+    {
+      "id": "l11",
+      "start": 24.8,
+      "end": 29.567,
+      "ref": "Old reliable 7/11",
+      "y": 0.689,
+      "measuredSize": 52,
+      "style": "plain_white_outline",
+      "guide": ""
+    },
+    {
+      "id": "l12",
+      "start": 29.567,
+      "end": 31.6,
+      "ref": "12:04pm",
+      "y": 0.689,
+      "measuredSize": 52,
+      "style": "plain_white_outline",
+      "guide": ""
+    },
+    {
+      "id": "l13",
+      "start": 31.6,
+      "end": 34.767,
+      "ref": "created lunch",
+      "y": 0.69,
+      "measuredSize": null,
+      "style": "plain_white_outline",
+      "guide": ""
+    },
+    {
+      "id": "l14",
+      "start": 34.767,
+      "end": 36.3,
+      "ref": "12:19pm",
+      "y": 0.689,
+      "measuredSize": 52,
+      "style": "plain_white_outline",
+      "guide": ""
+    },
+    {
+      "id": "l15",
+      "start": 36.3,
+      "end": 37.633,
+      "ref": "quick walk",
+      "y": 0.689,
+      "measuredSize": 52,
+      "style": "plain_white_outline",
+      "guide": ""
+    },
+    {
+      "id": "l16",
+      "start": 37.633,
+      "end": 42.067,
+      "ref": "12:30 - 3:30pm\ngeneral trainings\nand elect benefits",
+      "y": 0.689,
+      "measuredSize": 39,
+      "style": "plain_white_outline",
+      "guide": ""
+    },
+    {
+      "id": "l17",
+      "start": 42.067,
+      "end": 45.067,
+      "ref": "3:30pm\nmeet team",
+      "y": 0.69,
+      "measuredSize": 45,
+      "style": "plain_white_outline",
+      "guide": ""
+    },
+    {
+      "id": "l18",
+      "start": 45.067,
+      "end": 45.967,
+      "ref": "whatever",
+      "y": 0.502,
+      "measuredSize": 62,
+      "style": "plain_white_outline",
+      "guide": ""
+    },
+    {
+      "id": "l19",
+      "start": 45.967,
+      "end": 47.1,
+      "ref": "tomorrow",
+      "y": 0.502,
+      "measuredSize": 62,
+      "style": "plain_white_outline",
+      "guide": ""
+    },
+    {
+      "id": "l20",
+      "start": 47.1,
+      "end": 48.333,
+      "ref": "brings",
+      "y": 0.502,
+      "measuredSize": 62,
+      "style": "plain_white_outline",
+      "guide": ""
+    },
+    {
+      "id": "l21",
+      "start": 48.333,
+      "end": 49.0,
+      "ref": "I'll",
+      "y": 0.498,
+      "measuredSize": 82,
+      "style": "plain_white_outline",
+      "guide": ""
+    },
+    {
+      "id": "l22",
+      "start": 49.0,
+      "end": 49.667,
+      "ref": "be",
+      "y": 0.502,
+      "measuredSize": 60,
+      "style": "plain_white_outline",
+      "guide": ""
+    },
+    {
+      "id": "l23",
+      "start": 49.667,
+      "end": 50.5,
+      "ref": "there",
+      "y": 0.502,
+      "measuredSize": 62,
+      "style": "plain_white_outline",
+      "guide": ""
+    }
+  ],
+  "shots": [
+    {
+      "id": "s1",
+      "start": 0.0,
+      "end": 1.8,
+      "brief": "working on laptop, opening laptop (ref: Creator sitting at desk facing camera, opening laptop lid with excitement; tripod)",
+      "line": "l1"
+    },
+    {
+      "id": "s2",
+      "start": 1.8,
+      "end": 3.867,
+      "brief": "drinking coffee and typing on laptop at desk (ref: Creator sipping from a coffee mug while typing on laptop; tripod)",
+      "line": "l2"
+    },
+    {
+      "id": "s3",
+      "start": 3.867,
+      "end": 6.033,
+      "brief": "putting on headphones and waving at laptop screen (ref: Creator putting on over-ear headphones and waving at the laptop screen; tripod)",
+      "line": "l3"
+    },
+    {
+      "id": "s4",
+      "start": 6.033,
+      "end": 7.233,
+      "brief": "coffee machine pouring into mug (ref: Close-up of coffee dripping from an espresso machine into a mug; tripod)",
+      "line": "l4"
+    },
+    {
+      "id": "s5",
+      "start": 7.233,
+      "end": 8.4,
+      "brief": "walking through apartment holding coffee mug (ref: Creator walking back through apartment doorway holding a coffee mug; tripod)",
+      "line": "l4"
+    },
+    {
+      "id": "s6",
+      "start": 8.4,
+      "end": 9.233,
+      "brief": "wide shot of apartment desk setup with person working (ref: Wide shot of apartment living room with creator sitting at desk by the window; tripod)",
+      "line": "l4"
+    },
+    {
+      "id": "s7",
+      "start": 9.233,
+      "end": 10.4,
+      "brief": "sipping coffee at desk looking focused (ref: Medium shot of creator drinking coffee while staring focused at the screen; tripod)",
+      "line": "l5"
+    },
+    {
+      "id": "s8",
+      "start": 10.4,
+      "end": 12.133,
+      "brief": "unboxing tech hardware at desk (ref: Creator sitting at desk unwrapping work tech gear from bubble wrap; tripod)",
+      "line": "l6"
+    },
+    {
+      "id": "s9",
+      "start": 12.133,
+      "end": 13.1,
+      "brief": "close up working on laptop with headphones (ref: Close-up shot of creator wearing headphones looking at laptop screen; tripod)",
+      "line": "l6"
+    },
+    {
+      "id": "s10",
+      "start": 13.1,
+      "end": 14.733,
+      "brief": "closing laptop and getting up from desk (ref: Creator shutting laptop lid firmly and getting up from chair; tripod)",
+      "line": "l6"
+    },
+    {
+      "id": "s11",
+      "start": 14.733,
+      "end": 15.6,
+      "brief": "opening kitchen cabinet (ref: Creator opening white kitchen cabinet in apartment kitchen; tripod)",
+      "line": "l7"
+    },
+    {
+      "id": "s12",
+      "start": 15.6,
+      "end": 16.5,
+      "brief": "grabbing appliance from kitchen cupboard (ref: POV taking toaster out of cabinet shelf; POV)",
+      "line": "l7"
+    },
+    {
+      "id": "s13",
+      "start": 16.5,
+      "end": 17.333,
+      "brief": "putting bread into toaster (ref: Creator inserting bread slices into toaster on counter; tripod)",
+      "line": "l8"
+    },
+    {
+      "id": "s14",
+      "start": 17.333,
+      "end": 17.933,
+      "brief": "pushing down toaster lever close-up (ref: Close-up of hand pushing down toaster lever; POV)",
+      "line": "l8"
+    },
+    {
+      "id": "s15",
+      "start": 17.933,
+      "end": 18.6,
+      "brief": "opening cabinet in kitchen (ref: Creator opening cabinet above microwave; tripod)",
+      "line": "l8"
+    },
+    {
+      "id": "s16",
+      "start": 18.6,
+      "end": 19.533,
+      "brief": "taking supplement tub from kitchen shelf (ref: POV pulling container of powder from cabinet shelf; POV)",
+      "line": "l8"
+    },
+    {
+      "id": "s17",
+      "start": 19.533,
+      "end": 20.733,
+      "brief": "putting on shoes by front door (ref: Creator putting on sneakers at front door; tripod)",
+      "line": "l9"
+    },
+    {
+      "id": "s18",
+      "start": 20.733,
+      "end": 21.7,
+      "brief": "opening door and walking out into apartment hallway (ref: POV opening apartment door and walking out into hallway; POV)",
+      "line": "l10"
+    },
+    {
+      "id": "s19",
+      "start": 21.7,
+      "end": 23.167,
+      "brief": "pressing elevator button (ref: Hand pressing elevator call button; POV)",
+      "line": "l10"
+    },
+    {
+      "id": "s20",
+      "start": 23.167,
+      "end": 24.8,
+      "brief": "elevator doors closing (ref: Elevator doors sliding shut; tripod)",
+      "line": "l10"
+    },
+    {
+      "id": "s21",
+      "start": 24.8,
+      "end": 26.1,
+      "brief": "entering convenience store low angle (ref: Low angle looking up at creator entering convenience store automatic doors; tripod)",
+      "line": "l11"
+    },
+    {
+      "id": "s22",
+      "start": 26.1,
+      "end": 27.533,
+      "brief": "walking through grocery or convenience store aisle (ref: POV walking down snack aisle in convenience store; POV)",
+      "line": "l11"
+    },
+    {
+      "id": "s23",
+      "start": 27.533,
+      "end": 28.367,
+      "brief": "grabbing milk gallon from grocery cooler (ref: POV opening refrigerator glass door and grabbing gallon jug of milk; POV)",
+      "line": "l11"
+    },
+    {
+      "id": "s24",
+      "start": 28.367,
+      "end": 29.567,
+      "brief": "grabbing milk gallon from grocery cooler (ref: POV opening refrigerator glass door and grabbing gallon jug of milk; POV)",
+      "line": "l11"
+    },
+    {
+      "id": "s25",
+      "start": 29.567,
+      "end": 31.6,
+      "brief": "walking back into apartment with grocery item (ref: Creator entering apartment door holding milk gallon jug; tripod)",
+      "line": "l12"
+    },
+    {
+      "id": "s26",
+      "start": 31.6,
+      "end": 32.0,
+      "brief": "spreading butter/jam on toast at kitchen counter (ref: Creator buttering toasted bread at kitchen island; tripod)",
+      "line": "l13"
+    },
+    {
+      "id": "s27",
+      "start": 32.0,
+      "end": 32.867,
+      "brief": "spreading butter/jam on toast at kitchen counter (ref: Creator buttering toasted bread at kitchen island; tripod)",
+      "line": "l13"
+    },
+    {
+      "id": "s28",
+      "start": 32.867,
+      "end": 34.767,
+      "brief": "eating toast and holding shaker cup at desk/table (ref: Creator shaking protein bottle and eating toast; tripod)",
+      "line": "l13"
+    },
+    {
+      "id": "s29",
+      "start": 34.767,
+      "end": 36.3,
+      "brief": "walking outside looking up at sky and buildings (ref: Low-angle shot looking up at creator walking outside on a sunny street; selfie)",
+      "line": "l14"
+    },
+    {
+      "id": "s30",
+      "start": 36.3,
+      "end": 37.633,
+      "brief": "walking on city sidewalk toward camera (ref: Ground level shot of creator walking toward camera on city sidewalk; tripod)",
+      "line": "l15"
+    },
+    {
+      "id": "s31",
+      "start": 37.633,
+      "end": 38.3,
+      "brief": "sitting down at desk chair (ref: Over the shoulder shot of creator sitting back down in desk chair; tripod)",
+      "line": "l16"
+    },
+    {
+      "id": "s32",
+      "start": 38.3,
+      "end": 42.067,
+      "brief": "talking on video call at laptop (ref: Creator gesturing with hands while speaking on virtual call; tripod)",
+      "line": "l16"
+    },
+    {
+      "id": "s33",
+      "start": 42.067,
+      "end": 45.067,
+      "brief": "smiling, waving at screen, typing on laptop (ref: Creator smiling and waving goodbye to laptop screen, then typing; tripod)",
+      "line": "l17"
+    },
+    {
+      "id": "s34",
+      "start": 45.067,
+      "end": 50.867,
+      "brief": "black graphic screen with animated lyrics (ref: Black starfield graphic background with lyric words animating; other)",
+      "line": "l20"
+    }
+  ],
+  "audit": {
+    "kind": "broll_with_text",
+    "creatorSpeaks": false,
+    "audio": "music + ambient",
+    "special": [],
+    "reusable": true,
+    "notes": "This format is entirely composed of day-in-the-life b-roll clips (working on a laptop, drinking coffee, making a snack, walking outside, quick convenience store run) synced to upbeat music with time-stamp text overlays. Anyone with lifestyle b-roll can recreate this exact structure for their own remote work or study day.",
+    "summary": "A chronological 'day in the life' vlog showing the creator's first day working remotely in tech sales, featuring laptop work, coffee breaks, making lunch, a quick errand to 7/11, and afternoon training sessions, set to music with on-screen timestamps."
+  },
+  "caption": {
+    "ref": "",
+    "guide": ""
+  },
+  "draft": true
+}

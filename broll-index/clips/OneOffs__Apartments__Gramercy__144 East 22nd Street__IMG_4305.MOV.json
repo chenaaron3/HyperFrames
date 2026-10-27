@@ -1,0 +1,68 @@
+{
+  "path": "OneOffs/Apartments/Gramercy/144 East 22nd Street/IMG_4305.MOV",
+  "folder": "OneOffs/Apartments/Gramercy/144 East 22nd Street",
+  "fingerprint": "3d97ec17c762d945",
+  "width": 1080,
+  "height": 1920,
+  "fps": 29.97,
+  "duration": 4.435,
+  "model": "gemini-3.8-flash",
+  "annotatedAt": "2026-10-24T18:21:01+00:00",
+  "summary": "POV shot looking at a vintage black apartment elevator door with a small circular mesh window while waiting in a dim hallway.",
+  "location": "apartment building hallway",
+  "setting": "indoor",
+  "time_of_day": "indoor_unknown",
+  "weather": "n/a",
+  "people": {
+    "count": 0,
+    "creator_visible": false,
+    "description": "Nobody visible on screen"
+  },
+  "camera": {
+    "style": "pov_first_person",
+    "framing": "medium",
+    "movement": "static",
+    "angle": "eye level"
+  },
+  "quality": {
+    "usable": true,
+    "stability": "steady",
+    "exposure": "dark",
+    "issues": "Dim ambient lighting"
+  },
+  "mood": [
+    "vintage",
+    "eerie",
+    "impatient",
+    "urban",
+    "gloomy"
+  ],
+  "energy": "low",
+  "tags": [
+    "elevator",
+    "apartment hallway",
+    "vintage door",
+    "porthole window",
+    "brass elevator button",
+    "nyc apartment",
+    "waiting",
+    "dim lighting",
+    "urban living",
+    "historic building"
+  ],
+  "moments": [
+    {
+      "start": 0.0,
+      "end": 4.43,
+      "action": "Camera remains focused on the vintage black elevator door and glowing red directional light as creator waits",
+      "emotion": "anticipation",
+      "good_for": [
+        "waiting forever",
+        "old nyc buildings",
+        "nyc apartment struggles",
+        "vintage vibes"
+      ],
+      "score": 2
+    }
+  ]
+}

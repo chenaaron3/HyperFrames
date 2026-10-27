@@ -1,0 +1,54 @@
+{
+  "id": "advice-3",
+  "name": "I’m 32… and I wish I invested in these 5 assets in my 20s. (",
+  "reference": "references/viral-formats/advice-3.mp4",
+  "source": "/Users/aaron/Downloads/100 Viral Formats (Format Book)/Advice/#3/#3.mp4",
+  "duration": 9.567,
+  "music": {
+    "from": "reference",
+    "title": "Original Audio"
+  },
+  "text": {
+    "y": 0.298,
+    "size": 52,
+    "weight": 700,
+    "lineHeight": 1.4,
+    "maxWidth": 900,
+    "style": "outline"
+  },
+  "lines": [
+    {
+      "id": "l1",
+      "start": 0.0,
+      "end": 9.25,
+      "ref": "I’m 32… and I wish I invested\nin these 5 assets in my 20s.\n(Read Caption)",
+      "y": 0.298,
+      "measuredSize": 52,
+      "style": "plain_white_shadow",
+      "guide": ""
+    }
+  ],
+  "shots": [
+    {
+      "id": "s1",
+      "start": 0.0,
+      "end": 9.567,
+      "brief": "casual full-body lifestyle b-roll, posing or walking toward camera (ref: Full-body view of creator standing on driveway, fixing hair, twirling to show outfit, and walking back toward the camera smiling.; tripod)",
+      "line": "l1"
+    }
+  ],
+  "audit": {
+    "kind": "broll_with_text",
+    "creatorSpeaks": false,
+    "audio": "music only",
+    "special": [],
+    "reusable": true,
+    "notes": "Easily recreated with any walking, outfit check, or casual outdoor/lifestyle b-roll clip paired with an educational caption and strong hook text.",
+    "summary": "A creator poses and shows her outfit in front of her house under sunny skies while on-screen text hooks the audience with advice on investing in your 20s to direct them to the caption."
+  },
+  "caption": {
+    "ref": "",
+    "guide": ""
+  },
+  "draft": true
+}

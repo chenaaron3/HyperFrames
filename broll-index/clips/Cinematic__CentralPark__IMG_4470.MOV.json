@@ -1,0 +1,71 @@
+{
+  "path": "Cinematic/CentralPark/IMG_4470.MOV",
+  "folder": "Cinematic/CentralPark",
+  "fingerprint": "104002a4b8625a90",
+  "width": 1080,
+  "height": 1920,
+  "fps": 30.0,
+  "duration": 4.3,
+  "model": "gemini-3.8-flash",
+  "annotatedAt": "2026-10-24T18:18:51+00:00",
+  "summary": "A scenic view looking out from beneath a rustic stone archway in Central Park, framing a tranquil pond and sunlit walking path lined with trees.",
+  "location": "park",
+  "setting": "outdoor",
+  "time_of_day": "day",
+  "weather": "sunny",
+  "people": {
+    "count": 0,
+    "creator_visible": false,
+    "description": "No people clearly visible in frame"
+  },
+  "camera": {
+    "style": "handheld_cinematic",
+    "framing": "wide",
+    "movement": "pan",
+    "angle": "eye level"
+  },
+  "quality": {
+    "usable": true,
+    "stability": "steady",
+    "exposure": "mixed",
+    "issues": "high contrast between dark stone interior and bright exterior"
+  },
+  "mood": [
+    "peaceful",
+    "serene",
+    "reflective",
+    "calm",
+    "scenic"
+  ],
+  "energy": "low",
+  "tags": [
+    "central park",
+    "stone arch",
+    "bridge",
+    "tunnel",
+    "pond",
+    "reflection",
+    "trees",
+    "nature",
+    "walking path",
+    "city park",
+    "nyc",
+    "scenic view"
+  ],
+  "moments": [
+    {
+      "start": 0.0,
+      "end": 4.3,
+      "action": "Camera pans slowly from a pond reflection framed by a stone archway toward the paved path continuing ahead",
+      "emotion": "calm",
+      "good_for": [
+        "finding peace in the city",
+        "taking the scenic route",
+        "hidden gems",
+        "nature walk",
+        "quiet moments"
+      ],
+      "score": 4
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "path": "Cinematic/Chinatown/IMG_4783.mov",
+  "folder": "Cinematic/Chinatown",
+  "fingerprint": "2fd1b2d0c5c17b76",
+  "width": 1080,
+  "height": 1920,
+  "fps": 30.0,
+  "duration": 1.967,
+  "model": "gemini-3.8-flash",
+  "annotatedAt": "2026-10-24T18:19:18+00:00",
+  "summary": "A street food cart labeled 'Xiang Mini cake' operates on a city sidewalk in Chinatown as a pedestrian walks by.",
+  "location": "city street",
+  "setting": "outdoor",
+  "time_of_day": "day",
+  "weather": "overcast",
+  "people": {
+    "count": 2,
+    "creator_visible": false,
+    "description": "A vendor wearing a striped shirt and cap inside the food cart, and a woman in a black shirt walking past."
+  },
+  "camera": {
+    "style": "handheld_cinematic",
+    "framing": "medium",
+    "movement": "handheld",
+    "angle": "eye level"
+  },
+  "quality": {
+    "usable": true,
+    "stability": "handheld",
+    "exposure": "good",
+    "issues": "slightly muted overcast lighting, short clip"
+  },
+  "mood": [
+    "authentic",
+    "urban",
+    "casual",
+    "everyday"
+  ],
+  "energy": "low",
+  "tags": [
+    "chinatown",
+    "street food",
+    "food cart",
+    "mini cake",
+    "egg waffle",
+    "city life",
+    "sidewalk",
+    "urban exploration",
+    "new york city",
+    "pedestrian",
+    "vendor"
+  ],
+  "moments": [
+    {
+      "start": 0.0,
+      "end": 1.97,
+      "action": "A mini cake food cart stands on the sidewalk while a woman walks past in front of it",
+      "emotion": "everyday urban routine",
+      "good_for": [
+        "street food craving",
+        "exploring chinatown",
+        "cheap eats in the city",
+        "neighborhood gems"
+      ],
+      "score": 3
+    }
+  ]
+}

@@ -1,0 +1,306 @@
+{
+  "id": "story-9",
+  "name": "13: “dad, why do we have to move to Australia?”",
+  "reference": "references/viral-formats/story-9.mp4",
+  "source": "/Users/aaron/Downloads/100 Viral Formats (Format Book)/Storytelling/#9/#9.mp4",
+  "duration": 44.0,
+  "music": {
+    "from": "reference",
+    "title": "Runaway by Kayne West"
+  },
+  "text": {
+    "y": 0.229,
+    "size": 46,
+    "weight": 700,
+    "lineHeight": 1.4,
+    "maxWidth": 900,
+    "style": "outline"
+  },
+  "lines": [
+    {
+      "id": "l1",
+      "start": 0.0,
+      "end": 2.667,
+      "ref": "13: “dad, why do we have to\nmove to Australia?”",
+      "y": 0.229,
+      "measuredSize": 42,
+      "style": "plain_white_shadow",
+      "guide": ""
+    },
+    {
+      "id": "l2",
+      "start": 2.667,
+      "end": 5.467,
+      "ref": "14: “dad, they don't understand\nmy accent”",
+      "y": 0.236,
+      "measuredSize": 37,
+      "style": "plain_white_shadow",
+      "guide": ""
+    },
+    {
+      "id": "l3",
+      "start": 5.467,
+      "end": 8.167,
+      "ref": "15: “dad, I miss our family\nback home”",
+      "y": 0.17,
+      "measuredSize": 43,
+      "style": "plain_white_shadow",
+      "guide": ""
+    },
+    {
+      "id": "l4",
+      "start": 8.167,
+      "end": 10.867,
+      "ref": "15: “dad, why are you working\nwhen we're sleeping”",
+      "y": 0.236,
+      "measuredSize": 51,
+      "style": "plain_white_shadow",
+      "guide": ""
+    },
+    {
+      "id": "l5",
+      "start": 10.867,
+      "end": 13.467,
+      "ref": "16: “dad, I don't fit in here”",
+      "y": 0.221,
+      "measuredSize": 47,
+      "style": "plain_white_shadow",
+      "guide": ""
+    },
+    {
+      "id": "l6",
+      "start": 13.467,
+      "end": 16.667,
+      "ref": "16: “dad, I don't know what to\ndo with my future”",
+      "y": 0.249,
+      "measuredSize": 44,
+      "style": "plain_white_shadow",
+      "guide": ""
+    },
+    {
+      "id": "l7",
+      "start": 18.0,
+      "end": 19.0,
+      "ref": "“dad, you sacrificed so much…”",
+      "y": 0.371,
+      "measuredSize": 39,
+      "style": "plain_white_shadow",
+      "guide": ""
+    },
+    {
+      "id": "l8",
+      "start": 19.0,
+      "end": 21.1,
+      "ref": "“dad, you sacrificed so much…”\n\nso I could have the\nchance to dream.”",
+      "y": 0.5,
+      "measuredSize": 31,
+      "style": "plain_white_shadow",
+      "guide": ""
+    },
+    {
+      "id": "l9",
+      "start": 21.1,
+      "end": 23.833,
+      "ref": "17: “dad, I got into\ndentistry”",
+      "y": 0.13,
+      "measuredSize": 49,
+      "style": "plain_white_shadow",
+      "guide": ""
+    },
+    {
+      "id": "l10",
+      "start": 23.833,
+      "end": 26.6,
+      "ref": "21: “dad, I got my first job\nas a dentist”",
+      "y": 0.233,
+      "measuredSize": 48,
+      "style": "plain_white_shadow",
+      "guide": ""
+    },
+    {
+      "id": "l11",
+      "start": 26.6,
+      "end": 29.367,
+      "ref": "24: “dad I got into\nOrthodontics specialty training”",
+      "y": 0.17,
+      "measuredSize": 52,
+      "style": "plain_white_shadow",
+      "guide": ""
+    },
+    {
+      "id": "l12",
+      "start": 29.367,
+      "end": 32.033,
+      "ref": "27: “dad, I became a specialist\northodontist”",
+      "y": 0.234,
+      "measuredSize": 54,
+      "style": "plain_white_shadow",
+      "guide": ""
+    },
+    {
+      "id": "l13",
+      "start": 32.033,
+      "end": 35.033,
+      "ref": "28: “dad, I won an award for my\nresearch”",
+      "y": 0.254,
+      "measuredSize": 36,
+      "style": "plain_white_shadow",
+      "guide": ""
+    },
+    {
+      "id": "l14",
+      "start": 35.033,
+      "end": 37.9,
+      "ref": "32: “dad, I started my own\npractice”",
+      "y": 0.234,
+      "measuredSize": 40,
+      "style": "plain_white_shadow",
+      "guide": ""
+    },
+    {
+      "id": "l15",
+      "start": 37.9,
+      "end": 40.6,
+      "ref": "33: “dad, I'm helping people\nlike me love their smile”",
+      "y": 0.236,
+      "measuredSize": 52,
+      "style": "plain_white_shadow",
+      "guide": ""
+    },
+    {
+      "id": "l16",
+      "start": 40.6,
+      "end": 44.0,
+      "ref": "“thank you mum and dad,\nfor sacrificing everything so I\ncould dream big”",
+      "y": 0.203,
+      "measuredSize": 43,
+      "style": "plain_white_shadow",
+      "guide": ""
+    }
+  ],
+  "shots": [
+    {
+      "id": "s1",
+      "start": 0.0,
+      "end": 2.667,
+      "brief": "Childhood photo around age 13 with friends (ref: Old photo of the creator at age 13 smiling between school friends.; filmed by friend)",
+      "line": "l1"
+    },
+    {
+      "id": "s2",
+      "start": 2.667,
+      "end": 5.467,
+      "brief": "Teenage photo around age 14 (ref: Old photo of creator at age 14 standing by a piano with music sheets.; filmed by friend)",
+      "line": "l2"
+    },
+    {
+      "id": "s3",
+      "start": 5.467,
+      "end": 8.167,
+      "brief": "Teenage travel or community photo around age 15 (ref: Photo of creator at age 15 under a canopy of red lanterns.; filmed by friend)",
+      "line": "l3"
+    },
+    {
+      "id": "s4",
+      "start": 8.167,
+      "end": 10.867,
+      "brief": "Teenage hobby photo at home (ref: Photo of creator at age 15 sitting with a cello wearing a stuffed animal hat.; filmed by friend)",
+      "line": "l4"
+    },
+    {
+      "id": "s5",
+      "start": 10.867,
+      "end": 13.467,
+      "brief": "Teenage lifestyle photo in bedroom (ref: Photo of creator at age 16 in front of a Linkin Park poster in punk/emo clothing.; filmed by friend)",
+      "line": "l5"
+    },
+    {
+      "id": "s6",
+      "start": 13.467,
+      "end": 16.667,
+      "brief": "High school classroom photo (ref: Photo of creator at age 16 sitting at a classroom desk looking back at the camera.; filmed by friend)",
+      "line": "l6"
+    },
+    {
+      "id": "s7",
+      "start": 16.667,
+      "end": 21.1,
+      "brief": "Black transition graphic (ref: Solid black screen with text displaying gratitude to parents.; other)",
+      "line": "l7"
+    },
+    {
+      "id": "s8",
+      "start": 21.1,
+      "end": 23.833,
+      "brief": "Early university or career start photo (ref: Photo of creator at age 17 in dental student scrubs and safety glasses in a clinic chair.; filmed by friend)",
+      "line": "l9"
+    },
+    {
+      "id": "s9",
+      "start": 23.833,
+      "end": 26.6,
+      "brief": "Graduation day photo (ref: Photo/video clip of creator at age 21 wearing graduation gown and holding flowers.; filmed by friend)",
+      "line": "l10"
+    },
+    {
+      "id": "s10",
+      "start": 26.6,
+      "end": 29.367,
+      "brief": "Milestone achievement photo in office/school (ref: Photo of creator at age 24 excitedly holding a newly unboxed ThinkPad laptop box.; filmed by friend)",
+      "line": "l11"
+    },
+    {
+      "id": "s11",
+      "start": 29.367,
+      "end": 32.033,
+      "brief": "Formal celebration photo (ref: Photo of creator at age 27 in a red dress holding wine in a library.; filmed by friend)",
+      "line": "l12"
+    },
+    {
+      "id": "s12",
+      "start": 32.033,
+      "end": 35.033,
+      "brief": "Professional award stage photo (ref: Photo of award presentation slide on big screen and creator receiving award on stage.; filmed by friend)",
+      "line": "l13"
+    },
+    {
+      "id": "s13",
+      "start": 35.033,
+      "end": 37.9,
+      "brief": "Business owner plaque or storefront photo (ref: Photo of creator at age 32 standing next to her own orthodontic practice sign plaque.; filmed by friend)",
+      "line": "l14"
+    },
+    {
+      "id": "s14",
+      "start": 37.9,
+      "end": 40.6,
+      "brief": "Professional in work environment with client/patient (ref: Photo of creator at age 33 in dental scrubs smiling and talking to a patient in the chair.; filmed by friend)",
+      "line": "l15"
+    },
+    {
+      "id": "s15",
+      "start": 40.6,
+      "end": 44.0,
+      "brief": "Vintage childhood family photo with parents (ref: Vintage childhood family photo in front of a Christmas tree with parents holding creator and sibling as toddlers.; filmed by friend)",
+      "line": "l16"
+    }
+  ],
+  "audit": {
+    "kind": "photo_slideshow",
+    "creatorSpeaks": false,
+    "audio": "music only",
+    "special": [
+      "Personal childhood and teenage photos from specific ages (13, 14, 15, 16)",
+      "Personal career milestone photos (university, graduation, specialty training, starting practice)",
+      "Vintage family photo with parents"
+    ],
+    "reusable": false,
+    "notes": "This format relies entirely on authentic personal childhood and career progression photos spanning across 20 years, along with a vintage family photograph. A library of generic modern lifestyle b-roll cannot reproduce this timeline format.",
+    "summary": "A nostalgic photo slideshow tracking an immigrant daughter's journey from early childhood struggles to career success as an orthodontist, thanking her immigrant parents for their sacrifices."
+  },
+  "caption": {
+    "ref": "",
+    "guide": ""
+  },
+  "draft": true
+}

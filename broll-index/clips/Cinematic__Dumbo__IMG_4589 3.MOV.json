@@ -1,0 +1,71 @@
+{
+  "path": "Cinematic/Dumbo/IMG_4589 3.MOV",
+  "folder": "Cinematic/Dumbo",
+  "fingerprint": "ecd1ed1911c15b5c",
+  "width": 2160,
+  "height": 3840,
+  "fps": 59.94,
+  "duration": 4.402,
+  "model": "gemini-3.8-flash",
+  "annotatedAt": "2026-10-24T18:19:45+00:00",
+  "summary": "Jane's Carousel in Dumbo, Brooklyn spins at night, fully illuminated with warm vintage fairground lights reflecting off the ground.",
+  "location": "amusement park",
+  "setting": "indoor",
+  "time_of_day": "night",
+  "weather": "n/a",
+  "people": {
+    "count": 0,
+    "creator_visible": false,
+    "description": "Indistinct dark silhouettes of riders on the carousel horses in the distance"
+  },
+  "camera": {
+    "style": "handheld_cinematic",
+    "framing": "wide",
+    "movement": "static",
+    "angle": "eye level"
+  },
+  "quality": {
+    "usable": true,
+    "stability": "steady",
+    "exposure": "good",
+    "issues": ""
+  },
+  "mood": [
+    "nostalgic",
+    "dreamy",
+    "whimsical",
+    "peaceful",
+    "romantic"
+  ],
+  "energy": "low",
+  "tags": [
+    "carousel",
+    "merry go round",
+    "dumbo",
+    "brooklyn",
+    "nyc",
+    "night lights",
+    "carnival",
+    "nostalgia",
+    "childhood",
+    "romantic",
+    "b roll",
+    "aesthetic"
+  ],
+  "moments": [
+    {
+      "start": 0.0,
+      "end": 4.4,
+      "action": "A brightly lit carousel slowly rotates in a glass pavilion against the dark night sky",
+      "emotion": "dreamy",
+      "good_for": [
+        "life moves fast",
+        "romanticizing life",
+        "inner child",
+        "night strolls",
+        "feeling nostalgic"
+      ],
+      "score": 4
+    }
+  ]
+}

@@ -1,0 +1,70 @@
+{
+  "path": "Cinematic/CentralPark/IMG_4425.MOV",
+  "folder": "Cinematic/CentralPark",
+  "fingerprint": "264513dfcc49e8f6",
+  "width": 1080,
+  "height": 1920,
+  "fps": 30.0,
+  "duration": 2.667,
+  "model": "gemini-3.8-flash",
+  "annotatedAt": "2026-10-24T18:17:55+00:00",
+  "summary": "A low-angle view of lush green park trees as bright sunlight flares through the branches against a clear blue sky.",
+  "location": "park",
+  "setting": "outdoor",
+  "time_of_day": "day",
+  "weather": "sunny",
+  "people": {
+    "count": 0,
+    "creator_visible": false,
+    "description": "No people visible"
+  },
+  "camera": {
+    "style": "handheld_cinematic",
+    "framing": "wide",
+    "movement": "static",
+    "angle": "low angle looking up"
+  },
+  "quality": {
+    "usable": true,
+    "stability": "steady",
+    "exposure": "good",
+    "issues": ""
+  },
+  "mood": [
+    "peaceful",
+    "serene",
+    "hopeful",
+    "warm"
+  ],
+  "energy": "low",
+  "tags": [
+    "central park",
+    "trees",
+    "sunlight",
+    "sun flare",
+    "nature",
+    "leaves",
+    "branches",
+    "blue sky",
+    "sunny day",
+    "peaceful",
+    "outdoors",
+    "b-roll"
+  ],
+  "moments": [
+    {
+      "start": 0.0,
+      "end": 2.67,
+      "action": "Sunlight flares out from behind a tall tree trunk, illuminating leafy green branches against a vibrant blue sky.",
+      "emotion": "calm",
+      "good_for": [
+        "sunshine on my face",
+        "fresh air",
+        "romanticizing life",
+        "peace of mind",
+        "nature walks"
+      ],
+      "score": 4
+    }
+  ]
+}

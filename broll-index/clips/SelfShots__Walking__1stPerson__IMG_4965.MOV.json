@@ -1,0 +1,93 @@
+{
+  "path": "SelfShots/Walking/1stPerson/IMG_4965.MOV",
+  "folder": "SelfShots/Walking/1stPerson",
+  "fingerprint": "f8a93eae9c7eae91",
+  "width": 1080,
+  "height": 1920,
+  "fps": 30.0,
+  "duration": 15.968,
+  "model": "gemini-3.8-flash",
+  "annotatedAt": "2026-10-24T19:02:02+00:00",
+  "summary": "A young stylish man films a walking selfie as he strolls along a city sidewalk and crosses a crosswalk.",
+  "location": "city street",
+  "setting": "outdoor",
+  "time_of_day": "day",
+  "weather": "overcast",
+  "people": {
+    "count": 2,
+    "creator_visible": true,
+    "description": "Young East Asian man with wavy dark hair, wearing a black wool overcoat over an open brown knit polo, silver chain necklace, stud earring, and a backpack."
+  },
+  "camera": {
+    "style": "selfie",
+    "framing": "medium",
+    "movement": "walking",
+    "angle": "eye level"
+  },
+  "quality": {
+    "usable": true,
+    "stability": "handheld",
+    "exposure": "good",
+    "issues": "Camera drops down towards ground and feet at the end."
+  },
+  "mood": [
+    "casual",
+    "urban",
+    "pensive",
+    "effortless"
+  ],
+  "energy": "medium",
+  "tags": [
+    "walking",
+    "city walk",
+    "urban",
+    "street style",
+    "outfit",
+    "commute",
+    "overcoat",
+    "crosswalk",
+    "daily life",
+    "aesthetic",
+    "selfie"
+  ],
+  "moments": [
+    {
+      "start": 0.5,
+      "end": 4.5,
+      "action": "Creator holds phone walking along a sidewalk past a colorful storefront, glancing at the lens and ahead.",
+      "emotion": "calm, contemplative",
+      "good_for": [
+        "on my way",
+        "city walks",
+        "romanticizing my life",
+        "outfit check"
+      ],
+      "score": 4
+    },
+    {
+      "start": 6.8,
+      "end": 11.5,
+      "action": "Creator steps off the curb and crosses the street past parked cars.",
+      "emotion": "focused, nonchalant",
+      "good_for": [
+        "city commute",
+        "crossing streets",
+        "always on the move",
+        "urban life"
+      ],
+      "score": 4
+    },
+    {
+      "start": 11.5,
+      "end": 14.2,
+      "action": "Creator reaches the opposite sidewalk and continues walking forward as other pedestrians pass in the background.",
+      "emotion": "steady, relaxed",
+      "good_for": [
+        "daily routine",
+        "getting my steps in",
+        "heading to work"
+      ],
+      "score": 3
+    }
+  ]
+}

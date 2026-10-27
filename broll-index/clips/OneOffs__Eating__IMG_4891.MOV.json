@@ -1,0 +1,82 @@
+{
+  "path": "OneOffs/Eating/IMG_4891.MOV",
+  "folder": "OneOffs/Eating",
+  "fingerprint": "3be45188a73d5e83",
+  "width": 1080,
+  "height": 1920,
+  "fps": 30.0,
+  "duration": 3.867,
+  "model": "gemini-3.8-flash",
+  "annotatedAt": "2026-10-24T18:35:22+00:00",
+  "summary": "A group of friends enjoy a meal at a hot pot restaurant, with the camera panning from one friend laughing across the table to a selfie shot with another friend.",
+  "location": "hot pot restaurant",
+  "setting": "indoor",
+  "time_of_day": "indoor_unknown",
+  "weather": "n/a",
+  "people": {
+    "count": 3,
+    "creator_visible": true,
+    "description": "The creator (young man with dark curly hair) sitting beside a friend with glasses and a beard, while another young Asian man sits across the table holding a phone, all wearing dining aprons"
+  },
+  "camera": {
+    "style": "selfie",
+    "framing": "medium",
+    "movement": "pan",
+    "angle": "eye level"
+  },
+  "quality": {
+    "usable": true,
+    "stability": "handheld",
+    "exposure": "good",
+    "issues": "Quick whip pan around second 00:01.5 - 00:02.0"
+  },
+  "mood": [
+    "cheerful",
+    "friendly",
+    "fun",
+    "casual"
+  ],
+  "energy": "medium",
+  "tags": [
+    "hot pot",
+    "dinner",
+    "friends",
+    "restaurant",
+    "eating out",
+    "aprons",
+    "laughing",
+    "smiling",
+    "foodie",
+    "asian cuisine",
+    "hangout",
+    "social gathering"
+  ],
+  "moments": [
+    {
+      "start": 0.0,
+      "end": 1.5,
+      "action": "Friend across the table fixes his hair while holding his phone and laughing, with the hot pot broth and ingredients visible in the foreground",
+      "emotion": "playful and laughing",
+      "good_for": [
+        "dinner with friends",
+        "hot pot night",
+        "making memories",
+        "good food good company"
+      ],
+      "score": 4
+    },
+    {
+      "start": 2.2,
+      "end": 3.87,
+      "action": "Camera turns selfie-style showing the creator and his friend smiling and laughing together at the table",
+      "emotion": "happy and relaxed",
+      "good_for": [
+        "friendship",
+        "best friends hangout",
+        "people who make you smile",
+        "dinner dates"
+      ],
+      "score": 4
+    }
+  ]
+}

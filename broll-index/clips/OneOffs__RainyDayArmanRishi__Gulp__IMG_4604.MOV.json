@@ -1,0 +1,70 @@
+{
+  "path": "OneOffs/RainyDayArmanRishi/Gulp/IMG_4604.MOV",
+  "folder": "OneOffs/RainyDayArmanRishi/Gulp",
+  "fingerprint": "e52d81be108a9846",
+  "width": 1080,
+  "height": 1920,
+  "fps": 30.0,
+  "duration": 2.432,
+  "model": "gemini-3.8-flash",
+  "annotatedAt": "2026-10-24T18:35:37+00:00",
+  "summary": "A street-level shot of a sidewalk sandwich board sign advertising Taiwanese breakfast outside a restaurant on a wet, rainy day.",
+  "location": "city sidewalk",
+  "setting": "outdoor",
+  "time_of_day": "day",
+  "weather": "rain",
+  "people": {
+    "count": 0,
+    "creator_visible": false,
+    "description": "No people visible in frame."
+  },
+  "camera": {
+    "style": "pov_first_person",
+    "framing": "medium",
+    "movement": "static",
+    "angle": "eye level"
+  },
+  "quality": {
+    "usable": true,
+    "stability": "steady",
+    "exposure": "good",
+    "issues": ""
+  },
+  "mood": [
+    "calm",
+    "rainy",
+    "casual",
+    "foodie"
+  ],
+  "energy": "low",
+  "tags": [
+    "taiwanese breakfast",
+    "sidewalk sign",
+    "sandwich board",
+    "rain",
+    "rainy day",
+    "city street",
+    "nyc",
+    "breakfast special",
+    "street food",
+    "restaurant",
+    "scallion pancake",
+    "morning routine"
+  ],
+  "moments": [
+    {
+      "start": 0.0,
+      "end": 2.43,
+      "action": "Camera holds steady on an A-frame sidewalk sign advertising Taiwanese Breakfast outside on a wet pavement.",
+      "emotion": "calm",
+      "good_for": [
+        "hunting for good breakfast",
+        "rainy morning walk",
+        "food crawl spots",
+        "weekend plans",
+        "comfort food on a rainy day"
+      ],
+      "score": 3
+    }
+  ]
+}

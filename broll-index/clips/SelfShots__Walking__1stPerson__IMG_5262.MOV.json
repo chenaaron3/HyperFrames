@@ -1,0 +1,109 @@
+{
+  "path": "SelfShots/Walking/1stPerson/IMG_5262.MOV",
+  "folder": "SelfShots/Walking/1stPerson",
+  "fingerprint": "7962934451f73bc6",
+  "width": 1080,
+  "height": 1920,
+  "fps": 30.0,
+  "duration": 22.302,
+  "model": "gemini-3.8-flash",
+  "annotatedAt": "2026-10-24T19:02:33+00:00",
+  "summary": "A young man walks through a lively park on a sunny day while holding a selfie camera and looking around at his surroundings.",
+  "location": "park",
+  "setting": "outdoor",
+  "time_of_day": "day",
+  "weather": "sunny",
+  "people": {
+    "count": 8,
+    "creator_visible": true,
+    "description": "Young East Asian man with wavy dark hair, wearing a black blazer/coat, blue t-shirt, backpack, and silver stud earring; other park visitors and street vendors in the background."
+  },
+  "camera": {
+    "style": "selfie",
+    "framing": "medium",
+    "movement": "walking",
+    "angle": "eye level"
+  },
+  "quality": {
+    "usable": true,
+    "stability": "handheld",
+    "exposure": "good",
+    "issues": ""
+  },
+  "mood": [
+    "reflective",
+    "casual",
+    "peaceful",
+    "urban",
+    "observant"
+  ],
+  "energy": "medium",
+  "tags": [
+    "walking",
+    "park",
+    "central park",
+    "selfie",
+    "commute",
+    "street style",
+    "blazer",
+    "autumn",
+    "trees",
+    "city stroll",
+    "alone with my thoughts",
+    "vlog"
+  ],
+  "moments": [
+    {
+      "start": 2.0,
+      "end": 4.5,
+      "action": "Man walks along park path holding camera extended, glancing at the lens before looking ahead",
+      "emotion": "calm",
+      "good_for": [
+        "clearing my head",
+        "afternoon stroll",
+        "romanticizing life",
+        "city walks"
+      ],
+      "score": 4
+    },
+    {
+      "start": 6.5,
+      "end": 9.2,
+      "action": "Man turns slightly towards the camera as he walks past a street vendor display on the pathway",
+      "emotion": "relaxed",
+      "good_for": [
+        "living in the city",
+        "taking things slow",
+        "weekend vibe",
+        "exploring"
+      ],
+      "score": 4
+    },
+    {
+      "start": 13.0,
+      "end": 17.5,
+      "action": "Side profile selfie tracking as he walks through a crowd of people under leafy park trees",
+      "emotion": "thoughtful",
+      "good_for": [
+        "overthinking everything",
+        "main character moment",
+        "just walking",
+        "observing people"
+      ],
+      "score": 4
+    },
+    {
+      "start": 18.2,
+      "end": 20.8,
+      "action": "Creator holds the camera steady while walking and maintaining eye contact with the lens",
+      "emotion": "confident",
+      "good_for": [
+        "heading into a new week",
+        "feeling good today",
+        "fit check",
+        "fall fashion"
+      ],
+      "score": 4
+    }
+  ]
+}

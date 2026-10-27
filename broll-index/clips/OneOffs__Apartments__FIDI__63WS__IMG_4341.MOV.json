@@ -1,0 +1,66 @@
+{
+  "path": "OneOffs/Apartments/FIDI/63WS/IMG_4341.MOV",
+  "folder": "OneOffs/Apartments/FIDI/63WS",
+  "fingerprint": "de9174e5c628f9a8",
+  "width": 1080,
+  "height": 1920,
+  "fps": 30.0,
+  "duration": 3.333,
+  "model": "gemini-3.8-flash",
+  "annotatedAt": "2026-10-24T18:20:15+00:00",
+  "summary": "People walk through the glass front entrance doors into a residential or commercial building lobby in FiDi.",
+  "location": "apartment lobby",
+  "setting": "indoor",
+  "time_of_day": "day",
+  "weather": "n/a",
+  "people": {
+    "count": 2,
+    "creator_visible": false,
+    "description": "A young man wearing a white hoodie, dark shorts, and a backpack, and a blonde woman wearing an oversized white button-down shirt and carrying a black tote bag."
+  },
+  "camera": {
+    "style": "handheld_cinematic",
+    "framing": "medium",
+    "movement": "static",
+    "angle": "eye level"
+  },
+  "quality": {
+    "usable": true,
+    "stability": "steady",
+    "exposure": "good",
+    "issues": ""
+  },
+  "mood": [
+    "casual",
+    "urban",
+    "everyday"
+  ],
+  "energy": "medium",
+  "tags": [
+    "building entrance",
+    "glass door",
+    "lobby",
+    "nyc",
+    "fidi",
+    "apartment hunting",
+    "coming home",
+    "city living",
+    "walking in",
+    "lifestyle"
+  ],
+  "moments": [
+    {
+      "start": 0.8,
+      "end": 3.2,
+      "action": "A young man opens the glass entrance door and walks into the lobby while a woman walks ahead of him",
+      "emotion": "neutral, routine",
+      "good_for": [
+        "apartment hunting",
+        "arriving home",
+        "city routine",
+        "entering the building"
+      ],
+      "score": 3
+    }
+  ]
+}

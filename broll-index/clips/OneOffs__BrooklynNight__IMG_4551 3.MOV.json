@@ -1,0 +1,67 @@
+{
+  "path": "OneOffs/BrooklynNight/IMG_4551 3.MOV",
+  "folder": "OneOffs/BrooklynNight",
+  "fingerprint": "af9f99ede0e086ca",
+  "width": 1080,
+  "height": 1920,
+  "fps": 30.0,
+  "duration": 2.298,
+  "model": "gemini-3.8-flash",
+  "annotatedAt": "2026-10-24T18:23:38+00:00",
+  "summary": "Exterior handheld shot looking across a Brooklyn street crosswalk at the illuminated Vital Climbing Gym building facade.",
+  "location": "city street",
+  "setting": "outdoor",
+  "time_of_day": "day",
+  "weather": "overcast",
+  "people": {
+    "count": 1,
+    "creator_visible": false,
+    "description": "A distant pedestrian walking on the sidewalk past the building."
+  },
+  "camera": {
+    "style": "pov_first_person",
+    "framing": "wide",
+    "movement": "handheld",
+    "angle": "eye level"
+  },
+  "quality": {
+    "usable": true,
+    "stability": "handheld",
+    "exposure": "good",
+    "issues": ""
+  },
+  "mood": [
+    "urban",
+    "active",
+    "chill"
+  ],
+  "energy": "low",
+  "tags": [
+    "brooklyn",
+    "vital climbing",
+    "gym",
+    "climbing gym",
+    "street",
+    "crosswalk",
+    "exterior",
+    "fitness",
+    "new york city",
+    "williamsburg",
+    "city life"
+  ],
+  "moments": [
+    {
+      "start": 0.0,
+      "end": 2.3,
+      "action": "Handheld view from across the crosswalk showing the illuminated Vital Climbing Gym corner facade",
+      "emotion": "calm",
+      "good_for": [
+        "going to the gym",
+        "climbing session",
+        "city routine",
+        "brooklyn days"
+      ],
+      "score": 3
+    }
+  ]
+}

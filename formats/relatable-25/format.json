@@ -1,0 +1,71 @@
+{
+  "id": "relatable-25",
+  "name": "5 signs you're dating a manchild (that I ignored)",
+  "reference": "references/viral-formats/relatable-25.mp4",
+  "source": "/Users/aaron/Downloads/100 Viral Formats (Format Book)/Relatable/#25/#25.mp4",
+  "duration": 8.533,
+  "music": {
+    "from": "reference",
+    "title": "Manchild - Sabrina Carpenter"
+  },
+  "text": {
+    "y": 0.521,
+    "size": 46,
+    "weight": 700,
+    "lineHeight": 1.4,
+    "maxWidth": 900,
+    "style": "outline"
+  },
+  "lines": [
+    {
+      "id": "l1",
+      "start": 0.0,
+      "end": 5.5,
+      "ref": "5 signs you're dating\na manchild (that I ignored)",
+      "y": 0.521,
+      "measuredSize": 47,
+      "style": "plain_white_shadow",
+      "guide": ""
+    },
+    {
+      "id": "l2",
+      "start": 5.5,
+      "end": 8.533,
+      "ref": "more in captions 💭",
+      "y": 0.539,
+      "measuredSize": 41,
+      "style": "plain_white_shadow",
+      "guide": ""
+    }
+  ],
+  "shots": [
+    {
+      "id": "s1",
+      "start": 0.0,
+      "end": 1.467,
+      "brief": "eating at a restaurant or cafe, filmed by companion (ref: Young woman drinking white wine, holding chopsticks, and smiling while talking across a restaurant dining table.; filmed by friend)",
+      "line": "l1"
+    },
+    {
+      "id": "s2",
+      "start": 1.467,
+      "end": 8.533,
+      "brief": "eating at a restaurant or cafe, filmed by companion (ref: Young woman drinking white wine, holding chopsticks, and smiling while talking across a restaurant dining table.; filmed by friend)",
+      "line": "l1"
+    }
+  ],
+  "audit": {
+    "kind": "broll_with_text",
+    "creatorSpeaks": false,
+    "audio": "music only",
+    "special": [],
+    "reusable": true,
+    "notes": "Can be recreated with any casual lifestyle b-roll clip (eating dinner, drinking coffee, or laughing with a friend across a table) paired with a hook overlay and an insightful bullet-point story in the caption.",
+    "summary": "A woman sips wine and chats while eating at a restaurant, with on-screen text introducing a relationship reflection expanded in the caption."
+  },
+  "caption": {
+    "ref": "",
+    "guide": ""
+  },
+  "draft": true
+}

@@ -1,0 +1,83 @@
+{
+  "path": "OneOffs/BrooklynNight/IMG_4540 3.MOV",
+  "folder": "OneOffs/BrooklynNight",
+  "fingerprint": "b03de890b1cba3a2",
+  "width": 1080,
+  "height": 1920,
+  "fps": 30.0,
+  "duration": 12.167,
+  "model": "gemini-3.8-flash",
+  "annotatedAt": "2026-10-24T18:23:18+00:00",
+  "summary": "A young man attempts a bouldering problem at an indoor climbing gym, slips off mid-move, and laughs as he lands safely on the mat.",
+  "location": "gym",
+  "setting": "indoor",
+  "time_of_day": "indoor_unknown",
+  "weather": "n/a",
+  "people": {
+    "count": 1,
+    "creator_visible": true,
+    "description": "Young Asian man with dark hair wearing a brown short-sleeve shirt, black pants, and climbing shoes"
+  },
+  "camera": {
+    "style": "filmed_by_friend",
+    "framing": "medium",
+    "movement": "handheld",
+    "angle": "eye level"
+  },
+  "quality": {
+    "usable": true,
+    "stability": "handheld",
+    "exposure": "good",
+    "issues": ""
+  },
+  "mood": [
+    "playful",
+    "active",
+    "amused",
+    "determined"
+  ],
+  "energy": "medium",
+  "tags": [
+    "climbing",
+    "bouldering",
+    "rock climbing",
+    "bouldering gym",
+    "gym",
+    "workout",
+    "fitness",
+    "falling",
+    "fail",
+    "laughing",
+    "athletic",
+    "chalk",
+    "indoor climbing"
+  ],
+  "moments": [
+    {
+      "start": 0.0,
+      "end": 7.5,
+      "action": "Climber grips holds and positions his feet on the angled climbing wall, focusing on the route",
+      "emotion": "focused and concentrated",
+      "good_for": [
+        "trying new hobbies",
+        "giving it my best shot",
+        "staying active",
+        "tackling challenges"
+      ],
+      "score": 3
+    },
+    {
+      "start": 7.5,
+      "end": 11.5,
+      "action": "Climber slips and drops down to the padded floor, then turns around smiling and laughing",
+      "emotion": "laughing at failure, amused, lighthearted",
+      "good_for": [
+        "laugh at your mistakes",
+        "failing successfully",
+        "don't take yourself too seriously",
+        "gym bloopers"
+      ],
+      "score": 4
+    }
+  ]
+}

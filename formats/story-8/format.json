@@ -1,0 +1,728 @@
+{
+  "id": "story-8",
+  "name": "🫧🫧: She’s way too positive. Bet she’s never struggled.",
+  "reference": "references/viral-formats/story-8.mp4",
+  "source": "/Users/aaron/Downloads/100 Viral Formats (Format Book)/Storytelling/#8/#8.mp4",
+  "duration": 59.454,
+  "music": {
+    "from": "reference",
+    "title": "Snap (low and slow) by rosa linn"
+  },
+  "text": {
+    "y": 0.277,
+    "size": 54,
+    "weight": 700,
+    "lineHeight": 1.4,
+    "maxWidth": 900,
+    "style": "box"
+  },
+  "lines": [
+    {
+      "id": "l1",
+      "start": 0.0,
+      "end": 1.753,
+      "ref": "🫧🫧: She’s way too positive.\nBet she’s never struggled.",
+      "y": 0.277,
+      "measuredSize": 45,
+      "style": "plain_white_shadow",
+      "guide": ""
+    },
+    {
+      "id": "l2",
+      "start": 1.753,
+      "end": 3.584,
+      "ref": "15 years old\n\nworked at a gas station for living",
+      "y": 0.24,
+      "measuredSize": 38,
+      "style": "white_box_black_text",
+      "guide": ""
+    },
+    {
+      "id": "l3",
+      "start": 3.584,
+      "end": 5.883,
+      "ref": "16 years old\n\nleft my hometown island alone",
+      "y": 0.255,
+      "measuredSize": 124,
+      "style": "white_box_black_text",
+      "guide": ""
+    },
+    {
+      "id": "l4",
+      "start": 5.883,
+      "end": 7.364,
+      "ref": "16 years old\n\none-bedroom ✨\nstarted living alone",
+      "y": 0.15,
+      "measuredSize": 49,
+      "style": "white_box_black_text",
+      "guide": ""
+    },
+    {
+      "id": "l5",
+      "start": 7.364,
+      "end": 9.428,
+      "ref": "17 years old\n\nHotel banquet server for living cost",
+      "y": 0.255,
+      "measuredSize": 122,
+      "style": "white_box_black_text",
+      "guide": ""
+    },
+    {
+      "id": "l6",
+      "start": 9.428,
+      "end": 11.454,
+      "ref": "17 years old\n\nsecond job at a PC cafe for tuition",
+      "y": 0.2,
+      "measuredSize": null,
+      "style": "white_box_black_text",
+      "guide": ""
+    },
+    {
+      "id": "l7",
+      "start": 11.454,
+      "end": 13.363,
+      "ref": "17 years old\n\nprepared\nfor college entrance exam,too",
+      "y": 0.2,
+      "measuredSize": 47,
+      "style": "white_box_black_text",
+      "guide": ""
+    },
+    {
+      "id": "l8",
+      "start": 13.363,
+      "end": 15.117,
+      "ref": "17 years old\n\nStudied whenever I could",
+      "y": 0.289,
+      "measuredSize": 122,
+      "style": "white_box_black_text",
+      "guide": ""
+    },
+    {
+      "id": "l9",
+      "start": 15.117,
+      "end": 16.5,
+      "ref": "18 years old\n\ni got into college-international trade",
+      "y": 0.289,
+      "measuredSize": 126,
+      "style": "white_box_black_text",
+      "guide": ""
+    },
+    {
+      "id": "l10",
+      "start": 16.5,
+      "end": 18.195,
+      "ref": "18 years old\n\ni got into college-international trade\n\nAnd I worked at Subway,too",
+      "y": 0.355,
+      "measuredSize": 126,
+      "style": "white_box_black_text",
+      "guide": ""
+    },
+    {
+      "id": "l11",
+      "start": 18.195,
+      "end": 20.376,
+      "ref": "18 years old\npaying for college on my own\nwasn’t possible.\nso I took a break from school.",
+      "y": 0.22,
+      "measuredSize": null,
+      "style": "white_box_black_text",
+      "guide": ""
+    },
+    {
+      "id": "l12",
+      "start": 20.376,
+      "end": 22.324,
+      "ref": "19 years old\n\nI decided to save up a lot of money\nto start studying again",
+      "y": 0.24,
+      "measuredSize": 22,
+      "style": "white_box_black_text",
+      "guide": ""
+    },
+    {
+      "id": "l13",
+      "start": 22.324,
+      "end": 25.48,
+      "ref": "19 years old\n\ntwo jobs again. 60-70 hrs/week.\nMcDonald’s +cafe",
+      "y": 0.22,
+      "measuredSize": 120,
+      "style": "white_box_black_text",
+      "guide": ""
+    },
+    {
+      "id": "l14",
+      "start": 25.48,
+      "end": 28.519,
+      "ref": "20 years old\n\nI ended up going full-time at the cafe\nworked 72 hrs/week",
+      "y": 0.2,
+      "measuredSize": 68,
+      "style": "white_box_black_text",
+      "guide": ""
+    },
+    {
+      "id": "l15",
+      "start": 25.48,
+      "end": 28.519,
+      "ref": "my latte art!!",
+      "y": 0.88,
+      "measuredSize": 82,
+      "style": "white_box_black_text",
+      "guide": ""
+    },
+    {
+      "id": "l16",
+      "start": 28.519,
+      "end": 30.857,
+      "ref": "21 years old\n\nmy birthday.\nand I worked till 5AM at the cafe",
+      "y": 0.24,
+      "measuredSize": null,
+      "style": "white_box_black_text",
+      "guide": ""
+    },
+    {
+      "id": "l17",
+      "start": 30.857,
+      "end": 33.077,
+      "ref": "21 years old\n\nI couldn’t stop studying.\nIt felt like my life would stop if I did",
+      "y": 0.275,
+      "measuredSize": 49,
+      "style": "white_box_black_text",
+      "guide": ""
+    },
+    {
+      "id": "l18",
+      "start": 33.077,
+      "end": 34.285,
+      "ref": "21 years old\n\ncringe hahaha",
+      "y": 0.22,
+      "measuredSize": 84,
+      "style": "black_box_white_text",
+      "guide": ""
+    },
+    {
+      "id": "l19",
+      "start": 34.285,
+      "end": 37.675,
+      "ref": "22 years old\n\nfinally quit working.\nfocused only\non entrance exam prep for a year\n\nI was genuinely grateful for everything!!",
+      "y": 0.274,
+      "measuredSize": 30,
+      "style": "black_box_white_text",
+      "guide": ""
+    },
+    {
+      "id": "l20",
+      "start": 37.675,
+      "end": 38.922,
+      "ref": "23 years old\n\nmy first year in nursing school❤️",
+      "y": 0.278,
+      "measuredSize": 51,
+      "style": "white_box_black_text",
+      "guide": ""
+    },
+    {
+      "id": "l21",
+      "start": 38.922,
+      "end": 40.753,
+      "ref": "23 years old\n\nmy first year in nursing school❤️\n\nI got these grades working at MacDonald’s\n20-30 hrs/week!!",
+      "y": 0.278,
+      "measuredSize": 51,
+      "style": "white_box_black_text",
+      "guide": ""
+    },
+    {
+      "id": "l22",
+      "start": 40.753,
+      "end": 42.116,
+      "ref": "24 years old\n\nmy second year in nursing school❤️",
+      "y": 0.28,
+      "measuredSize": 41,
+      "style": "white_box_black_text",
+      "guide": ""
+    },
+    {
+      "id": "l23",
+      "start": 40.753,
+      "end": 42.116,
+      "ref": "volunteering",
+      "y": 0.707,
+      "measuredSize": 38,
+      "style": "white_box_black_text",
+      "guide": ""
+    },
+    {
+      "id": "l24",
+      "start": 42.116,
+      "end": 44.025,
+      "ref": "24 years old\n\nmy second year in nursing school❤️",
+      "y": 0.22,
+      "measuredSize": 30,
+      "style": "white_box_black_text",
+      "guide": ""
+    },
+    {
+      "id": "l25",
+      "start": 42.116,
+      "end": 42.74,
+      "ref": "work",
+      "y": 0.695,
+      "measuredSize": 58,
+      "style": "white_box_black_text",
+      "guide": ""
+    },
+    {
+      "id": "l26",
+      "start": 42.74,
+      "end": 43.402,
+      "ref": "work\nwork",
+      "y": 0.689,
+      "measuredSize": 30,
+      "style": "white_box_black_text",
+      "guide": ""
+    },
+    {
+      "id": "l27",
+      "start": 43.402,
+      "end": 44.025,
+      "ref": "work\nwork\nwork",
+      "y": 0.671,
+      "measuredSize": 36,
+      "style": "white_box_black_text",
+      "guide": ""
+    },
+    {
+      "id": "l28",
+      "start": 44.025,
+      "end": 45.662,
+      "ref": "24 years old\n\nand I got a merit scholarship\nevery semester ✨❤️",
+      "y": 0.24,
+      "measuredSize": 72,
+      "style": "white_box_black_text",
+      "guide": ""
+    },
+    {
+      "id": "l29",
+      "start": 45.662,
+      "end": 47.0,
+      "ref": "25 years old\n\nthe darkest year of my life.\nsevere stalking and death threats\nfrom my ex",
+      "y": 0.112,
+      "measuredSize": 124,
+      "style": "white_box_black_text",
+      "guide": ""
+    },
+    {
+      "id": "l30",
+      "start": 47.0,
+      "end": 48.1,
+      "ref": "25 years old\n\nthe darkest year of my life.\nsevere stalking and death threats\nfrom my ex\n\nIt became a criminal case.\nmonths of police investigations.\nI lived in fear-even daily life felt terrifying.\nand actually I still live in fear.",
+      "y": 0.32,
+      "measuredSize": 124,
+      "style": "white_box_black_text",
+      "guide": ""
+    },
+    {
+      "id": "l31",
+      "start": 48.1,
+      "end": 49.636,
+      "ref": "25 years old\n\nthe darkest year of my life.\nsevere stalking and death threats\nfrom my ex\n\nso I decided to leave Korea\nafter graduation\nand become a nurse abroad!",
+      "y": 0.3,
+      "measuredSize": 124,
+      "style": "white_box_black_text",
+      "guide": ""
+    },
+    {
+      "id": "l32",
+      "start": 49.636,
+      "end": 51.818,
+      "ref": "25 years old\n\nTook a leave from school\nto do English study abroad.\n\nSAVED UP!\nLG factory. two shifts. two months!!",
+      "y": 0.245,
+      "measuredSize": 43,
+      "style": "black_box_white_text",
+      "guide": ""
+    },
+    {
+      "id": "l33",
+      "start": 51.818,
+      "end": 53.766,
+      "ref": "26 years old\n\nI don’t just SAY IT!!\nI do it always!!",
+      "y": 0.271,
+      "measuredSize": 57,
+      "style": "black_box_white_text",
+      "guide": ""
+    },
+    {
+      "id": "l34",
+      "start": 53.766,
+      "end": 54.623,
+      "ref": "26 years old\n\nBack to school",
+      "y": 0.24,
+      "measuredSize": 72,
+      "style": "black_box_white_text",
+      "guide": ""
+    },
+    {
+      "id": "l35",
+      "start": 54.623,
+      "end": 56.727,
+      "ref": "2025\n27 years old\n\nmy 4th year in nursing!",
+      "y": 0.254,
+      "measuredSize": 60,
+      "style": "black_box_white_text",
+      "guide": ""
+    },
+    {
+      "id": "l36",
+      "start": 56.727,
+      "end": 57.545,
+      "ref": "YES!\nI’m way too positive!",
+      "y": 0.686,
+      "measuredSize": 30,
+      "style": "plain_white_shadow",
+      "guide": ""
+    },
+    {
+      "id": "l37",
+      "start": 57.545,
+      "end": 58.441,
+      "ref": "YES!\nI’m way too positive!\n\nPLEASE Don’t give up.",
+      "y": 0.657,
+      "measuredSize": 36,
+      "style": "plain_white_shadow",
+      "guide": ""
+    },
+    {
+      "id": "l38",
+      "start": 58.441,
+      "end": 59.454,
+      "ref": "YES!\nI’m way too positive!\n\nPLEASE Don’t give up.\n\nYOU CAN MAKE IT HAPPEN!!",
+      "y": 0.76,
+      "measuredSize": 54,
+      "style": "plain_white_shadow",
+      "guide": ""
+    }
+  ],
+  "shots": [
+    {
+      "id": "s1",
+      "start": 0.0,
+      "end": 1.753,
+      "brief": "cheerful night city b-roll smiling at camera (ref: Young woman in a summer dress smiling and flashing a peace sign on a city sidewalk at night; filmed by friend)",
+      "line": "l1"
+    },
+    {
+      "id": "s2",
+      "start": 1.753,
+      "end": 3.584,
+      "brief": "old camera roll mirror selfie from high school/teen job (ref: Phone photo screenshot of mirror selfie in a gas station uniform and jacket; mirror)",
+      "line": "l2"
+    },
+    {
+      "id": "s3",
+      "start": 3.584,
+      "end": 4.831,
+      "brief": "annotated map graphic showing relocation (ref: Graphic map of South Korea showing arrow from Jeju Island to Seoul; screen recording)",
+      "line": "l3"
+    },
+    {
+      "id": "s4",
+      "start": 4.831,
+      "end": 5.883,
+      "brief": "camera roll photo/video boarding airplane at night (ref: Night shot on airport tarmac boarding an airplane; POV)",
+      "line": "l3"
+    },
+    {
+      "id": "s5",
+      "start": 5.883,
+      "end": 7.364,
+      "brief": "photo of modest first studio apartment (ref: Photo of a tiny one-room studio apartment with single bed, desk, and clothes drying; tripod)",
+      "line": "l4"
+    },
+    {
+      "id": "s6",
+      "start": 7.364,
+      "end": 8.493,
+      "brief": "mirror selfie in service job locker room (ref: Mirror selfie in staff locker room wearing server uniform; mirror)",
+      "line": "l5"
+    },
+    {
+      "id": "s7",
+      "start": 8.493,
+      "end": 9.428,
+      "brief": "photo of hourly job time card or schedule document (ref: Photo of hotel banquet staff attendance sheet with handwritten hours; top-down)",
+      "line": "l5"
+    },
+    {
+      "id": "s8",
+      "start": 9.428,
+      "end": 11.454,
+      "brief": "selfie working at part-time desk job (ref: Front camera selfie sitting inside an internet/PC cafe in a winter jacket; selfie)",
+      "line": "l6"
+    },
+    {
+      "id": "s9",
+      "start": 11.454,
+      "end": 13.363,
+      "brief": "mirror selfie at study desk with study books (ref: Mirror selfie in small bedroom with textbooks and study supplies in background; mirror)",
+      "line": "l7"
+    },
+    {
+      "id": "s10",
+      "start": 13.363,
+      "end": 15.117,
+      "brief": "photo of late-night study desk with open test books (ref: Desk photo showing vocabulary test prep book, drink, and small mirror reflecting face; POV)",
+      "line": "l8"
+    },
+    {
+      "id": "s11",
+      "start": 15.117,
+      "end": 18.195,
+      "brief": "short video clip in fast food restaurant uniform (ref: Selfie video clip in Subway uniform smiling with rabbit filter on camera; selfie)",
+      "line": "l10"
+    },
+    {
+      "id": "s12",
+      "start": 18.195,
+      "end": 20.376,
+      "brief": "photo of exam study papers spread on floor (ref: Photo of study sheets and a mug spread out on the floor of a room; POV)",
+      "line": "l11"
+    },
+    {
+      "id": "s13",
+      "start": 20.376,
+      "end": 22.324,
+      "brief": "night selfie walking outside exhausted (ref: Night selfie video walking along street with earphones; selfie)",
+      "line": "l12"
+    },
+    {
+      "id": "s14",
+      "start": 22.324,
+      "end": 23.337,
+      "brief": "selfie wearing fast-food work uniform and name tag (ref: Selfie and bathroom mirror selfie wearing McDonald's uniform and name badge; mirror)",
+      "line": "l13"
+    },
+    {
+      "id": "s15",
+      "start": 23.337,
+      "end": 24.156,
+      "brief": "selfie wearing fast-food work uniform and name tag (ref: Selfie and bathroom mirror selfie wearing McDonald's uniform and name badge; mirror)",
+      "line": "l13"
+    },
+    {
+      "id": "s16",
+      "start": 24.156,
+      "end": 25.402,
+      "brief": "selfie behind cafe service counter (ref: Selfie video behind the counter at a cafe with rabbit filter; selfie)",
+      "line": "l13"
+    },
+    {
+      "id": "s17",
+      "start": 25.48,
+      "end": 28.519,
+      "brief": "photo collage of working barista job and latte art (ref: Selfie at cafe counter combined with two photos of latte art tulips in cups; selfie)",
+      "line": "l14"
+    },
+    {
+      "id": "s18",
+      "start": 28.519,
+      "end": 30.857,
+      "brief": "selfie resting in bed after overnight shift (ref: Selfie video lying in bed looking tired early in the morning; selfie)",
+      "line": "l16"
+    },
+    {
+      "id": "s19",
+      "start": 30.857,
+      "end": 33.077,
+      "brief": "photo of large stacks of heavily highlighted exam sheets (ref: Photo of huge stacks of highlighted study notes and mock exam papers; POV)",
+      "line": "l17"
+    },
+    {
+      "id": "s20",
+      "start": 33.077,
+      "end": 34.285,
+      "brief": "close-up selfie crying or stressed (ref: Candid crying selfie video with tears streaming down face; selfie)",
+      "line": "l18"
+    },
+    {
+      "id": "s21",
+      "start": 34.285,
+      "end": 34.909,
+      "brief": "photos of test study notes, writing blister on finger, and university acceptance letter (ref: Series of photos showing intensive textbook study, finger with painful blister/callus from writing, and university admission acceptance document; POV)",
+      "line": "l19"
+    },
+    {
+      "id": "s22",
+      "start": 34.909,
+      "end": 35.532,
+      "brief": "photos of test study notes, writing blister on finger, and university acceptance letter (ref: Series of photos showing intensive textbook study, finger with painful blister/callus from writing, and university admission acceptance document; POV)",
+      "line": "l19"
+    },
+    {
+      "id": "s23",
+      "start": 35.532,
+      "end": 37.013,
+      "brief": "photos of test study notes, writing blister on finger, and university acceptance letter (ref: Series of photos showing intensive textbook study, finger with painful blister/callus from writing, and university admission acceptance document; POV)",
+      "line": "l19"
+    },
+    {
+      "id": "s24",
+      "start": 37.013,
+      "end": 37.675,
+      "brief": "photos of test study notes, writing blister on finger, and university acceptance letter (ref: Series of photos showing intensive textbook study, finger with painful blister/callus from writing, and university admission acceptance document; POV)",
+      "line": "l19"
+    },
+    {
+      "id": "s25",
+      "start": 37.675,
+      "end": 38.298,
+      "brief": "photos of anatomy diagrams, complex study mind maps, and grade report card (ref: Photos of nursing anatomy textbook diagrams, handwritten mind maps, and university transcript showing straight A grades; POV)",
+      "line": "l20"
+    },
+    {
+      "id": "s26",
+      "start": 38.298,
+      "end": 38.922,
+      "brief": "photos of anatomy diagrams, complex study mind maps, and grade report card (ref: Photos of nursing anatomy textbook diagrams, handwritten mind maps, and university transcript showing straight A grades; POV)",
+      "line": "l20"
+    },
+    {
+      "id": "s27",
+      "start": 38.922,
+      "end": 40.753,
+      "brief": "photos of anatomy diagrams, complex study mind maps, and grade report card (ref: Photos of nursing anatomy textbook diagrams, handwritten mind maps, and university transcript showing straight A grades; POV)",
+      "line": "l21"
+    },
+    {
+      "id": "s28",
+      "start": 40.753,
+      "end": 42.116,
+      "brief": "photos of volunteering and working part-time jobs during college (ref: Photos of volunteering with an elderly woman, CCTV camera at convenience store job, and mirror selfie in restaurant apron; POV)",
+      "line": "l22"
+    },
+    {
+      "id": "s29",
+      "start": 42.116,
+      "end": 42.74,
+      "brief": "photos of volunteering and working part-time jobs during college (ref: Photos of volunteering with an elderly woman, CCTV camera at convenience store job, and mirror selfie in restaurant apron; POV)",
+      "line": "l24"
+    },
+    {
+      "id": "s30",
+      "start": 42.74,
+      "end": 43.402,
+      "brief": "photos of volunteering and working part-time jobs during college (ref: Photos of volunteering with an elderly woman, CCTV camera at convenience store job, and mirror selfie in restaurant apron; POV)",
+      "line": "l24"
+    },
+    {
+      "id": "s31",
+      "start": 43.402,
+      "end": 44.025,
+      "brief": "photos of volunteering and working part-time jobs during college (ref: Photos of volunteering with an elderly woman, CCTV camera at convenience store job, and mirror selfie in restaurant apron; POV)",
+      "line": "l24"
+    },
+    {
+      "id": "s32",
+      "start": 44.025,
+      "end": 45.662,
+      "brief": "photo of academic scholarship ranking screen (ref: Screen photo of university semester grade report showing scholarship ranking 7/112; POV)",
+      "line": "l28"
+    },
+    {
+      "id": "s33",
+      "start": 45.662,
+      "end": 49.636,
+      "brief": "screenshot of police text report or formal notification messages (ref: Phone text messages showing official police notifications regarding criminal stalking investigation; screen recording)",
+      "line": "l30"
+    },
+    {
+      "id": "s34",
+      "start": 49.636,
+      "end": 51.818,
+      "brief": "holding factory employee ID badge outside company building (ref: Hand holding employee ID badge in front of LG factory building; POV)",
+      "line": "l32"
+    },
+    {
+      "id": "s35",
+      "start": 51.818,
+      "end": 52.714,
+      "brief": "photo of certificate of completion and study-abroad group photo (ref: Photos of language school graduation certificate and group picture with classmates; POV)",
+      "line": "l33"
+    },
+    {
+      "id": "s36",
+      "start": 52.714,
+      "end": 53.766,
+      "brief": "photo of certificate of completion and study-abroad group photo (ref: Photos of language school graduation certificate and group picture with classmates; POV)",
+      "line": "l33"
+    },
+    {
+      "id": "s37",
+      "start": 53.766,
+      "end": 54.623,
+      "brief": "photos in nursing/medical scrubs, lab coat, and hospital practical setting (ref: Photos in nursing school: group selfie in clinical scrubs, practical training room, classroom in lab coat, and hospital mirror selfie holding medical clipboard; selfie)",
+      "line": "l34"
+    },
+    {
+      "id": "s38",
+      "start": 54.623,
+      "end": 55.207,
+      "brief": "photos in nursing/medical scrubs, lab coat, and hospital practical setting (ref: Photos in nursing school: group selfie in clinical scrubs, practical training room, classroom in lab coat, and hospital mirror selfie holding medical clipboard; selfie)",
+      "line": "l35"
+    },
+    {
+      "id": "s39",
+      "start": 55.207,
+      "end": 55.753,
+      "brief": "photos in nursing/medical scrubs, lab coat, and hospital practical setting (ref: Photos in nursing school: group selfie in clinical scrubs, practical training room, classroom in lab coat, and hospital mirror selfie holding medical clipboard; selfie)",
+      "line": "l35"
+    },
+    {
+      "id": "s40",
+      "start": 55.753,
+      "end": 56.22,
+      "brief": "photos in nursing/medical scrubs, lab coat, and hospital practical setting (ref: Photos in nursing school: group selfie in clinical scrubs, practical training room, classroom in lab coat, and hospital mirror selfie holding medical clipboard; selfie)",
+      "line": "l35"
+    },
+    {
+      "id": "s41",
+      "start": 56.22,
+      "end": 56.727,
+      "brief": "photos in nursing/medical scrubs, lab coat, and hospital practical setting (ref: Photos in nursing school: group selfie in clinical scrubs, practical training room, classroom in lab coat, and hospital mirror selfie holding medical clipboard; selfie)",
+      "line": "l35"
+    },
+    {
+      "id": "s42",
+      "start": 56.727,
+      "end": 57.545,
+      "brief": "silly happy dance in pajamas in bedroom (ref: Creator in pajamas dancing cheerfully in bedroom; tripod)",
+      "line": "l36"
+    },
+    {
+      "id": "s43",
+      "start": 57.545,
+      "end": 58.441,
+      "brief": "playful selfie with peer in uniform/scrubs (ref: Creator with a friend wearing hospital masks and forehead bindi dots holding patient charts; selfie)",
+      "line": "l37"
+    },
+    {
+      "id": "s44",
+      "start": 58.441,
+      "end": 59.454,
+      "brief": "warm friendly smile reaching toward camera at desk/cafe (ref: Creator sitting at cafe table with laptop, reaching hand out toward camera with a radiant smile; filmed by friend)",
+      "line": "l38"
+    }
+  ],
+  "audit": {
+    "kind": "photo_slideshow",
+    "creatorSpeaks": false,
+    "audio": "music only",
+    "special": [
+      "A sequence of real archive photos and camera roll screenshots spanning ages 15-27 documenting specific past jobs, study notes, transcripts, and certificates",
+      "Nursing student scrubs/classroom setting"
+    ],
+    "reusable": false,
+    "notes": "This format relies on hyper-specific authentic proof from the creator's personal archives over a 10-year span (uniform mirror selfies from teen jobs, handwritten timecards, police report texts, study notes with calluses, transcripts, and nursing credentials). Generic lifestyle b-roll cannot recreate the authentic chronological personal narrative.",
+    "summary": "A chronological photo and screenshot slideshow documenting the creator's past decade of struggles (working multiple jobs, paying tuition alone, stalking trauma, nursing school) to prove her optimism was earned through hardship."
+  },
+  "caption": {
+    "ref": "",
+    "guide": ""
+  },
+  "draft": true
+}

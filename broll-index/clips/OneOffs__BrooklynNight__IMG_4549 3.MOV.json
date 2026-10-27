@@ -1,0 +1,80 @@
+{
+  "path": "OneOffs/BrooklynNight/IMG_4549 3.MOV",
+  "folder": "OneOffs/BrooklynNight",
+  "fingerprint": "94c4905fd7c59c85",
+  "width": 1080,
+  "height": 1920,
+  "fps": 30.0,
+  "duration": 7.1,
+  "model": "gemini-3.8-flash",
+  "annotatedAt": "2026-10-24T18:23:31+00:00",
+  "summary": "A young man performs a seated overhead shoulder press with a barbell on a bench rack inside a gym with street views in the background.",
+  "location": "gym",
+  "setting": "indoor",
+  "time_of_day": "day",
+  "weather": "n/a",
+  "people": {
+    "count": 2,
+    "creator_visible": true,
+    "description": "A young man wearing glasses, a black graphic t-shirt, black shorts, and white sneakers exercising, with a woman in athletic wear visible in the background."
+  },
+  "camera": {
+    "style": "tripod_static",
+    "framing": "medium",
+    "movement": "static",
+    "angle": "eye level"
+  },
+  "quality": {
+    "usable": true,
+    "stability": "steady",
+    "exposure": "good",
+    "issues": ""
+  },
+  "mood": [
+    "focused",
+    "determined",
+    "active"
+  ],
+  "energy": "medium",
+  "tags": [
+    "gym",
+    "overhead press",
+    "shoulder press",
+    "workout",
+    "fitness",
+    "weightlifting",
+    "barbell",
+    "exercise",
+    "training",
+    "strength",
+    "routine",
+    "brooklyn"
+  ],
+  "moments": [
+    {
+      "start": 0.0,
+      "end": 3.8,
+      "action": "Man pushes barbell overhead from chest level to full extension while seated on a bench",
+      "emotion": "focused",
+      "good_for": [
+        "hitting the gym",
+        "working on myself",
+        "discipline over motivation",
+        "daily workout routine"
+      ],
+      "score": 4
+    },
+    {
+      "start": 3.8,
+      "end": 7.1,
+      "action": "Man locks out overhead press and carefully returns the barbell onto the rack hooks",
+      "emotion": "relieved",
+      "good_for": [
+        "finishing the set",
+        "consistency",
+        "gym progress"
+      ],
+      "score": 3
+    }
+  ]
+}

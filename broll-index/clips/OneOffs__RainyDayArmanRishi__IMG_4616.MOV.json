@@ -1,0 +1,70 @@
+{
+  "path": "OneOffs/RainyDayArmanRishi/IMG_4616.MOV",
+  "folder": "OneOffs/RainyDayArmanRishi",
+  "fingerprint": "4e624369eefa3c94",
+  "width": 1080,
+  "height": 1920,
+  "fps": 30.0,
+  "duration": 3.167,
+  "model": "gemini-3.8-flash",
+  "annotatedAt": "2026-10-24T18:35:54+00:00",
+  "summary": "POV walking down a wet city sidewalk on a rainy, overcast day alongside skyscrapers and classic stone architecture.",
+  "location": "city street",
+  "setting": "outdoor",
+  "time_of_day": "day",
+  "weather": "rain",
+  "people": {
+    "count": 4,
+    "creator_visible": false,
+    "description": "Pedestrians walking down the sidewalk ahead with umbrellas and raincoats, seen from behind."
+  },
+  "camera": {
+    "style": "pov_first_person",
+    "framing": "wide",
+    "movement": "walking",
+    "angle": "eye level"
+  },
+  "quality": {
+    "usable": true,
+    "stability": "handheld",
+    "exposure": "good",
+    "issues": ""
+  },
+  "mood": [
+    "melancholic",
+    "moody",
+    "peaceful",
+    "atmospheric"
+  ],
+  "energy": "low",
+  "tags": [
+    "rain",
+    "rainy day",
+    "new york city",
+    "nyc",
+    "wet pavement",
+    "city street",
+    "walking",
+    "skyscrapers",
+    "commute",
+    "gloomy",
+    "urban",
+    "overcast"
+  ],
+  "moments": [
+    {
+      "start": 0.0,
+      "end": 3.17,
+      "action": "POV shot walking along a slick, rain-soaked sidewalk beside a stone terrace wall with NYC towers ahead",
+      "emotion": "calm",
+      "good_for": [
+        "rainy day aesthetic",
+        "romanticizing the city",
+        "city walking b-roll",
+        "rainy commute",
+        "gloomy day vibes"
+      ],
+      "score": 4
+    }
+  ]
+}

@@ -1,0 +1,102 @@
+{
+  "path": "SelfShots/ClimbingGym/OnTheWall/10:18:26_Orange_x53/IMG_5147.MOV",
+  "folder": "SelfShots/ClimbingGym/OnTheWall/10:18:26_Orange_x53",
+  "fingerprint": "68432d215192b50b",
+  "width": 1080,
+  "height": 1920,
+  "fps": 30.0,
+  "duration": 32.202,
+  "model": "gemini-3.8-flash",
+  "annotatedAt": "2026-10-24T18:46:20+00:00",
+  "summary": "A young man climbs a challenging indoor bouldering route across large black volumes before falling off near the top.",
+  "location": "climbing gym",
+  "setting": "indoor",
+  "time_of_day": "indoor_unknown",
+  "weather": "n/a",
+  "people": {
+    "count": 1,
+    "creator_visible": true,
+    "description": "Young East Asian man with dark wavy hair, wearing a grey tank top, baggy jeans, and climbing shoes."
+  },
+  "camera": {
+    "style": "tripod_static",
+    "framing": "wide",
+    "movement": "static",
+    "angle": "low angle looking up"
+  },
+  "quality": {
+    "usable": true,
+    "stability": "locked",
+    "exposure": "good",
+    "issues": ""
+  },
+  "mood": [
+    "focused",
+    "athletic",
+    "challenging",
+    "active"
+  ],
+  "energy": "medium",
+  "tags": [
+    "climbing gym",
+    "bouldering",
+    "rock climbing",
+    "indoor climbing",
+    "fitness",
+    "workout",
+    "training",
+    "athletic",
+    "perseverance",
+    "falling"
+  ],
+  "moments": [
+    {
+      "start": 2.5,
+      "end": 7.0,
+      "action": "Climber approaches the wall, grabs the starting holds, and positions his feet on the lower volumes",
+      "emotion": "focused",
+      "good_for": [
+        "starting a new challenge",
+        "day one of training",
+        "getting to work"
+      ],
+      "score": 4
+    },
+    {
+      "start": 9.5,
+      "end": 14.5,
+      "action": "Climber hooks his leg high onto a hold and presses up into a full standing position on a volume",
+      "emotion": "determined",
+      "good_for": [
+        "pushing through difficulty",
+        "trusting your strength",
+        "stepping up"
+      ],
+      "score": 5
+    },
+    {
+      "start": 15.0,
+      "end": 21.0,
+      "action": "Climber methodically works his way up the angular black volumes with precise hand and foot placements",
+      "emotion": "concentrated",
+      "good_for": [
+        "one step at a time",
+        "focus on the climb",
+        "problem solving"
+      ],
+      "score": 4
+    },
+    {
+      "start": 21.0,
+      "end": 27.5,
+      "action": "Climber stretches towards the top holds, balances precariously, and falls back onto the padded mat",
+      "emotion": "exhausted attempt",
+      "good_for": [
+        "almost made it",
+        "embracing failure",
+        "trying your hardest"
+      ],
+      "score": 4
+    }
+  ]
+}

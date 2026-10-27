@@ -1,0 +1,92 @@
+{
+  "path": "SelfShots/ClimbingGym/OnTheWall/10:18:26_Orange_x53/IMG_5146.MOV",
+  "folder": "SelfShots/ClimbingGym/OnTheWall/10:18:26_Orange_x53",
+  "fingerprint": "09017654ae954b1f",
+  "width": 1080,
+  "height": 1920,
+  "fps": 30.0,
+  "duration": 36.937,
+  "model": "gemini-3.8-flash",
+  "annotatedAt": "2026-10-24T18:45:58+00:00",
+  "summary": "A young man boulder climbs up a red hold route on an indoor bouldering wall, reaches near the top hold, and drops down onto the crash pad.",
+  "location": "climbing gym",
+  "setting": "indoor",
+  "time_of_day": "indoor_unknown",
+  "weather": "n/a",
+  "people": {
+    "count": 1,
+    "creator_visible": true,
+    "description": "Young East Asian man wearing a grey tank top, loose blue jeans, and climbing shoes"
+  },
+  "camera": {
+    "style": "tripod_static",
+    "framing": "medium",
+    "movement": "static",
+    "angle": "low angle looking up"
+  },
+  "quality": {
+    "usable": true,
+    "stability": "locked",
+    "exposure": "good",
+    "issues": ""
+  },
+  "mood": [
+    "athletic",
+    "determined",
+    "focused",
+    "challenging"
+  ],
+  "energy": "medium",
+  "tags": [
+    "bouldering",
+    "rock climbing",
+    "climbing gym",
+    "fitness",
+    "training",
+    "grip strength",
+    "indoor climbing",
+    "sloper",
+    "workout",
+    "athlete",
+    "climbing wall"
+  ],
+  "moments": [
+    {
+      "start": 9.5,
+      "end": 17.0,
+      "action": "Climber mounts the starting holds and shifts his weight onto red volumes",
+      "emotion": "focused",
+      "good_for": [
+        "starting a new project",
+        "getting to work",
+        "first steps"
+      ],
+      "score": 4
+    },
+    {
+      "start": 21.0,
+      "end": 31.5,
+      "action": "Climber carefully positions his feet on volumes and matches his hands on the top red hold",
+      "emotion": "determined",
+      "good_for": [
+        "trusting the process",
+        "almost there",
+        "hard work paying off",
+        "climbing progression"
+      ],
+      "score": 5
+    },
+    {
+      "start": 31.5,
+      "end": 34.0,
+      "action": "Climber releases his grip and drops down onto the safety mat",
+      "emotion": "relieved",
+      "good_for": [
+        "letting go",
+        "dropping down",
+        "giving it your all"
+      ],
+      "score": 4
+    }
+  ]
+}

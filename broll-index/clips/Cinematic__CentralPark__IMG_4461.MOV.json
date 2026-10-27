@@ -1,0 +1,74 @@
+{
+  "path": "Cinematic/CentralPark/IMG_4461.MOV",
+  "folder": "Cinematic/CentralPark",
+  "fingerprint": "0b0b6720b69212e4",
+  "width": 1080,
+  "height": 1920,
+  "fps": 30.0,
+  "duration": 4.8,
+  "model": "gemini-3.8-flash",
+  "annotatedAt": "2026-10-24T18:18:37+00:00",
+  "summary": "A peaceful shot of a small tiered waterfall cascading over rocky formations into a pond surrounded by lush green foliage in Central Park.",
+  "location": "park",
+  "setting": "outdoor",
+  "time_of_day": "day",
+  "weather": "sunny",
+  "people": {
+    "count": 1,
+    "creator_visible": false,
+    "description": "An indistinct person sitting on rocks in the distant background on the far left"
+  },
+  "camera": {
+    "style": "handheld_cinematic",
+    "framing": "medium",
+    "movement": "static",
+    "angle": "eye level"
+  },
+  "quality": {
+    "usable": true,
+    "stability": "steady",
+    "exposure": "good",
+    "issues": ""
+  },
+  "mood": [
+    "peaceful",
+    "calm",
+    "serene",
+    "natural",
+    "relaxing"
+  ],
+  "energy": "low",
+  "tags": [
+    "central park",
+    "waterfall",
+    "nature",
+    "stream",
+    "pond",
+    "rocks",
+    "water",
+    "outdoors",
+    "trees",
+    "foliage",
+    "peaceful",
+    "scenic",
+    "park",
+    "new york city"
+  ],
+  "moments": [
+    {
+      "start": 0.0,
+      "end": 4.8,
+      "action": "Water trickles down a rocky waterfall into a calm pond surrounded by green trees with sunlight filtering through the canopy",
+      "emotion": "calm",
+      "good_for": [
+        "nature sounds",
+        "peace of mind",
+        "finding quiet in the city",
+        "gratitude list",
+        "mental health day",
+        "romanticizing life"
+      ],
+      "score": 4
+    }
+  ]
+}

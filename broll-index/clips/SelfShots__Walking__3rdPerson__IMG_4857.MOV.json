@@ -1,0 +1,80 @@
+{
+  "path": "SelfShots/Walking/3rdPerson/IMG_4857.MOV",
+  "folder": "SelfShots/Walking/3rdPerson",
+  "fingerprint": "77ddb3b894c47632",
+  "width": 1080,
+  "height": 1920,
+  "fps": 30.0,
+  "duration": 12.602,
+  "model": "gemini-3.8-flash",
+  "annotatedAt": "2026-10-24T19:02:41+00:00",
+  "summary": "A young man walks through a convenience store aisle, stops to browse canned items on a wooden shelf, and walks past the camera.",
+  "location": "convenience store",
+  "setting": "indoor",
+  "time_of_day": "indoor_unknown",
+  "weather": "n/a",
+  "people": {
+    "count": 3,
+    "creator_visible": true,
+    "description": "A young East Asian man with curly hair wearing a dark coat and backpack, along with other shoppers in the background"
+  },
+  "camera": {
+    "style": "tripod_static",
+    "framing": "medium",
+    "movement": "static",
+    "angle": "eye level"
+  },
+  "quality": {
+    "usable": true,
+    "stability": "locked",
+    "exposure": "good",
+    "issues": ""
+  },
+  "mood": [
+    "casual",
+    "mundane",
+    "peaceful",
+    "routine"
+  ],
+  "energy": "low",
+  "tags": [
+    "convenience store",
+    "grocery shopping",
+    "errands",
+    "daily routine",
+    "shelves",
+    "canned food",
+    "lifestyle",
+    "walking",
+    "browsing",
+    "city life"
+  ],
+  "moments": [
+    {
+      "start": 2.8,
+      "end": 8.5,
+      "action": "The creator walks up to a wooden shelving unit and inspects canned food, picking one up to look at it",
+      "emotion": "focused, curious",
+      "good_for": [
+        "grocery shopping",
+        "running errands",
+        "routine days",
+        "food on my plate",
+        "late night market run"
+      ],
+      "score": 4
+    },
+    {
+      "start": 8.5,
+      "end": 11.0,
+      "action": "The creator finishes checking the item, turns around, glances at the camera, and walks past it",
+      "emotion": "calm, neutral",
+      "good_for": [
+        "quick stop",
+        "on the go",
+        "daily vlog transition"
+      ],
+      "score": 3
+    }
+  ]
+}

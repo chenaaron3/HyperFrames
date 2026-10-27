@@ -1,0 +1,67 @@
+{
+  "path": "Cinematic/UES/IMG_4504.MOV",
+  "folder": "Cinematic/UES",
+  "fingerprint": "c05b13119101cd8f",
+  "width": 1080,
+  "height": 1920,
+  "fps": 30.0,
+  "duration": 2.632,
+  "model": "gemini-3.8-flash",
+  "annotatedAt": "2026-10-24T18:20:16+00:00",
+  "summary": "A mother and young daughter ride down a long subway station escalator, looking up toward the camera while other commuters descend behind them.",
+  "location": "subway station escalator",
+  "setting": "indoor",
+  "time_of_day": "day",
+  "weather": "n/a",
+  "people": {
+    "count": 7,
+    "creator_visible": false,
+    "description": "A woman wearing glasses and a green top holding a tote bag, accompanied by a little girl in a blue jacket with a yellow hair flower; other commuters visible further up the escalator"
+  },
+  "camera": {
+    "style": "pov_first_person",
+    "framing": "medium",
+    "movement": "tracking",
+    "angle": "high angle"
+  },
+  "quality": {
+    "usable": true,
+    "stability": "steady",
+    "exposure": "good",
+    "issues": ""
+  },
+  "mood": [
+    "urban",
+    "candid",
+    "family",
+    "routine"
+  ],
+  "energy": "low",
+  "tags": [
+    "subway",
+    "escalator",
+    "commute",
+    "new york city",
+    "transit",
+    "mother and daughter",
+    "traveling",
+    "city life",
+    "underground",
+    "urban living"
+  ],
+  "moments": [
+    {
+      "start": 0.0,
+      "end": 2.63,
+      "action": "Mother and young daughter ride down a subway escalator while looking up towards the camera",
+      "emotion": "calm, curious",
+      "good_for": [
+        "daily commute",
+        "city parenting",
+        "family adventures",
+        "on the go in nyc"
+      ],
+      "score": 3
+    }
+  ]
+}

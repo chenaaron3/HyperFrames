@@ -1,0 +1,104 @@
+{
+  "path": "SelfShots/Mina/2.7_IMG_4925.MOV",
+  "folder": "SelfShots/Mina",
+  "fingerprint": "458446a61278bd45",
+  "width": 1080,
+  "height": 1920,
+  "fps": 29.97,
+  "duration": 25.88,
+  "model": "gemini-3.8-flash",
+  "annotatedAt": "2026-10-24T18:55:48+00:00",
+  "summary": "A close-up shot of a fluffy gray cat licking a puree treat directly from a red squeeze packet held by someone's hand.",
+  "location": "living room",
+  "setting": "indoor",
+  "time_of_day": "day",
+  "weather": "n/a",
+  "people": {
+    "count": 1,
+    "creator_visible": false,
+    "description": "Only the hand of a person holding the treat packet is visible."
+  },
+  "camera": {
+    "style": "pov_first_person",
+    "framing": "close",
+    "movement": "handheld",
+    "angle": "high angle"
+  },
+  "quality": {
+    "usable": true,
+    "stability": "steady",
+    "exposure": "good",
+    "issues": ""
+  },
+  "mood": [
+    "cute",
+    "gentle",
+    "cozy",
+    "peaceful"
+  ],
+  "energy": "low",
+  "tags": [
+    "cat",
+    "pet",
+    "treat",
+    "feeding",
+    "feline",
+    "tabby",
+    "cute",
+    "snack",
+    "indoor",
+    "wooden floor",
+    "pet care",
+    "whiskers"
+  ],
+  "moments": [
+    {
+      "start": 0.0,
+      "end": 5.5,
+      "action": "Fluffy cat eagerly licks treat paste from a squeeze packet",
+      "emotion": "content",
+      "good_for": [
+        "treating my baby",
+        "little daily joys",
+        "pet parent life"
+      ],
+      "score": 4
+    },
+    {
+      "start": 10.5,
+      "end": 15.5,
+      "action": "Cat pauses, looks up with big yellow-green eyes, then resumes licking",
+      "emotion": "focused",
+      "good_for": [
+        "the look of love",
+        "best part of the day",
+        "spoiling my pet"
+      ],
+      "score": 5
+    },
+    {
+      "start": 15.5,
+      "end": 21.0,
+      "action": "Cat continues happily licking the treat as the packet is tilted",
+      "emotion": "excited",
+      "good_for": [
+        "obsessed with snacks",
+        "food motivated",
+        "unconditional love"
+      ],
+      "score": 4
+    },
+    {
+      "start": 21.0,
+      "end": 25.88,
+      "action": "Cat licks every last drop of treat from the tip of the packet",
+      "emotion": "eager",
+      "good_for": [
+        "clean plate club",
+        "cat mom duties",
+        "simple happiness"
+      ],
+      "score": 4
+    }
+  ]
+}

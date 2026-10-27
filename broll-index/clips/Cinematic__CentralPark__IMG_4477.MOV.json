@@ -1,0 +1,81 @@
+{
+  "path": "Cinematic/CentralPark/IMG_4477.MOV",
+  "folder": "Cinematic/CentralPark",
+  "fingerprint": "d38a294532b67dfe",
+  "width": 1080,
+  "height": 1920,
+  "fps": 29.97,
+  "duration": 5.437,
+  "model": "gemini-3.8-flash",
+  "annotatedAt": "2026-10-24T18:18:54+00:00",
+  "summary": "A handheld panning landscape shot sweeping across the formal hedges, central fountain, and strolling visitors at the Conservatory Garden in Central Park on a bright sunny afternoon.",
+  "location": "park",
+  "setting": "outdoor",
+  "time_of_day": "day",
+  "weather": "sunny",
+  "people": {
+    "count": 8,
+    "creator_visible": false,
+    "description": "Park visitors standing in small groups near the fountain and walking along paved pathways in casual daytime attire."
+  },
+  "camera": {
+    "style": "handheld_cinematic",
+    "framing": "wide",
+    "movement": "pan",
+    "angle": "eye level"
+  },
+  "quality": {
+    "usable": true,
+    "stability": "steady",
+    "exposure": "good",
+    "issues": "Sun flare and bright sun halo directly in frame"
+  },
+  "mood": [
+    "peaceful",
+    "serene",
+    "bright",
+    "refreshing"
+  ],
+  "energy": "low",
+  "tags": [
+    "central park",
+    "new york city",
+    "conservatory garden",
+    "park",
+    "formal garden",
+    "fountain",
+    "hedges",
+    "afternoon stroll",
+    "sunny day",
+    "travel b-roll",
+    "city nature",
+    "manhattan"
+  ],
+  "moments": [
+    {
+      "start": 0.0,
+      "end": 3.8,
+      "action": "Camera smoothly pans across ornate spiral boxwood hedges toward a fountain surrounded by visitors against the bright glowing sun",
+      "emotion": "calm",
+      "good_for": [
+        "sunny afternoon walks",
+        "romanticizing new york",
+        "peaceful corners of the city",
+        "weekend recap"
+      ],
+      "score": 4
+    },
+    {
+      "start": 3.0,
+      "end": 5.44,
+      "action": "Camera continues panning past the fountain onto stone paved walkways and lush greenery under a clear blue sky",
+      "emotion": "relaxed",
+      "good_for": [
+        "taking a walk to clear my head",
+        "explore your own city",
+        "nature in the city"
+      ],
+      "score": 3
+    }
+  ]
+}

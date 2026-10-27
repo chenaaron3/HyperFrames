@@ -1,0 +1,71 @@
+{
+  "path": "Cinematic/UES/IMG_4489.MOV",
+  "folder": "Cinematic/UES",
+  "fingerprint": "6252c264e3043501",
+  "width": 1080,
+  "height": 1920,
+  "fps": 30.0,
+  "duration": 3.267,
+  "model": "gemini-3.8-flash",
+  "annotatedAt": "2026-10-24T18:19:51+00:00",
+  "summary": "Handheld view panning past classic residential brownstones and townhouses on an Upper East Side New York City street with parked cars.",
+  "location": "city street",
+  "setting": "outdoor",
+  "time_of_day": "day",
+  "weather": "overcast",
+  "people": {
+    "count": 0,
+    "creator_visible": false,
+    "description": "No people clearly visible on screen."
+  },
+  "camera": {
+    "style": "handheld_cinematic",
+    "framing": "wide",
+    "movement": "pan",
+    "angle": "eye level"
+  },
+  "quality": {
+    "usable": true,
+    "stability": "steady",
+    "exposure": "good",
+    "issues": ""
+  },
+  "mood": [
+    "peaceful",
+    "nostalgic",
+    "urban",
+    "contemplative"
+  ],
+  "energy": "low",
+  "tags": [
+    "nyc",
+    "upper east side",
+    "brownstone",
+    "townhouse",
+    "architecture",
+    "street",
+    "city",
+    "neighborhood",
+    "manhattan",
+    "b-roll",
+    "establishing shot",
+    "trees",
+    "cars"
+  ],
+  "moments": [
+    {
+      "start": 0.0,
+      "end": 3.27,
+      "action": "Camera slowly pans to the right showing historic brownstone buildings and parked cars along a quiet Upper East Side street.",
+      "emotion": "calm",
+      "good_for": [
+        "living in new york",
+        "city walks",
+        "dream neighborhood",
+        "morning stroll",
+        "roof over my head"
+      ],
+      "score": 3
+    }
+  ]
+}

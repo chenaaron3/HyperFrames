@@ -1,0 +1,104 @@
+{
+  "path": "OneOffs/Apartments/FIDI/90W/IMG_4090.MOV",
+  "folder": "OneOffs/Apartments/FIDI/90W",
+  "fingerprint": "dc85214857a12732",
+  "width": 1080,
+  "height": 1920,
+  "fps": 30.0,
+  "duration": 30.968,
+  "model": "gemini-3.8-flash",
+  "annotatedAt": "2026-10-24T18:20:51+00:00",
+  "summary": "A handheld walkthrough tour of an empty apartment in NYC's Financial District, showing the hallway, bathroom, kitchen, living room, and city window view.",
+  "location": "apartment",
+  "setting": "indoor",
+  "time_of_day": "day",
+  "weather": "sunny",
+  "people": {
+    "count": 2,
+    "creator_visible": false,
+    "description": "A maintenance worker in black cleaning the bathroom sink, and another man in a collared shirt walking through the living area."
+  },
+  "camera": {
+    "style": "pov_first_person",
+    "framing": "wide",
+    "movement": "walking",
+    "angle": "eye level"
+  },
+  "quality": {
+    "usable": true,
+    "stability": "handheld",
+    "exposure": "mixed",
+    "issues": "Quick pans, slight motion blur, brief overexposure when approaching the window."
+  },
+  "mood": [
+    "curious",
+    "casual",
+    "exploratory"
+  ],
+  "energy": "medium",
+  "tags": [
+    "apartment tour",
+    "nyc apartment",
+    "real estate",
+    "moving",
+    "hardwood floors",
+    "city view",
+    "fidi",
+    "empty room",
+    "kitchen",
+    "house hunting",
+    "new home"
+  ],
+  "moments": [
+    {
+      "start": 5.0,
+      "end": 7.5,
+      "action": "Camera pans into the bathroom showing a maintenance worker scrubbing the pedestal sink",
+      "emotion": "routine",
+      "good_for": [
+        "prepping the new place",
+        "deep cleaning day",
+        "behind the scenes"
+      ],
+      "score": 2
+    },
+    {
+      "start": 10.0,
+      "end": 14.5,
+      "action": "Pan around the compact kitchen showing the refrigerator, gas stove, microwave, and wooden cabinets",
+      "emotion": "neutral",
+      "good_for": [
+        "apartment hunting",
+        "first nyc kitchen",
+        "small space living"
+      ],
+      "score": 3
+    },
+    {
+      "start": 18.5,
+      "end": 22.5,
+      "action": "Walking into the sunlit empty living room with parquet wood floors toward the large windows",
+      "emotion": "excited",
+      "good_for": [
+        "new apartment tour",
+        "blank canvas",
+        "moving to new york",
+        "manifesting my own space"
+      ],
+      "score": 4
+    },
+    {
+      "start": 24.5,
+      "end": 30.5,
+      "action": "Looking out the large window at the neighboring high-rises and green treetops against a blue sky",
+      "emotion": "peaceful",
+      "good_for": [
+        "the view from my new place",
+        "city living",
+        "views of nyc",
+        "dream apartment"
+      ],
+      "score": 4
+    }
+  ]
+}

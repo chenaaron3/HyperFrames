@@ -1,0 +1,94 @@
+{
+  "path": "SelfShots/Walking/1stPerson/IMG_5261.MOV",
+  "folder": "SelfShots/Walking/1stPerson",
+  "fingerprint": "7a85fbe50148a3a8",
+  "width": 1080,
+  "height": 1920,
+  "fps": 30.0,
+  "duration": 18.767,
+  "model": "gemini-3.8-flash",
+  "annotatedAt": "2026-10-24T19:02:29+00:00",
+  "summary": "A young man holds a camera selfie-style while walking through a city park lined with trees and skyscrapers, smiling and reacting when passersby call out to him.",
+  "location": "park",
+  "setting": "outdoor",
+  "time_of_day": "day",
+  "weather": "sunny",
+  "people": {
+    "count": 6,
+    "creator_visible": true,
+    "description": "Young East Asian man with wavy dark hair, wearing a black blazer over a blue shirt and carrying a backpack, with various park visitors in the background."
+  },
+  "camera": {
+    "style": "selfie",
+    "framing": "medium",
+    "movement": "walking",
+    "angle": "eye level"
+  },
+  "quality": {
+    "usable": true,
+    "stability": "handheld",
+    "exposure": "good",
+    "issues": ""
+  },
+  "mood": [
+    "cheerful",
+    "casual",
+    "carefree",
+    "urban"
+  ],
+  "energy": "medium",
+  "tags": [
+    "central park",
+    "walking",
+    "selfie",
+    "new york city",
+    "autumn",
+    "trees",
+    "skyscrapers",
+    "blazer",
+    "smile",
+    "friendly",
+    "commute",
+    "lifestyle"
+  ],
+  "moments": [
+    {
+      "start": 1.5,
+      "end": 6.5,
+      "action": "Creator walks forward holding the camera, looking around calmly with the wind in his hair and green trees behind him",
+      "emotion": "calm",
+      "good_for": [
+        "clearing my head",
+        "city walks",
+        "day in my life",
+        "solo walk"
+      ],
+      "score": 4
+    },
+    {
+      "start": 6.5,
+      "end": 11.0,
+      "action": "Creator continues strolling along the park pathway, glancing at the camera with a relaxed expression",
+      "emotion": "peaceful",
+      "good_for": [
+        "romanticizing my life",
+        "taking a breath",
+        "afternoon stroll"
+      ],
+      "score": 4
+    },
+    {
+      "start": 11.0,
+      "end": 16.5,
+      "action": "Someone in the park shouts hello, causing the creator to turn back, laugh, and smile warmly toward the camera",
+      "emotion": "happy",
+      "good_for": [
+        "unexpected moments",
+        "making strangers smile",
+        "good energy",
+        "friendly interactions"
+      ],
+      "score": 5
+    }
+  ]
+}

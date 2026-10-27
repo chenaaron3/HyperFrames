@@ -1,0 +1,93 @@
+{
+  "path": "OneOffs/RainyDayArmanRishi/IMG_4656.MOV",
+  "folder": "OneOffs/RainyDayArmanRishi",
+  "fingerprint": "19d5b6de56f65679",
+  "width": 1080,
+  "height": 1920,
+  "fps": 30.0,
+  "duration": 14.667,
+  "model": "gemini-3.8-flash",
+  "annotatedAt": "2026-10-24T18:37:16+00:00",
+  "summary": "A server sets down multiple small teapots and ceramic pitchers of freshly brewed tea on a wooden table at a traditional tea house.",
+  "location": "restaurant",
+  "setting": "indoor",
+  "time_of_day": "indoor_unknown",
+  "weather": "n/a",
+  "people": {
+    "count": 2,
+    "creator_visible": false,
+    "description": "One person sits across the table wearing a black jacket and button-up shirt; a server's tattooed hands place teaware on the table."
+  },
+  "camera": {
+    "style": "pov_first_person",
+    "framing": "medium",
+    "movement": "static",
+    "angle": "high angle"
+  },
+  "quality": {
+    "usable": true,
+    "stability": "steady",
+    "exposure": "good",
+    "issues": ""
+  },
+  "mood": [
+    "peaceful",
+    "calm",
+    "mindful",
+    "cozy"
+  ],
+  "energy": "low",
+  "tags": [
+    "tea",
+    "teahouse",
+    "tea tasting",
+    "tea ceremony",
+    "yixing teapot",
+    "ceramic pitcher",
+    "wooden table",
+    "mindfulness",
+    "cozy aesthetic",
+    "table service",
+    "rainy day activity"
+  ],
+  "moments": [
+    {
+      "start": 0.0,
+      "end": 4.5,
+      "action": "Server places down the first white pitcher of tea and a small red clay teapot on the table",
+      "emotion": "calm",
+      "good_for": [
+        "tea dates",
+        "slowing down",
+        "rainy day comfort",
+        "treating yourself"
+      ],
+      "score": 4
+    },
+    {
+      "start": 4.8,
+      "end": 9.0,
+      "action": "Server sets down a second pitcher of amber-colored tea alongside another small red teapot",
+      "emotion": "focused",
+      "good_for": [
+        "little daily rituals",
+        "peace of mind",
+        "finding quiet spots"
+      ],
+      "score": 4
+    },
+    {
+      "start": 9.2,
+      "end": 14.67,
+      "action": "Server completes the trio by arranging a third pitcher and a white ceramic teapot next to the others",
+      "emotion": "satisfied",
+      "good_for": [
+        "aesthetic b-roll",
+        "mindful mornings",
+        "tea ceremony",
+        "cozy lifestyle"
+      ],
+      "score": 5
+    }
+  ]
+}

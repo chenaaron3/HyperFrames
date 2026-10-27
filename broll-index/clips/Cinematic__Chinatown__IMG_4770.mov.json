@@ -1,0 +1,69 @@
+{
+  "path": "Cinematic/Chinatown/IMG_4770.mov",
+  "folder": "Cinematic/Chinatown",
+  "fingerprint": "21e364780d5f7f36",
+  "width": 1080,
+  "height": 1920,
+  "fps": 30.0,
+  "duration": 2.6,
+  "model": "gemini-3.8-flash",
+  "annotatedAt": "2026-10-24T18:19:09+00:00",
+  "summary": "A steady wide shot of the historic vaulted tile archway entrance to the Chambers Street subway station in New York City.",
+  "location": "subway entrance",
+  "setting": "mixed",
+  "time_of_day": "day",
+  "weather": "n/a",
+  "people": {
+    "count": 0,
+    "creator_visible": false,
+    "description": "No people visible on screen"
+  },
+  "camera": {
+    "style": "handheld_cinematic",
+    "framing": "wide",
+    "movement": "static",
+    "angle": "eye level"
+  },
+  "quality": {
+    "usable": true,
+    "stability": "steady",
+    "exposure": "good",
+    "issues": ""
+  },
+  "mood": [
+    "calm",
+    "urban",
+    "historic",
+    "architectural"
+  ],
+  "energy": "low",
+  "tags": [
+    "nyc",
+    "new york city",
+    "subway",
+    "chambers street",
+    "architecture",
+    "arches",
+    "metro",
+    "mta",
+    "stairs",
+    "urban aesthetic",
+    "city life",
+    "commute"
+  ],
+  "moments": [
+    {
+      "start": 0.0,
+      "end": 2.6,
+      "action": "Static view of the tiled Guastavino ceiling arches and descending stairwell to Chambers Street subway station",
+      "emotion": "calm",
+      "good_for": [
+        "nyc living",
+        "commute aesthetic",
+        "city architecture",
+        "exploring new york"
+      ],
+      "score": 3
+    }
+  ]
+}

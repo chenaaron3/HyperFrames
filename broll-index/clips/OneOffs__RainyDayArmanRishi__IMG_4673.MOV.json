@@ -1,0 +1,72 @@
+{
+  "path": "OneOffs/RainyDayArmanRishi/IMG_4673.MOV",
+  "folder": "OneOffs/RainyDayArmanRishi",
+  "fingerprint": "a215a0cfa57d537e",
+  "width": 1080,
+  "height": 1920,
+  "fps": 30.0,
+  "duration": 2.467,
+  "model": "gemini-3.8-flash",
+  "annotatedAt": "2026-10-24T18:37:48+00:00",
+  "summary": "Exterior shot of a modern city building entrance illuminated with '606' on a rainy night, showing reflections on the wet sidewalk and distant traffic.",
+  "location": "city street",
+  "setting": "outdoor",
+  "time_of_day": "night",
+  "weather": "rain",
+  "people": {
+    "count": 2,
+    "creator_visible": false,
+    "description": "Distant pedestrians walking near the building entrance sheltered from rain"
+  },
+  "camera": {
+    "style": "handheld_cinematic",
+    "framing": "wide",
+    "movement": "static",
+    "angle": "low angle looking up"
+  },
+  "quality": {
+    "usable": true,
+    "stability": "steady",
+    "exposure": "mixed",
+    "issues": ""
+  },
+  "mood": [
+    "moody",
+    "calm",
+    "urban",
+    "melancholy",
+    "atmospheric"
+  ],
+  "energy": "low",
+  "tags": [
+    "rain",
+    "rainy day",
+    "night",
+    "city",
+    "street",
+    "606",
+    "urban",
+    "reflections",
+    "wet pavement",
+    "traffic",
+    "sidewalk",
+    "moody",
+    "lights"
+  ],
+  "moments": [
+    {
+      "start": 0.0,
+      "end": 2.47,
+      "action": "A steady atmospheric shot of the wet sidewalk reflecting city lights under the lit '606' awning during rain",
+      "emotion": "contemplative",
+      "good_for": [
+        "rainy city nights",
+        "late night thoughts",
+        "city aesthetic",
+        "heading back home",
+        "gloomy day mood"
+      ],
+      "score": 4
+    }
+  ]
+}

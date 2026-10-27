@@ -1,0 +1,84 @@
+{
+  "path": "Cinematic/CentralPark/IMG_4453.MOV",
+  "folder": "Cinematic/CentralPark",
+  "fingerprint": "8969504a616a566a",
+  "width": 1080,
+  "height": 1920,
+  "fps": 29.97,
+  "duration": 10.605,
+  "model": "gemini-3.8-flash",
+  "annotatedAt": "2026-10-24T18:18:26+00:00",
+  "summary": "View framed through a black metal fence of golden wildflowers in the foreground and cars driving along a park road in the blurred background.",
+  "location": "park",
+  "setting": "outdoor",
+  "time_of_day": "golden_hour",
+  "weather": "sunny",
+  "people": {
+    "count": 0,
+    "creator_visible": false,
+    "description": "No people visible"
+  },
+  "camera": {
+    "style": "handheld_cinematic",
+    "framing": "medium",
+    "movement": "static",
+    "angle": "eye level"
+  },
+  "quality": {
+    "usable": true,
+    "stability": "steady",
+    "exposure": "good",
+    "issues": ""
+  },
+  "mood": [
+    "calm",
+    "peaceful",
+    "urban",
+    "reflective",
+    "cinematic"
+  ],
+  "energy": "low",
+  "tags": [
+    "central park",
+    "new york city",
+    "wildflowers",
+    "goldenrod",
+    "traffic",
+    "road",
+    "yellow cab",
+    "city park",
+    "nature in the city",
+    "fence",
+    "framing",
+    "golden hour",
+    "cinematic b-roll"
+  ],
+  "moments": [
+    {
+      "start": 0.0,
+      "end": 5.0,
+      "action": "Yellow wildflowers sway gently behind an iron fence as a yellow taxi and cars drive along the road below",
+      "emotion": "calm",
+      "good_for": [
+        "city pauses",
+        "finding peace in the chaos",
+        "new york moments",
+        "slow down and look around"
+      ],
+      "score": 4
+    },
+    {
+      "start": 5.0,
+      "end": 10.61,
+      "action": "Cars and a white van drive along the curved roadway beneath lush greenery and foreground flowers",
+      "emotion": "peaceful",
+      "good_for": [
+        "autumn vibes",
+        "central park views",
+        "life moving fast",
+        "urban sanctuary"
+      ],
+      "score": 4
+    }
+  ]
+}

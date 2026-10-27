@@ -1,0 +1,79 @@
+{
+  "path": "OneOffs/RainyDayArmanRishi/IMG_4633.MOV",
+  "folder": "OneOffs/RainyDayArmanRishi",
+  "fingerprint": "50bd454e86dd8ceb",
+  "width": 1080,
+  "height": 1920,
+  "fps": 30.0,
+  "duration": 4.965,
+  "model": "gemini-3.8-flash",
+  "annotatedAt": "2026-10-24T18:36:24+00:00",
+  "summary": "People wait in line on a rainy sidewalk outside 169 West 10th Street in New York City before the camera pans to a man holding an umbrella.",
+  "location": "city street",
+  "setting": "outdoor",
+  "time_of_day": "day",
+  "weather": "rain",
+  "people": {
+    "count": 9,
+    "creator_visible": true,
+    "description": "Pedestrians and people waiting in line outside a venue on a rainy street, including a man pushing a stroller with a rain cover and a young man standing with an umbrella wearing glasses and a dark jacket."
+  },
+  "camera": {
+    "style": "filmed_by_friend",
+    "framing": "wide",
+    "movement": "pan",
+    "angle": "eye level"
+  },
+  "quality": {
+    "usable": true,
+    "stability": "handheld",
+    "exposure": "good",
+    "issues": ""
+  },
+  "mood": [
+    "moody",
+    "urban",
+    "casual",
+    "observational"
+  ],
+  "energy": "low",
+  "tags": [
+    "rainy day",
+    "nyc",
+    "west village",
+    "waiting in line",
+    "umbrella",
+    "city life",
+    "street",
+    "manhattan",
+    "autumn",
+    "commute",
+    "wet pavement"
+  ],
+  "moments": [
+    {
+      "start": 0.0,
+      "end": 2.2,
+      "action": "A crowd waits in a queue outside an awning at 169 West 10th St while a man pushes a stroller with a rain shield past the camera",
+      "emotion": "calm",
+      "good_for": [
+        "waiting in line in nyc",
+        "rainy day vibes",
+        "city crowds"
+      ],
+      "score": 3
+    },
+    {
+      "start": 2.2,
+      "end": 4.96,
+      "action": "Camera pans right across the wet street and green bike lane to show a friend holding a patterned umbrella on the sidewalk",
+      "emotion": "patient",
+      "good_for": [
+        "rainy days in the city",
+        "exploring new york",
+        "when it rains in the city"
+      ],
+      "score": 4
+    }
+  ]
+}

@@ -1,0 +1,110 @@
+{
+  "path": "SelfShots/MorningRoutine/2.2.MOV",
+  "folder": "SelfShots/MorningRoutine",
+  "fingerprint": "b51b41d5e733fda8",
+  "width": 1080,
+  "height": 1920,
+  "fps": 30.0,
+  "duration": 36.203,
+  "model": "gemini-3.8-flash",
+  "annotatedAt": "2026-10-24T18:59:50+00:00",
+  "summary": "A person heats oil in a wok on a gas stove and places folded crepes into the pan to warm up for breakfast.",
+  "location": "kitchen",
+  "setting": "indoor",
+  "time_of_day": "indoor_unknown",
+  "weather": "n/a",
+  "people": {
+    "count": 1,
+    "creator_visible": false,
+    "description": "Only the creator's hand and wrist wearing a beaded bracelet are visible."
+  },
+  "camera": {
+    "style": "pov_first_person",
+    "framing": "medium",
+    "movement": "static",
+    "angle": "high angle"
+  },
+  "quality": {
+    "usable": true,
+    "stability": "steady",
+    "exposure": "good",
+    "issues": ""
+  },
+  "mood": [
+    "calm",
+    "cozy",
+    "domestic",
+    "peaceful",
+    "routine"
+  ],
+  "energy": "low",
+  "tags": [
+    "cooking",
+    "kitchen",
+    "breakfast",
+    "stove",
+    "wok",
+    "skillet",
+    "olive oil",
+    "crepes",
+    "pancakes",
+    "morning routine",
+    "food prep",
+    "home cooking",
+    "frying"
+  ],
+  "moments": [
+    {
+      "start": 4.5,
+      "end": 9.5,
+      "action": "Pouring a stream of cooking oil from a bottle into a black wok",
+      "emotion": "calm",
+      "good_for": [
+        "morning routine",
+        "making breakfast",
+        "slow mornings",
+        "cooking at home"
+      ],
+      "score": 4
+    },
+    {
+      "start": 15.5,
+      "end": 22.0,
+      "action": "Turning on the gas burner flame and swirling the oil across the surface of the wok",
+      "emotion": "focused",
+      "good_for": [
+        "prepping food",
+        "kitchen therapy",
+        "daily routine",
+        "making a meal"
+      ],
+      "score": 4
+    },
+    {
+      "start": 27.5,
+      "end": 33.0,
+      "action": "Placing folded golden crepes by hand into the sizzling wok",
+      "emotion": "content",
+      "good_for": [
+        "food on my plate",
+        "breakfast time",
+        "comfort food",
+        "nourishing myself"
+      ],
+      "score": 5
+    },
+    {
+      "start": 33.0,
+      "end": 36.2,
+      "action": "Folded crepes sizzling gently in the wok with steam rising",
+      "emotion": "relaxed",
+      "good_for": [
+        "hot breakfast",
+        "sunday morning",
+        "food b-roll",
+        "warm meals"
+      ],
+      "score": 4
+    }
+  ]
+}

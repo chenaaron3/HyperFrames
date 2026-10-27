@@ -1,0 +1,55 @@
+<template>
+  <style>
+    #st-root { position: absolute; inset: 0; pointer-events: none; }
+    #st-title {
+      position: absolute; left: 0; right: 0; top: 250px; text-align: center;
+      font-family: "Outfit", sans-serif; font-weight: 800;
+      line-height: 0.9; letter-spacing: -0.035em;
+    }
+    .st-line { display: block; overflow: hidden; padding: 0 0 0.06em; }
+    .st-line i { display: inline-block; font-style: normal; }
+    #st-l1 { font-size: 210px; color: #141414; }
+    #st-l2 { font-size: 250px; color: #B8452F; }
+  </style>
+  <div id="st-root" data-composition-id="stacked-title" data-start="0" data-duration="30" data-width="1080" data-height="1920"
+    data-composition-variables='[
+      {"id":"line1","type":"string","label":"Line 1 (ink)","default":"Claude"},
+      {"id":"line2","type":"string","label":"Line 2 (accent)","default":"Code"},
+      {"id":"at2","type":"number","label":"Line 2 lands at (s)","default":0.4},
+      {"id":"top","type":"number","label":"Top (px)","default":250},
+      {"id":"out","type":"number","label":"Exit at (s)","default":2}
+    ]'>
+    <div id="st-title">
+      <span class="st-line" id="st-l1"></span>
+      <span class="st-line" id="st-l2"></span>
+    </div>
+    <audio id="st-whoosh" class="clip" src="assets/sfx/whoosh-short.mp3" data-start="0" data-duration="0.6" data-volume="0.16" data-track-index="9"></audio>
+  </div>
+  <script>
+    (function () {
+      var v = (window.__hyperframes && window.__hyperframes.getVariables) ? window.__hyperframes.getVariables() : {};
+      var at2 = typeof v.at2 === "number" ? v.at2 : 0.4;
+      var out = typeof v.out === "number" ? v.out : 2;
+      document.getElementById("st-title").style.top = (typeof v.top === "number" ? v.top : 250) + "px";
+      function fill(id, text) {
+        var el = document.getElementById(id);
+        text.split("").forEach(function (ch) {
+          var i = document.createElement("i");
+          i.textContent = ch === " " ? "\u00a0" : ch;
+          el.appendChild(i);
+        });
+      }
+      fill("st-l1", v.line1 || "Claude");
+      fill("st-l2", v.line2 || "Code");
+
+      var tl = gsap.timeline({ paused: true });
+      tl.fromTo("#st-l1 i", { yPercent: 105, rotate: 6 },
+        { yPercent: 0, rotate: 0, duration: 0.7, stagger: 0.032, ease: "expo.out" }, 0);
+      tl.fromTo("#st-l2 i", { yPercent: 105, rotate: 6 },
+        { yPercent: 0, rotate: 0, duration: 0.75, stagger: 0.04, ease: "expo.out" }, at2);
+      tl.to("#st-l1 i", { yPercent: -105, duration: 0.32, stagger: 0.018, ease: "power3.in" }, out);
+      tl.to("#st-l2 i", { yPercent: -105, duration: 0.32, stagger: 0.018, ease: "power3.in" }, out + 0.06);
+      window.__timelines["stacked-title"] = tl;
+    })();
+  </script>
+</template>

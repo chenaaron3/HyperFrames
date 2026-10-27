@@ -1,0 +1,106 @@
+{
+  "path": "SelfShots/MorningRoutine/1.1_WakingUp.MOV",
+  "folder": "SelfShots/MorningRoutine",
+  "fingerprint": "d53b87f732559b67",
+  "width": 1080,
+  "height": 1920,
+  "fps": 29.97,
+  "duration": 42.922,
+  "model": "gemini-3.8-flash",
+  "annotatedAt": "2026-10-24T18:57:51+00:00",
+  "summary": "A young man wakes up on a sectional couch, rubs his head, gets up, and carefully folds his knitted blanket to tidy the sofa.",
+  "location": "living room",
+  "setting": "indoor",
+  "time_of_day": "day",
+  "weather": "overcast",
+  "people": {
+    "count": 1,
+    "creator_visible": true,
+    "description": "Young man with dark hair wearing a grey tank top and black shorts"
+  },
+  "camera": {
+    "style": "tripod_static",
+    "framing": "wide",
+    "movement": "static",
+    "angle": "high angle"
+  },
+  "quality": {
+    "usable": true,
+    "stability": "locked",
+    "exposure": "good",
+    "issues": ""
+  },
+  "mood": [
+    "calm",
+    "peaceful",
+    "sleepy",
+    "routine",
+    "organized"
+  ],
+  "energy": "low",
+  "tags": [
+    "waking up",
+    "morning routine",
+    "couch",
+    "sofa",
+    "blanket",
+    "folding blanket",
+    "living room",
+    "sleepy",
+    "apartment life",
+    "tidying up",
+    "habits",
+    "discipline"
+  ],
+  "moments": [
+    {
+      "start": 3.8,
+      "end": 9.5,
+      "action": "Creator emerges from under the blanket, sits up on the couch, and rubs his head groggily",
+      "emotion": "sleepy and waking up",
+      "good_for": [
+        "morning routine",
+        "waking up at 6am",
+        "sleeping on the couch",
+        "not wanting to get out of bed"
+      ],
+      "score": 4
+    },
+    {
+      "start": 10.0,
+      "end": 16.5,
+      "action": "Creator stands up from the couch and shakes out the large knitted blanket",
+      "emotion": "focused and starting the day",
+      "good_for": [
+        "daily habits",
+        "making the bed first thing",
+        "small wins daily"
+      ],
+      "score": 3
+    },
+    {
+      "start": 21.5,
+      "end": 29.5,
+      "action": "Creator carefully folds the thick knit blanket into a neat square and sets it down",
+      "emotion": "tidy and methodical",
+      "good_for": [
+        "tidy space tidy mind",
+        "morning reset",
+        "disciplined morning routine"
+      ],
+      "score": 4
+    },
+    {
+      "start": 34.0,
+      "end": 39.5,
+      "action": "Creator adjusts the folded blanket on the couch and walks out of frame",
+      "emotion": "satisfied and purposeful",
+      "good_for": [
+        "ready for the day",
+        "apartment reset",
+        "starting fresh"
+      ],
+      "score": 3
+    }
+  ]
+}

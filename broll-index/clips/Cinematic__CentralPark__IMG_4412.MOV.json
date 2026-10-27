@@ -1,0 +1,70 @@
+{
+  "path": "Cinematic/CentralPark/IMG_4412.MOV",
+  "folder": "Cinematic/CentralPark",
+  "fingerprint": "7eb44e93398504d3",
+  "width": 1080,
+  "height": 1920,
+  "fps": 30.0,
+  "duration": 2.198,
+  "model": "gemini-3.8-flash",
+  "annotatedAt": "2026-10-24T18:17:40+00:00",
+  "summary": "A runner jogs along a pathway in Central Park on a bright sunny day, with iconic historic architecture rising above the green tree canopy.",
+  "location": "park",
+  "setting": "outdoor",
+  "time_of_day": "day",
+  "weather": "sunny",
+  "people": {
+    "count": 3,
+    "creator_visible": false,
+    "description": "A man in athletic running gear jogs across the foreground, with distant pedestrians and a horse carriage further down the park path."
+  },
+  "camera": {
+    "style": "handheld_cinematic",
+    "framing": "wide",
+    "movement": "static",
+    "angle": "eye level"
+  },
+  "quality": {
+    "usable": true,
+    "stability": "steady",
+    "exposure": "good",
+    "issues": ""
+  },
+  "mood": [
+    "peaceful",
+    "active",
+    "scenic",
+    "urban"
+  ],
+  "energy": "medium",
+  "tags": [
+    "central park",
+    "new york city",
+    "nyc",
+    "manhattan",
+    "running",
+    "jogger",
+    "fitness",
+    "architecture",
+    "park path",
+    "sunny day",
+    "city living",
+    "travel"
+  ],
+  "moments": [
+    {
+      "start": 0.0,
+      "end": 2.2,
+      "action": "A runner crosses the foreground on a curved road inside Central Park as historic Upper West Side towers peek above lush greenery under a clear blue sky",
+      "emotion": "refreshing, focused",
+      "good_for": [
+        "morning in NYC",
+        "staying active",
+        "city runs",
+        "places that feel like home",
+        "NYC aesthetic"
+      ],
+      "score": 4
+    }
+  ]
+}

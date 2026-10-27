@@ -1,0 +1,70 @@
+{
+  "path": "Cinematic/UES/IMG_4499.MOV",
+  "folder": "Cinematic/UES",
+  "fingerprint": "ea7fa33a69a84c8d",
+  "width": 1080,
+  "height": 1920,
+  "fps": 30.0,
+  "duration": 3.6,
+  "model": "gemini-3.8-flash",
+  "annotatedAt": "2026-10-24T18:20:06+00:00",
+  "summary": "Handheld view from outside an Upper East Side luxury building looking through glass doors into a lobby decorated with autumnal foliage and pumpkins, panning toward a revolving door.",
+  "location": "hotel lobby",
+  "setting": "outdoor",
+  "time_of_day": "day",
+  "weather": "n/a",
+  "people": {
+    "count": 1,
+    "creator_visible": false,
+    "description": "A person in a light coat walking briefly in the background lobby interior"
+  },
+  "camera": {
+    "style": "pov_first_person",
+    "framing": "medium",
+    "movement": "pan",
+    "angle": "eye level"
+  },
+  "quality": {
+    "usable": true,
+    "stability": "steady",
+    "exposure": "good",
+    "issues": "Reflections on the glass exterior"
+  },
+  "mood": [
+    "sophisticated",
+    "seasonal",
+    "autumn",
+    "calm",
+    "luxurious"
+  ],
+  "energy": "low",
+  "tags": [
+    "ues",
+    "upper east side",
+    "new york city",
+    "autumn decor",
+    "fall foliage",
+    "pumpkins",
+    "luxury building",
+    "lobby",
+    "revolving door",
+    "nyc aesthetic",
+    "b roll"
+  ],
+  "moments": [
+    {
+      "start": 0.0,
+      "end": 3.6,
+      "action": "Camera pans slowly from the glass facade showing fall floral arrangements and pumpkins in the lobby across to the revolving entrance door",
+      "emotion": "calm, elegant",
+      "good_for": [
+        "fall in new york",
+        "upper east side mornings",
+        "autumn aesthetic",
+        "luxury living",
+        "seasonal transition"
+      ],
+      "score": 3
+    }
+  ]
+}

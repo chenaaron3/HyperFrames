@@ -1,0 +1,104 @@
+{
+  "path": "SelfShots/ClimbingGym/OnTheWall/10:18:26_Orange_x53/IMG_5127.MOV",
+  "folder": "SelfShots/ClimbingGym/OnTheWall/10:18:26_Orange_x53",
+  "fingerprint": "835023b8535b6e6e",
+  "width": 1080,
+  "height": 1920,
+  "fps": 30.0,
+  "duration": 45.237,
+  "model": "gemini-3.8-flash",
+  "annotatedAt": "2026-10-24T18:43:14+00:00",
+  "summary": "A young man attempts a technical boulder problem on a colorful climbing wall in an indoor climbing gym before dropping safely to the mat.",
+  "location": "climbing gym",
+  "setting": "indoor",
+  "time_of_day": "indoor_unknown",
+  "weather": "n/a",
+  "people": {
+    "count": 2,
+    "creator_visible": true,
+    "description": "Young male climber in a grey tank top and baggy jeans; another gymgoer in a backwards cap and long sleeve shirt briefly walks through the foreground."
+  },
+  "camera": {
+    "style": "tripod_static",
+    "framing": "wide",
+    "movement": "static",
+    "angle": "low angle looking up"
+  },
+  "quality": {
+    "usable": true,
+    "stability": "locked",
+    "exposure": "good",
+    "issues": ""
+  },
+  "mood": [
+    "focused",
+    "athletic",
+    "challenging",
+    "active"
+  ],
+  "energy": "medium",
+  "tags": [
+    "bouldering",
+    "rock climbing",
+    "climbing gym",
+    "indoor climbing",
+    "fitness",
+    "workout",
+    "climbing wall",
+    "holds",
+    "problem solving",
+    "athleticism",
+    "active lifestyle",
+    "training"
+  ],
+  "moments": [
+    {
+      "start": 10.0,
+      "end": 17.5,
+      "action": "Climber starts the boulder problem, stepping onto lower footholds and pulling up onto the black and green holds",
+      "emotion": "focused",
+      "good_for": [
+        "starting a new challenge",
+        "trusting the process",
+        "first steps"
+      ],
+      "score": 4
+    },
+    {
+      "start": 17.5,
+      "end": 26.5,
+      "action": "Climber maneuvers through the middle crux, shifting body weight and utilizing a high foot placement",
+      "emotion": "determined",
+      "good_for": [
+        "pushing through resistance",
+        "problem solving",
+        "staying focused"
+      ],
+      "score": 4
+    },
+    {
+      "start": 26.5,
+      "end": 39.0,
+      "action": "Climber reaches near the top section, adjusting grip and reaching towards the finish hold with tension",
+      "emotion": "intense concentration",
+      "good_for": [
+        "almost there",
+        "pushing past your limits",
+        "the final stretch"
+      ],
+      "score": 5
+    },
+    {
+      "start": 39.0,
+      "end": 42.0,
+      "action": "Climber releases from the wall and drops down, landing smoothly on the padded bouldering mat",
+      "emotion": "relieved",
+      "good_for": [
+        "knowing when to let go",
+        "safe landing",
+        "trying your best"
+      ],
+      "score": 4
+    }
+  ]
+}

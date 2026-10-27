@@ -1,0 +1,46 @@
+{
+  "id": "advice-7",
+  "name": "A creator speaks directly to the camera from inside his car,",
+  "reference": "references/viral-formats/advice-7.mp4",
+  "source": "/Users/aaron/Downloads/100 Viral Formats (Format Book)/Advice/#7/#7.mp4",
+  "duration": 49.433,
+  "music": {
+    "from": "reference",
+    "title": "Super low music that can’t pick up the exact song, but you can play some background music like this too. Slow and chill"
+  },
+  "text": {
+    "y": 0.5,
+    "size": 46,
+    "weight": 700,
+    "lineHeight": 1.4,
+    "maxWidth": 900,
+    "style": "outline"
+  },
+  "lines": [],
+  "shots": [
+    {
+      "id": "s1",
+      "start": 0.0,
+      "end": 49.433,
+      "brief": "creator talking to camera in car (ref: Young man wearing a hoodie sitting in the driver's seat of a car, talking directly and candidly to the camera.; selfie)",
+      "line": null
+    }
+  ],
+  "audit": {
+    "kind": "talking_head",
+    "creatorSpeaks": true,
+    "audio": "music + speech",
+    "special": [
+      "Creator speaking directly to camera",
+      "Car interior / sitting in car"
+    ],
+    "reusable": false,
+    "notes": "This format is entirely a direct-to-camera talking head video without on-screen text. It requires filming a new spoken video or recording a voiceover, and cannot be recreated using existing silent b-roll.",
+    "summary": "A creator speaks directly to the camera from inside his car, sharing an encouraging message that nobody really has everything figured out and everyone is struggling."
+  },
+  "caption": {
+    "ref": "",
+    "guide": ""
+  },
+  "draft": true
+}

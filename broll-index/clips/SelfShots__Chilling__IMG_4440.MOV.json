@@ -1,0 +1,106 @@
+{
+  "path": "SelfShots/Chilling/IMG_4440.MOV",
+  "folder": "SelfShots/Chilling",
+  "fingerprint": "1ee5a75a94da68f5",
+  "width": 1080,
+  "height": 1920,
+  "fps": 30.0,
+  "duration": 30.002,
+  "model": "gemini-3.8-flash",
+  "annotatedAt": "2026-10-24T18:38:18+00:00",
+  "summary": "A young man in street clothes performs consecutive muscle-ups on an outdoor calisthenics bar in a public park.",
+  "location": "park",
+  "setting": "outdoor",
+  "time_of_day": "day",
+  "weather": "sunny",
+  "people": {
+    "count": 2,
+    "creator_visible": true,
+    "description": "A young man wearing a light blue short-sleeve button-down shirt, baggy grey jeans, and sneakers doing calisthenics, with a shirtless passerby walking past the camera."
+  },
+  "camera": {
+    "style": "tripod_static",
+    "framing": "wide",
+    "movement": "static",
+    "angle": "eye level"
+  },
+  "quality": {
+    "usable": true,
+    "stability": "locked",
+    "exposure": "good",
+    "issues": ""
+  },
+  "mood": [
+    "athletic",
+    "impressive",
+    "casual",
+    "determined"
+  ],
+  "energy": "medium",
+  "tags": [
+    "calisthenics",
+    "muscle up",
+    "pull up bar",
+    "park workout",
+    "fitness",
+    "street workout",
+    "streetwear",
+    "baggy pants",
+    "bodyweight exercise",
+    "outdoor gym",
+    "athletic feat"
+  ],
+  "moments": [
+    {
+      "start": 5.5,
+      "end": 11.0,
+      "action": "Creator jumps onto the bar and performs a clean, explosive muscle-up in casual street clothes",
+      "emotion": "focused",
+      "good_for": [
+        "calisthenics progress",
+        "working out anywhere",
+        "unexpected strength",
+        "street workout"
+      ],
+      "score": 4
+    },
+    {
+      "start": 12.0,
+      "end": 18.0,
+      "action": "Creator performs consecutive muscle-up repetitions smoothly on the outdoor high bar",
+      "emotion": "focused and strong",
+      "good_for": [
+        "discipline",
+        "fitness journey",
+        "putting in reps",
+        "calisthenics skills"
+      ],
+      "score": 4
+    },
+    {
+      "start": 18.5,
+      "end": 26.0,
+      "action": "Creator finishes his final muscle-up reps and drops down onto the ground",
+      "emotion": "exhausted but accomplished",
+      "good_for": [
+        "last rep",
+        "finishing the set",
+        "daily workout",
+        "grind never stops"
+      ],
+      "score": 4
+    },
+    {
+      "start": 26.0,
+      "end": 28.5,
+      "action": "Creator turns around catching his breath and walks forward toward the camera to turn it off",
+      "emotion": "relieved and composed",
+      "good_for": [
+        "workout finished",
+        "done for the day",
+        "post-workout feeling"
+      ],
+      "score": 3
+    }
+  ]
+}

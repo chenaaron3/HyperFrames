@@ -1,0 +1,71 @@
+{
+  "path": "OneOffs/Apartments/Gramercy/144 East 22nd Street/IMG_4301.MOV",
+  "folder": "OneOffs/Apartments/Gramercy/144 East 22nd Street",
+  "fingerprint": "10b7c103875837dd",
+  "width": 1080,
+  "height": 1920,
+  "fps": 120.0,
+  "duration": 4.333,
+  "model": "gemini-3.8-flash",
+  "annotatedAt": "2026-10-24T18:20:54+00:00",
+  "summary": "A young man walks through an apartment building hallway holding a selfie camera while making an exaggerated sad, pouting face.",
+  "location": "apartment hallway",
+  "setting": "indoor",
+  "time_of_day": "indoor_unknown",
+  "weather": "n/a",
+  "people": {
+    "count": 1,
+    "creator_visible": true,
+    "description": "Young East Asian man with messy dark hair, wearing a black blazer, backpack, and silver chain necklace, making a dramatic pouty face."
+  },
+  "camera": {
+    "style": "selfie",
+    "framing": "close",
+    "movement": "walking",
+    "angle": "eye level"
+  },
+  "quality": {
+    "usable": true,
+    "stability": "handheld",
+    "exposure": "good",
+    "issues": ""
+  },
+  "mood": [
+    "humorous",
+    "dramatic",
+    "sad",
+    "exhausted",
+    "relatable"
+  ],
+  "energy": "low",
+  "tags": [
+    "apartment hallway",
+    "walking",
+    "selfie",
+    "pout",
+    "sad face",
+    "funny",
+    "defeat",
+    "bad day",
+    "exhaustion",
+    "relatable meme",
+    "backpack",
+    "moving"
+  ],
+  "moments": [
+    {
+      "start": 0.0,
+      "end": 4.33,
+      "action": "Creator walks down an apartment corridor while maintaining an exaggerated crying pout into the camera",
+      "emotion": "dramatic pout / mock sadness / defeated",
+      "good_for": [
+        "when you check your bank account",
+        "leaving work on a friday",
+        "apartment hunting in nyc",
+        "another rent increase",
+        "having to adult today"
+      ],
+      "score": 4
+    }
+  ]
+}

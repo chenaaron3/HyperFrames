@@ -1,0 +1,70 @@
+{
+  "path": "Cinematic/Chinatown/IMG_4784.mov",
+  "folder": "Cinematic/Chinatown",
+  "fingerprint": "42f96e693ee543dc",
+  "width": 1080,
+  "height": 1920,
+  "fps": 30.0,
+  "duration": 4.434,
+  "model": "gemini-3.8-flash",
+  "annotatedAt": "2026-10-24T18:19:24+00:00",
+  "summary": "A street scene in Chinatown featuring outdoor sidewalk fruit stands under colorful umbrellas on an overcast day with pedestrians walking past.",
+  "location": "city street",
+  "setting": "outdoor",
+  "time_of_day": "day",
+  "weather": "overcast",
+  "people": {
+    "count": 5,
+    "creator_visible": false,
+    "description": "Pedestrians walking down the sidewalk and customers browsing at a sidewalk fruit market."
+  },
+  "camera": {
+    "style": "pov_first_person",
+    "framing": "medium",
+    "movement": "static",
+    "angle": "eye level"
+  },
+  "quality": {
+    "usable": true,
+    "stability": "steady",
+    "exposure": "good",
+    "issues": "empty"
+  },
+  "mood": [
+    "everyday",
+    "authentic",
+    "urban",
+    "calm"
+  ],
+  "energy": "low",
+  "tags": [
+    "chinatown",
+    "new york city",
+    "fruit stand",
+    "market",
+    "sidewalk",
+    "pedestrians",
+    "street market",
+    "urban life",
+    "groceries",
+    "produce",
+    "umbrellas",
+    "city life"
+  ],
+  "moments": [
+    {
+      "start": 0.0,
+      "end": 4.43,
+      "action": "Handheld eye-level view of colorful sidewalk fruit stands and umbrellas in Chinatown with pedestrians walking by",
+      "emotion": "calm everyday urban atmosphere",
+      "good_for": [
+        "neighborhood walks",
+        "city routine",
+        "buying fresh fruit",
+        "exploring chinatown",
+        "simple pleasures"
+      ],
+      "score": 3
+    }
+  ]
+}

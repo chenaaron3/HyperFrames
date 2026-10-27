@@ -1,0 +1,85 @@
+{
+  "path": "SelfShots/Walking/1stPerson/IMG_4940.MOV",
+  "folder": "SelfShots/Walking/1stPerson",
+  "fingerprint": "23d5ac42e783003e",
+  "width": 1080,
+  "height": 1920,
+  "fps": 29.97,
+  "duration": 11.54,
+  "model": "gemini-3.8-flash",
+  "annotatedAt": "2026-10-24T19:01:52+00:00",
+  "summary": "A young man in a black coat and tie walks down a bustling city sidewalk while filming himself from a low, wide-angle selfie perspective.",
+  "location": "city street",
+  "setting": "outdoor",
+  "time_of_day": "day",
+  "weather": "overcast",
+  "people": {
+    "count": 3,
+    "creator_visible": true,
+    "description": "Young East Asian male with dark wavy hair, wearing a black trench coat over a collared shirt, dark tie, and backpack, holding the camera out while walking."
+  },
+  "camera": {
+    "style": "selfie",
+    "framing": "medium",
+    "movement": "walking",
+    "angle": "low angle looking up"
+  },
+  "quality": {
+    "usable": true,
+    "stability": "handheld",
+    "exposure": "good",
+    "issues": "Accidental tilt up from ground at start and tilt down to pavement at the end."
+  },
+  "mood": [
+    "urban",
+    "stylish",
+    "contemplative",
+    "casual",
+    "independent"
+  ],
+  "energy": "medium",
+  "tags": [
+    "streetwear",
+    "walking",
+    "commute",
+    "city life",
+    "sidewalk",
+    "manhattan",
+    "overcoat",
+    "backpack",
+    "traffic",
+    "urban exploration",
+    "wide angle",
+    "fashion",
+    "solo"
+  ],
+  "moments": [
+    {
+      "start": 1.7,
+      "end": 5.5,
+      "action": "Creator walks down the sidewalk holding camera forward at a low angle, looking straight into the lens with a calm expression",
+      "emotion": "confident and calm",
+      "good_for": [
+        "city commute",
+        "on my way",
+        "romanticizing my daily walk",
+        "solo in the city",
+        "dressed up with nowhere to go"
+      ],
+      "score": 4
+    },
+    {
+      "start": 5.5,
+      "end": 10.0,
+      "action": "Creator continues walking while casually glancing off to the side toward the street and looking back at the camera",
+      "emotion": "pensive and focused",
+      "good_for": [
+        "clearing my head",
+        "stepping into a new chapter",
+        "living life at my own pace",
+        "everyday aesthetic"
+      ],
+      "score": 4
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "path": "OneOffs/BrooklynNight/IMG_4582 3.MOV",
+  "folder": "OneOffs/BrooklynNight",
+  "fingerprint": "f210b1b6a5c2fe0c",
+  "width": 1080,
+  "height": 1920,
+  "fps": 30.0,
+  "duration": 4.067,
+  "model": "gemini-3.8-flash",
+  "annotatedAt": "2026-10-24T18:24:16+00:00",
+  "summary": "POV tracking shot walking down a busy Brooklyn sidewalk at night behind a friend carrying a shopping bag.",
+  "location": "city street",
+  "setting": "outdoor",
+  "time_of_day": "night",
+  "weather": "n/a",
+  "people": {
+    "count": 6,
+    "creator_visible": false,
+    "description": "A young man seen from behind wearing a grey graphic t-shirt reading 'Wink Wink Nation' and black shorts, carrying a paper shopping bag; pedestrians walking in the opposite direction."
+  },
+  "camera": {
+    "style": "pov_first_person",
+    "framing": "medium",
+    "movement": "walking",
+    "angle": "eye level"
+  },
+  "quality": {
+    "usable": true,
+    "stability": "handheld",
+    "exposure": "mixed",
+    "issues": "slight low light grain"
+  },
+  "mood": [
+    "casual",
+    "urban",
+    "atmospheric",
+    "evening"
+  ],
+  "energy": "medium",
+  "tags": [
+    "brooklyn",
+    "new york city",
+    "sidewalk",
+    "walking",
+    "night walk",
+    "urban life",
+    "pedestrians",
+    "street",
+    "city lights",
+    "dumbo"
+  ],
+  "moments": [
+    {
+      "start": 0.0,
+      "end": 4.07,
+      "action": "Camera walks forward on the sidewalk behind a guy in shorts and a t-shirt as pedestrians pass by under city streetlights",
+      "emotion": "relaxed",
+      "good_for": [
+        "city nights with friends",
+        "post-dinner stroll",
+        "brooklyn evenings",
+        "on the way home"
+      ],
+      "score": 3
+    }
+  ]
+}

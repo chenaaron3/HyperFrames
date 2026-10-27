@@ -1,0 +1,67 @@
+{
+  "path": "SelfShots/ClimbingGym/Setup/Walking/IMG_4970.MOV",
+  "folder": "SelfShots/ClimbingGym/Setup/Walking",
+  "fingerprint": "422d7112528d7f3b",
+  "width": 1080,
+  "height": 1920,
+  "fps": 30.0,
+  "duration": 11.333,
+  "model": "gemini-3.8-flash",
+  "annotatedAt": "2026-10-24T18:54:25+00:00",
+  "summary": "A young man wearing a black coat and backpack scans through the turnstiles to enter an indoor bouldering gym.",
+  "location": "climbing gym",
+  "setting": "indoor",
+  "time_of_day": "indoor_unknown",
+  "weather": "n/a",
+  "people": {
+    "count": 5,
+    "creator_visible": true,
+    "description": "Young man in a black coat, black pants, and backpack entering the gym, with other patrons climbing and resting in the background."
+  },
+  "camera": {
+    "style": "filmed_by_friend",
+    "framing": "medium",
+    "movement": "static",
+    "angle": "eye level"
+  },
+  "quality": {
+    "usable": true,
+    "stability": "steady",
+    "exposure": "good",
+    "issues": ""
+  },
+  "mood": [
+    "routine",
+    "casual",
+    "active"
+  ],
+  "energy": "low",
+  "tags": [
+    "climbing gym",
+    "bouldering",
+    "turnstile",
+    "gym entrance",
+    "scanning in",
+    "backpack",
+    "coat",
+    "daily routine",
+    "workout",
+    "urban indoor"
+  ],
+  "moments": [
+    {
+      "start": 1.8,
+      "end": 6.2,
+      "action": "Creator approaches the glass turnstile gate, taps to enter, and walks into the climbing gym",
+      "emotion": "casual",
+      "good_for": [
+        "showing up every day",
+        "gym routine",
+        "climbing day",
+        "entering my happy place",
+        "after work activities"
+      ],
+      "score": 4
+    }
+  ]
+}

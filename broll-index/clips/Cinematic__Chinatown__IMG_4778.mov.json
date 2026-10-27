@@ -1,0 +1,68 @@
+{
+  "path": "Cinematic/Chinatown/IMG_4778.mov",
+  "folder": "Cinematic/Chinatown",
+  "fingerprint": "5cb9ab1c0abcc091",
+  "width": 1080,
+  "height": 1920,
+  "fps": 30.0,
+  "duration": 2.5,
+  "model": "gemini-3.8-flash",
+  "annotatedAt": "2026-10-24T18:19:18+00:00",
+  "summary": "A static shot looking down an aisle in an Asian grocery store lined with canned goods, instant noodles, and stacked storage boxes.",
+  "location": "grocery store",
+  "setting": "indoor",
+  "time_of_day": "indoor_unknown",
+  "weather": "n/a",
+  "people": {
+    "count": 0,
+    "creator_visible": false,
+    "description": "No people visible in frame."
+  },
+  "camera": {
+    "style": "handheld_cinematic",
+    "framing": "medium",
+    "movement": "static",
+    "angle": "eye level"
+  },
+  "quality": {
+    "usable": true,
+    "stability": "steady",
+    "exposure": "good",
+    "issues": ""
+  },
+  "mood": [
+    "mundane",
+    "calm",
+    "observational",
+    "nostalgic"
+  ],
+  "energy": "low",
+  "tags": [
+    "asian grocery",
+    "chinatown",
+    "supermarket",
+    "grocery aisle",
+    "canned goods",
+    "instant noodles",
+    "groceries",
+    "shopping",
+    "food staples",
+    "market"
+  ],
+  "moments": [
+    {
+      "start": 0.0,
+      "end": 2.5,
+      "action": "A still perspective of packed grocery shelves and stacked boxes in an Asian supermarket aisle",
+      "emotion": "calm",
+      "good_for": [
+        "grocery run",
+        "finding comfort foods",
+        "cooking ingredients",
+        "chinatown trips",
+        "everyday errands"
+      ],
+      "score": 3
+    }
+  ]
+}

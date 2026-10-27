@@ -1,0 +1,82 @@
+{
+  "path": "Cinematic/UES/IMG_4502.MOV",
+  "folder": "Cinematic/UES",
+  "fingerprint": "156c63d2073d44f6",
+  "width": 1080,
+  "height": 1920,
+  "fps": 30.0,
+  "duration": 5.4,
+  "model": "gemini-3.8-flash",
+  "annotatedAt": "2026-10-24T18:20:08+00:00",
+  "summary": "Handheld pan across a bustling street intersection on 2nd Avenue in the Upper East Side of New York City, showing pedestrians crossing, yellow cabs, and tall apartment buildings.",
+  "location": "city street",
+  "setting": "outdoor",
+  "time_of_day": "day",
+  "weather": "overcast",
+  "people": {
+    "count": 15,
+    "creator_visible": false,
+    "description": "Pedestrians crossing the street, people waiting on sidewalks, cyclists, and a person riding an electric scooter across the crosswalk."
+  },
+  "camera": {
+    "style": "handheld_cinematic",
+    "framing": "wide",
+    "movement": "pan",
+    "angle": "eye level"
+  },
+  "quality": {
+    "usable": true,
+    "stability": "handheld",
+    "exposure": "good",
+    "issues": ""
+  },
+  "mood": [
+    "urban",
+    "busy",
+    "everyday",
+    "transit"
+  ],
+  "energy": "medium",
+  "tags": [
+    "new york city",
+    "manhattan",
+    "upper east side",
+    "street",
+    "crosswalk",
+    "pedestrians",
+    "yellow cab",
+    "traffic",
+    "city life",
+    "urban",
+    "scooter",
+    "buildings"
+  ],
+  "moments": [
+    {
+      "start": 0.0,
+      "end": 2.5,
+      "action": "Camera pans slowly across 2nd Avenue crosswalk as pedestrians and an NYPD vehicle pass by",
+      "emotion": "urban hustle",
+      "good_for": [
+        "city that never sleeps",
+        "morning commute",
+        "nyc living",
+        "daily routine"
+      ],
+      "score": 3
+    },
+    {
+      "start": 2.5,
+      "end": 5.4,
+      "action": "Camera continues panning right showing a person on an electric scooter crossing and a yellow taxi turning at the intersection",
+      "emotion": "dynamic city flow",
+      "good_for": [
+        "in a new york minute",
+        "city exploration",
+        "living in manhattan",
+        "concrete jungle"
+      ],
+      "score": 4
+    }
+  ]
+}

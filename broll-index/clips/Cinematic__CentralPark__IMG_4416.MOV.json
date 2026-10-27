@@ -1,0 +1,73 @@
+{
+  "path": "Cinematic/CentralPark/IMG_4416.MOV",
+  "folder": "Cinematic/CentralPark",
+  "fingerprint": "6be25fcb6813b797",
+  "width": 1080,
+  "height": 1920,
+  "fps": 29.97,
+  "duration": 3.602,
+  "model": "gemini-3.8-flash",
+  "annotatedAt": "2026-10-24T18:17:46+00:00",
+  "summary": "A scenic handheld panning shot of Central Park on a clear sunny day, overlooking the lake and iconic Manhattan skyline with people relaxing on the grass.",
+  "location": "park",
+  "setting": "outdoor",
+  "time_of_day": "day",
+  "weather": "sunny",
+  "people": {
+    "count": 8,
+    "creator_visible": false,
+    "description": "Various park visitors sitting on the grassy lawn, resting on benches, and walking along the lakeside path"
+  },
+  "camera": {
+    "style": "handheld_cinematic",
+    "framing": "extreme_wide",
+    "movement": "pan",
+    "angle": "eye level"
+  },
+  "quality": {
+    "usable": true,
+    "stability": "steady",
+    "exposure": "good",
+    "issues": ""
+  },
+  "mood": [
+    "peaceful",
+    "sunny",
+    "relaxing",
+    "serene",
+    "carefree"
+  ],
+  "energy": "low",
+  "tags": [
+    "central park",
+    "new york city",
+    "manhattan",
+    "park",
+    "lake",
+    "san remo",
+    "skyline",
+    "sunny day",
+    "blue sky",
+    "lawn",
+    "green grass",
+    "benches",
+    "relaxing outdoors",
+    "city nature"
+  ],
+  "moments": [
+    {
+      "start": 0.0,
+      "end": 3.6,
+      "action": "Handheld rightward pan across Central Park lawn and lake, showing people resting in the sun and classic pre-war towers in the distance",
+      "emotion": "calm",
+      "good_for": [
+        "sunny days in the city",
+        "romanticizing life",
+        "peaceful afternoons",
+        "taking a breather",
+        "nyc in the summer"
+      ],
+      "score": 4
+    }
+  ]
+}

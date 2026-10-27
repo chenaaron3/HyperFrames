@@ -1,0 +1,93 @@
+{
+  "path": "OneOffs/BrooklynNight/IMG_4536 3.MOV",
+  "folder": "OneOffs/BrooklynNight",
+  "fingerprint": "5376a78f1be18d71",
+  "width": 1080,
+  "height": 1920,
+  "fps": 30.0,
+  "duration": 13.167,
+  "model": "gemini-3.8-flash",
+  "annotatedAt": "2026-10-24T18:23:08+00:00",
+  "summary": "A young man climbs a bouldering wall in an indoor gym, navigates a large volume, and then drops down to the padded mat with a big smile.",
+  "location": "climbing gym",
+  "setting": "indoor",
+  "time_of_day": "indoor_unknown",
+  "weather": "n/a",
+  "people": {
+    "count": 1,
+    "creator_visible": true,
+    "description": "Young Asian man with shaggy dark hair, wearing a brown short-sleeved button-up shirt and black trousers."
+  },
+  "camera": {
+    "style": "filmed_by_friend",
+    "framing": "medium",
+    "movement": "tracking",
+    "angle": "eye level"
+  },
+  "quality": {
+    "usable": true,
+    "stability": "handheld",
+    "exposure": "good",
+    "issues": ""
+  },
+  "mood": [
+    "playful",
+    "active",
+    "happy",
+    "casual"
+  ],
+  "energy": "medium",
+  "tags": [
+    "bouldering",
+    "climbing gym",
+    "rock climbing",
+    "fitness",
+    "indoor sports",
+    "workout",
+    "smiling",
+    "active lifestyle",
+    "friendship",
+    "urban leisure"
+  ],
+  "moments": [
+    {
+      "start": 0.0,
+      "end": 4.5,
+      "action": "Man starts on the climbing wall holds and pulls himself up onto a large black triangular volume",
+      "emotion": "focused",
+      "good_for": [
+        "trying new hobbies",
+        "stepping out of comfort zone",
+        "staying active",
+        "physical challenges"
+      ],
+      "score": 3
+    },
+    {
+      "start": 4.5,
+      "end": 9.8,
+      "action": "Man balances on the volume, repositions his feet, and reaches up for higher handholds",
+      "emotion": "determined, careful",
+      "good_for": [
+        "finding balance",
+        "one step at a time",
+        "trusting the process",
+        "working hard"
+      ],
+      "score": 3
+    },
+    {
+      "start": 9.8,
+      "end": 13.17,
+      "action": "Man jumps down onto the crash pad and turns to the camera with a bright grin and laugh",
+      "emotion": "cheerful, satisfied, laughing",
+      "good_for": [
+        "doing things for fun",
+        "learning not to take life too seriously",
+        "failing gracefully",
+        "fun with friends"
+      ],
+      "score": 4
+    }
+  ]
+}

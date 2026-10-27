@@ -1,0 +1,94 @@
+{
+  "path": "SelfShots/ClimbingGym/OnTheWall/10:18:26_Orange_x53/IMG_5129.MOV",
+  "folder": "SelfShots/ClimbingGym/OnTheWall/10:18:26_Orange_x53",
+  "fingerprint": "39e4d74ce3463708",
+  "width": 1080,
+  "height": 1920,
+  "fps": 30.0,
+  "duration": 57.37,
+  "model": "gemini-3.8-flash",
+  "annotatedAt": "2026-10-24T18:44:12+00:00",
+  "summary": "A young man attempts a difficult bouldering route on an indoor climbing wall, working his way up through dynamic holds before slipping and falling onto the safety mat.",
+  "location": "indoor climbing gym",
+  "setting": "indoor",
+  "time_of_day": "indoor_unknown",
+  "weather": "n/a",
+  "people": {
+    "count": 1,
+    "creator_visible": true,
+    "description": "An athletic young East Asian man wearing a grey tank top and loose denim jeans bouldering."
+  },
+  "camera": {
+    "style": "tripod_static",
+    "framing": "medium",
+    "movement": "static",
+    "angle": "eye level"
+  },
+  "quality": {
+    "usable": true,
+    "stability": "locked",
+    "exposure": "good",
+    "issues": ""
+  },
+  "mood": [
+    "focused",
+    "determined",
+    "athletic",
+    "challenging"
+  ],
+  "energy": "medium",
+  "tags": [
+    "bouldering",
+    "climbing gym",
+    "rock climbing",
+    "fitness",
+    "athletic",
+    "workout",
+    "chalk",
+    "holds",
+    "grip",
+    "fall",
+    "persistence",
+    "indoor sports"
+  ],
+  "moments": [
+    {
+      "start": 13.0,
+      "end": 20.0,
+      "action": "Man grabs the starting purple holds and lifts his feet onto the wall to begin the route",
+      "emotion": "focused",
+      "good_for": [
+        "starting a new challenge",
+        "first steps",
+        "gym routine",
+        "trust the process"
+      ],
+      "score": 4
+    },
+    {
+      "start": 35.5,
+      "end": 44.5,
+      "action": "Man repositions his feet on small footholds and slowly reaches up for higher crimps",
+      "emotion": "tense and determined",
+      "good_for": [
+        "pushing through difficulty",
+        "focus under pressure",
+        "staying balanced"
+      ],
+      "score": 4
+    },
+    {
+      "start": 47.0,
+      "end": 54.0,
+      "action": "Man reaches for a top purple hold, attempts to secure his footing, loses his grip, and drops down onto the mat",
+      "emotion": "intense effort followed by acceptance",
+      "good_for": [
+        "learning from failure",
+        "try again tomorrow",
+        "it be like that sometimes",
+        "almost had it"
+      ],
+      "score": 5
+    }
+  ]
+}

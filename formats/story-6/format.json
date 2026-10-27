@@ -1,0 +1,1229 @@
+{
+  "id": "story-6",
+  "name": "I had everything",
+  "reference": "references/viral-formats/story-6.mp4",
+  "source": "/Users/aaron/Downloads/100 Viral Formats (Format Book)/Storytelling/#6/#6.mp4",
+  "duration": 69.467,
+  "music": {
+    "from": "reference",
+    "title": "New Home (Slowed) by Austin Farwell"
+  },
+  "text": {
+    "y": 0.608,
+    "size": 64,
+    "weight": 700,
+    "lineHeight": 1.4,
+    "maxWidth": 900,
+    "style": "outline"
+  },
+  "lines": [
+    {
+      "id": "l1",
+      "start": 0.0,
+      "end": 0.667,
+      "ref": "I had everything",
+      "y": 0.608,
+      "measuredSize": 90,
+      "style": "plain_white_shadow",
+      "guide": ""
+    },
+    {
+      "id": "l2",
+      "start": 0.667,
+      "end": 1.667,
+      "ref": "a nice Chinese boy",
+      "y": 0.603,
+      "measuredSize": 69,
+      "style": "plain_white_shadow",
+      "guide": ""
+    },
+    {
+      "id": "l3",
+      "start": 1.667,
+      "end": 2.1,
+      "ref": "was supposed to",
+      "y": 0.608,
+      "measuredSize": 56,
+      "style": "plain_white_shadow",
+      "guide": ""
+    },
+    {
+      "id": "l4",
+      "start": 2.1,
+      "end": 2.9,
+      "ref": "be happy with",
+      "y": 0.607,
+      "measuredSize": 92,
+      "style": "plain_white_shadow",
+      "guide": ""
+    },
+    {
+      "id": "l5",
+      "start": 2.9,
+      "end": 4.033,
+      "ref": "top engineering degree",
+      "y": 0.611,
+      "measuredSize": 103,
+      "style": "plain_white_shadow",
+      "guide": ""
+    },
+    {
+      "id": "l6",
+      "start": 4.033,
+      "end": 4.933,
+      "ref": "six figure job",
+      "y": 0.577,
+      "measuredSize": 112,
+      "style": "plain_white_shadow",
+      "guide": ""
+    },
+    {
+      "id": "l7",
+      "start": 4.933,
+      "end": 5.667,
+      "ref": "even a girlfriend",
+      "y": 0.604,
+      "measuredSize": 77,
+      "style": "plain_white_shadow",
+      "guide": ""
+    },
+    {
+      "id": "l8",
+      "start": 5.667,
+      "end": 6.133,
+      "ref": "who treated",
+      "y": 0.725,
+      "measuredSize": 92,
+      "style": "plain_white_shadow",
+      "guide": ""
+    },
+    {
+      "id": "l9",
+      "start": 6.133,
+      "end": 6.6,
+      "ref": "me right",
+      "y": 0.605,
+      "measuredSize": 75,
+      "style": "plain_white_shadow",
+      "guide": ""
+    },
+    {
+      "id": "l10",
+      "start": 6.6,
+      "end": 7.4,
+      "ref": "but on the inside",
+      "y": 0.603,
+      "measuredSize": 69,
+      "style": "plain_white_shadow",
+      "guide": ""
+    },
+    {
+      "id": "l11",
+      "start": 7.4,
+      "end": 7.833,
+      "ref": "it felt like",
+      "y": 0.603,
+      "measuredSize": 68,
+      "style": "plain_white_shadow",
+      "guide": ""
+    },
+    {
+      "id": "l12",
+      "start": 7.833,
+      "end": 8.267,
+      "ref": "my life was",
+      "y": 0.603,
+      "measuredSize": 68,
+      "style": "plain_white_shadow",
+      "guide": ""
+    },
+    {
+      "id": "l13",
+      "start": 8.267,
+      "end": 8.967,
+      "ref": "slipping away",
+      "y": 0.608,
+      "measuredSize": 90,
+      "style": "plain_white_shadow",
+      "guide": ""
+    },
+    {
+      "id": "l14",
+      "start": 8.967,
+      "end": 9.4,
+      "ref": "one night",
+      "y": 0.605,
+      "measuredSize": 71,
+      "style": "plain_white_shadow",
+      "guide": ""
+    },
+    {
+      "id": "l15",
+      "start": 9.4,
+      "end": 10.033,
+      "ref": "I found myself",
+      "y": 0.603,
+      "measuredSize": 69,
+      "style": "plain_white_shadow",
+      "guide": ""
+    },
+    {
+      "id": "l16",
+      "start": 10.033,
+      "end": 10.767,
+      "ref": "on my NYC",
+      "y": 0.603,
+      "measuredSize": 68,
+      "style": "plain_white_shadow",
+      "guide": ""
+    },
+    {
+      "id": "l17",
+      "start": 10.767,
+      "end": 11.667,
+      "ref": "fire escape thinking:",
+      "y": 0.607,
+      "measuredSize": 92,
+      "style": "plain_white_shadow",
+      "guide": ""
+    },
+    {
+      "id": "l18",
+      "start": 11.667,
+      "end": 12.367,
+      "ref": "\"is this what the",
+      "y": 0.602,
+      "measuredSize": 71,
+      "style": "plain_white_shadow",
+      "guide": ""
+    },
+    {
+      "id": "l19",
+      "start": 12.367,
+      "end": 12.933,
+      "ref": "rest of my life is",
+      "y": 0.603,
+      "measuredSize": 69,
+      "style": "plain_white_shadow",
+      "guide": ""
+    },
+    {
+      "id": "l20",
+      "start": 12.933,
+      "end": 13.833,
+      "ref": "going to feel like?\"",
+      "y": 0.607,
+      "measuredSize": 94,
+      "style": "plain_white_shadow",
+      "guide": ""
+    },
+    {
+      "id": "l21",
+      "start": 13.833,
+      "end": 14.7,
+      "ref": "and a week later",
+      "y": 0.603,
+      "measuredSize": 68,
+      "style": "plain_white_shadow",
+      "guide": ""
+    },
+    {
+      "id": "l22",
+      "start": 14.7,
+      "end": 15.467,
+      "ref": "my relationship",
+      "y": 0.603,
+      "measuredSize": 69,
+      "style": "plain_white_shadow",
+      "guide": ""
+    },
+    {
+      "id": "l23",
+      "start": 15.467,
+      "end": 16.033,
+      "ref": "fell apart",
+      "y": 0.603,
+      "measuredSize": 68,
+      "style": "plain_white_shadow",
+      "guide": ""
+    },
+    {
+      "id": "l24",
+      "start": 16.033,
+      "end": 16.467,
+      "ref": "while numbing",
+      "y": 0.604,
+      "measuredSize": 77,
+      "style": "plain_white_shadow",
+      "guide": ""
+    },
+    {
+      "id": "l25",
+      "start": 16.467,
+      "end": 16.933,
+      "ref": "my heartbreak",
+      "y": 0.603,
+      "measuredSize": 68,
+      "style": "plain_white_shadow",
+      "guide": ""
+    },
+    {
+      "id": "l26",
+      "start": 16.933,
+      "end": 17.467,
+      "ref": "with alcohol",
+      "y": 0.603,
+      "measuredSize": 69,
+      "style": "plain_white_shadow",
+      "guide": ""
+    },
+    {
+      "id": "l27",
+      "start": 17.467,
+      "end": 18.2,
+      "ref": "and video games",
+      "y": 0.605,
+      "measuredSize": 75,
+      "style": "plain_white_shadow",
+      "guide": ""
+    },
+    {
+      "id": "l28",
+      "start": 18.2,
+      "end": 18.733,
+      "ref": "I decided",
+      "y": 0.603,
+      "measuredSize": 68,
+      "style": "plain_white_shadow",
+      "guide": ""
+    },
+    {
+      "id": "l29",
+      "start": 18.733,
+      "end": 19.567,
+      "ref": "I had enough",
+      "y": 0.604,
+      "measuredSize": 73,
+      "style": "plain_white_shadow",
+      "guide": ""
+    },
+    {
+      "id": "l30",
+      "start": 19.567,
+      "end": 20.3,
+      "ref": "so I threw myself",
+      "y": 0.603,
+      "measuredSize": 68,
+      "style": "plain_white_shadow",
+      "guide": ""
+    },
+    {
+      "id": "l31",
+      "start": 20.3,
+      "end": 20.933,
+      "ref": "into the gym",
+      "y": 0.608,
+      "measuredSize": 88,
+      "style": "plain_white_shadow",
+      "guide": ""
+    },
+    {
+      "id": "l32",
+      "start": 20.933,
+      "end": 21.767,
+      "ref": "losing 20 pounds",
+      "y": 0.607,
+      "measuredSize": 92,
+      "style": "plain_white_shadow",
+      "guide": ""
+    },
+    {
+      "id": "l33",
+      "start": 21.767,
+      "end": 22.833,
+      "ref": "and still feeling empty",
+      "y": 0.607,
+      "measuredSize": 92,
+      "style": "plain_white_shadow",
+      "guide": ""
+    },
+    {
+      "id": "l34",
+      "start": 22.833,
+      "end": 23.833,
+      "ref": "I tried dating apps",
+      "y": 0.67,
+      "measuredSize": 75,
+      "style": "plain_white_shadow",
+      "guide": ""
+    },
+    {
+      "id": "l35",
+      "start": 23.833,
+      "end": 24.3,
+      "ref": "got played",
+      "y": 0.763,
+      "measuredSize": 54,
+      "style": "plain_white_shadow",
+      "guide": ""
+    },
+    {
+      "id": "l36",
+      "start": 24.3,
+      "end": 25.0,
+      "ref": "and deleted them",
+      "y": 0.603,
+      "measuredSize": 68,
+      "style": "plain_white_shadow",
+      "guide": ""
+    },
+    {
+      "id": "l37",
+      "start": 25.0,
+      "end": 25.533,
+      "ref": "for good",
+      "y": 0.635,
+      "measuredSize": 76,
+      "style": "plain_white_shadow",
+      "guide": ""
+    },
+    {
+      "id": "l38",
+      "start": 25.533,
+      "end": 25.9,
+      "ref": "then came",
+      "y": 0.607,
+      "measuredSize": 47,
+      "style": "plain_white_shadow",
+      "guide": ""
+    },
+    {
+      "id": "l39",
+      "start": 25.9,
+      "end": 26.467,
+      "ref": "side hustle after",
+      "y": 0.603,
+      "measuredSize": 69,
+      "style": "plain_white_shadow",
+      "guide": ""
+    },
+    {
+      "id": "l40",
+      "start": 26.467,
+      "end": 27.2,
+      "ref": "side hustle",
+      "y": 0.603,
+      "measuredSize": 69,
+      "style": "plain_white_shadow",
+      "guide": ""
+    },
+    {
+      "id": "l41",
+      "start": 27.2,
+      "end": 28.233,
+      "ref": "which all failed",
+      "y": 0.603,
+      "measuredSize": 69,
+      "style": "plain_white_shadow",
+      "guide": ""
+    },
+    {
+      "id": "l42",
+      "start": 28.233,
+      "end": 28.967,
+      "ref": "until finally",
+      "y": 0.67,
+      "measuredSize": 45,
+      "style": "plain_white_shadow",
+      "guide": ""
+    },
+    {
+      "id": "l43",
+      "start": 28.967,
+      "end": 29.433,
+      "ref": "I picked up",
+      "y": 0.588,
+      "measuredSize": 142,
+      "style": "plain_white_shadow",
+      "guide": ""
+    },
+    {
+      "id": "l44",
+      "start": 29.433,
+      "end": 29.967,
+      "ref": "a camera and",
+      "y": 0.607,
+      "measuredSize": 47,
+      "style": "plain_white_shadow",
+      "guide": ""
+    },
+    {
+      "id": "l45",
+      "start": 29.967,
+      "end": 31.233,
+      "ref": "just started",
+      "y": 0.607,
+      "measuredSize": 92,
+      "style": "plain_white_shadow",
+      "guide": ""
+    },
+    {
+      "id": "l46",
+      "start": 31.233,
+      "end": 31.96,
+      "ref": "recording my life",
+      "y": 0.603,
+      "measuredSize": 69,
+      "style": "plain_white_shadow",
+      "guide": ""
+    },
+    {
+      "id": "l47",
+      "start": 31.96,
+      "end": 32.933,
+      "ref": "for the first time ever",
+      "y": 0.603,
+      "measuredSize": 68,
+      "style": "plain_white_shadow",
+      "guide": ""
+    },
+    {
+      "id": "l48",
+      "start": 32.933,
+      "end": 33.6,
+      "ref": "a flame lit up",
+      "y": 0.603,
+      "measuredSize": 68,
+      "style": "plain_white_shadow",
+      "guide": ""
+    },
+    {
+      "id": "l49",
+      "start": 33.6,
+      "end": 34.067,
+      "ref": "inside of me",
+      "y": 0.607,
+      "measuredSize": 47,
+      "style": "plain_white_shadow",
+      "guide": ""
+    },
+    {
+      "id": "l50",
+      "start": 34.067,
+      "end": 34.633,
+      "ref": "maybe because",
+      "y": 0.607,
+      "measuredSize": 47,
+      "style": "plain_white_shadow",
+      "guide": ""
+    },
+    {
+      "id": "l51",
+      "start": 34.633,
+      "end": 35.433,
+      "ref": "for once",
+      "y": 0.604,
+      "measuredSize": 64,
+      "style": "plain_white_shadow",
+      "guide": ""
+    },
+    {
+      "id": "l52",
+      "start": 35.433,
+      "end": 36.333,
+      "ref": "it wasn't on anyone",
+      "y": 0.603,
+      "measuredSize": 68,
+      "style": "plain_white_shadow",
+      "guide": ""
+    },
+    {
+      "id": "l53",
+      "start": 36.333,
+      "end": 37.833,
+      "ref": "and even before",
+      "y": 0.645,
+      "measuredSize": 30,
+      "style": "plain_white_shadow",
+      "guide": ""
+    },
+    {
+      "id": "l54",
+      "start": 37.833,
+      "end": 39.233,
+      "ref": "I wrote in my journal",
+      "y": 0.603,
+      "measuredSize": 68,
+      "style": "plain_white_shadow",
+      "guide": ""
+    },
+    {
+      "id": "l55",
+      "start": 39.233,
+      "end": 40.133,
+      "ref": "that I'd quit my job",
+      "y": 0.604,
+      "measuredSize": 73,
+      "style": "plain_white_shadow",
+      "guide": ""
+    },
+    {
+      "id": "l56",
+      "start": 40.133,
+      "end": 40.7,
+      "ref": "to chase this feeling",
+      "y": 0.603,
+      "measuredSize": 68,
+      "style": "plain_white_shadow",
+      "guide": ""
+    },
+    {
+      "id": "l57",
+      "start": 40.7,
+      "end": 41.44,
+      "ref": "I spent all",
+      "y": 0.603,
+      "measuredSize": 69,
+      "style": "plain_white_shadow",
+      "guide": ""
+    },
+    {
+      "id": "l58",
+      "start": 41.44,
+      "end": 42.167,
+      "ref": "of my free time",
+      "y": 0.606,
+      "measuredSize": 68,
+      "style": "plain_white_shadow",
+      "guide": ""
+    },
+    {
+      "id": "l59",
+      "start": 42.167,
+      "end": 42.667,
+      "ref": "learning how to",
+      "y": 0.694,
+      "measuredSize": 43,
+      "style": "plain_white_shadow",
+      "guide": ""
+    },
+    {
+      "id": "l60",
+      "start": 42.667,
+      "end": 43.1,
+      "ref": "get better",
+      "y": 0.697,
+      "measuredSize": 43,
+      "style": "plain_white_shadow",
+      "guide": ""
+    },
+    {
+      "id": "l61",
+      "start": 43.1,
+      "end": 43.667,
+      "ref": "and a month later",
+      "y": 0.703,
+      "measuredSize": 41,
+      "style": "plain_white_shadow",
+      "guide": ""
+    },
+    {
+      "id": "l62",
+      "start": 43.667,
+      "end": 44.6,
+      "ref": "I quit my job to",
+      "y": 0.713,
+      "measuredSize": 43,
+      "style": "plain_white_shadow",
+      "guide": ""
+    },
+    {
+      "id": "l63",
+      "start": 44.6,
+      "end": 45.36,
+      "ref": "do content full time",
+      "y": 0.608,
+      "measuredSize": 90,
+      "style": "plain_white_shadow",
+      "guide": ""
+    },
+    {
+      "id": "l64",
+      "start": 45.36,
+      "end": 45.967,
+      "ref": "just to grind",
+      "y": 0.603,
+      "measuredSize": 68,
+      "style": "plain_white_shadow",
+      "guide": ""
+    },
+    {
+      "id": "l65",
+      "start": 45.967,
+      "end": 47.0,
+      "ref": "day after day",
+      "y": 0.606,
+      "measuredSize": 69,
+      "style": "plain_white_shadow",
+      "guide": ""
+    },
+    {
+      "id": "l66",
+      "start": 47.0,
+      "end": 47.9,
+      "ref": "seeing no results",
+      "y": 0.605,
+      "measuredSize": 75,
+      "style": "plain_white_shadow",
+      "guide": ""
+    },
+    {
+      "id": "l67",
+      "start": 47.9,
+      "end": 48.367,
+      "ref": "and just when",
+      "y": 0.608,
+      "measuredSize": 90,
+      "style": "plain_white_shadow",
+      "guide": ""
+    },
+    {
+      "id": "l68",
+      "start": 48.367,
+      "end": 48.88,
+      "ref": "I thought I made",
+      "y": 0.608,
+      "measuredSize": 90,
+      "style": "plain_white_shadow",
+      "guide": ""
+    },
+    {
+      "id": "l69",
+      "start": 48.88,
+      "end": 49.3,
+      "ref": "the biggest mistake",
+      "y": 0.603,
+      "measuredSize": 69,
+      "style": "plain_white_shadow",
+      "guide": ""
+    },
+    {
+      "id": "l70",
+      "start": 49.3,
+      "end": 50.04,
+      "ref": "of my life",
+      "y": 0.604,
+      "measuredSize": 69,
+      "style": "plain_white_shadow",
+      "guide": ""
+    },
+    {
+      "id": "l71",
+      "start": 50.04,
+      "end": 50.96,
+      "ref": "I earned $20,000",
+      "y": 0.603,
+      "measuredSize": 71,
+      "style": "plain_white_shadow",
+      "guide": ""
+    },
+    {
+      "id": "l72",
+      "start": 50.96,
+      "end": 52.067,
+      "ref": "in my second month",
+      "y": 0.607,
+      "measuredSize": 49,
+      "style": "plain_white_shadow",
+      "guide": ""
+    },
+    {
+      "id": "l73",
+      "start": 52.067,
+      "end": 52.48,
+      "ref": "for a moment",
+      "y": 0.603,
+      "measuredSize": 69,
+      "style": "plain_white_shadow",
+      "guide": ""
+    },
+    {
+      "id": "l74",
+      "start": 52.48,
+      "end": 53.433,
+      "ref": "it felt like my life",
+      "y": 0.603,
+      "measuredSize": 69,
+      "style": "plain_white_shadow",
+      "guide": ""
+    },
+    {
+      "id": "l75",
+      "start": 53.433,
+      "end": 54.133,
+      "ref": "was finally",
+      "y": 0.608,
+      "measuredSize": 90,
+      "style": "plain_white_shadow",
+      "guide": ""
+    },
+    {
+      "id": "l76",
+      "start": 54.133,
+      "end": 55.1,
+      "ref": "coming together",
+      "y": 0.603,
+      "measuredSize": 68,
+      "style": "plain_white_shadow",
+      "guide": ""
+    },
+    {
+      "id": "l77",
+      "start": 55.1,
+      "end": 55.76,
+      "ref": "but the truth is",
+      "y": 0.603,
+      "measuredSize": 68,
+      "style": "plain_white_shadow",
+      "guide": ""
+    },
+    {
+      "id": "l78",
+      "start": 55.76,
+      "end": 56.733,
+      "ref": "the success just",
+      "y": 0.603,
+      "measuredSize": 68,
+      "style": "plain_white_shadow",
+      "guide": ""
+    },
+    {
+      "id": "l79",
+      "start": 56.733,
+      "end": 57.6,
+      "ref": "made me depressed",
+      "y": 0.607,
+      "measuredSize": 92,
+      "style": "plain_white_shadow",
+      "guide": ""
+    },
+    {
+      "id": "l80",
+      "start": 57.6,
+      "end": 58.6,
+      "ref": "I genuinely considered",
+      "y": 0.607,
+      "measuredSize": 92,
+      "style": "plain_white_shadow",
+      "guide": ""
+    },
+    {
+      "id": "l81",
+      "start": 58.6,
+      "end": 59.367,
+      "ref": "ending my life",
+      "y": 0.67,
+      "measuredSize": 32,
+      "style": "plain_white_shadow",
+      "guide": ""
+    },
+    {
+      "id": "l82",
+      "start": 59.367,
+      "end": 60.033,
+      "ref": "and as bad",
+      "y": 0.604,
+      "measuredSize": 66,
+      "style": "plain_white_shadow",
+      "guide": ""
+    },
+    {
+      "id": "l83",
+      "start": 60.033,
+      "end": 60.467,
+      "ref": "as that sounds",
+      "y": 0.603,
+      "measuredSize": 68,
+      "style": "plain_white_shadow",
+      "guide": ""
+    },
+    {
+      "id": "l84",
+      "start": 60.467,
+      "end": 61.067,
+      "ref": "rock bottom was",
+      "y": 0.604,
+      "measuredSize": 73,
+      "style": "plain_white_shadow",
+      "guide": ""
+    },
+    {
+      "id": "l85",
+      "start": 61.067,
+      "end": 61.867,
+      "ref": "the best thing",
+      "y": 0.603,
+      "measuredSize": 68,
+      "style": "plain_white_shadow",
+      "guide": ""
+    },
+    {
+      "id": "l86",
+      "start": 61.867,
+      "end": 62.4,
+      "ref": "that ever",
+      "y": 0.603,
+      "measuredSize": 68,
+      "style": "plain_white_shadow",
+      "guide": ""
+    },
+    {
+      "id": "l87",
+      "start": 62.4,
+      "end": 62.88,
+      "ref": "happened to me",
+      "y": 0.603,
+      "measuredSize": 69,
+      "style": "plain_white_shadow",
+      "guide": ""
+    },
+    {
+      "id": "l88",
+      "start": 62.88,
+      "end": 63.44,
+      "ref": "it forced me to",
+      "y": 0.603,
+      "measuredSize": 68,
+      "style": "plain_white_shadow",
+      "guide": ""
+    },
+    {
+      "id": "l89",
+      "start": 63.44,
+      "end": 63.967,
+      "ref": "sit with myself",
+      "y": 0.603,
+      "measuredSize": 68,
+      "style": "plain_white_shadow",
+      "guide": ""
+    },
+    {
+      "id": "l90",
+      "start": 63.967,
+      "end": 64.6,
+      "ref": "and actually ask",
+      "y": 0.603,
+      "measuredSize": 68,
+      "style": "plain_white_shadow",
+      "guide": ""
+    },
+    {
+      "id": "l91",
+      "start": 64.6,
+      "end": 65.367,
+      "ref": "what I wanted",
+      "y": 0.603,
+      "measuredSize": 69,
+      "style": "plain_white_shadow",
+      "guide": ""
+    },
+    {
+      "id": "l92",
+      "start": 65.367,
+      "end": 66.233,
+      "ref": "I'm not fixed",
+      "y": 0.603,
+      "measuredSize": 68,
+      "style": "plain_white_shadow",
+      "guide": ""
+    },
+    {
+      "id": "l93",
+      "start": 66.233,
+      "end": 67.12,
+      "ref": "nor am I perfect",
+      "y": 0.603,
+      "measuredSize": 69,
+      "style": "plain_white_shadow",
+      "guide": ""
+    },
+    {
+      "id": "l94",
+      "start": 67.12,
+      "end": 67.88,
+      "ref": "but for the first time",
+      "y": 0.603,
+      "measuredSize": 69,
+      "style": "plain_white_shadow",
+      "guide": ""
+    },
+    {
+      "id": "l95",
+      "start": 67.88,
+      "end": 68.4,
+      "ref": "in my life",
+      "y": 0.604,
+      "measuredSize": 77,
+      "style": "plain_white_shadow",
+      "guide": ""
+    },
+    {
+      "id": "l96",
+      "start": 68.4,
+      "end": 69.12,
+      "ref": "I'm building a life",
+      "y": 0.603,
+      "measuredSize": 68,
+      "style": "plain_white_shadow",
+      "guide": ""
+    },
+    {
+      "id": "l97",
+      "start": 69.12,
+      "end": 69.467,
+      "ref": "that truly feels",
+      "y": 0.603,
+      "measuredSize": 69,
+      "style": "plain_white_shadow",
+      "guide": ""
+    }
+  ],
+  "shots": [
+    {
+      "id": "s1",
+      "start": 0.0,
+      "end": 2.9,
+      "brief": "eating ice cream happily indoors (ref: Young man smiling and eating an ice cream cone at a dining table; filmed by friend)",
+      "line": "l2"
+    },
+    {
+      "id": "s2",
+      "start": 2.9,
+      "end": 4.033,
+      "brief": "college graduation portrait photo (ref: Graduation portrait photo in graduation sash under blooming trees; tripod)",
+      "line": "l5"
+    },
+    {
+      "id": "s3",
+      "start": 4.033,
+      "end": 4.933,
+      "brief": "mirror selfie in business casual office clothes (ref: Mirror selfie in a modern corporate office restroom wearing button-down and backpack; mirror)",
+      "line": "l6"
+    },
+    {
+      "id": "s4",
+      "start": 4.933,
+      "end": 6.6,
+      "brief": "candid moment talking and laughing with a partner (ref: Laughing and talking outdoors at an event with his girlfriend; filmed by friend)",
+      "line": "l8"
+    },
+    {
+      "id": "s5",
+      "start": 6.6,
+      "end": 8.967,
+      "brief": "slumped face down on office work desk (ref: Slumped over office desk with headphones on, looking defeated and exhausted; tripod)",
+      "line": "l11"
+    },
+    {
+      "id": "s6",
+      "start": 8.967,
+      "end": 11.667,
+      "brief": "sitting by window or fire escape at night looking contemplative (ref: Sitting on apartment windowsill by an NYC fire escape looking out thoughtfully at night; tripod)",
+      "line": "l16"
+    },
+    {
+      "id": "s7",
+      "start": 11.667,
+      "end": 13.833,
+      "brief": "walking through busy city street looking pensive, selfie (ref: Walking through crowded Times Square with AirPods looking somber and lost; selfie)",
+      "line": "l19"
+    },
+    {
+      "id": "s8",
+      "start": 13.833,
+      "end": 19.567,
+      "brief": "drinking alcohol at computer desk playing video games in dark room (ref: Drinking straight from a vodka bottle while playing a video game at desk, game over screen appears and he clutches head; filmed by friend)",
+      "line": "l25"
+    },
+    {
+      "id": "s9",
+      "start": 19.567,
+      "end": 22.833,
+      "brief": "working out at gym cable machine looking emotionally drained (ref: Lifting weights on a cable bicep curl machine in a gym with an expression of emptiness; tripod)",
+      "line": "l32"
+    },
+    {
+      "id": "s10",
+      "start": 22.833,
+      "end": 23.833,
+      "brief": "screen recording or close-up of deleting dating app (ref: Screen recording / top-down of downloading Hinge dating app, opening it, and deleting it from tablet; screen recording)",
+      "line": "l34"
+    },
+    {
+      "id": "s11",
+      "start": 23.833,
+      "end": 24.3,
+      "brief": "screen recording or close-up of deleting dating app (ref: Screen recording / top-down of downloading Hinge dating app, opening it, and deleting it from tablet; screen recording)",
+      "line": "l35"
+    },
+    {
+      "id": "s12",
+      "start": 24.3,
+      "end": 25.533,
+      "brief": "screen recording or close-up of deleting dating app (ref: Screen recording / top-down of downloading Hinge dating app, opening it, and deleting it from tablet; screen recording)",
+      "line": "l36"
+    },
+    {
+      "id": "s13",
+      "start": 25.533,
+      "end": 28.233,
+      "brief": "hand writing side hustles on paper and aggressively crossing them out (ref: Top-down view of hand writing a 'Side Hustles' list in a notebook and crossing off each item; top-down)",
+      "line": "l40"
+    },
+    {
+      "id": "s14",
+      "start": 28.233,
+      "end": 31.233,
+      "brief": "running down subway escalator holding camera selfie (ref: Running backwards down a subway escalator holding phone high in front of face; selfie)",
+      "line": "l44"
+    },
+    {
+      "id": "s15",
+      "start": 31.233,
+      "end": 33.6,
+      "brief": "close-up of burning candle flame in dark room (ref: Close-up of a lit candle burning inside a glass jar in a dark room; top-down)",
+      "line": "l47"
+    },
+    {
+      "id": "s16",
+      "start": 33.6,
+      "end": 36.333,
+      "brief": "handwriting content checklist in notebook (ref: Hand writing 'Richard's Checklist - Create Content' in a ruled notebook; top-down)",
+      "line": "l51"
+    },
+    {
+      "id": "s17",
+      "start": 36.333,
+      "end": 37.833,
+      "brief": "screenshot or recording of low-follower TikTok profile (ref: Screen recording of early TikTok profile showing low follower count and posted videos; screen recording)",
+      "line": "l53"
+    },
+    {
+      "id": "s18",
+      "start": 37.833,
+      "end": 40.133,
+      "brief": "hand revealing personal journal entry about quitting job (ref: Hand sliding down a journal entry stating intention to quit job and move to Austin; top-down)",
+      "line": "l54"
+    },
+    {
+      "id": "s19",
+      "start": 40.133,
+      "end": 42.167,
+      "brief": "working diligently at home desk setup (ref: Sitting at home desk with monitors and notebooks studying video editing; tripod)",
+      "line": "l57"
+    },
+    {
+      "id": "s20",
+      "start": 42.167,
+      "end": 44.6,
+      "brief": "sitting casually on an outdoor couch or sidewalk (ref: Sitting comfortably on a discarded brown couch on an NYC street sidewalk smiling; filmed by friend)",
+      "line": "l61"
+    },
+    {
+      "id": "s21",
+      "start": 44.6,
+      "end": 45.967,
+      "brief": "typing intensely at computer keyboard in dark room (ref: Typing rapidly on a white keyboard under moody blue LED light; tripod)",
+      "line": "l63"
+    },
+    {
+      "id": "s22",
+      "start": 45.967,
+      "end": 47.0,
+      "brief": "screaming or yawning in frustration at computer under red light (ref: Staring at screen in deep shock/frustration under bright red lighting; tripod)",
+      "line": "l65"
+    },
+    {
+      "id": "s23",
+      "start": 47.0,
+      "end": 49.3,
+      "brief": "holding head and pulling hair in distress at work desk (ref: Clutching hair at desk in complete agony and distress; tripod)",
+      "line": "l67"
+    },
+    {
+      "id": "s24",
+      "start": 49.3,
+      "end": 51.467,
+      "brief": "celebrating excitedly in desk chair with payout graphic (ref: Ecstatic celebration at desk pump fists seeing overlay of $16,230 bank deposit; tripod)",
+      "line": "l71"
+    },
+    {
+      "id": "s25",
+      "start": 51.467,
+      "end": 54.133,
+      "brief": "walking away towards sunset on grassy hill or scenic overlook (ref: Walking away from camera towards scenic sunset view on a grassy hill overlooking city; tripod)",
+      "line": "l74"
+    },
+    {
+      "id": "s26",
+      "start": 54.133,
+      "end": 56.733,
+      "brief": "slumped in corner of room clutching head in hoodie (ref: Sitting huddled in corner on floor with hoodie pulled over face in deep depression; tripod)",
+      "line": "l77"
+    },
+    {
+      "id": "s27",
+      "start": 56.733,
+      "end": 58.6,
+      "brief": "sitting in car driver's seat at night looking devastated (ref: Sitting in car driver's seat at night looking numb before screen fades to black; selfie)",
+      "line": "l80"
+    },
+    {
+      "id": "s28",
+      "start": 58.6,
+      "end": 61.867,
+      "brief": "falling off bouldering climbing wall onto safety mat and lying defeated (ref: Falling off bouldering wall onto gym mat, lying flat on back with arm over face; tripod)",
+      "line": "l83"
+    },
+    {
+      "id": "s29",
+      "start": 61.867,
+      "end": 64.6,
+      "brief": "sitting alone on a park bench reflecting (ref: Sitting alone on a park bench beneath trees, covering face then looking contemplative; tripod)",
+      "line": "l88"
+    },
+    {
+      "id": "s30",
+      "start": 64.6,
+      "end": 66.233,
+      "brief": "practicing footwork dance or movement outdoors at sunset (ref: Practicing shuffle footwork dance steps on rooftop court at sunset; tripod)",
+      "line": "l92"
+    },
+    {
+      "id": "s31",
+      "start": 66.233,
+      "end": 69.467,
+      "brief": "standing at rooftop ledge looking out at sunset skyline (ref: Leaning against rooftop barrier looking out into the horizon as wind blows hair at sunset; tripod)",
+      "line": "l94"
+    }
+  ],
+  "audit": {
+    "kind": "voiceover_over_broll",
+    "creatorSpeaks": true,
+    "audio": "music + speech",
+    "special": [
+      "Archival graduation photo",
+      "Clip with ex-partner/relationship",
+      "Handwritten journal entries and checklists",
+      "Specific staged acting clips (office desk, red-lit drinking, emotional breakdowns, gym, climbing fall)"
+    ],
+    "reusable": false,
+    "notes": "This video relies heavily on a bespoke voiceover narration, chronological personal archival assets (graduation photo, ex-girlfriend clip, custom journal entries with specific dates/plans, early account screenshots, and payout graphics), alongside several specifically staged emotional scenes (climbing wall crash, red-lit drinking, breakdowns).",
+    "summary": "A vulnerable personal storytelling montage recounting the creator's journey from an engineering degree and corporate job to burnout, heartbreak, starting content creation, hitting early financial success, experiencing severe depression, and ultimately finding inner peace."
+  },
+  "caption": {
+    "ref": "",
+    "guide": ""
+  },
+  "draft": true
+}

@@ -1,0 +1,54 @@
+{
+  "id": "advice-5",
+  "name": "I'm 41 If you're between 25-35, start these 11 habits before",
+  "reference": "references/viral-formats/advice-5.mp4",
+  "source": "/Users/aaron/Downloads/100 Viral Formats (Format Book)/Advice/#5/#5.mp4",
+  "duration": 10.6,
+  "music": {
+    "from": "reference",
+    "title": "Evergreen by Richy Mitch & The Coal Miners"
+  },
+  "text": {
+    "y": 0.487,
+    "size": 46,
+    "weight": 700,
+    "lineHeight": 1.4,
+    "maxWidth": 900,
+    "style": "outline"
+  },
+  "lines": [
+    {
+      "id": "l1",
+      "start": 0.0,
+      "end": 10.25,
+      "ref": "I'm 41\nIf you're between 25-35,\nstart these 11 habits\nbefore it's too late",
+      "y": 0.487,
+      "measuredSize": 40,
+      "style": "plain_white_shadow",
+      "guide": ""
+    }
+  ],
+  "shots": [
+    {
+      "id": "s1",
+      "start": 0.0,
+      "end": 10.6,
+      "brief": "crouching or sitting outdoors smiling at low-angle camera (ref: Woman in a beige trench coat and turtleneck crouching down on an outdoor wooden deck, smiling peacefully at the low-angle camera while wind blows her hair.; tripod)",
+      "line": "l1"
+    }
+  ],
+  "audit": {
+    "kind": "broll_with_text",
+    "creatorSpeaks": false,
+    "audio": "music only",
+    "special": [],
+    "reusable": true,
+    "notes": "Easily recreated with any peaceful, contemplative lifestyle b-roll clip (such as sitting in Central Park, walking, or relaxing at home) paired with reflective advice in the caption.",
+    "summary": "A woman crouches on a wooden pier smiling gently at a low-angle camera, paired with text hooking viewers aged 25-35 to read 11 life habits in the caption."
+  },
+  "caption": {
+    "ref": "",
+    "guide": ""
+  },
+  "draft": true
+}

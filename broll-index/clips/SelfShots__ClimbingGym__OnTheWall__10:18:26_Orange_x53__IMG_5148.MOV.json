@@ -1,0 +1,108 @@
+{
+  "path": "SelfShots/ClimbingGym/OnTheWall/10:18:26_Orange_x53/IMG_5148.MOV",
+  "folder": "SelfShots/ClimbingGym/OnTheWall/10:18:26_Orange_x53",
+  "fingerprint": "c64ce1c6076ee1e2",
+  "width": 1080,
+  "height": 1920,
+  "fps": 30.0,
+  "duration": 34.77,
+  "model": "gemini-3.8-flash",
+  "annotatedAt": "2026-10-24T18:46:27+00:00",
+  "summary": "A young man boulder climbs up an indoor climbing gym wall on pink and purple holds before slipping off near the top and landing on the mat.",
+  "location": "gym",
+  "setting": "indoor",
+  "time_of_day": "indoor_unknown",
+  "weather": "n/a",
+  "people": {
+    "count": 1,
+    "creator_visible": true,
+    "description": "Young East Asian man with dark hair, wearing a grey sleeveless tank top and loose blue jeans"
+  },
+  "camera": {
+    "style": "tripod_static",
+    "framing": "wide",
+    "movement": "static",
+    "angle": "low angle looking up"
+  },
+  "quality": {
+    "usable": true,
+    "stability": "locked",
+    "exposure": "good",
+    "issues": ""
+  },
+  "mood": [
+    "focused",
+    "athletic",
+    "determined",
+    "active"
+  ],
+  "energy": "medium",
+  "tags": [
+    "bouldering",
+    "rock climbing",
+    "climbing gym",
+    "indoor climbing",
+    "workout",
+    "fitness",
+    "athletic",
+    "training",
+    "fall",
+    "sports",
+    "chalk",
+    "holds"
+  ],
+  "moments": [
+    {
+      "start": 3.5,
+      "end": 10.5,
+      "action": "Climber enters frame, grips the starting holds, and mounts the climbing wall",
+      "emotion": "focused",
+      "good_for": [
+        "starting a new hobby",
+        "taking on challenges",
+        "day 1 vs day 100",
+        "workout routine"
+      ],
+      "score": 4
+    },
+    {
+      "start": 10.5,
+      "end": 18.0,
+      "action": "Climber works through the middle section, carefully shifting body weight and footholds",
+      "emotion": "determined",
+      "good_for": [
+        "trusting the process",
+        "one step at a time",
+        "problem solving",
+        "staying disciplined"
+      ],
+      "score": 4
+    },
+    {
+      "start": 18.0,
+      "end": 24.5,
+      "action": "Climber executes a high step and stands tall reaching toward the high holds",
+      "emotion": "intense concentration",
+      "good_for": [
+        "pushing your limits",
+        "almost there",
+        "climbing higher",
+        "strength training"
+      ],
+      "score": 4
+    },
+    {
+      "start": 24.5,
+      "end": 31.0,
+      "action": "Climber touches the top pink hold, loses his grip, and safely falls backward onto the padded floor mat",
+      "emotion": "resilient",
+      "good_for": [
+        "falling and getting back up",
+        "learning from failure",
+        "so close yet so far",
+        "embracing mistakes"
+      ],
+      "score": 5
+    }
+  ]
+}

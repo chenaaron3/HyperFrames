@@ -1,0 +1,105 @@
+{
+  "path": "SelfShots/Subway/IMG_4952.MOV",
+  "folder": "SelfShots/Subway",
+  "fingerprint": "500fbc329adcd321",
+  "width": 1080,
+  "height": 1920,
+  "fps": 30.0,
+  "duration": 17.802,
+  "model": "gemini-3.8-flash",
+  "annotatedAt": "2026-10-24T19:01:27+00:00",
+  "summary": "A young Asian man rides a New York City subway car, glancing at the camera and turning to gaze out the window as the train departs the Rockefeller Center station.",
+  "location": "subway car",
+  "setting": "vehicle",
+  "time_of_day": "indoor_unknown",
+  "weather": "n/a",
+  "people": {
+    "count": 1,
+    "creator_visible": true,
+    "description": "Young East Asian man with wavy dark hair, wearing a brown textured polo shirt, silver chain necklace, and hoop earring"
+  },
+  "camera": {
+    "style": "selfie",
+    "framing": "close",
+    "movement": "handheld",
+    "angle": "eye level"
+  },
+  "quality": {
+    "usable": true,
+    "stability": "handheld",
+    "exposure": "good",
+    "issues": ""
+  },
+  "mood": [
+    "contemplative",
+    "urban",
+    "calm",
+    "commute",
+    "moody"
+  ],
+  "energy": "low",
+  "tags": [
+    "subway",
+    "commute",
+    "nyc",
+    "train",
+    "public transit",
+    "profile",
+    "window",
+    "reflection",
+    "urban life",
+    "thinking",
+    "rockefeller center",
+    "city travel"
+  ],
+  "moments": [
+    {
+      "start": 0.0,
+      "end": 3.5,
+      "action": "Creator looks directly at the camera with a calm expression before turning his head toward the window",
+      "emotion": "calm",
+      "good_for": [
+        "subway commute thoughts",
+        "headed to work",
+        "city routine"
+      ],
+      "score": 3
+    },
+    {
+      "start": 3.5,
+      "end": 5.5,
+      "action": "Creator faces forward toward the camera in a steady selfie shot",
+      "emotion": "neutral",
+      "good_for": [
+        "on my way",
+        "daily commute",
+        "nyc living"
+      ],
+      "score": 3
+    },
+    {
+      "start": 5.5,
+      "end": 11.5,
+      "action": "Creator turns his head to profile view as the subway car starts moving past the station platform",
+      "emotion": "contemplative",
+      "good_for": [
+        "leaving everything behind",
+        "lost in thought",
+        "commute reflections"
+      ],
+      "score": 4
+    },
+    {
+      "start": 11.5,
+      "end": 17.8,
+      "action": "Side profile of creator gazing out into the dark subway tunnel as the train speeds up",
+      "emotion": "reflective",
+      "good_for": [
+        "late night thoughts",
+        "solo commute",
+        "moving forward in life"
+      ],
+      "score": 4
+    }
+  ]
+}

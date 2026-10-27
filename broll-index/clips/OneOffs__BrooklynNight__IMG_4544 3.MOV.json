@@ -1,0 +1,80 @@
+{
+  "path": "OneOffs/BrooklynNight/IMG_4544 3.MOV",
+  "folder": "OneOffs/BrooklynNight",
+  "fingerprint": "bf23ae828714d67b",
+  "width": 1080,
+  "height": 1920,
+  "fps": 30.0,
+  "duration": 7.232,
+  "model": "gemini-3.8-flash",
+  "annotatedAt": "2026-10-24T18:23:26+00:00",
+  "summary": "A man attempts a dynamic reach on an indoor bouldering wall, catches the upper hold, and drops down onto the crash pad with a laugh.",
+  "location": "bouldering gym",
+  "setting": "indoor",
+  "time_of_day": "indoor_unknown",
+  "weather": "n/a",
+  "people": {
+    "count": 1,
+    "creator_visible": true,
+    "description": "Young man with glasses, wearing a black graphic t-shirt, black athletic shorts, and climbing shoes."
+  },
+  "camera": {
+    "style": "filmed_by_friend",
+    "framing": "medium",
+    "movement": "handheld",
+    "angle": "eye level"
+  },
+  "quality": {
+    "usable": true,
+    "stability": "steady",
+    "exposure": "good",
+    "issues": ""
+  },
+  "mood": [
+    "playful",
+    "focused",
+    "active",
+    "energetic"
+  ],
+  "energy": "high",
+  "tags": [
+    "bouldering",
+    "rock climbing",
+    "climbing gym",
+    "dyno",
+    "fitness",
+    "active lifestyle",
+    "workout",
+    "falling safely",
+    "indoor sports"
+  ],
+  "moments": [
+    {
+      "start": 0.0,
+      "end": 4.5,
+      "action": "Man balances on lower holds and visualizes the dynamic jump up to the target hold",
+      "emotion": "focused",
+      "good_for": [
+        "trying new hobbies",
+        "getting out of your comfort zone",
+        "planning your next move",
+        "focus on the goal"
+      ],
+      "score": 3
+    },
+    {
+      "start": 4.5,
+      "end": 7.23,
+      "action": "Man leaps up to grab the high yellow hold and drops down onto the crash pad smiling",
+      "emotion": "excited",
+      "good_for": [
+        "taking the leap",
+        "going for it",
+        "workout fun",
+        "laugh at yourself",
+        "failing successfully"
+      ],
+      "score": 4
+    }
+  ]
+}

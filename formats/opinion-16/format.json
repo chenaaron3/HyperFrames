@@ -1,0 +1,54 @@
+{
+  "id": "opinion-16",
+  "name": "Everyone has a million problems until they lose their health",
+  "reference": "references/viral-formats/opinion-16.mp4",
+  "source": "/Users/aaron/Downloads/100 Viral Formats (Format Book)/Opinion/#16/#16.mp4",
+  "duration": 6.833,
+  "music": {
+    "from": "reference",
+    "title": "Woman’s Glow by Yunna Serene"
+  },
+  "text": {
+    "y": 0.484,
+    "size": 46,
+    "weight": 700,
+    "lineHeight": 1.4,
+    "maxWidth": 900,
+    "style": "outline"
+  },
+  "lines": [
+    {
+      "id": "l1",
+      "start": 0.0,
+      "end": 6.5,
+      "ref": "Everyone has a million problems until\nthey lose their health. Then they have\nonly one. Health is the real luxury.\nStay grateful",
+      "y": 0.484,
+      "measuredSize": 41,
+      "style": "plain_white_shadow",
+      "guide": ""
+    }
+  ],
+  "shots": [
+    {
+      "id": "s1",
+      "start": 0.0,
+      "end": 6.833,
+      "brief": "drinking coffee or tea at a desk, looking contemplative (ref: A healthcare worker in blue scrubs sits at an office desk with a keyboard, drinking from a paper cup and looking around thoughtfully.; tripod)",
+      "line": "l1"
+    }
+  ],
+  "audit": {
+    "kind": "broll_with_text",
+    "creatorSpeaks": false,
+    "audio": "music only",
+    "special": [],
+    "reusable": true,
+    "notes": "This format pairs a grounding philosophical quote about health/gratitude with calm, reflective b-roll. Any quiet lifestyle clip—such as drinking coffee at home, working at a desk, or looking out a subway window—will work seamlessly.",
+    "summary": "A healthcare professional in blue scrubs sips a warm drink at her desk while reflective text reminds viewers that health is the ultimate luxury."
+  },
+  "caption": {
+    "ref": "",
+    "guide": ""
+  },
+  "draft": true
+}

@@ -1,0 +1,122 @@
+{
+  "id": "opinion-24",
+  "name": "Be soft, but not weak.",
+  "reference": "references/viral-formats/opinion-24.mp4",
+  "source": "/Users/aaron/Downloads/100 Viral Formats (Format Book)/Opinion/#24/#24.mp4",
+  "duration": 10.933,
+  "music": {
+    "from": "reference",
+    "title": "Papaoutai - Olivia Silvia"
+  },
+  "text": {
+    "y": 0.222,
+    "size": 46,
+    "weight": 700,
+    "lineHeight": 1.4,
+    "maxWidth": 900,
+    "style": "outline"
+  },
+  "lines": [
+    {
+      "id": "l1",
+      "start": 0.0,
+      "end": 2.133,
+      "ref": "Be soft, but not weak.",
+      "y": 0.222,
+      "measuredSize": 26,
+      "style": "plain_white_shadow",
+      "guide": ""
+    },
+    {
+      "id": "l2",
+      "start": 2.133,
+      "end": 4.167,
+      "ref": "Be strong, but not violent.",
+      "y": 0.223,
+      "measuredSize": 26,
+      "style": "plain_white_shadow",
+      "guide": ""
+    },
+    {
+      "id": "l3",
+      "start": 4.167,
+      "end": 6.333,
+      "ref": "Be kind, but not naive.",
+      "y": 0.19,
+      "measuredSize": 26,
+      "style": "plain_white_shadow",
+      "guide": ""
+    },
+    {
+      "id": "l4",
+      "start": 6.333,
+      "end": 8.4,
+      "ref": "Be confident, but not arrogant.",
+      "y": 0.191,
+      "measuredSize": 22,
+      "style": "plain_white_shadow",
+      "guide": ""
+    },
+    {
+      "id": "l5",
+      "start": 8.4,
+      "end": 10.933,
+      "ref": "Be driven, but not greedy.",
+      "y": 0.189,
+      "measuredSize": 34,
+      "style": "plain_white_shadow",
+      "guide": ""
+    }
+  ],
+  "shots": [
+    {
+      "id": "s1",
+      "start": 0.0,
+      "end": 2.133,
+      "brief": "interacting gently with a pet, nature, or chilling peacefully (ref: Young man smiling and petting a street dog outdoors.; filmed by friend)",
+      "line": "l1"
+    },
+    {
+      "id": "s2",
+      "start": 2.133,
+      "end": 4.167,
+      "brief": "showing physical fitness or training at the gym / bouldering wall (ref: Shirtless young man flexing his arm and back muscles indoors.; tripod)",
+      "line": "l2"
+    },
+    {
+      "id": "s3",
+      "start": 4.167,
+      "end": 6.333,
+      "brief": "laughing or smiling with friends (ref: Creator laughing and hanging out with friends on a street at night.; selfie)",
+      "line": "l3"
+    },
+    {
+      "id": "s4",
+      "start": 6.333,
+      "end": 8.4,
+      "brief": "eating a meal or sitting in a cafe (ref: Creator sitting at a table and taking a bite of a burger.; tripod)",
+      "line": "l4"
+    },
+    {
+      "id": "s5",
+      "start": 8.4,
+      "end": 10.933,
+      "brief": "urban night view, skyline, or working on ambition/laptop (ref: Creator sitting relaxed on a boat at night with illuminated city skyline behind him.; filmed by friend)",
+      "line": "l5"
+    }
+  ],
+  "audit": {
+    "kind": "broll_with_text",
+    "creatorSpeaks": false,
+    "audio": "music only",
+    "special": [],
+    "reusable": true,
+    "notes": "Perfect format for a personal brand archive. Match each contrast line to standard lifestyle footage (e.g., chilling at home for 'soft', bouldering/gym for 'strong', hanging with friends for 'kind', eating/walking for 'confident', city skyline/working for 'driven').",
+    "summary": "A montage of lifestyle b-roll clips illustrating balanced life advice rules structured around 'Be [virtue], but not [corrupted counterpart]'."
+  },
+  "caption": {
+    "ref": "",
+    "guide": ""
+  },
+  "draft": true
+}

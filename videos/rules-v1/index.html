@@ -1,0 +1,62 @@
+<!doctype html>
+<html lang="en" data-resolution="portrait">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=1080, height=1920" />
+    <script src="https://cdn.jsdelivr.net/npm/gsap@3.14.2/dist/gsap.min.js"></script>
+    <style>
+      #root { position: absolute; inset: 0; overflow: hidden; background: #000; }
+      .shot { position: absolute; inset: 0; width: 1080px; height: 1920px; object-fit: cover; z-index: 1; }
+      .line { position: absolute; left: 0; width: 1080px; z-index: 3; display: flex; justify-content: center; transform: translateY(-50%); }
+      .line span {
+        max-width: 900px;
+        text-align: center;
+        font-family: "Montserrat", sans-serif;
+        font-weight: 700;
+        font-size: 52px;
+        line-height: 1.4;
+        letter-spacing: -0.01em;
+        color: #fff;
+        text-shadow: -2px 0 0 rgba(0,0,0,.75), 2px 0 0 rgba(0,0,0,.75), 0 -2px 0 rgba(0,0,0,.75), 0 2px 0 rgba(0,0,0,.75), 0 0 10px rgba(0,0,0,.35);
+      }
+    </style>
+  </head>
+  <body>
+    <div id="root" data-composition-id="main" data-start="0" data-duration="20.533" data-width="1080" data-height="1920" data-fps="30">
+      <video id="v-s1" class="clip shot" src="assets/s1.mp4" data-start="0.000" data-duration="1.500" data-track-index="0" muted playsinline></video>
+      <video id="v-s2" class="clip shot" src="assets/s2.mp4" data-start="1.500" data-duration="2.067" data-track-index="1" muted playsinline></video>
+      <video id="v-s3" class="clip shot" src="assets/s3.mp4" data-start="3.567" data-duration="1.566" data-track-index="0" muted playsinline></video>
+      <video id="v-s4" class="clip shot" src="assets/s4.mp4" data-start="5.133" data-duration="2.067" data-track-index="1" muted playsinline></video>
+      <video id="v-s5" class="clip shot" src="assets/s5.mp4" data-start="7.200" data-duration="1.667" data-track-index="0" muted playsinline></video>
+      <video id="v-s6" class="clip shot" src="assets/s6.mp4" data-start="8.867" data-duration="2.000" data-track-index="1" muted playsinline></video>
+      <video id="v-s7" class="clip shot" src="assets/s7.mp4" data-start="10.867" data-duration="1.600" data-track-index="0" muted playsinline></video>
+      <video id="v-s8" class="clip shot" src="assets/s8.mp4" data-start="12.467" data-duration="1.833" data-track-index="1" muted playsinline></video>
+      <video id="v-m1" class="clip shot" src="assets/m1.mp4" data-start="14.300" data-duration="0.467" data-track-index="0" muted playsinline></video>
+      <video id="v-m2" class="clip shot" src="assets/m2.mp4" data-start="14.767" data-duration="0.433" data-track-index="1" muted playsinline></video>
+      <video id="v-m3" class="clip shot" src="assets/m3.mp4" data-start="15.200" data-duration="0.433" data-track-index="0" muted playsinline></video>
+      <video id="v-m4" class="clip shot" src="assets/m4.mp4" data-start="15.633" data-duration="0.500" data-track-index="1" muted playsinline></video>
+      <video id="v-m5" class="clip shot" src="assets/m5.mp4" data-start="16.133" data-duration="0.400" data-track-index="0" muted playsinline></video>
+      <video id="v-m6" class="clip shot" src="assets/m6.mp4" data-start="16.533" data-duration="0.334" data-track-index="1" muted playsinline></video>
+      <video id="v-m7" class="clip shot" src="assets/m7.mp4" data-start="16.867" data-duration="0.366" data-track-index="0" muted playsinline></video>
+      <video id="v-m8" class="clip shot" src="assets/m8.mp4" data-start="17.233" data-duration="0.434" data-track-index="1" muted playsinline></video>
+      <video id="v-m9" class="clip shot" src="assets/m9.mp4" data-start="17.667" data-duration="0.400" data-track-index="0" muted playsinline></video>
+      <video id="v-s9" class="clip shot" src="assets/s9.mp4" data-start="18.067" data-duration="2.466" data-track-index="1" muted playsinline></video>
+      <div id="l1" class="clip line" style="top: 960px" data-start="0.000" data-duration="1.500" data-track-index="2"><span>Still single in your 20s?</span></div>
+      <div id="l2" class="clip line" style="top: 960px" data-start="1.500" data-duration="2.067" data-track-index="2"><span>&quot;You&#x27;ll never find the one&quot;</span></div>
+      <div id="l3" class="clip line" style="top: 960px" data-start="3.567" data-duration="1.566" data-track-index="2"><span>Still at a corporate job by 26?</span></div>
+      <div id="l4" class="clip line" style="top: 960px" data-start="5.133" data-duration="2.067" data-track-index="2"><span>&quot;You&#x27;re wasting your best years&quot;</span></div>
+      <div id="l5" class="clip line" style="top: 960px" data-start="7.200" data-duration="1.667" data-track-index="2"><span>Travelling again in your 30s?</span></div>
+      <div id="l6" class="clip line" style="top: 960px" data-start="8.867" data-duration="2.000" data-track-index="2"><span>&quot;You&#x27;ll never settle down&quot;</span></div>
+      <div id="l7" class="clip line" style="top: 960px" data-start="10.867" data-duration="1.600" data-track-index="2"><span>Not a millionaire by 27?</span></div>
+      <div id="l8" class="clip line" style="top: 960px" data-start="12.467" data-duration="1.833" data-track-index="2"><span>&quot;You&#x27;re falling behind&quot;</span></div>
+      <div id="l9" class="clip line" style="top: 960px" data-start="14.300" data-duration="3.767" data-track-index="2"><span>Who wrote the rules?</span></div>
+      <div id="l10" class="clip line" style="top: 960px" data-start="18.067" data-duration="2.466" data-track-index="2"><span>It&#x27;s your life, you decide your rules 🌟</span></div>
+      <audio id="music" src="assets/music.m4a" data-start="0" data-duration="20.533" data-volume="1" data-track-index="4"></audio>
+    </div>
+    <script>
+      const tl = gsap.timeline({ paused: true });
+      tl.set({}, {}, 20.533);
+      window.__timelines["main"] = tl;
+    </script>
+  </body>
+</html>

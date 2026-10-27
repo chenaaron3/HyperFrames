@@ -1,0 +1,69 @@
+{
+  "path": "Cinematic/Chinatown/IMG_4775.mov",
+  "folder": "Cinematic/Chinatown",
+  "fingerprint": "e4008b32cf0f50dd",
+  "width": 1080,
+  "height": 1920,
+  "fps": 30.0,
+  "duration": 4.367,
+  "model": "gemini-3.8-flash",
+  "annotatedAt": "2026-10-24T18:19:11+00:00",
+  "summary": "People sit relaxing on green park benches under tall trees in a Chinatown public park during the day.",
+  "location": "park",
+  "setting": "outdoor",
+  "time_of_day": "day",
+  "weather": "overcast",
+  "people": {
+    "count": 8,
+    "creator_visible": false,
+    "description": "Local residents and seniors sitting along park benches, some wearing face masks and casual jackets, resting quietly under trees"
+  },
+  "camera": {
+    "style": "pov_first_person",
+    "framing": "wide",
+    "movement": "static",
+    "angle": "eye level"
+  },
+  "quality": {
+    "usable": true,
+    "stability": "steady",
+    "exposure": "mixed",
+    "issues": "slightly washed out / overcast lighting"
+  },
+  "mood": [
+    "peaceful",
+    "observational",
+    "nostalgic",
+    "calm"
+  ],
+  "energy": "low",
+  "tags": [
+    "chinatown",
+    "columbus park",
+    "park benches",
+    "city life",
+    "trees",
+    "nyc",
+    "relaxing",
+    "seniors",
+    "pavement",
+    "public square",
+    "peaceful afternoon"
+  ],
+  "moments": [
+    {
+      "start": 0.0,
+      "end": 4.37,
+      "action": "A static wide view of people resting and chatting on park benches beneath lush green trees in a city park",
+      "emotion": "calm",
+      "good_for": [
+        "slowing down",
+        "city memories",
+        "observing life",
+        "finding peace in the city",
+        "afternoon walks"
+      ],
+      "score": 3
+    }
+  ]
+}

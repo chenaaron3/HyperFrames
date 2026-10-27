@@ -1,0 +1,15 @@
+{
+  "name": "aieditor",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "npx --yes hyperframes@0.8.192 preview",
+    "check": "npx --yes hyperframes@0.8.192 check",
+    "render": "npx --yes hyperframes@0.8.192 render",
+    "publish": "npx --yes hyperframes@0.8.192 publish"
+  },
+  "devDependencies": {
+    "@remotion/cli": "^4.0.538",
+    "remotion": "^4.0.538"
+  }
+}

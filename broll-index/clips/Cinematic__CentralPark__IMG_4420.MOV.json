@@ -1,0 +1,70 @@
+{
+  "path": "Cinematic/CentralPark/IMG_4420.MOV",
+  "folder": "Cinematic/CentralPark",
+  "fingerprint": "b4c1f5189d1a5db1",
+  "width": 1080,
+  "height": 1920,
+  "fps": 30.0,
+  "duration": 2.498,
+  "model": "gemini-3.8-flash",
+  "annotatedAt": "2026-10-24T18:17:46+00:00",
+  "summary": "Handheld shot tilting up from a park pathway towards tall lush green trees under a bright blue sunny sky.",
+  "location": "park",
+  "setting": "outdoor",
+  "time_of_day": "day",
+  "weather": "sunny",
+  "people": {
+    "count": 0,
+    "creator_visible": false,
+    "description": "No people visible"
+  },
+  "camera": {
+    "style": "handheld_cinematic",
+    "framing": "wide",
+    "movement": "tilt up",
+    "angle": "low angle looking up"
+  },
+  "quality": {
+    "usable": true,
+    "stability": "steady",
+    "exposure": "good",
+    "issues": ""
+  },
+  "mood": [
+    "peaceful",
+    "serene",
+    "calm",
+    "fresh"
+  ],
+  "energy": "low",
+  "tags": [
+    "central park",
+    "trees",
+    "nature",
+    "greenery",
+    "canopy",
+    "blue sky",
+    "sunlight",
+    "path",
+    "tilt up",
+    "peaceful",
+    "summer",
+    "outdoors"
+  ],
+  "moments": [
+    {
+      "start": 0.0,
+      "end": 2.5,
+      "action": "Camera tilts up from a paved park pathway to the canopy of tall green trees and clear blue sky",
+      "emotion": "peaceful",
+      "good_for": [
+        "nature walk",
+        "taking a breath",
+        "peace of mind",
+        "romanticizing life",
+        "sunny days"
+      ],
+      "score": 4
+    }
+  ]
+}

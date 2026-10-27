@@ -1,0 +1,116 @@
+{
+  "path": "OneOffs/Cooking/IMG_4827.MOV",
+  "folder": "OneOffs/Cooking",
+  "fingerprint": "2bc69fcb8c46e9cc",
+  "width": 1080,
+  "height": 1920,
+  "fps": 30.0,
+  "duration": 35.17,
+  "model": "gemini-3.8-flash",
+  "annotatedAt": "2026-10-24T18:34:16+00:00",
+  "summary": "A close-up POV shot of minced meat and seasonings being cooked and stirred in a black wok on a gas stovetop.",
+  "location": "kitchen",
+  "setting": "indoor",
+  "time_of_day": "indoor_unknown",
+  "weather": "n/a",
+  "people": {
+    "count": 1,
+    "creator_visible": false,
+    "description": "Only the cook's hand and forearm are visible, wearing a silver chain bracelet and holding a metal spatula."
+  },
+  "camera": {
+    "style": "pov_first_person",
+    "framing": "medium",
+    "movement": "static",
+    "angle": "high angle"
+  },
+  "quality": {
+    "usable": true,
+    "stability": "steady",
+    "exposure": "good",
+    "issues": ""
+  },
+  "mood": [
+    "productive",
+    "calm",
+    "satisfying"
+  ],
+  "energy": "low",
+  "tags": [
+    "cooking",
+    "wok",
+    "stir fry",
+    "minced meat",
+    "stovetop",
+    "kitchen",
+    "meal prep",
+    "food",
+    "dinner",
+    "culinary",
+    "chef",
+    "homemade",
+    "foodie"
+  ],
+  "moments": [
+    {
+      "start": 0.0,
+      "end": 3.0,
+      "action": "Minced meat and diced aromatics sizzling gently in the wok before being stirred",
+      "emotion": "calm",
+      "good_for": [
+        "cooking dinner",
+        "home cooked meals",
+        "food on my plate"
+      ],
+      "score": 4
+    },
+    {
+      "start": 3.0,
+      "end": 8.0,
+      "action": "Hand enters with a metal spatula and begins breaking up and tossing the minced meat",
+      "emotion": "focused",
+      "good_for": [
+        "making dinner",
+        "learning to cook",
+        "meal prep routine"
+      ],
+      "score": 4
+    },
+    {
+      "start": 15.0,
+      "end": 21.0,
+      "action": "Stirring and pressing the meat down in the wok with the edge of the spatula",
+      "emotion": "focused",
+      "good_for": [
+        "simple pleasures",
+        "cooking therapy",
+        "dinner time"
+      ],
+      "score": 4
+    },
+    {
+      "start": 21.5,
+      "end": 26.5,
+      "action": "Flipping and turning the seasoned meat around the sizzling hot wok",
+      "emotion": "focused",
+      "good_for": [
+        "chef mode",
+        "weekday dinner",
+        "satisfying sounds"
+      ],
+      "score": 4
+    },
+    {
+      "start": 28.0,
+      "end": 34.5,
+      "action": "Flattening the cooked ground meat in the wok and letting the spatula rest on top",
+      "emotion": "calm",
+      "good_for": [
+        "almost ready",
+        "dinner is served",
+        "food prep"
+      ],
+      "score": 4
+    }
+  ]
+}

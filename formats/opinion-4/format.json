@@ -1,0 +1,54 @@
+{
+  "id": "opinion-4",
+  "name": "All this social media shit don't matter. Make sure you're ha",
+  "reference": "references/viral-formats/opinion-4.mp4",
+  "source": "/Users/aaron/Downloads/100 Viral Formats (Format Book)/Opinion/#4/#4.mp4",
+  "duration": 13.4,
+  "music": {
+    "from": "reference",
+    "title": "DtMF - Bad Bunny"
+  },
+  "text": {
+    "y": 0.38,
+    "size": 46,
+    "weight": 700,
+    "lineHeight": 1.4,
+    "maxWidth": 900,
+    "style": "outline"
+  },
+  "lines": [
+    {
+      "id": "l1",
+      "start": 0.0,
+      "end": 13.4,
+      "ref": "All this social media\nshit don't matter.\nMake sure you're happy\nin real life.",
+      "y": 0.38,
+      "measuredSize": null,
+      "style": "other",
+      "guide": ""
+    }
+  ],
+  "shots": [
+    {
+      "id": "s1",
+      "start": 0.0,
+      "end": 13.4,
+      "brief": "walking down city street at night, selfie (ref: Eye-level selfie of the man walking past streetlights and buildings wearing earphones and a backpack.; selfie)",
+      "line": "l1"
+    }
+  ],
+  "audit": {
+    "kind": "broll_with_text",
+    "creatorSpeaks": false,
+    "audio": "music only",
+    "special": [],
+    "reusable": true,
+    "notes": "Can easily be recreated using existing casual walking b-roll (such as walking in Brooklyn or Manhattan at night or day) and applying the same philosophical hook text.",
+    "summary": "A young man walks outside down a city street at night in a casual selfie video, overlaid with reflective text reminding viewers that social media doesn't matter compared to real life."
+  },
+  "caption": {
+    "ref": "",
+    "guide": ""
+  },
+  "draft": true
+}

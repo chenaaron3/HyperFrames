@@ -1,0 +1,160 @@
+{
+  "format": "relatable-17",
+  "title": "\"u look happier, who healed u?\"",
+  "lines": {
+    "l1": "\"u look happier, who healed u?\"",
+    "l2": "wdym 'who'?"
+  },
+  "shots": {
+    "s1": {
+      "clip": "SelfShots/Chilling/IMG_4481.MOV",
+      "in": 9.17,
+      "speed": 1.0,
+      "note": "The man sits still on the rock with his back to the camera, looking out over the trees and skyscrapers (calm)",
+      "query": "sitting outdoors park calm peaceful view",
+      "alts": [
+        "Cinematic/CentralPark/IMG_4447.MOV @6.0-14.0: Creator sits relaxed on the rock, gazing out over the trees and green ",
+        "Cinematic/CentralPark/IMG_4447.MOV @17.0-24.0: Creator pulls knees up and sits quietly while looking across the park",
+        "SelfShots/Chilling/IMG_4436.MOV @7.0-15.5: Man lies peacefully on the grass with his hands behind his head restin",
+        "SelfShots/Chilling/IMG_4475.MOV @4.5-9.2: Creator sits still on the grass from behind, admiring the peaceful lak",
+        "SelfShots/ClimbingGym/Setup/Walking/IMG_4996.MOV @23.5-29.0: Young man walks down the staircase towards the camera alongside lush f"
+      ],
+      "motion": {
+        "speed": 0.0,
+        "jitter": 0.01,
+        "verdict": "ok"
+      }
+    },
+    "s2": {
+      "clip": "OneOffs/BrooklynNight/IMG_4507 3.MOV",
+      "in": 1.1,
+      "speed": 1.0,
+      "note": "Creator walks down the sidewalk while looking directly into the camera lens with a wide, warm smile (happy and relaxed)",
+      "query": "smiling selfie outdoors sunny",
+      "alts": [
+        "SelfShots/ClimbingGym/Setup/Walking/IMG_5195.MOV @8.0-11.0: An older woman crossing in the opposite direction waves playfully at t",
+        "OneOffs/Eating/IMG_4868.MOV @6.0-14.5: Creator reads the book intently, turning pages while seated outside",
+        "SelfShots/ClimbingGym/Setup/Walking/IMG_5197.MOV @0.0-3.5: Creator walks backwards while filming a selfie with the large Vital Cl",
+        "OneOffs/RainyDayArmanRishi/IMG_4639.MOV @7.8-12.2: Man sets his cup down on the table, turns toward the camera, and laugh",
+        "OneOffs/Eating/IMG_4891.MOV @2.2-3.9: Camera turns selfie-style showing the creator and his friend smiling a"
+      ],
+      "motion": {
+        "speed": 6.3,
+        "jitter": 6.48,
+        "verdict": "ok"
+      }
+    },
+    "s3": {
+      "clip": "SelfShots/Working/IMG_5002.MOV",
+      "in": 5.05,
+      "speed": 1.0,
+      "note": "Man sits on stool and opens his laptop on the cafe counter next to his drink and pastry (focused)",
+      "query": "working laptop cafe focused",
+      "alts": [
+        "SelfShots/Working/IMG_5259.MOV @46.0-54.0: Continuously types on his keyboard while pedestrians walk past outside",
+        "SelfShots/Working/IMG_5002.MOV @26.5-34.0: Man rests his hand against his chin while reading his laptop screen an",
+        "SelfShots/Working/IMG_5259.MOV @78.0-85.4: Types intently on the laptop before stopping and looking straight into",
+        "OneOffs/BrooklynNight/IMG_4528 3.MOV @2.8-5.8: Camera pans to focus on long communal tables filled with young profess",
+        "SelfShots/Working/IMG_5002.MOV @7.0-11.5: Man takes a slow sip from his iced latte while staring attentively at "
+      ],
+      "motion": {
+        "speed": 0.1,
+        "jitter": 0.09,
+        "verdict": "ok"
+      }
+    },
+    "s4": {
+      "clip": "SelfShots/Chilling/IMG_4436.MOV",
+      "in": 4.43,
+      "speed": 1.0,
+      "note": "Man walks into frame, sits down on the grass, and lies back onto his backpack (relaxed)",
+      "query": "relaxing outdoors hair sunny",
+      "alts": [
+        "SelfShots/Chilling/IMG_4436.MOV @7.0-15.5: Man lies peacefully on the grass with his hands behind his head restin",
+        "Cinematic/CentralPark/IMG_4416.MOV @0.0-3.6: Handheld rightward pan across Central Park lawn and lake, showing peop",
+        "Cinematic/CentralPark/IMG_4437.MOV @0.0-3.5: Camera pans across the lush green grass and baseball dirt infield unde",
+        "OneOffs/Apartments/FIDI/63WS/IMG_4346.MOV @3.5-7.6: Camera pans right over a stainless steel outdoor kitchen grill to reve",
+        "Cinematic/CentralPark/IMG_4415.MOV @0.0-3.0: Camera pans slowly from the shade across the lake filled with rowboats"
+      ],
+      "motion": {
+        "speed": 0.1,
+        "jitter": 0.03,
+        "verdict": "ok"
+      }
+    },
+    "s5": {
+      "clip": "SelfShots/Walking/1stPerson/IMG_5261.MOV",
+      "in": 13.35,
+      "speed": 1.0,
+      "note": "hand pick",
+      "query": "smiling laughing selfie candid",
+      "motion": {
+        "speed": 14.7,
+        "jitter": 4.56,
+        "verdict": "ok"
+      }
+    },
+    "s6": {
+      "clip": "OneOffs/Eating/IMG_4865.MOV",
+      "in": 5.0,
+      "speed": 1.0,
+      "note": "hand pick",
+      "query": "walking selfie park smiling",
+      "motion": {
+        "speed": 7.4,
+        "jitter": 5.68,
+        "verdict": "ok"
+      }
+    },
+    "s7": {
+      "clip": "SelfShots/ClimbingGym/OnTheWall/10:22:26_Red_x25/IMG_5210.MOV",
+      "in": 6.29,
+      "speed": 1.0,
+      "note": "hand pick",
+      "query": "smiling selfie happy",
+      "motion": {
+        "speed": 0.4,
+        "jitter": 1.77,
+        "verdict": "ok"
+      }
+    },
+    "s8": {
+      "clip": "SelfShots/ClimbingGym/OnTheWall/10:23:26_Red_x8/IMG_5286.MOV",
+      "in": 42.3,
+      "speed": 1.0,
+      "note": "hand pick",
+      "query": "walking away park trees backpack",
+      "motion": {
+        "speed": 0.0,
+        "jitter": 0.01,
+        "verdict": "ok"
+      }
+    },
+    "s9": {
+      "clip": "SelfShots/Subway/IMG_4952.MOV",
+      "in": 7.03,
+      "speed": 1.0,
+      "note": "hand pick",
+      "query": "walking selfie city street sunny",
+      "motion": {
+        "speed": 1.4,
+        "jitter": 1.3,
+        "verdict": "ok"
+      }
+    },
+    "s10": {
+      "clip": "SelfShots/Walking/1stPerson/IMG_4961.MOV",
+      "in": 1.95,
+      "speed": 1.0,
+      "note": "hand pick",
+      "query": "walking towards camera city",
+      "motion": {
+        "speed": 7.7,
+        "jitter": 5.42,
+        "verdict": "ok"
+      }
+    }
+  },
+  "caption": "no just me",
+  "textY": 0.5
+}

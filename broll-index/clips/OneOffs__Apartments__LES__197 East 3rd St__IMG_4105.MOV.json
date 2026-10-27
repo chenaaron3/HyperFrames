@@ -1,0 +1,66 @@
+{
+  "path": "OneOffs/Apartments/LES/197 East 3rd St/IMG_4105.MOV",
+  "folder": "OneOffs/Apartments/LES/197 East 3rd St",
+  "fingerprint": "3ff39be723ee88a6",
+  "width": 1080,
+  "height": 1920,
+  "fps": 29.97,
+  "duration": 3.4,
+  "model": "gemini-3.8-flash",
+  "annotatedAt": "2026-10-24T18:21:10+00:00",
+  "summary": "A handheld walkthrough panning across a compact, newly renovated marble-tiled apartment bathroom featuring a glass shower stall, toilet, and pedestal sink.",
+  "location": "bathroom",
+  "setting": "indoor",
+  "time_of_day": "indoor_unknown",
+  "weather": "n/a",
+  "people": {
+    "count": 1,
+    "creator_visible": true,
+    "description": "Creator's reflection holding the phone is briefly visible in the mirror at the edge of the frame."
+  },
+  "camera": {
+    "style": "pov_first_person",
+    "framing": "wide",
+    "movement": "pan",
+    "angle": "eye level"
+  },
+  "quality": {
+    "usable": true,
+    "stability": "handheld",
+    "exposure": "good",
+    "issues": ""
+  },
+  "mood": [
+    "neutral",
+    "clean",
+    "modern"
+  ],
+  "energy": "medium",
+  "tags": [
+    "bathroom",
+    "apartment tour",
+    "nyc apartment",
+    "real estate",
+    "marble tile",
+    "glass shower",
+    "sink",
+    "renovation",
+    "interior design",
+    "house hunting"
+  ],
+  "moments": [
+    {
+      "start": 0.0,
+      "end": 3.4,
+      "action": "Camera pans steadily across the marble bathroom from the glass shower stall past the toilet to the pedestal sink and window",
+      "emotion": "observational",
+      "good_for": [
+        "apartment hunting in nyc",
+        "renovated bathroom tour",
+        "finding a new apartment",
+        "new beginnings"
+      ],
+      "score": 3
+    }
+  ]
+}

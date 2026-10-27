@@ -1,0 +1,68 @@
+{
+  "path": "OneOffs/Cooking/IMG_4801.MOV",
+  "folder": "OneOffs/Cooking",
+  "fingerprint": "eaeaef287f1cfee3",
+  "width": 1080,
+  "height": 1920,
+  "fps": 30.0,
+  "duration": 2.067,
+  "model": "gemini-3.8-flash",
+  "annotatedAt": "2026-10-24T18:24:36+00:00",
+  "summary": "A young man sits in the passenger seat of a moving car, looking steadily into the camera in a selfie video.",
+  "location": "car interior",
+  "setting": "vehicle",
+  "time_of_day": "day",
+  "weather": "sunny",
+  "people": {
+    "count": 1,
+    "creator_visible": true,
+    "description": "Young East Asian man with dark wavy hair, earrings, wearing a light blue button-up shirt and a seatbelt across his chest."
+  },
+  "camera": {
+    "style": "selfie",
+    "framing": "close",
+    "movement": "handheld",
+    "angle": "eye level"
+  },
+  "quality": {
+    "usable": true,
+    "stability": "steady",
+    "exposure": "good",
+    "issues": ""
+  },
+  "mood": [
+    "calm",
+    "neutral",
+    "contemplative",
+    "casual"
+  ],
+  "energy": "low",
+  "tags": [
+    "car",
+    "passenger",
+    "selfie",
+    "commute",
+    "road trip",
+    "seatbelt",
+    "travel",
+    "wavy hair",
+    "calm",
+    "daytime"
+  ],
+  "moments": [
+    {
+      "start": 0.0,
+      "end": 2.07,
+      "action": "Creator holds phone at eye level, looking calmly into the lens as scenery passes through the window behind him",
+      "emotion": "calm",
+      "good_for": [
+        "passenger princess",
+        "on my way",
+        "commute thoughts",
+        "car ride",
+        "headed home"
+      ],
+      "score": 4
+    }
+  ]
+}

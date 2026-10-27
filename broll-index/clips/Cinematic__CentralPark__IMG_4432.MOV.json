@@ -1,0 +1,72 @@
+{
+  "path": "Cinematic/CentralPark/IMG_4432.MOV",
+  "folder": "Cinematic/CentralPark",
+  "fingerprint": "d4e6b9dec366639d",
+  "width": 1080,
+  "height": 1920,
+  "fps": 30.0,
+  "duration": 2.733,
+  "model": "gemini-3.8-flash",
+  "annotatedAt": "2026-10-24T18:18:06+00:00",
+  "summary": "A smooth handheld shot moving along a sun-dappled paved pathway lined with rustic wooden fences and lush green trees in Central Park.",
+  "location": "park",
+  "setting": "outdoor",
+  "time_of_day": "day",
+  "weather": "sunny",
+  "people": {
+    "count": 0,
+    "creator_visible": false,
+    "description": "No people visible"
+  },
+  "camera": {
+    "style": "handheld_cinematic",
+    "framing": "wide",
+    "movement": "pan",
+    "angle": "eye level"
+  },
+  "quality": {
+    "usable": true,
+    "stability": "steady",
+    "exposure": "good",
+    "issues": ""
+  },
+  "mood": [
+    "peaceful",
+    "serene",
+    "calm",
+    "refreshing",
+    "grounded"
+  ],
+  "energy": "low",
+  "tags": [
+    "central park",
+    "park",
+    "trees",
+    "sunlight",
+    "sun flare",
+    "wooden fence",
+    "path",
+    "walking path",
+    "greenery",
+    "nature walk",
+    "summer",
+    "scenic"
+  ],
+  "moments": [
+    {
+      "start": 0.0,
+      "end": 2.73,
+      "action": "Camera slowly glides along a paved walking path bordered by rustic wooden fences under a lush, sunlit tree canopy",
+      "emotion": "calm",
+      "good_for": [
+        "mental health walks",
+        "peace of mind",
+        "romanticizing life",
+        "nature in the city",
+        "morning walks",
+        "recharging"
+      ],
+      "score": 4
+    }
+  ]
+}

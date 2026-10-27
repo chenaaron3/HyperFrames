@@ -1,0 +1,109 @@
+{
+  "path": "SelfShots/ClimbingGym/OnTheWall/10:18:26_Orange_x53/IMG_5118.MOV",
+  "folder": "SelfShots/ClimbingGym/OnTheWall/10:18:26_Orange_x53",
+  "fingerprint": "b36f8d727f84a354",
+  "width": 1080,
+  "height": 1920,
+  "fps": 30.0,
+  "duration": 70.34,
+  "model": "gemini-3.8-flash",
+  "annotatedAt": "2026-10-24T18:42:36+00:00",
+  "summary": "A young male climber works through an athletic, steep overhanging bouldering problem on a colorful climbing gym wall before dropping safely onto the padded floor.",
+  "location": "climbing gym",
+  "setting": "indoor",
+  "time_of_day": "indoor_unknown",
+  "weather": "n/a",
+  "people": {
+    "count": 2,
+    "creator_visible": true,
+    "description": "A young man wearing a white tank top, grey loose pants, and climbing shoes climbing an overhung wall; another young man briefly enters frame at the end."
+  },
+  "camera": {
+    "style": "tripod_static",
+    "framing": "wide",
+    "movement": "static",
+    "angle": "eye level"
+  },
+  "quality": {
+    "usable": true,
+    "stability": "locked",
+    "exposure": "good",
+    "issues": ""
+  },
+  "mood": [
+    "athletic",
+    "focused",
+    "determined",
+    "persistent",
+    "strong"
+  ],
+  "energy": "medium",
+  "tags": [
+    "bouldering",
+    "rock climbing",
+    "climbing gym",
+    "workout",
+    "fitness",
+    "training",
+    "overhang",
+    "strength",
+    "chalk",
+    "holds",
+    "indoor sports",
+    "active lifestyle"
+  ],
+  "moments": [
+    {
+      "start": 4.5,
+      "end": 17.5,
+      "action": "Climber approaches the wall, establishes hand and foot holds, and begins ascending the steep wall",
+      "emotion": "focused",
+      "good_for": [
+        "starting a new challenge",
+        "lock in",
+        "fitness routine",
+        "putting in the work"
+      ],
+      "score": 4
+    },
+    {
+      "start": 18.0,
+      "end": 31.0,
+      "action": "Climber moves through the middle section of the overhang, adjusting feet and pulling up with core tension",
+      "emotion": "determined",
+      "good_for": [
+        "trust the process",
+        "pushing through the hard part",
+        "strength training",
+        "staying focused"
+      ],
+      "score": 4
+    },
+    {
+      "start": 36.0,
+      "end": 49.0,
+      "action": "Climber stretches horizontally under the severe roof section, maintaining full body tension",
+      "emotion": "intense concentration",
+      "good_for": [
+        "holding on when it's hard",
+        "core strength",
+        "relentless effort",
+        "gym progress"
+      ],
+      "score": 5
+    },
+    {
+      "start": 52.0,
+      "end": 66.0,
+      "action": "Climber executes powerful dyno moves before dropping down to the padded floor",
+      "emotion": "relieved",
+      "good_for": [
+        "giving it everything",
+        "trying your hardest",
+        "safe landing",
+        "workout completed"
+      ],
+      "score": 4
+    }
+  ]
+}

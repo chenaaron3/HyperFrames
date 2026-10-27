@@ -1,0 +1,139 @@
+{
+  "id": "opinion-11",
+  "name": "Today is someone's last day on Earth",
+  "reference": "references/viral-formats/opinion-11.mp4",
+  "source": "/Users/aaron/Downloads/100 Viral Formats (Format Book)/Opinion/#11/#11.mp4",
+  "duration": 12.033,
+  "music": {
+    "from": "reference",
+    "title": "Disparate Youth Santigold"
+  },
+  "text": {
+    "y": 0.734,
+    "size": 46,
+    "weight": 700,
+    "lineHeight": 1.4,
+    "maxWidth": 900,
+    "style": "outline"
+  },
+  "lines": [
+    {
+      "id": "l1",
+      "start": 0.0,
+      "end": 4.867,
+      "ref": "Today is someone's last day on Earth",
+      "y": 0.734,
+      "measuredSize": 56,
+      "style": "plain_white_shadow",
+      "guide": ""
+    },
+    {
+      "id": "l2",
+      "start": 4.867,
+      "end": 6.467,
+      "ref": "Do it scared.",
+      "y": 0.425,
+      "measuredSize": 43,
+      "style": "plain_white_shadow",
+      "guide": ""
+    },
+    {
+      "id": "l3",
+      "start": 6.467,
+      "end": 8.033,
+      "ref": "Do it alone.",
+      "y": 0.425,
+      "measuredSize": 43,
+      "style": "plain_white_shadow",
+      "guide": ""
+    },
+    {
+      "id": "l4",
+      "start": 8.033,
+      "end": 9.567,
+      "ref": "Do it unsure",
+      "y": 0.425,
+      "measuredSize": 43,
+      "style": "plain_white_shadow",
+      "guide": ""
+    },
+    {
+      "id": "l5",
+      "start": 9.567,
+      "end": 11.167,
+      "ref": "Do it broke.",
+      "y": 0.424,
+      "measuredSize": 45,
+      "style": "plain_white_shadow",
+      "guide": ""
+    },
+    {
+      "id": "l6",
+      "start": 11.167,
+      "end": 12.033,
+      "ref": "Do it anyway.",
+      "y": 0.421,
+      "measuredSize": 88,
+      "style": "plain_white_shadow",
+      "guide": ""
+    }
+  ],
+  "shots": [
+    {
+      "id": "s1",
+      "start": 0.0,
+      "end": 4.867,
+      "brief": "pensive or neutral selfie sitting on public transit or looking out a window (ref: Young woman wearing over-ear headphones sitting on a moving train/bus, looking into camera with subtle contemplation and a slight smile at the end.; selfie)",
+      "line": "l1"
+    },
+    {
+      "id": "s2",
+      "start": 4.867,
+      "end": 6.467,
+      "brief": "doing something physically challenging, thrilling, or slightly intimidating (ref: Woman sandboarding down desert sand dunes, losing balance and running down.; filmed by friend)",
+      "line": "l2"
+    },
+    {
+      "id": "s3",
+      "start": 6.467,
+      "end": 8.033,
+      "brief": "walking outdoors alone, smiling selfie (ref: Woman walking down a quiet street alone with a backpack, smiling at camera.; selfie)",
+      "line": "l3"
+    },
+    {
+      "id": "s4",
+      "start": 8.033,
+      "end": 9.567,
+      "brief": "looking hesitant, chilly, or uncertain during an outdoor activity (ref: Woman on a foggy mountain summit holding a walking stick, looking nervous and cold.; filmed by friend)",
+      "line": "l4"
+    },
+    {
+      "id": "s5",
+      "start": 9.567,
+      "end": 11.167,
+      "brief": "budget travel, moving, or improvised transit moment (ref: Riding on the back of a moped carrying luggage between two passengers.; selfie)",
+      "line": "l5"
+    },
+    {
+      "id": "s6",
+      "start": 11.167,
+      "end": 12.033,
+      "brief": "running freely away from camera down an open road or park path (ref: Woman running barefoot away from camera down an open palm-tree-lined road with arms spread.; tripod)",
+      "line": "l6"
+    }
+  ],
+  "audit": {
+    "kind": "broll_with_text",
+    "creatorSpeaks": false,
+    "audio": "music only",
+    "special": [],
+    "reusable": true,
+    "notes": "Extremely easy to recreate with existing lifestyle and NYC b-roll. Open with a contemplative subway selfie for the hook, followed by 5 quick cuts matching the prompts: climbing gym/bouldering fall ('Do it scared'), solo city walk ('Do it alone'), working late or learning something new ('Do it unsure'), budget meal/cooking at home ('Do it broke'), and running through Central Park or crossing Brooklyn Bridge ('Do it anyway').",
+    "summary": "A viral motivational hook ('Today is someone's last day on Earth') set over a transit selfie, followed by quick cuts of travel and adventure b-roll paired with punchy 'Do it...' affirmations."
+  },
+  "caption": {
+    "ref": "",
+    "guide": ""
+  },
+  "draft": true
+}

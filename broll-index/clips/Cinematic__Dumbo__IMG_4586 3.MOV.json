@@ -1,0 +1,83 @@
+{
+  "path": "Cinematic/Dumbo/IMG_4586 3.MOV",
+  "folder": "Cinematic/Dumbo",
+  "fingerprint": "03cb6301f331a6e4",
+  "width": 1080,
+  "height": 1920,
+  "fps": 30.0,
+  "duration": 10.533,
+  "model": "gemini-3.8-flash",
+  "annotatedAt": "2026-10-24T18:19:44+00:00",
+  "summary": "Nighttime scenic view of the illuminated Brooklyn Bridge and Lower Manhattan skyline across the East River, with boats passing by in the dark water.",
+  "location": "waterfront",
+  "setting": "outdoor",
+  "time_of_day": "night",
+  "weather": "clear",
+  "people": {
+    "count": 0,
+    "creator_visible": false,
+    "description": "No people visible"
+  },
+  "camera": {
+    "style": "handheld_cinematic",
+    "framing": "wide",
+    "movement": "static",
+    "angle": "eye level"
+  },
+  "quality": {
+    "usable": true,
+    "stability": "steady",
+    "exposure": "good",
+    "issues": ""
+  },
+  "mood": [
+    "peaceful",
+    "cinematic",
+    "dreamy",
+    "reflective",
+    "serene"
+  ],
+  "energy": "low",
+  "tags": [
+    "brooklyn bridge",
+    "manhattan skyline",
+    "new york city",
+    "nyc",
+    "dumbo",
+    "east river",
+    "night cityscape",
+    "city lights",
+    "travel aesthetic",
+    "skyline",
+    "ferry",
+    "urban night"
+  ],
+  "moments": [
+    {
+      "start": 0.0,
+      "end": 5.5,
+      "action": "Static wide view of the illuminated Brooklyn Bridge and glittering Lower Manhattan skyline at night with gentle river ripples.",
+      "emotion": "peaceful",
+      "good_for": [
+        "city that never sleeps",
+        "late night thoughts",
+        "manifesting nyc life",
+        "night strolls in new york"
+      ],
+      "score": 4
+    },
+    {
+      "start": 5.5,
+      "end": 10.53,
+      "action": "A ferry boat cruises along the East River in front of the illuminated Brooklyn Bridge and towering skyscrapers.",
+      "emotion": "calm",
+      "good_for": [
+        "views like this",
+        "falling in love with the city",
+        "late night b-roll",
+        "peace in the chaos"
+      ],
+      "score": 4
+    }
+  ]
+}

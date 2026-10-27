@@ -1,0 +1,68 @@
+{
+  "path": "Cinematic/Chinatown/IMG_4794.mov",
+  "folder": "Cinematic/Chinatown",
+  "fingerprint": "dbe8cb1d3687d2ac",
+  "width": 1080,
+  "height": 1920,
+  "fps": 30.0,
+  "duration": 7.434,
+  "model": "gemini-3.8-flash",
+  "annotatedAt": "2026-10-24T18:19:40+00:00",
+  "summary": "A documentary-style view from the sidewalk looking into a traditional Chinatown dried goods and herbal grocery shop with customers and clerks going about their day.",
+  "location": "chinatown grocery store",
+  "setting": "mixed",
+  "time_of_day": "day",
+  "weather": "n/a",
+  "people": {
+    "count": 3,
+    "creator_visible": false,
+    "description": "An older male customer wearing a green jacket, vest, and cap browsing goods, alongside store clerks working behind the counter."
+  },
+  "camera": {
+    "style": "handheld_cinematic",
+    "framing": "medium",
+    "movement": "static",
+    "angle": "eye level"
+  },
+  "quality": {
+    "usable": true,
+    "stability": "steady",
+    "exposure": "good",
+    "issues": "slight lens flare and glare along the top of frame"
+  },
+  "mood": [
+    "nostalgic",
+    "calm",
+    "observant",
+    "authentic"
+  ],
+  "energy": "low",
+  "tags": [
+    "chinatown",
+    "asian market",
+    "grocery store",
+    "dried goods",
+    "street scene",
+    "city life",
+    "documentary",
+    "neighborhood",
+    "local business",
+    "urban culture"
+  ],
+  "moments": [
+    {
+      "start": 0.0,
+      "end": 5.5,
+      "action": "A customer browses items outside the open storefront while clerks organize shelves behind boxes of dried goods",
+      "emotion": "calm",
+      "good_for": [
+        "exploring chinatown",
+        "city hidden gems",
+        "sunday morning errands",
+        "cultural heritage",
+        "slow living in the city"
+      ],
+      "score": 4
+    }
+  ]
+}

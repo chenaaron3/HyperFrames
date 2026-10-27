@@ -1,0 +1,69 @@
+{
+  "path": "OneOffs/RainyDayArmanRishi/IMG_4634.MOV",
+  "folder": "OneOffs/RainyDayArmanRishi",
+  "fingerprint": "e4139e68f495dfd1",
+  "width": 1080,
+  "height": 1920,
+  "fps": 30.0,
+  "duration": 2.098,
+  "model": "gemini-3.8-flash",
+  "annotatedAt": "2026-10-24T18:36:22+00:00",
+  "summary": "Exterior shot of Rosecrans cafe and wine bar window on Greenwich Avenue during a rainy day.",
+  "location": "city street",
+  "setting": "outdoor",
+  "time_of_day": "day",
+  "weather": "rain",
+  "people": {
+    "count": 0,
+    "creator_visible": false,
+    "description": "No people clearly visible, only faint reflections in the glass."
+  },
+  "camera": {
+    "style": "pov_first_person",
+    "framing": "medium",
+    "movement": "static",
+    "angle": "eye level"
+  },
+  "quality": {
+    "usable": true,
+    "stability": "steady",
+    "exposure": "good",
+    "issues": "Lens flare from interior cafe lights reflection."
+  },
+  "mood": [
+    "cozy",
+    "moody",
+    "aesthetic",
+    "urban"
+  ],
+  "energy": "low",
+  "tags": [
+    "cafe",
+    "rosecrans",
+    "greenwich village",
+    "nyc",
+    "storefront",
+    "rainy day",
+    "window",
+    "wine bar",
+    "new york city",
+    "coffee shop",
+    "cozy vibes"
+  ],
+  "moments": [
+    {
+      "start": 0.0,
+      "end": 2.1,
+      "action": "Steady shot of the Rosecrans cafe glass window with reflections of city buildings and rain outside.",
+      "emotion": "calm",
+      "good_for": [
+        "rainy day in nyc",
+        "favorite cafe spot",
+        "coffee run",
+        "cozy afternoon",
+        "city aesthetic"
+      ],
+      "score": 3
+    }
+  ]
+}

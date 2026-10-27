@@ -1,0 +1,72 @@
+{
+  "path": "Cinematic/IMG_4602.MOV",
+  "folder": "Cinematic",
+  "fingerprint": "7779ee8fa43565a2",
+  "width": 1080,
+  "height": 1920,
+  "fps": 30.0,
+  "duration": 4.667,
+  "model": "gemini-3.8-flash",
+  "annotatedAt": "2026-10-24T18:19:44+00:00",
+  "summary": "A rainy street intersection in New York City with wet asphalt, traffic, and an MTA bus driving past tall glass skyscrapers.",
+  "location": "city street",
+  "setting": "outdoor",
+  "time_of_day": "day",
+  "weather": "rain",
+  "people": {
+    "count": 3,
+    "creator_visible": false,
+    "description": "Pedestrians and a traffic guard in high-visibility outerwear crossing the wet street intersection in the background"
+  },
+  "camera": {
+    "style": "handheld_cinematic",
+    "framing": "wide",
+    "movement": "tracking",
+    "angle": "eye level"
+  },
+  "quality": {
+    "usable": true,
+    "stability": "steady",
+    "exposure": "good",
+    "issues": ""
+  },
+  "mood": [
+    "moody",
+    "urban",
+    "melancholy",
+    "atmospheric",
+    "gloomy"
+  ],
+  "energy": "medium",
+  "tags": [
+    "new york city",
+    "nyc",
+    "rain",
+    "rainy day",
+    "wet street",
+    "city bus",
+    "crosswalk",
+    "skyscrapers",
+    "traffic",
+    "yellow cab",
+    "commute",
+    "urban aesthetic",
+    "city life"
+  ],
+  "moments": [
+    {
+      "start": 0.0,
+      "end": 4.67,
+      "action": "Handheld view of a rain-soaked Manhattan intersection as an MTA bus turns and drives across the crosswalk past glass skyscrapers",
+      "emotion": "moody, cinematic, contemplative",
+      "good_for": [
+        "rainy day in new york",
+        "commute vibes",
+        "city life aesthetic",
+        "fall in the city",
+        "gloomy day thoughts"
+      ],
+      "score": 4
+    }
+  ]
+}

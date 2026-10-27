@@ -1,0 +1,127 @@
+{
+  "path": "SelfShots/ClimbingGym/OnTheWall/10:18:26_Orange_x53/IMG_5133.MOV",
+  "folder": "SelfShots/ClimbingGym/OnTheWall/10:18:26_Orange_x53",
+  "fingerprint": "04579651ea1cec61",
+  "width": 1080,
+  "height": 1920,
+  "fps": 30.0,
+  "duration": 85.673,
+  "model": "gemini-3.8-flash",
+  "annotatedAt": "2026-10-24T18:44:52+00:00",
+  "summary": "A climber works through a challenging route on an indoor bouldering wall before falling off near the top.",
+  "location": "climbing gym",
+  "setting": "indoor",
+  "time_of_day": "indoor_unknown",
+  "weather": "n/a",
+  "people": {
+    "count": 1,
+    "creator_visible": true,
+    "description": "Young male climber with dark hair, wearing a grey sleeveless tank top and loose grey pants with climbing shoes."
+  },
+  "camera": {
+    "style": "tripod_static",
+    "framing": "wide",
+    "movement": "static",
+    "angle": "low angle looking up"
+  },
+  "quality": {
+    "usable": true,
+    "stability": "locked",
+    "exposure": "good",
+    "issues": ""
+  },
+  "mood": [
+    "focused",
+    "determined",
+    "athletic",
+    "challenging"
+  ],
+  "energy": "medium",
+  "tags": [
+    "bouldering",
+    "climbing",
+    "climbing gym",
+    "rock climbing",
+    "fitness",
+    "workout",
+    "training",
+    "problem solving",
+    "bouldering wall",
+    "athletic",
+    "perseverance"
+  ],
+  "moments": [
+    {
+      "start": 0.0,
+      "end": 7.0,
+      "action": "Climber approaches the wall and places his hands and feet onto the starting bouldering holds",
+      "emotion": "focused",
+      "good_for": [
+        "starting a new project",
+        "first attempt",
+        "getting to work"
+      ],
+      "score": 3
+    },
+    {
+      "start": 10.0,
+      "end": 18.0,
+      "action": "Climber extends his body across the lower volumes and reaches up to secure a solid hold",
+      "emotion": "determined",
+      "good_for": [
+        "reaching further",
+        "trust the process",
+        "building strength"
+      ],
+      "score": 4
+    },
+    {
+      "start": 26.0,
+      "end": 34.0,
+      "action": "Climber pulls up and shifts his feet carefully onto adjacent volume holds",
+      "emotion": "intense concentration",
+      "good_for": [
+        "one step at a time",
+        "finding your balance",
+        "daily grind"
+      ],
+      "score": 4
+    },
+    {
+      "start": 44.0,
+      "end": 52.0,
+      "action": "Climber matches hands on a central hold and compresses his body flat against the wall",
+      "emotion": "controlled effort",
+      "good_for": [
+        "holding on",
+        "under pressure",
+        "commitment"
+      ],
+      "score": 4
+    },
+    {
+      "start": 64.0,
+      "end": 72.0,
+      "action": "Climber pauses on the wall to read the next move and positions feet on small footholds",
+      "emotion": "calculating",
+      "good_for": [
+        "thinking through the next move",
+        "problem solving",
+        "patience"
+      ],
+      "score": 3
+    },
+    {
+      "start": 72.0,
+      "end": 82.0,
+      "action": "Climber reaches up toward high holds, fights for balance, and slips off, falling safely to the crash pad",
+      "emotion": "exhausted defeat",
+      "good_for": [
+        "trying your hardest",
+        "falling short",
+        "fail until you succeed"
+      ],
+      "score": 5
+    }
+  ]
+}

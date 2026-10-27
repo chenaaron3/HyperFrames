@@ -1,0 +1,83 @@
+{
+  "path": "OneOffs/Apartments/FIDI/63WS/IMG_4354.MOV",
+  "folder": "OneOffs/Apartments/FIDI/63WS",
+  "fingerprint": "e16d09e54edef203",
+  "width": 1080,
+  "height": 1920,
+  "fps": 30.0,
+  "duration": 4.8,
+  "model": "gemini-3.8-flash",
+  "annotatedAt": "2026-10-24T18:20:37+00:00",
+  "summary": "Handheld panning shot revealing a moody, luxury lounge area featuring dark arched built-in bookshelves and a pool table.",
+  "location": "lounge",
+  "setting": "indoor",
+  "time_of_day": "indoor_unknown",
+  "weather": "n/a",
+  "people": {
+    "count": 0,
+    "creator_visible": false,
+    "description": "No people visible in the shot"
+  },
+  "camera": {
+    "style": "handheld_cinematic",
+    "framing": "medium",
+    "movement": "pan",
+    "angle": "eye level"
+  },
+  "quality": {
+    "usable": true,
+    "stability": "steady",
+    "exposure": "good",
+    "issues": ""
+  },
+  "mood": [
+    "luxurious",
+    "moody",
+    "sophisticated",
+    "calm",
+    "aesthetic"
+  ],
+  "energy": "low",
+  "tags": [
+    "pool table",
+    "billiards",
+    "bookshelf",
+    "interior design",
+    "apartment amenities",
+    "lounge",
+    "dark aesthetic",
+    "luxury living",
+    "game room",
+    "man cave",
+    "moody interior",
+    "nyc apartment"
+  ],
+  "moments": [
+    {
+      "start": 0.0,
+      "end": 2.5,
+      "action": "Camera slowly pans across dark built-in arched bookshelves decorated with books and sculptures",
+      "emotion": "calm",
+      "good_for": [
+        "apartment hunting",
+        "aesthetic interiors",
+        "dream home vibes",
+        "luxury living"
+      ],
+      "score": 3
+    },
+    {
+      "start": 2.0,
+      "end": 4.8,
+      "action": "Camera pans left to fully reveal a luxury wooden pool table with racked colorful billiard balls",
+      "emotion": "sophisticated",
+      "good_for": [
+        "building amenities",
+        "game night",
+        "luxury apartment tour",
+        "downtown living"
+      ],
+      "score": 4
+    }
+  ]
+}

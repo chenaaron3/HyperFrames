@@ -1,0 +1,66 @@
+{
+  "path": "OneOffs/BrooklynNight/IMG_4508 3.MOV",
+  "folder": "OneOffs/BrooklynNight",
+  "fingerprint": "0521de6093a75f41",
+  "width": 1080,
+  "height": 1920,
+  "fps": 30.0,
+  "duration": 1.532,
+  "model": "gemini-3.8-flash",
+  "annotatedAt": "2026-10-24T18:22:28+00:00",
+  "summary": "A young man records a quick selfie video while walking across a city crosswalk on a sunny day.",
+  "location": "city street",
+  "setting": "outdoor",
+  "time_of_day": "day",
+  "weather": "sunny",
+  "people": {
+    "count": 1,
+    "creator_visible": true,
+    "description": "Young Asian man with wavy black hair, brown knit polo shirt, silver chain, white strap across chest, and AirPods."
+  },
+  "camera": {
+    "style": "selfie",
+    "framing": "close",
+    "movement": "walking",
+    "angle": "eye level"
+  },
+  "quality": {
+    "usable": true,
+    "stability": "handheld",
+    "exposure": "good",
+    "issues": ""
+  },
+  "mood": [
+    "casual",
+    "confident",
+    "urban"
+  ],
+  "energy": "medium",
+  "tags": [
+    "nyc",
+    "crosswalk",
+    "city walk",
+    "walking selfie",
+    "airpods",
+    "manhattan",
+    "urban commute",
+    "casual fit",
+    "daytime",
+    "street style"
+  ],
+  "moments": [
+    {
+      "start": 0.0,
+      "end": 1.53,
+      "action": "Creator walks across a city street crosswalk holding the camera in front of him, glancing slightly off-center and looking at the lens.",
+      "emotion": "calm",
+      "good_for": [
+        "city walks",
+        "romanticizing my commute",
+        "solo in the city",
+        "daily vlog transition"
+      ],
+      "score": 3
+    }
+  ]
+}

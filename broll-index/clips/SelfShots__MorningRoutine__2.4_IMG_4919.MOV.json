@@ -1,0 +1,94 @@
+{
+  "path": "SelfShots/MorningRoutine/2.4_IMG_4919.MOV",
+  "folder": "SelfShots/MorningRoutine",
+  "fingerprint": "7e39cd3bc9c21ec2",
+  "width": 1080,
+  "height": 1920,
+  "fps": 30.0,
+  "duration": 9.6,
+  "model": "gemini-3.8-flash",
+  "annotatedAt": "2026-10-24T18:59:56+00:00",
+  "summary": "First-person view of sliding freshly toasted folded breakfast wraps out of a black skillet onto a white ceramic plate.",
+  "location": "kitchen",
+  "setting": "indoor",
+  "time_of_day": "day",
+  "weather": "n/a",
+  "people": {
+    "count": 1,
+    "creator_visible": false,
+    "description": "Creator's hand wearing a silver bracelet holding the plate."
+  },
+  "camera": {
+    "style": "pov_first_person",
+    "framing": "medium",
+    "movement": "handheld_cinematic",
+    "angle": "high angle"
+  },
+  "quality": {
+    "usable": true,
+    "stability": "steady",
+    "exposure": "good",
+    "issues": ""
+  },
+  "mood": [
+    "cozy",
+    "satisfying",
+    "domestic",
+    "peaceful"
+  ],
+  "energy": "low",
+  "tags": [
+    "cooking",
+    "breakfast",
+    "food",
+    "skillet",
+    "pan",
+    "crepe",
+    "wrap",
+    "burrito",
+    "stove",
+    "kitchen",
+    "morning routine",
+    "homemade",
+    "plating"
+  ],
+  "moments": [
+    {
+      "start": 0.0,
+      "end": 2.5,
+      "action": "Toasted folded wraps sizzling in a dark skillet on the stove",
+      "emotion": "anticipation",
+      "good_for": [
+        "morning routine",
+        "making breakfast",
+        "food on my plate",
+        "slow mornings"
+      ],
+      "score": 4
+    },
+    {
+      "start": 2.5,
+      "end": 6.5,
+      "action": "Tilting the hot pan and sliding the toasted wraps smoothly onto a white plate",
+      "emotion": "satisfaction",
+      "good_for": [
+        "satisfying breakfast",
+        "cooking at home",
+        "nourishing myself",
+        "food is ready"
+      ],
+      "score": 5
+    },
+    {
+      "start": 6.5,
+      "end": 9.6,
+      "action": "Empty pan set back down onto the gas stovetop grate",
+      "emotion": "calm",
+      "good_for": [
+        "cooking done",
+        "kitchen b-roll"
+      ],
+      "score": 3
+    }
+  ]
+}

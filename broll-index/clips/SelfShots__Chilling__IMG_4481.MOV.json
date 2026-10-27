@@ -1,0 +1,111 @@
+{
+  "path": "SelfShots/Chilling/IMG_4481.MOV",
+  "folder": "SelfShots/Chilling",
+  "fingerprint": "13b2152b3d45cc20",
+  "width": 1080,
+  "height": 1920,
+  "fps": 30.0,
+  "duration": 44.637,
+  "model": "gemini-3.8-flash",
+  "annotatedAt": "2026-10-24T18:38:40+00:00",
+  "summary": "A young man walks onto a large rock outcrop in an urban park, sits down to contemplate the city skyline and greenery, and then walks back.",
+  "location": "park",
+  "setting": "outdoor",
+  "time_of_day": "day",
+  "weather": "sunny",
+  "people": {
+    "count": 1,
+    "creator_visible": true,
+    "description": "A young East Asian man wearing a light blue short-sleeved button-up shirt, baggy light-wash jeans, and white sneakers."
+  },
+  "camera": {
+    "style": "tripod_static",
+    "framing": "wide",
+    "movement": "static",
+    "angle": "low angle looking up"
+  },
+  "quality": {
+    "usable": true,
+    "stability": "locked",
+    "exposure": "good",
+    "issues": ""
+  },
+  "mood": [
+    "peaceful",
+    "reflective",
+    "calm",
+    "serene",
+    "solitary"
+  ],
+  "energy": "low",
+  "tags": [
+    "central park",
+    "city park",
+    "skyline",
+    "skyscrapers",
+    "rock outcrop",
+    "sitting",
+    "chilling",
+    "peaceful",
+    "alone time",
+    "mindfulness",
+    "summer",
+    "urban nature",
+    "contemplation",
+    "new york city"
+  ],
+  "moments": [
+    {
+      "start": 2.0,
+      "end": 7.5,
+      "action": "The man walks into the frame, steps up onto the large rock, and sits down looking out at the view",
+      "emotion": "relaxed",
+      "good_for": [
+        "finding quiet in the noise",
+        "taking a breather",
+        "solo date in the city",
+        "peace of mind"
+      ],
+      "score": 4
+    },
+    {
+      "start": 7.5,
+      "end": 15.0,
+      "action": "The man sits still on the rock with his back to the camera, looking out over the trees and skyscrapers",
+      "emotion": "calm",
+      "good_for": [
+        "taking it all in",
+        "city views",
+        "gratitude for simple moments",
+        "living in the present"
+      ],
+      "score": 5
+    },
+    {
+      "start": 21.0,
+      "end": 28.0,
+      "action": "The man leans back on his hands while sitting on the rock, enjoying the afternoon breeze and scenery",
+      "emotion": "serene",
+      "good_for": [
+        "unwinding after a long week",
+        "romanticizing city life",
+        "mental health day",
+        "peace and quiet"
+      ],
+      "score": 4
+    },
+    {
+      "start": 38.5,
+      "end": 42.5,
+      "action": "The man stands up from the rock and walks back toward and past the camera",
+      "emotion": "content",
+      "good_for": [
+        "time to head home",
+        "recharged",
+        "moving on",
+        "leaving the park"
+      ],
+      "score": 3
+    }
+  ]
+}

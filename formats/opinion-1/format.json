@@ -1,0 +1,173 @@
+{
+  "id": "opinion-1",
+  "name": "if you don't party how do you have fun?",
+  "reference": "references/viral-formats/opinion-1.mp4",
+  "source": "/Users/aaron/Downloads/100 Viral Formats (Format Book)/Opinion/#1/#1.mp4",
+  "duration": 8.4,
+  "music": {
+    "from": "reference",
+    "title": "I have no idea lol but here’s the file:"
+  },
+  "text": {
+    "y": 0.36,
+    "size": 46,
+    "weight": 700,
+    "lineHeight": 1.4,
+    "maxWidth": 900,
+    "style": "outline"
+  },
+  "lines": [
+    {
+      "id": "l1",
+      "start": 0.0,
+      "end": 3.8,
+      "ref": "if you don't party\nhow do you have fun?",
+      "y": 0.36,
+      "measuredSize": 24,
+      "style": "plain_white_shadow",
+      "guide": ""
+    },
+    {
+      "id": "l2",
+      "start": 3.8,
+      "end": 4.7,
+      "ref": "time with God",
+      "y": 0.431,
+      "measuredSize": 26,
+      "style": "plain_white_shadow",
+      "guide": ""
+    },
+    {
+      "id": "l3",
+      "start": 4.7,
+      "end": 5.6,
+      "ref": "deep conversations",
+      "y": 0.432,
+      "measuredSize": 21,
+      "style": "plain_white_shadow",
+      "guide": ""
+    },
+    {
+      "id": "l4",
+      "start": 5.6,
+      "end": 6.5,
+      "ref": "inventing",
+      "y": 0.361,
+      "measuredSize": 36,
+      "style": "plain_white_shadow",
+      "guide": ""
+    },
+    {
+      "id": "l5",
+      "start": 6.5,
+      "end": 7.0,
+      "ref": "training",
+      "y": 0.44,
+      "measuredSize": null,
+      "style": "plain_white_shadow",
+      "guide": ""
+    },
+    {
+      "id": "l6",
+      "start": 7.0,
+      "end": 7.467,
+      "ref": "family time",
+      "y": 0.426,
+      "measuredSize": 52,
+      "style": "plain_white_shadow",
+      "guide": ""
+    },
+    {
+      "id": "l7",
+      "start": 7.467,
+      "end": 7.933,
+      "ref": "building a future",
+      "y": 0.44,
+      "measuredSize": null,
+      "style": "plain_white_shadow",
+      "guide": ""
+    },
+    {
+      "id": "l8",
+      "start": 7.933,
+      "end": 8.4,
+      "ref": "alone-time",
+      "y": 0.44,
+      "measuredSize": 28,
+      "style": "plain_white_shadow",
+      "guide": ""
+    }
+  ],
+  "shots": [
+    {
+      "id": "s1",
+      "start": 0.0,
+      "end": 3.8,
+      "brief": "standing by apartment window overlooking city at night (ref: Man standing in an apartment beside a high-rise window at night, looking at his phone and out at city lights.; tripod)",
+      "line": "l1"
+    },
+    {
+      "id": "s2",
+      "start": 3.8,
+      "end": 4.7,
+      "brief": "reading a book or studying at desk (ref: Close/medium shot of creator sitting in a chair reading a study Bible.; tripod)",
+      "line": "l2"
+    },
+    {
+      "id": "s3",
+      "start": 4.7,
+      "end": 5.6,
+      "brief": "chatting and laughing with a friend (ref: Creator sitting on an exercise mat talking and laughing with a friend.; tripod)",
+      "line": "l3"
+    },
+    {
+      "id": "s4",
+      "start": 5.6,
+      "end": 6.5,
+      "brief": "collaborating or working on a project with peers (ref: Creator working on a handheld electronic device with collaborators.; filmed by friend)",
+      "line": "l4"
+    },
+    {
+      "id": "s5",
+      "start": 6.5,
+      "end": 7.0,
+      "brief": "lifting weights or working out at the gym (ref: Side profile of creator doing bicep dumbbell curls in an empty gym.; tripod)",
+      "line": "l5"
+    },
+    {
+      "id": "s6",
+      "start": 7.0,
+      "end": 7.467,
+      "brief": "spending time at home or decorating (ref: Creator decorating a lighted Christmas tree at home.; filmed by friend)",
+      "line": "l6"
+    },
+    {
+      "id": "s7",
+      "start": 7.467,
+      "end": 7.933,
+      "brief": "working late on laptop/computer setup (ref: Creator typing on a desktop keyboard in a dark room with dual monitor setup.; tripod)",
+      "line": "l7"
+    },
+    {
+      "id": "s8",
+      "start": 7.933,
+      "end": 8.4,
+      "brief": "sitting quietly alone in a quiet room or gym (ref: Wide shot of creator sitting alone on a workout mat in a quiet studio.; tripod)",
+      "line": "l8"
+    }
+  ],
+  "audit": {
+    "kind": "broll_with_text",
+    "creatorSpeaks": false,
+    "audio": "music only",
+    "special": [],
+    "reusable": true,
+    "notes": "Perfect match for a standard b-roll library. Simply start with an intro shot answering the question hook ('If you don't party how do you have fun?'), followed by rapid 0.5s-1.0s cuts of everyday activities (climbing gym, working on laptop, coffee, reading, walking in NYC, hanging out with friends).",
+    "summary": "A fast-paced montage answering the common question 'if you don't party how do you have fun?' by highlighting wholesome, productive, and fulfilling lifestyle alternatives through short text overlays on b-roll."
+  },
+  "caption": {
+    "ref": "",
+    "guide": ""
+  },
+  "draft": true
+}

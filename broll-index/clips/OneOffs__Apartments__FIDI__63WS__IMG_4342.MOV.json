@@ -1,0 +1,67 @@
+{
+  "path": "OneOffs/Apartments/FIDI/63WS/IMG_4342.MOV",
+  "folder": "OneOffs/Apartments/FIDI/63WS",
+  "fingerprint": "90044a9f4fdf452d",
+  "width": 1080,
+  "height": 1920,
+  "fps": 30.0,
+  "duration": 1.832,
+  "model": "gemini-3.8-flash",
+  "annotatedAt": "2026-10-24T18:20:16+00:00",
+  "summary": "A person in a brown suit opens an apartment door in a modern residential hallway and steps inside.",
+  "location": "apartment hallway",
+  "setting": "indoor",
+  "time_of_day": "indoor_unknown",
+  "weather": "n/a",
+  "people": {
+    "count": 1,
+    "creator_visible": true,
+    "description": "Person wearing glasses, hair tied back, and a dark brown matching blazer and pants suit with black loafers"
+  },
+  "camera": {
+    "style": "filmed_by_friend",
+    "framing": "wide",
+    "movement": "static",
+    "angle": "eye level"
+  },
+  "quality": {
+    "usable": true,
+    "stability": "steady",
+    "exposure": "good",
+    "issues": ""
+  },
+  "mood": [
+    "routine",
+    "calm",
+    "mysterious"
+  ],
+  "energy": "low",
+  "tags": [
+    "apartment",
+    "hallway",
+    "corridor",
+    "door",
+    "entering",
+    "coming home",
+    "fidi",
+    "residential building",
+    "suit",
+    "loafers",
+    "city living"
+  ],
+  "moments": [
+    {
+      "start": 0.0,
+      "end": 1.83,
+      "action": "Person opens the apartment door and walks inside out of frame",
+      "emotion": "focused and neutral",
+      "good_for": [
+        "coming home after work",
+        "apartment hunting",
+        "entering my space",
+        "closing the door on the day"
+      ],
+      "score": 3
+    }
+  ]
+}

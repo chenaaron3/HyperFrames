@@ -1,0 +1,70 @@
+{
+  "path": "OneOffs/BrooklynNight/IMG_4562 3.MOV",
+  "folder": "OneOffs/BrooklynNight",
+  "fingerprint": "c8eb3297701e1b3a",
+  "width": 1080,
+  "height": 1920,
+  "fps": 30.0,
+  "duration": 3.165,
+  "model": "gemini-3.8-flash",
+  "annotatedAt": "2026-10-24T18:23:53+00:00",
+  "summary": "Handheld shot zooming in past a crowd of tourists on the prominent rear end of the Charging Bull statue in New York's Financial District.",
+  "location": "city street",
+  "setting": "outdoor",
+  "time_of_day": "day",
+  "weather": "overcast",
+  "people": {
+    "count": 12,
+    "creator_visible": false,
+    "description": "Crowd of tourists milling around and waiting to touch or photograph the Charging Bull statue on Broadway."
+  },
+  "camera": {
+    "style": "pov_first_person",
+    "framing": "medium",
+    "movement": "handheld",
+    "angle": "eye level"
+  },
+  "quality": {
+    "usable": true,
+    "stability": "handheld",
+    "exposure": "good",
+    "issues": "Digital zoom causes slight resolution drop towards the end."
+  },
+  "mood": [
+    "humorous",
+    "touristy",
+    "cheeky",
+    "casual"
+  ],
+  "energy": "medium",
+  "tags": [
+    "charging bull",
+    "wall street",
+    "new york city",
+    "nyc",
+    "lower manhattan",
+    "tourists",
+    "sculpture",
+    "bronze bull",
+    "finance",
+    "city life",
+    "funny",
+    "travel"
+  ],
+  "moments": [
+    {
+      "start": 0.0,
+      "end": 3.17,
+      "action": "Camera zooms in over a street crowd toward the shiny bronze rear of the Charging Bull statue.",
+      "emotion": "cheeky, amused",
+      "good_for": [
+        "visiting new york",
+        "tourist traps",
+        "nyc sights",
+        "corporate grind",
+        "laughing at tourist attractions"
+      ],
+      "score": 3
+    }
+  ]
+}

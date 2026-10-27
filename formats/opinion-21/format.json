@@ -1,0 +1,259 @@
+{
+  "id": "opinion-21",
+  "name": "Good things take time",
+  "reference": "references/viral-formats/opinion-21.mp4",
+  "source": "/Users/aaron/Downloads/100 Viral Formats (Format Book)/Opinion/#21/#21.mp4",
+  "duration": 30.833,
+  "music": {
+    "from": "reference",
+    "title": "Somewhere only we know - Keane"
+  },
+  "text": {
+    "y": 0.705,
+    "size": 61,
+    "weight": 700,
+    "lineHeight": 1.4,
+    "maxWidth": 900,
+    "style": "outline"
+  },
+  "lines": [
+    {
+      "id": "l1",
+      "start": 0.0,
+      "end": 3.233,
+      "ref": "Good things take time",
+      "y": 0.705,
+      "measuredSize": 52,
+      "style": "plain_white_shadow",
+      "guide": ""
+    },
+    {
+      "id": "l2",
+      "start": 3.233,
+      "end": 5.7,
+      "ref": "I wish I had better skin",
+      "y": 0.705,
+      "measuredSize": 52,
+      "style": "plain_white_shadow",
+      "guide": ""
+    },
+    {
+      "id": "l3",
+      "start": 5.7,
+      "end": 8.533,
+      "ref": "2 years later:",
+      "y": 0.707,
+      "measuredSize": 58,
+      "style": "plain_white_shadow",
+      "guide": ""
+    },
+    {
+      "id": "l4",
+      "start": 8.533,
+      "end": 12.1,
+      "ref": "My smile looks so ugly",
+      "y": 0.708,
+      "measuredSize": 68,
+      "style": "plain_white_shadow",
+      "guide": ""
+    },
+    {
+      "id": "l5",
+      "start": 12.1,
+      "end": 14.7,
+      "ref": "1 year later:",
+      "y": 0.73,
+      "measuredSize": 68,
+      "style": "plain_white_shadow",
+      "guide": ""
+    },
+    {
+      "id": "l6",
+      "start": 14.7,
+      "end": 17.6,
+      "ref": "I hate my body",
+      "y": 0.707,
+      "measuredSize": 64,
+      "style": "plain_white_shadow",
+      "guide": ""
+    },
+    {
+      "id": "l7",
+      "start": 17.6,
+      "end": 21.3,
+      "ref": "5 years later:",
+      "y": 0.705,
+      "measuredSize": 49,
+      "style": "plain_white_shadow",
+      "guide": ""
+    },
+    {
+      "id": "l8",
+      "start": 21.3,
+      "end": 24.1,
+      "ref": "Why does life feel this lonely…\nI don’t have anyone to go out with.",
+      "y": 0.705,
+      "measuredSize": 66,
+      "style": "plain_white_shadow",
+      "guide": ""
+    },
+    {
+      "id": "l9",
+      "start": 24.1,
+      "end": 28.7,
+      "ref": "2 years later:",
+      "y": 0.705,
+      "measuredSize": 49,
+      "style": "plain_white_shadow",
+      "guide": ""
+    },
+    {
+      "id": "l10",
+      "start": 28.7,
+      "end": 30.833,
+      "ref": "Everything will get better ❤️‍🩹",
+      "y": 0.5,
+      "measuredSize": 66,
+      "style": "plain_white_shadow",
+      "guide": ""
+    }
+  ],
+  "shots": [
+    {
+      "id": "s1",
+      "start": 0.0,
+      "end": 3.233,
+      "brief": "taking a sip from a mug in kitchen (ref: Creator stands in kitchen, looks to camera, and takes a sip from a coffee mug.; tripod)",
+      "line": "l1"
+    },
+    {
+      "id": "s2",
+      "start": 3.233,
+      "end": 5.7,
+      "brief": "old photo of creator before skincare improvement (ref: Old cropped group photo showing creator with dull/troubled skin.; filmed by friend)",
+      "line": "l2"
+    },
+    {
+      "id": "s3",
+      "start": 5.7,
+      "end": 8.533,
+      "brief": "close-up selfie video showing clear, glowing skin (ref: Close-up selfie video of creator on public transit showing clear, glowing skin.; selfie)",
+      "line": "l3"
+    },
+    {
+      "id": "s4",
+      "start": 8.533,
+      "end": 10.133,
+      "brief": "old photo of teeth with braces or crooked smile (ref: Extreme close-up photo of creator's teeth wearing braces.; selfie)",
+      "line": "l4"
+    },
+    {
+      "id": "s5",
+      "start": 10.133,
+      "end": 12.1,
+      "brief": "old video showing braces or awkward smile (ref: Selfie video of creator showing braces and making a self-conscious expression.; selfie)",
+      "line": "l4"
+    },
+    {
+      "id": "s6",
+      "start": 12.1,
+      "end": 14.7,
+      "brief": "walking outdoors selfie video with a confident, open smile (ref: Creator walking on city sidewalk in the rain, smiling warmly with straight white teeth.; selfie)",
+      "line": "l5"
+    },
+    {
+      "id": "s7",
+      "start": 14.7,
+      "end": 16.0,
+      "brief": "old photo before fitness transformation (ref: Old photo of creator in a yellow t-shirt looking out of shape.; filmed by friend)",
+      "line": "l6"
+    },
+    {
+      "id": "s8",
+      "start": 16.0,
+      "end": 17.6,
+      "brief": "old photo looking insecure or out of shape (ref: Old photo of creator outdoors wearing glasses and a long sleeve shirt.; filmed by friend)",
+      "line": "l6"
+    },
+    {
+      "id": "s9",
+      "start": 17.6,
+      "end": 19.067,
+      "brief": "physique check or mirror selfie showing fit body (ref: Mirror selfie in gym locker room lifting shirt to display defined abs.; mirror)",
+      "line": "l7"
+    },
+    {
+      "id": "s10",
+      "start": 19.067,
+      "end": 21.3,
+      "brief": "running or working out outdoors, selfie camera (ref: Selfie video running outdoors at night.; selfie)",
+      "line": "l7"
+    },
+    {
+      "id": "s11",
+      "start": 21.3,
+      "end": 22.467,
+      "brief": "sad or tired close-up selfie (ref: Close-up selfie photo resting hand on forehead looking sad or stressed.; selfie)",
+      "line": "l8"
+    },
+    {
+      "id": "s12",
+      "start": 22.467,
+      "end": 24.1,
+      "brief": "night walk selfie looking somber (ref: Night selfie video walking along the street looking downcast.; selfie)",
+      "line": "l8"
+    },
+    {
+      "id": "s13",
+      "start": 24.1,
+      "end": 25.2,
+      "brief": "walking on a beach or scenic outdoor path smiling (ref: Selfie video strolling happily along a sandy beach.; selfie)",
+      "line": "l9"
+    },
+    {
+      "id": "s14",
+      "start": 25.2,
+      "end": 26.433,
+      "brief": "solo activity footage, e.g. eating at movie theater (ref: Creator sitting alone in a movie theater eating a snack bar.; selfie)",
+      "line": "l9"
+    },
+    {
+      "id": "s15",
+      "start": 26.433,
+      "end": 27.733,
+      "brief": "solo walk in park or nature (ref: Creator walking along a green hillside path enjoying nature.; selfie)",
+      "line": "l9"
+    },
+    {
+      "id": "s16",
+      "start": 27.733,
+      "end": 28.7,
+      "brief": "eating solo at a restaurant (ref: Creator eating at a restaurant alone, chewing happily.; tripod)",
+      "line": "l9"
+    },
+    {
+      "id": "s17",
+      "start": 28.7,
+      "end": 30.833,
+      "brief": "solid black screen frame (ref: Black screen with final closing affirmation text.; other)",
+      "line": "l10"
+    }
+  ],
+  "audit": {
+    "kind": "broll_with_text",
+    "creatorSpeaks": false,
+    "audio": "music only",
+    "special": [
+      "Old photos/clips of past insecurities (before braces, before fitness/skincare glow up, past sad moments)",
+      "Current physique/transformation footage"
+    ],
+    "reusable": false,
+    "notes": "This format relies on authentic personal 'before' archival pictures of the creator's younger self displaying specific vulnerabilities (braces, bad skin, being out of shape, lonely selfies) alternating with current glow-up b-roll. It cannot be replicated using purely generic lifestyle b-roll without personal historical archives.",
+    "summary": "A motivational transformation reel showcasing personal before-and-after milestones (skin, braces, gym physique, embracing solo life) framed around the message that good things take time."
+  },
+  "caption": {
+    "ref": "",
+    "guide": ""
+  },
+  "draft": true
+}

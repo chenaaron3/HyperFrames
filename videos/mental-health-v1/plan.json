@@ -1,0 +1,65 @@
+{
+  "format": "opinion-5",
+  "title": "what living on my own has done for my mental health...",
+  "lines": {
+    "l1": "what living in new york has\ndone for my mental health...",
+    "l2": "i feel calmer here",
+    "l3": "i can hear myself think",
+    "l4": "i learned how to enjoy\nmy own company",
+    "l5": "my nervous system relaxed"
+  },
+  "shots": {
+    "s1": {
+      "clip": "Cinematic/CentralPark/IMG_4406.MOV",
+      "in": 0.39,
+      "speed": 1.0,
+      "note": "hand pick",
+      "query": "walking into apartment living room sunlit",
+      "motion": {
+        "speed": 14.5,
+        "jitter": 0.16,
+        "verdict": "ok"
+      }
+    },
+    "s2": {
+      "clip": "Cinematic/CentralPark/IMG_4447.MOV",
+      "in": 8.2,
+      "speed": 1.0,
+      "note": "Creator sits relaxed on the rock, gazing out over the trees and green lawn (peaceful, reflective)",
+      "query": "sitting relaxed calm park view",
+      "alts": [
+        "SelfShots/Chilling/IMG_4436.MOV @7.0-15.5: Man lies peacefully on the grass with his hands behind his head restin",
+        "SelfShots/Chilling/IMG_4481.MOV @7.5-15.0: The man sits still on the rock with his back to the camera, looking ou",
+        "Cinematic/CentralPark/IMG_4447.MOV @2.5-6.0: Creator walks into frame and sits down on the rock facing away towards",
+        "OneOffs/Cooking/IMG_4841.MOV @0.0-2.5: Creator films a selfie while friend next to him smiles warmly and thro",
+        "SelfShots/Chilling/IMG_4473.MOV @25.0-33.0: Man leans back on both hands in the grass, soaking in the view of the "
+      ],
+      "motion": {
+        "speed": 0.1,
+        "jitter": 0.03,
+        "verdict": "ok"
+      }
+    },
+    "s3": {
+      "clip": "OneOffs/Eating/IMG_4865.MOV",
+      "in": 47.33,
+      "speed": 1.0,
+      "note": "Young man takes another deep bite of his sandwich and looks up toward the camera while chewing contentedly (content, relaxed)",
+      "query": "sitting alone reading eating calm",
+      "alts": [
+        "SelfShots/Chilling/IMG_4481.MOV @7.5-15.0: The man sits still on the rock with his back to the camera, looking ou",
+        "SelfShots/Eating/IMG_5163.MOV @13.5-17.5: Creator lifts the colorful bowl up to show it closely to the camera le",
+        "OneOffs/Eating/IMG_4868.MOV @2.8-6.0: Creator opens 'The 48 Laws of Power' and looks back up into the lens",
+        "SelfShots/Chilling/IMG_4481.MOV @21.0-28.0: The man leans back on his hands while sitting on the rock, enjoying th",
+        "SelfShots/Chilling/IMG_4475.MOV @4.5-9.2: Creator sits still on the grass from behind, admiring the peaceful lak"
+      ],
+      "motion": {
+        "speed": 0.2,
+        "jitter": 0.11,
+        "verdict": "ok"
+      }
+    }
+  },
+  "caption": "What this city has done for my head:\n1. I feel calmer\n2. I can hear myself think\n3. I enjoy my own company\n4. My nervous system relaxed",
+  "textY": 0.5
+}

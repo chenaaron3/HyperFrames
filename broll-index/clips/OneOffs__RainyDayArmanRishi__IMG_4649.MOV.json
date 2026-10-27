@@ -1,0 +1,68 @@
+{
+  "path": "OneOffs/RainyDayArmanRishi/IMG_4649.MOV",
+  "folder": "OneOffs/RainyDayArmanRishi",
+  "fingerprint": "48520003d8914bf8",
+  "width": 1080,
+  "height": 1920,
+  "fps": 30.0,
+  "duration": 4.933,
+  "model": "gemini-3.8-flash",
+  "annotatedAt": "2026-10-24T18:36:54+00:00",
+  "summary": "A stationary display of assorted Asian pastries and sweets arranged on small white plates on a wooden board inside a tea house or bakery.",
+  "location": "bakery",
+  "setting": "indoor",
+  "time_of_day": "indoor_unknown",
+  "weather": "n/a",
+  "people": {
+    "count": 0,
+    "creator_visible": false,
+    "description": "No people visible on camera."
+  },
+  "camera": {
+    "style": "pov_first_person",
+    "framing": "medium",
+    "movement": "static",
+    "angle": "high angle"
+  },
+  "quality": {
+    "usable": true,
+    "stability": "steady",
+    "exposure": "good",
+    "issues": ""
+  },
+  "mood": [
+    "calm",
+    "aesthetic",
+    "cozy"
+  ],
+  "energy": "low",
+  "tags": [
+    "pastries",
+    "bakery",
+    "tea shop",
+    "tea house",
+    "dessert",
+    "samples",
+    "cookies",
+    "cakes",
+    "cafe",
+    "aesthetic food",
+    "display"
+  ],
+  "moments": [
+    {
+      "start": 0.0,
+      "end": 4.93,
+      "action": "Camera holds steady showing an aesthetic assortment of individual pastries and cakes on small white plates with label cards on a wooden tray.",
+      "emotion": "calm",
+      "good_for": [
+        "sweet treats",
+        "trying new bakeries",
+        "food crawl",
+        "aesthetic cafe dates",
+        "little daily joys"
+      ],
+      "score": 4
+    }
+  ]
+}

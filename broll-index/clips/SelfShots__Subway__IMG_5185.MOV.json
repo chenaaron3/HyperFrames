@@ -1,0 +1,83 @@
+{
+  "path": "SelfShots/Subway/IMG_5185.MOV",
+  "folder": "SelfShots/Subway",
+  "fingerprint": "d29c3c4632edf2b5",
+  "width": 1080,
+  "height": 1920,
+  "fps": 30.0,
+  "duration": 9.365,
+  "model": "gemini-3.8-flash",
+  "annotatedAt": "2026-10-24T19:01:12+00:00",
+  "summary": "A young man sits on a subway train listening to music through earbuds, staring thoughtfully out the window during his commute.",
+  "location": "subway car",
+  "setting": "vehicle",
+  "time_of_day": "indoor_unknown",
+  "weather": "n/a",
+  "people": {
+    "count": 1,
+    "creator_visible": true,
+    "description": "Young East Asian man with dark wavy hair, wearing white wireless earbuds, an earring, a thin necklace, and a brown knit polo shirt."
+  },
+  "camera": {
+    "style": "selfie",
+    "framing": "close",
+    "movement": "static",
+    "angle": "low angle looking up"
+  },
+  "quality": {
+    "usable": true,
+    "stability": "steady",
+    "exposure": "good",
+    "issues": ""
+  },
+  "mood": [
+    "contemplative",
+    "calm",
+    "peaceful",
+    "introspective",
+    "melancholic"
+  ],
+  "energy": "low",
+  "tags": [
+    "subway",
+    "commute",
+    "train",
+    "transit",
+    "earbuds",
+    "music",
+    "city life",
+    "travel",
+    "pensive",
+    "daydreaming",
+    "profile shot",
+    "urban"
+  ],
+  "moments": [
+    {
+      "start": 0.0,
+      "end": 4.5,
+      "action": "The man glances forward before turning his head to gaze quietly out the subway window while wearing earbuds",
+      "emotion": "pensive",
+      "good_for": [
+        "commute thoughts",
+        "listening to music",
+        "city transit",
+        "lost in thought"
+      ],
+      "score": 4
+    },
+    {
+      "start": 4.5,
+      "end": 9.37,
+      "action": "Profile view of the man sitting still, looking out the train window as the station passes in the background",
+      "emotion": "calm",
+      "good_for": [
+        "on my way home",
+        "main character moment",
+        "daily commute",
+        "zoning out"
+      ],
+      "score": 4
+    }
+  ]
+}

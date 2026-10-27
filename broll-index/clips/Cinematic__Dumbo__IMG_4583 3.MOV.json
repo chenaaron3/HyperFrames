@@ -1,0 +1,84 @@
+{
+  "path": "Cinematic/Dumbo/IMG_4583 3.MOV",
+  "folder": "Cinematic/Dumbo",
+  "fingerprint": "f6b8aac27a4bf9e8",
+  "width": 1080,
+  "height": 1920,
+  "fps": 30.0,
+  "duration": 7.367,
+  "model": "gemini-3.8-flash",
+  "annotatedAt": "2026-10-24T18:19:41+00:00",
+  "summary": "A nighttime view panning across the East River waterfront with choppy dark water, rocky shoreline, and illuminated city skyline and bridges in the distance.",
+  "location": "riverfront",
+  "setting": "outdoor",
+  "time_of_day": "night",
+  "weather": "clear",
+  "people": {
+    "count": 0,
+    "creator_visible": false,
+    "description": "No people visible."
+  },
+  "camera": {
+    "style": "handheld_cinematic",
+    "framing": "wide",
+    "movement": "pan",
+    "angle": "eye level"
+  },
+  "quality": {
+    "usable": true,
+    "stability": "steady",
+    "exposure": "dark",
+    "issues": ""
+  },
+  "mood": [
+    "peaceful",
+    "moody",
+    "contemplative",
+    "atmospheric",
+    "calm"
+  ],
+  "energy": "low",
+  "tags": [
+    "nyc",
+    "dumbo",
+    "east river",
+    "night walk",
+    "city lights",
+    "skyline",
+    "bridge",
+    "waves",
+    "shoreline",
+    "nocturnal",
+    "reflections",
+    "dark aesthetic",
+    "brooklyn"
+  ],
+  "moments": [
+    {
+      "start": 0.0,
+      "end": 3.8,
+      "action": "Camera frames the dark river water with gentle waves lapping against the shore under a starry night sky with city lights across the water",
+      "emotion": "calm",
+      "good_for": [
+        "late night thoughts",
+        "city nights",
+        "peace of mind",
+        "learning to be alone"
+      ],
+      "score": 4
+    },
+    {
+      "start": 3.8,
+      "end": 7.37,
+      "action": "Camera pans right across the shoreline, revealing an illuminated suspension bridge and riverfront walkway",
+      "emotion": "peaceful",
+      "good_for": [
+        "night walks in the city",
+        "my favorite view",
+        "romanticizing your life",
+        "finding peace"
+      ],
+      "score": 4
+    }
+  ]
+}

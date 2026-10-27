@@ -1,0 +1,90 @@
+{
+  "path": "OneOffs/Apartments/MurrayHills/150 East 39th Street/IMG_4209.MOV",
+  "folder": "OneOffs/Apartments/MurrayHills/150 East 39th Street",
+  "fingerprint": "98b3d284632bfcdb",
+  "width": 1080,
+  "height": 1920,
+  "fps": 30.0,
+  "duration": 9.3,
+  "model": "gemini-3.8-flash",
+  "annotatedAt": "2026-10-24T18:21:44+00:00",
+  "summary": "A handheld walkthrough tour of an apartment building basement laundry room, showing washing machines and the payment system.",
+  "location": "laundry room",
+  "setting": "indoor",
+  "time_of_day": "indoor_unknown",
+  "weather": "n/a",
+  "people": {
+    "count": 1,
+    "creator_visible": true,
+    "description": "Young woman in a black leather jacket, dark pants, and hair tied back, holding a phone"
+  },
+  "camera": {
+    "style": "filmed_by_friend",
+    "framing": "medium",
+    "movement": "walking",
+    "angle": "eye level"
+  },
+  "quality": {
+    "usable": true,
+    "stability": "handheld",
+    "exposure": "good",
+    "issues": "Rapid pans and somewhat shaky handheld motion"
+  },
+  "mood": [
+    "practical",
+    "casual",
+    "mundane"
+  ],
+  "energy": "medium",
+  "tags": [
+    "laundry room",
+    "apartment tour",
+    "washing machine",
+    "dryer",
+    "basement",
+    "nyc apartment",
+    "chores",
+    "murray hill",
+    "city living",
+    "folding table",
+    "laundromat"
+  ],
+  "moments": [
+    {
+      "start": 2.0,
+      "end": 3.6,
+      "action": "A woman stands beside the washing machines holding her phone while looking around",
+      "emotion": "neutral",
+      "good_for": [
+        "apartment hunting",
+        "laundry day",
+        "in-building laundry perks"
+      ],
+      "score": 3
+    },
+    {
+      "start": 3.7,
+      "end": 6.2,
+      "action": "Camera pans across the row of stacked commercial washers and dryers",
+      "emotion": "neutral",
+      "good_for": [
+        "in-building laundry",
+        "apartment tour b-roll",
+        "amenities check"
+      ],
+      "score": 3
+    },
+    {
+      "start": 7.8,
+      "end": 9.3,
+      "action": "Camera tilts and frames the digital card payment terminal on the wall",
+      "emotion": "neutral",
+      "good_for": [
+        "paying for laundry",
+        "card-operated laundry",
+        "nyc living realities"
+      ],
+      "score": 2
+    }
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "path": "Cinematic/CentralPark/IMG_4422.MOV",
+  "folder": "Cinematic/CentralPark",
+  "fingerprint": "bd5497465a08cac2",
+  "width": 1080,
+  "height": 1920,
+  "fps": 30.0,
+  "duration": 2.432,
+  "model": "gemini-3.8-flash",
+  "annotatedAt": "2026-10-24T18:17:51+00:00",
+  "summary": "A static shot of a lit vintage lamppost surrounded by lush green foliage and trees in Central Park.",
+  "location": "park",
+  "setting": "outdoor",
+  "time_of_day": "day",
+  "weather": "sunny",
+  "people": {
+    "count": 0,
+    "creator_visible": false,
+    "description": "No people visible"
+  },
+  "camera": {
+    "style": "handheld_cinematic",
+    "framing": "medium",
+    "movement": "static",
+    "angle": "eye level"
+  },
+  "quality": {
+    "usable": true,
+    "stability": "steady",
+    "exposure": "good",
+    "issues": ""
+  },
+  "mood": [
+    "peaceful",
+    "nostalgic",
+    "calm",
+    "serene"
+  ],
+  "energy": "low",
+  "tags": [
+    "central park",
+    "new york city",
+    "lamp post",
+    "lantern",
+    "park",
+    "foliage",
+    "trees",
+    "greenery",
+    "outdoors",
+    "nature",
+    "cinematic",
+    "autumn vibes",
+    "peaceful walk"
+  ],
+  "moments": [
+    {
+      "start": 0.0,
+      "end": 2.43,
+      "action": "Static steady shot of a classic black street lamp glowing amidst the green park trees",
+      "emotion": "calm",
+      "good_for": [
+        "peaceful walks",
+        "romanticizing life",
+        "autumn in new york",
+        "finding quiet moments",
+        "central park days"
+      ],
+      "score": 4
+    }
+  ]
+}

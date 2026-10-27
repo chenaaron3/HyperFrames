@@ -1,0 +1,82 @@
+{
+  "path": "OneOffs/BrooklynNight/IMG_4558 3.MOV",
+  "folder": "OneOffs/BrooklynNight",
+  "fingerprint": "7634b5335c729e84",
+  "width": 1080,
+  "height": 1920,
+  "fps": 30.0,
+  "duration": 5.6,
+  "model": "gemini-3.8-flash",
+  "annotatedAt": "2026-10-24T18:23:47+00:00",
+  "summary": "A young man leans against a waterfront railing at dusk, looking out across the water at the city skyline as the camera slowly glides past him.",
+  "location": "waterfront promenade",
+  "setting": "outdoor",
+  "time_of_day": "golden_hour",
+  "weather": "overcast",
+  "people": {
+    "count": 1,
+    "creator_visible": true,
+    "description": "Young man seen from behind wearing a black graphic t-shirt, black shorts, white sneakers, and a backward cap"
+  },
+  "camera": {
+    "style": "filmed_by_friend",
+    "framing": "medium",
+    "movement": "tracking",
+    "angle": "eye level"
+  },
+  "quality": {
+    "usable": true,
+    "stability": "steady",
+    "exposure": "good",
+    "issues": ""
+  },
+  "mood": [
+    "peaceful",
+    "contemplative",
+    "nostalgic",
+    "reflective"
+  ],
+  "energy": "low",
+  "tags": [
+    "waterfront",
+    "skyline",
+    "city view",
+    "hudson river",
+    "sunset",
+    "evening",
+    "contemplation",
+    "solitude",
+    "walking",
+    "promenade",
+    "new york",
+    "jersey city",
+    "chill"
+  ],
+  "moments": [
+    {
+      "start": 0.0,
+      "end": 3.2,
+      "action": "A man stands leaning on the pier railing looking out over the water toward the skyline at sunset",
+      "emotion": "calm, reflective",
+      "good_for": [
+        "taking a breather",
+        "clear your head",
+        "golden hour thoughts",
+        "views like this"
+      ],
+      "score": 4
+    },
+    {
+      "start": 3.2,
+      "end": 5.6,
+      "action": "Camera tracks sideways showing more of the pier, distant buildings, and a waterfront clock tower pavilion",
+      "emotion": "peaceful, pensive",
+      "good_for": [
+        "summer evenings in the city",
+        "grateful for peaceful moments",
+        "city sunset walks"
+      ],
+      "score": 4
+    }
+  ]
+}

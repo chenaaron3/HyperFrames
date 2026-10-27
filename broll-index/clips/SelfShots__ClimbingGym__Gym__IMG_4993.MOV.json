@@ -1,0 +1,102 @@
+{
+  "path": "SelfShots/ClimbingGym/Gym/IMG_4993.MOV",
+  "folder": "SelfShots/ClimbingGym/Gym",
+  "fingerprint": "da5dc82a0640ff6e",
+  "width": 1080,
+  "height": 1920,
+  "fps": 30.0,
+  "duration": 21.502,
+  "model": "gemini-3.8-flash",
+  "annotatedAt": "2026-10-24T18:38:39+00:00",
+  "summary": "A young man walks up to a pull-up rig in a gym and performs consecutive bar muscle-ups before dropping down and walking away.",
+  "location": "gym",
+  "setting": "indoor",
+  "time_of_day": "indoor_unknown",
+  "weather": "n/a",
+  "people": {
+    "count": 3,
+    "creator_visible": true,
+    "description": "Young East Asian man with dark wavy hair wearing a brown short-sleeve button-up shirt and dark trousers doing muscle-ups; other gym-goers visible in the background."
+  },
+  "camera": {
+    "style": "tripod_static",
+    "framing": "medium",
+    "movement": "static",
+    "angle": "eye level"
+  },
+  "quality": {
+    "usable": true,
+    "stability": "locked",
+    "exposure": "good",
+    "issues": ""
+  },
+  "mood": [
+    "athletic",
+    "impressive",
+    "focused",
+    "determined"
+  ],
+  "energy": "high",
+  "tags": [
+    "muscle up",
+    "calisthenics",
+    "gym",
+    "fitness",
+    "pull up bar",
+    "rogue fitness",
+    "workout",
+    "bodyweight training",
+    "strength",
+    "discipline"
+  ],
+  "moments": [
+    {
+      "start": 2.5,
+      "end": 6.8,
+      "action": "Creator walks toward the rig, jumps up, and hangs from the pull-up bar",
+      "emotion": "focused",
+      "good_for": [
+        "stepping up to the challenge",
+        "gym routine",
+        "lock in"
+      ],
+      "score": 3
+    },
+    {
+      "start": 6.8,
+      "end": 10.5,
+      "action": "Creator performs a clean bar muscle-up and dips above the bar before descending",
+      "emotion": "powerful",
+      "good_for": [
+        "showing off strength",
+        "calisthenics progress",
+        "putting in the work"
+      ],
+      "score": 5
+    },
+    {
+      "start": 10.8,
+      "end": 14.5,
+      "action": "Creator performs a second consecutive bar muscle-up smoothly",
+      "emotion": "effortless",
+      "good_for": [
+        "consistency pays off",
+        "daily grind",
+        "fitness motivation"
+      ],
+      "score": 5
+    },
+    {
+      "start": 14.8,
+      "end": 18.0,
+      "action": "Creator completes a final pull-up, drops to the floor, and turns to walk away",
+      "emotion": "relieved",
+      "good_for": [
+        "workout finished",
+        "calling it a day",
+        "moving on"
+      ],
+      "score": 3
+    }
+  ]
+}

@@ -1,0 +1,104 @@
+{
+  "path": "OneOffs/Eating/IMG_4868.MOV",
+  "folder": "OneOffs/Eating",
+  "fingerprint": "1b95eac21de48c6d",
+  "width": 1080,
+  "height": 1920,
+  "fps": 30.0,
+  "duration": 18.167,
+  "model": "gemini-3.8-flash",
+  "annotatedAt": "2026-10-24T18:35:12+00:00",
+  "summary": "A young Asian man in a black jacket sits outdoors by a waterfront park reading 'The 48 Laws of Power' and occasionally looks up toward the camera.",
+  "location": "waterfront park",
+  "setting": "outdoor",
+  "time_of_day": "golden_hour",
+  "weather": "sunny",
+  "people": {
+    "count": 2,
+    "creator_visible": true,
+    "description": "Young Asian man with wavy hair wearing a black jacket and brown button-down shirt; in the background, another person relaxes on a lounge chair."
+  },
+  "camera": {
+    "style": "selfie",
+    "framing": "medium",
+    "movement": "handheld",
+    "angle": "eye level"
+  },
+  "quality": {
+    "usable": true,
+    "stability": "steady",
+    "exposure": "good",
+    "issues": "minor lens reflection/glare on the right side"
+  },
+  "mood": [
+    "contemplative",
+    "focused",
+    "calm",
+    "stylish"
+  ],
+  "energy": "low",
+  "tags": [
+    "reading",
+    "book",
+    "48 laws of power",
+    "waterfront",
+    "park",
+    "studying",
+    "lifestyle",
+    "outdoor",
+    "golden hour",
+    "selfie",
+    "fashion",
+    "jacket"
+  ],
+  "moments": [
+    {
+      "start": 0.0,
+      "end": 2.8,
+      "action": "Creator looks at the camera, then brings up a book to begin reading",
+      "emotion": "calm and confident",
+      "good_for": [
+        "making time to learn",
+        "quiet afternoon moments",
+        "self improvement"
+      ],
+      "score": 3
+    },
+    {
+      "start": 2.8,
+      "end": 6.0,
+      "action": "Creator opens 'The 48 Laws of Power' and looks back up into the lens",
+      "emotion": "intense, knowing look",
+      "good_for": [
+        "reading the 48 laws of power",
+        "villain arc unlocked",
+        "focus on your own growth"
+      ],
+      "score": 4
+    },
+    {
+      "start": 6.0,
+      "end": 14.5,
+      "action": "Creator reads the book intently, turning pages while seated outside",
+      "emotion": "focused and relaxed",
+      "good_for": [
+        "daily habits",
+        "reading outdoors",
+        "romanticizing reading"
+      ],
+      "score": 4
+    },
+    {
+      "start": 14.5,
+      "end": 18.17,
+      "action": "Creator turns the page, then glances directly up into the camera",
+      "emotion": "serious, direct eye contact",
+      "good_for": [
+        "when someone interrupts your reading",
+        "plotting quietly",
+        "reading in public"
+      ],
+      "score": 4
+    }
+  ]
+}

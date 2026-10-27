@@ -1,0 +1,71 @@
+{
+  "id": "advice-10",
+  "name": "50 foods you literally can overeat without getting fat",
+  "reference": "references/viral-formats/advice-10.mp4",
+  "source": "/Users/aaron/Downloads/100 Viral Formats (Format Book)/Advice/#10/#10.mp4",
+  "duration": 6.3,
+  "music": {
+    "from": "reference",
+    "title": "January (Instrumental) - NR24"
+  },
+  "text": {
+    "y": 0.204,
+    "size": 50,
+    "weight": 700,
+    "lineHeight": 1.4,
+    "maxWidth": 900,
+    "style": "outline"
+  },
+  "lines": [
+    {
+      "id": "l1",
+      "start": 0.0,
+      "end": 6.3,
+      "ref": "50 foods you literally can\novereat without getting fat",
+      "y": 0.204,
+      "measuredSize": 59,
+      "style": "plain_white_shadow",
+      "guide": ""
+    },
+    {
+      "id": "l2",
+      "start": 3.9,
+      "end": 6.3,
+      "ref": "👇 caption 👇",
+      "y": 0.612,
+      "measuredSize": 41,
+      "style": "plain_white_shadow",
+      "guide": ""
+    }
+  ],
+  "shots": [
+    {
+      "id": "s1",
+      "start": 0.0,
+      "end": 2.267,
+      "brief": "eating a meal at a restaurant or table (ref: Young man at a restaurant table eating a sushi hand roll and expressing delicious satisfaction.; filmed by friend)",
+      "line": "l1"
+    },
+    {
+      "id": "s2",
+      "start": 2.267,
+      "end": 6.3,
+      "brief": "eating a meal at a restaurant or table (ref: Young man at a restaurant table eating a sushi hand roll and expressing delicious satisfaction.; filmed by friend)",
+      "line": "l1"
+    }
+  ],
+  "audit": {
+    "kind": "broll_with_text",
+    "creatorSpeaks": false,
+    "audio": "music only",
+    "special": [],
+    "reusable": true,
+    "notes": "This format relies on a compelling text hook paired with high-value caption content. Any existing clip of eating, cooking, or enjoying a meal from the creator's b-roll library can be directly swapped in.",
+    "summary": "A short lifestyle clip of the creator eating at a restaurant with an attention-grabbing hook about low-calorie foods and a call-to-action pointing to the detailed list in the caption."
+  },
+  "caption": {
+    "ref": "",
+    "guide": ""
+  },
+  "draft": true
+}

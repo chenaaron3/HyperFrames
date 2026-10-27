@@ -1,0 +1,157 @@
+{
+  "id": "relatable-12",
+  "name": "eldest daughters being told that they handled it so well...",
+  "reference": "references/viral-formats/relatable-12.mp4",
+  "source": "/Users/aaron/Downloads/100 Viral Formats (Format Book)/Relatable/#12/#12.mp4",
+  "duration": 8.533,
+  "music": {
+    "from": "reference",
+    "title": "Original audio"
+  },
+  "text": {
+    "y": 0.629,
+    "size": 62,
+    "weight": 700,
+    "lineHeight": 1.4,
+    "maxWidth": 900,
+    "style": "outline"
+  },
+  "lines": [
+    {
+      "id": "l1",
+      "start": 0.0,
+      "end": 3.5,
+      "ref": "eldest daughters\nbeing told that they\nhandled it so well...",
+      "y": 0.629,
+      "measuredSize": 58,
+      "style": "plain_white_shadow",
+      "guide": ""
+    },
+    {
+      "id": "l2",
+      "start": 3.5,
+      "end": 8.133,
+      "ref": "ELDEST DAUGHTERS:",
+      "y": 0.207,
+      "measuredSize": 66,
+      "style": "plain_white_shadow",
+      "guide": ""
+    }
+  ],
+  "shots": [
+    {
+      "id": "s1",
+      "start": 0.0,
+      "end": 0.733,
+      "brief": "person packing up a bag looking stressed or frazzled and walking away (ref: A woman hurriedly stuffs books and a tumbler into her tote bag looking overwhelmed, then hastily walks away down the hallway.; tripod)",
+      "line": "l1"
+    },
+    {
+      "id": "s2",
+      "start": 0.733,
+      "end": 2.667,
+      "brief": "person packing up a bag looking stressed or frazzled and walking away (ref: A woman hurriedly stuffs books and a tumbler into her tote bag looking overwhelmed, then hastily walks away down the hallway.; tripod)",
+      "line": "l1"
+    },
+    {
+      "id": "s3",
+      "start": 2.667,
+      "end": 3.5,
+      "brief": "person packing up a bag looking stressed or frazzled and walking away (ref: A woman hurriedly stuffs books and a tumbler into her tote bag looking overwhelmed, then hastily walks away down the hallway.; tripod)",
+      "line": "l1"
+    },
+    {
+      "id": "s4",
+      "start": 3.5,
+      "end": 4.067,
+      "brief": "reaction meme of Rachel McAdams crying (ref: Rachel McAdams crying holding a tissue with subtitle 'I will handle every situation but let me cry first'.; screen grab)",
+      "line": "l2"
+    },
+    {
+      "id": "s5",
+      "start": 4.067,
+      "end": 4.533,
+      "brief": "crying girl peace sign meme (ref: Toddler girl crying in a car giving a peace sign.; screen grab)",
+      "line": "l2"
+    },
+    {
+      "id": "s6",
+      "start": 4.533,
+      "end": 4.967,
+      "brief": "woman biting laptop meme (ref: Woman violently biting into a laptop keyboard.; screen grab)",
+      "line": "l2"
+    },
+    {
+      "id": "s7",
+      "start": 4.967,
+      "end": 5.4,
+      "brief": "smiling through pain reaction meme (ref: Woman smiling tightly through frustration with caption 'per my last email'.; screen grab)",
+      "line": "l2"
+    },
+    {
+      "id": "s8",
+      "start": 5.4,
+      "end": 5.833,
+      "brief": "giant wine glass spill meme (ref: Woman pouring a giant fishbowl-sized glass of red wine all over her face and mouth in a bathtub.; screen grab)",
+      "line": "l2"
+    },
+    {
+      "id": "s9",
+      "start": 5.833,
+      "end": 6.3,
+      "brief": "exhausted woman sipping coffee still (ref: Woman sitting alone in movie theater seats sipping from a cup with subtitle 'i'll survive but damn give me a break.'; screen grab)",
+      "line": "l2"
+    },
+    {
+      "id": "s10",
+      "start": 6.3,
+      "end": 6.767,
+      "brief": "dramatic choking scream reaction video (ref: Woman in car screaming dramatically with hands around her neck.; screen grab)",
+      "line": "l2"
+    },
+    {
+      "id": "s11",
+      "start": 6.767,
+      "end": 7.233,
+      "brief": "movie still of running and panicking (ref: Anne Hathaway running frantically in The Devil Wears Prada with subtitle '[running and panicking]'.; screen grab)",
+      "line": "l2"
+    },
+    {
+      "id": "s12",
+      "start": 7.233,
+      "end": 7.7,
+      "brief": "Legally Blonde chocolate crying scene (ref: Reese Witherspoon crying in bed eating a chocolate sampler from Legally Blonde.; screen grab)",
+      "line": "l2"
+    },
+    {
+      "id": "s13",
+      "start": 7.7,
+      "end": 8.133,
+      "brief": "Teletubby smashing burning computer meme (ref: Po from Teletubbies smashing a burning office computer monitor with a hammer.; screen grab)",
+      "line": "l2"
+    },
+    {
+      "id": "s14",
+      "start": 8.133,
+      "end": 8.533,
+      "brief": "giant coffee cup meme (ref: Woman wearing sunglasses drinking from an enormous oversized cappuccino cup in front of the Colosseum.; screen grab)",
+      "line": null
+    }
+  ],
+  "audit": {
+    "kind": "other",
+    "creatorSpeaks": false,
+    "audio": "music only",
+    "special": [
+      "Curated sequence of stress/breakdown pop-culture meme images and movie stills"
+    ],
+    "reusable": false,
+    "notes": "The opening 3-second setup can easily be recreated with standard lifestyle b-roll (such as someone hastily packing a bag or looking stressed working at a desk), but the entire punchline relies on sourcing 10+ specific internet reaction memes and movie clips.",
+    "summary": "A woman acts out a stressed reaction to being praised for handling stress well, followed by a fast-paced slideshow of chaotic, breakdown-themed pop culture memes representing eldest daughters."
+  },
+  "caption": {
+    "ref": "",
+    "guide": ""
+  },
+  "draft": true
+}

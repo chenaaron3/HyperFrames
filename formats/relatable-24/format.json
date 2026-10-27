@@ -1,0 +1,127 @@
+{
+  "id": "relatable-24",
+  "name": "\"what's your motivation?\"",
+  "reference": "references/viral-formats/relatable-24.mp4",
+  "source": "/Users/aaron/Downloads/100 Viral Formats (Format Book)/Relatable/#24/#24.mp4",
+  "duration": 11.567,
+  "music": {
+    "from": "reference",
+    "title": "Original Audio"
+  },
+  "text": {
+    "y": 0.284,
+    "size": 46,
+    "weight": 700,
+    "lineHeight": 1.4,
+    "maxWidth": 900,
+    "style": "outline"
+  },
+  "lines": [
+    {
+      "id": "l1",
+      "start": 0.0,
+      "end": 3.667,
+      "ref": "\"what's your motivation?\"",
+      "y": 0.284,
+      "measuredSize": 26,
+      "style": "plain_white_shadow",
+      "guide": ""
+    },
+    {
+      "id": "l2",
+      "start": 3.667,
+      "end": 11.567,
+      "ref": "my past self",
+      "y": 0.28,
+      "measuredSize": 43,
+      "style": "plain_white_shadow",
+      "guide": ""
+    }
+  ],
+  "shots": [
+    {
+      "id": "s1",
+      "start": 0.0,
+      "end": 1.533,
+      "brief": "workout or gym b-roll standing (ref: Woman in gym wear and over-ear headphones standing in a gym looking away from the camera; tripod)",
+      "line": "l1"
+    },
+    {
+      "id": "s2",
+      "start": 1.533,
+      "end": 2.633,
+      "brief": "working out or resting between sets on a mat (ref: Woman seated on an exercise mat at home with a weight plate, setting it down to take a breather; tripod)",
+      "line": "l1"
+    },
+    {
+      "id": "s3",
+      "start": 2.633,
+      "end": 3.667,
+      "brief": "working out or resting between sets on a mat (ref: Woman seated on an exercise mat at home with a weight plate, setting it down to take a breather; tripod)",
+      "line": "l1"
+    },
+    {
+      "id": "s4",
+      "start": 3.667,
+      "end": 5.133,
+      "brief": "casual aesthetic lifestyle shot at home (ref: Woman showing off her blowout hairstyle at home, looking over her shoulder; tripod)",
+      "line": "l2"
+    },
+    {
+      "id": "s5",
+      "start": 5.133,
+      "end": 6.633,
+      "brief": "core exercise or hard physical training b-roll (ref: Woman holding a plank on an exercise mat with a weight plate balanced on her back; tripod)",
+      "line": "l2"
+    },
+    {
+      "id": "s6",
+      "start": 6.633,
+      "end": 7.8,
+      "brief": "resting on mat after workout (ref: Woman resting sitting up on mat with headphones, exhausted after training; tripod)",
+      "line": "l2"
+    },
+    {
+      "id": "s7",
+      "start": 7.8,
+      "end": 8.867,
+      "brief": "aesthetic morning routine or casual outfit clip (ref: Woman standing in loungewear adjusting her shirt and smiling at camera; tripod)",
+      "line": "l2"
+    },
+    {
+      "id": "s8",
+      "start": 8.867,
+      "end": 9.667,
+      "brief": "stretching or mobility training on a mat (ref: Woman performing a deep lunge stretch with arms raised on exercise mat; tripod)",
+      "line": "l2"
+    },
+    {
+      "id": "s9",
+      "start": 9.667,
+      "end": 10.633,
+      "brief": "lifestyle b-roll from behind (ref: Woman from behind shaking out her styled hair; tripod)",
+      "line": "l2"
+    },
+    {
+      "id": "s10",
+      "start": 10.633,
+      "end": 11.567,
+      "brief": "cooldown or post-workout resting shot (ref: Woman seated on mat resting hands behind her and looking up towards the ceiling; tripod)",
+      "line": "l2"
+    }
+  ],
+  "audit": {
+    "kind": "broll_with_text",
+    "creatorSpeaks": false,
+    "audio": "music only",
+    "special": [],
+    "reusable": true,
+    "notes": "This can easily be recreated using climbing gym clips, morning routines, or desk work alternating with relaxed lifestyle clips, paired with the same music and motivational text hook.",
+    "summary": "A sequence of aesthetic fitness and lifestyle b-roll cuts contrasting the prompt question 'what's your motivation?' with the emotional answer 'my past self'."
+  },
+  "caption": {
+    "ref": "",
+    "guide": ""
+  },
+  "draft": true
+}

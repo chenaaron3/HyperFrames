@@ -1,0 +1,69 @@
+{
+  "path": "OneOffs/RainyDayArmanRishi/IMG_4619.MOV",
+  "folder": "OneOffs/RainyDayArmanRishi",
+  "fingerprint": "0a5d1116874dc64a",
+  "width": 1080,
+  "height": 1920,
+  "fps": 30.0,
+  "duration": 2.732,
+  "model": "gemini-3.8-flash",
+  "annotatedAt": "2026-10-24T18:35:55+00:00",
+  "summary": "Two young men stand on a rainy city sidewalk under umbrellas, smiling and looking out into the street.",
+  "location": "city street",
+  "setting": "outdoor",
+  "time_of_day": "day",
+  "weather": "rain",
+  "people": {
+    "count": 2,
+    "creator_visible": true,
+    "description": "Two young men standing side-by-side holding umbrellas, smiling; one wearing glasses and a grey jacket, the other in a black collared jacket."
+  },
+  "camera": {
+    "style": "filmed_by_friend",
+    "framing": "medium",
+    "movement": "static",
+    "angle": "eye level"
+  },
+  "quality": {
+    "usable": true,
+    "stability": "steady",
+    "exposure": "good",
+    "issues": ""
+  },
+  "mood": [
+    "happy",
+    "optimistic",
+    "wholesome",
+    "friendship"
+  ],
+  "energy": "medium",
+  "tags": [
+    "rain",
+    "umbrella",
+    "friends",
+    "city",
+    "new york",
+    "sidewalk",
+    "rainy day",
+    "scaffolding",
+    "smiling",
+    "commute",
+    "urban",
+    "friendship"
+  ],
+  "moments": [
+    {
+      "start": 0.0,
+      "end": 2.73,
+      "action": "Two friends stand under umbrellas on a rainy city street sidewalk smiling and chatting",
+      "emotion": "cheerful, relaxed, amused",
+      "good_for": [
+        "friends who stick together through the rain",
+        "rainy day in the city",
+        "making the best of bad weather",
+        "finding joy in the little things"
+      ],
+      "score": 4
+    }
+  ]
+}

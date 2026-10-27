@@ -1,0 +1,116 @@
+{
+  "path": "OneOffs/Apartments/MurrayHills/150 East 39th Street/IMG_4204.MOV",
+  "folder": "OneOffs/Apartments/MurrayHills/150 East 39th Street",
+  "fingerprint": "a2640d25b11e71a4",
+  "width": 1080,
+  "height": 1920,
+  "fps": 30.0,
+  "duration": 47.403,
+  "model": "gemini-3.8-flash",
+  "annotatedAt": "2026-10-24T18:21:38+00:00",
+  "summary": "First-person POV walkthrough of a small studio apartment tour, showing the bathroom, closet, hardwood parquet room, and compact kitchen with a mini fridge.",
+  "location": "apartment",
+  "setting": "indoor",
+  "time_of_day": "day",
+  "weather": "n/a",
+  "people": {
+    "count": 2,
+    "creator_visible": true,
+    "description": "The creator is briefly visible filming in the bathroom mirror wearing black; a female companion wearing a black leather jacket walks through the main room."
+  },
+  "camera": {
+    "style": "pov_first_person",
+    "framing": "wide",
+    "movement": "walking",
+    "angle": "eye level"
+  },
+  "quality": {
+    "usable": true,
+    "stability": "handheld",
+    "exposure": "good",
+    "issues": "Occasional fast pans and slight motion blur while walking between rooms."
+  },
+  "mood": [
+    "curious",
+    "casual",
+    "mundane",
+    "exploratory"
+  ],
+  "energy": "medium",
+  "tags": [
+    "apartment tour",
+    "nyc apartment",
+    "apartment hunting",
+    "studio apartment",
+    "parquet floor",
+    "mini fridge",
+    "kitchenette",
+    "bathroom",
+    "closet",
+    "real estate",
+    "moving to the city",
+    "renter life"
+  ],
+  "moments": [
+    {
+      "start": 5.5,
+      "end": 8.5,
+      "action": "Camera pans into the bathroom showing checkerboard floors, vanity sink, and creator reflected in the mirror.",
+      "emotion": "curious",
+      "good_for": [
+        "apartment hunting",
+        "nyc studio reality",
+        "bathroom check"
+      ],
+      "score": 3
+    },
+    {
+      "start": 16.5,
+      "end": 19.0,
+      "action": "Camera walks out into the main living room showcasing glossy parquet wood floors and a street-facing window.",
+      "emotion": "pleasantly surprised",
+      "good_for": [
+        "hardwood floors",
+        "apartment hunting",
+        "finding a new place"
+      ],
+      "score": 4
+    },
+    {
+      "start": 23.5,
+      "end": 27.5,
+      "action": "Friend walks across the empty room with parquet flooring, framing the window and AC unit.",
+      "emotion": "evaluating",
+      "good_for": [
+        "apartment tour with friends",
+        "moving to new york",
+        "studio living"
+      ],
+      "score": 4
+    },
+    {
+      "start": 30.5,
+      "end": 35.0,
+      "action": "POV shot walking into tiny kitchenette showing compact gas stove, sink, and under-counter fridge.",
+      "emotion": "neutral",
+      "good_for": [
+        "tiny nyc kitchen",
+        "compact living",
+        "studio kitchenette"
+      ],
+      "score": 3
+    },
+    {
+      "start": 36.0,
+      "end": 44.5,
+      "action": "Hand opens the under-counter mini fridge and inspects the tiny freezer compartment door.",
+      "emotion": "amused",
+      "good_for": [
+        "tiny fridge struggles",
+        "nyc studio realities",
+        "renter compromises"
+      ],
+      "score": 4
+    }
+  ]
+}

@@ -1,0 +1,96 @@
+{
+  "path": "SelfShots/Mina/2.8_IMG_4926.MOV",
+  "folder": "SelfShots/Mina",
+  "fingerprint": "a6d85bd41e6ad55c",
+  "width": 1080,
+  "height": 1920,
+  "fps": 29.97,
+  "duration": 35.085,
+  "model": "gemini-3.8-flash",
+  "annotatedAt": "2026-10-24T18:55:58+00:00",
+  "summary": "A fluffy grey cat enthusiastically licks a squeezable tube treat while being gently stroked and petted on a wooden floor.",
+  "location": "living room",
+  "setting": "indoor",
+  "time_of_day": "day",
+  "weather": "n/a",
+  "people": {
+    "count": 1,
+    "creator_visible": false,
+    "description": "Only hands and arms of a person visible, holding the treat and petting the cat"
+  },
+  "camera": {
+    "style": "pov_first_person",
+    "framing": "close",
+    "movement": "handheld",
+    "angle": "eye level"
+  },
+  "quality": {
+    "usable": true,
+    "stability": "steady",
+    "exposure": "good",
+    "issues": ""
+  },
+  "mood": [
+    "cute",
+    "peaceful",
+    "affectionate",
+    "wholesome",
+    "cozy"
+  ],
+  "energy": "low",
+  "tags": [
+    "cat",
+    "pet",
+    "churu",
+    "cat treat",
+    "petting",
+    "grey cat",
+    "fluffy cat",
+    "domestic pet",
+    "cute animal",
+    "indoor pet",
+    "cat lover",
+    "wholesome moments"
+  ],
+  "moments": [
+    {
+      "start": 9.5,
+      "end": 18.5,
+      "action": "Close-up profile of the grey cat eagerly licking the red squeeze treat packet",
+      "emotion": "focused, content, eager",
+      "good_for": [
+        "little daily joys",
+        "spoiling my baby",
+        "treat time",
+        "peaceful afternoons",
+        "pet mom life"
+      ],
+      "score": 5
+    },
+    {
+      "start": 21.0,
+      "end": 26.5,
+      "action": "Owner scratches the cat under its chin while it continues happily eating the treat",
+      "emotion": "affectionate, pampered, blissful",
+      "good_for": [
+        "pure unconditional love",
+        "reasons to stay home",
+        "therapeutic moments",
+        "soft life era"
+      ],
+      "score": 4
+    },
+    {
+      "start": 27.0,
+      "end": 32.0,
+      "action": "Owner rubs behind the cat's ears as it finishes the treat and looks around",
+      "emotion": "loving, gentle, relaxed",
+      "good_for": [
+        "my best friend",
+        "simple happiness",
+        "taking care of my pet"
+      ],
+      "score": 4
+    }
+  ]
+}

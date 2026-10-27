@@ -1,0 +1,68 @@
+{
+  "path": "Cinematic/UES/IMG_4488.MOV",
+  "folder": "Cinematic/UES",
+  "fingerprint": "ac961b7fb476b373",
+  "width": 1080,
+  "height": 1920,
+  "fps": 30.0,
+  "duration": 4.167,
+  "model": "gemini-3.8-flash",
+  "annotatedAt": "2026-10-24T18:19:51+00:00",
+  "summary": "A peaceful street scene on the Upper East Side showing outdoor dining tables outside a restaurant and pedestrians walking along the sidewalk.",
+  "location": "city street",
+  "setting": "outdoor",
+  "time_of_day": "day",
+  "weather": "overcast",
+  "people": {
+    "count": 3,
+    "creator_visible": false,
+    "description": "Pedestrians walking down the sidewalk in the distance, including a person in a red jacket."
+  },
+  "camera": {
+    "style": "handheld_cinematic",
+    "framing": "medium",
+    "movement": "static",
+    "angle": "eye level"
+  },
+  "quality": {
+    "usable": true,
+    "stability": "steady",
+    "exposure": "good",
+    "issues": ""
+  },
+  "mood": [
+    "peaceful",
+    "calm",
+    "urban",
+    "autumn"
+  ],
+  "energy": "low",
+  "tags": [
+    "upper east side",
+    "new york city",
+    "ues",
+    "outdoor dining",
+    "restaurant patio",
+    "sidewalk",
+    "manhattan",
+    "cafe",
+    "b-roll",
+    "street view"
+  ],
+  "moments": [
+    {
+      "start": 0.0,
+      "end": 4.17,
+      "action": "A static shot of a quiet sidewalk with outdoor bistro tables outside a French bistro and pedestrians walking away in the distance",
+      "emotion": "calm",
+      "good_for": [
+        "quiet mornings in new york",
+        "city life",
+        "romanticizing my routine",
+        "neighborhood stroll",
+        "favorite spots in the city"
+      ],
+      "score": 4
+    }
+  ]
+}

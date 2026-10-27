@@ -1,0 +1,92 @@
+{
+  "path": "SelfShots/ClimbingGym/OnTheWall/10:22:26_Red_x25/IMG_5248.MOV",
+  "folder": "SelfShots/ClimbingGym/OnTheWall/10:22:26_Red_x25",
+  "fingerprint": "1e8eb8503f4dfd74",
+  "width": 1080,
+  "height": 1920,
+  "fps": 30.0,
+  "duration": 49.703,
+  "model": "gemini-3.8-flash",
+  "annotatedAt": "2026-10-24T18:50:46+00:00",
+  "summary": "A young man tackles a challenging red-hold bouldering problem at an indoor climbing gym, working his way up towards the top before losing grip and falling safely onto the mat.",
+  "location": "indoor climbing gym",
+  "setting": "indoor",
+  "time_of_day": "indoor_unknown",
+  "weather": "n/a",
+  "people": {
+    "count": 3,
+    "creator_visible": true,
+    "description": "Young male climber in a brown striped short-sleeve shirt and loose jeans climbing a bouldering wall; other gym-goers in the background."
+  },
+  "camera": {
+    "style": "tripod_static",
+    "framing": "wide",
+    "movement": "static",
+    "angle": "eye level"
+  },
+  "quality": {
+    "usable": true,
+    "stability": "locked",
+    "exposure": "good",
+    "issues": ""
+  },
+  "mood": [
+    "determined",
+    "athletic",
+    "focused",
+    "challenging"
+  ],
+  "energy": "medium",
+  "tags": [
+    "bouldering",
+    "rock climbing",
+    "climbing gym",
+    "fitness",
+    "workout",
+    "sports",
+    "fall",
+    "athletic",
+    "training",
+    "indoor climbing",
+    "chalk",
+    "holds"
+  ],
+  "moments": [
+    {
+      "start": 6.0,
+      "end": 14.5,
+      "action": "Climber begins route on low red holds and moves upward with steady foot placement",
+      "emotion": "focused",
+      "good_for": [
+        "starting a new hobby",
+        "trusting the process",
+        "first steps"
+      ],
+      "score": 4
+    },
+    {
+      "start": 20.0,
+      "end": 28.5,
+      "action": "Climber works through the mid-section of the route, shifting body weight carefully",
+      "emotion": "determined",
+      "good_for": [
+        "focus on your goals",
+        "pushing through resistance",
+        "getting stronger"
+      ],
+      "score": 4
+    },
+    {
+      "start": 37.0,
+      "end": 44.5,
+      "action": "Climber reaches for the high holds near the top, slips, and falls cleanly onto the padded floor",
+      "emotion": "intense to relieved",
+      "good_for": [
+        "falling and getting back up",
+        "trust me I tried",
+        "so close yet so far"
+      ],
+      "score": 5
+    }
+  ]
+}

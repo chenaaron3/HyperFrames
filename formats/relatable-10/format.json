@@ -1,0 +1,239 @@
+{
+  "id": "relatable-10",
+  "name": "Eldest daughters:",
+  "reference": "references/viral-formats/relatable-10.mp4",
+  "source": "/Users/aaron/Downloads/100 Viral Formats (Format Book)/Relatable/#10/#10.mp4",
+  "duration": 24.133,
+  "music": {
+    "from": "reference",
+    "title": "Original Audio"
+  },
+  "text": {
+    "y": 0.24,
+    "size": 49,
+    "weight": 700,
+    "lineHeight": 1.4,
+    "maxWidth": 900,
+    "style": "outline"
+  },
+  "lines": [
+    {
+      "id": "l1",
+      "start": 0.0,
+      "end": 0.0,
+      "ref": "Eldest daughters:",
+      "y": 0.24,
+      "measuredSize": 52,
+      "style": "plain_white_shadow",
+      "guide": ""
+    },
+    {
+      "id": "l2",
+      "start": 0.0,
+      "end": 0.9,
+      "ref": "“Repeat after me”",
+      "y": 0.268,
+      "measuredSize": 51,
+      "style": "plain_white_shadow",
+      "guide": ""
+    },
+    {
+      "id": "l3",
+      "start": 0.9,
+      "end": 1.4,
+      "ref": "Okay",
+      "y": 0.271,
+      "measuredSize": 38,
+      "style": "plain_white_shadow",
+      "guide": ""
+    },
+    {
+      "id": "l4",
+      "start": 1.4,
+      "end": 2.9,
+      "ref": "“I will”",
+      "y": 0.268,
+      "measuredSize": 51,
+      "style": "plain_white_shadow",
+      "guide": ""
+    },
+    {
+      "id": "l5",
+      "start": 2.9,
+      "end": 4.6,
+      "ref": "“ask for help”",
+      "y": 0.268,
+      "measuredSize": 51,
+      "style": "plain_white_shadow",
+      "guide": ""
+    },
+    {
+      "id": "l6",
+      "start": 4.6,
+      "end": 6.4,
+      "ref": "“when I need it”",
+      "y": 0.269,
+      "measuredSize": 49,
+      "style": "plain_white_shadow",
+      "guide": ""
+    },
+    {
+      "id": "l7",
+      "start": 6.4,
+      "end": 8.6,
+      "ref": "“because people care\nfor me”",
+      "y": 0.239,
+      "measuredSize": 39,
+      "style": "plain_white_shadow",
+      "guide": ""
+    },
+    {
+      "id": "l8",
+      "start": 8.6,
+      "end": 11.8,
+      "ref": "“and I don’t need to do\nthis alone”",
+      "y": 0.239,
+      "measuredSize": 51,
+      "style": "plain_white_shadow",
+      "guide": ""
+    },
+    {
+      "id": "l9",
+      "start": 11.8,
+      "end": 13.6,
+      "ref": "“Okay, now say the\nwhole thing together”",
+      "y": 0.24,
+      "measuredSize": 52,
+      "style": "plain_white_shadow",
+      "guide": ""
+    },
+    {
+      "id": "l10",
+      "start": 13.867,
+      "end": 15.8,
+      "ref": "“I will ask for help\nwhen I need it”",
+      "y": 0.239,
+      "measuredSize": 51,
+      "style": "plain_white_shadow",
+      "guide": ""
+    },
+    {
+      "id": "l11",
+      "start": 15.8,
+      "end": 17.3,
+      "ref": "“because people care\nfor me”",
+      "y": 0.239,
+      "measuredSize": 39,
+      "style": "plain_white_shadow",
+      "guide": ""
+    },
+    {
+      "id": "l12",
+      "start": 17.3,
+      "end": 18.8,
+      "ref": "“and I don’t need to\ndo this alone”",
+      "y": 0.239,
+      "measuredSize": 49,
+      "style": "plain_white_shadow",
+      "guide": ""
+    },
+    {
+      "id": "l13",
+      "start": 18.8,
+      "end": 19.6,
+      "ref": "I don’t know how",
+      "y": 0.269,
+      "measuredSize": 49,
+      "style": "plain_white_shadow",
+      "guide": ""
+    },
+    {
+      "id": "l14",
+      "start": 19.6,
+      "end": 20.3,
+      "ref": "but I’ll figure it out",
+      "y": 0.269,
+      "measuredSize": 49,
+      "style": "plain_white_shadow",
+      "guide": ""
+    },
+    {
+      "id": "l15",
+      "start": 20.3,
+      "end": 21.6,
+      "ref": "I’ll do it on my own",
+      "y": 0.269,
+      "measuredSize": 49,
+      "style": "plain_white_shadow",
+      "guide": ""
+    },
+    {
+      "id": "l16",
+      "start": 21.6,
+      "end": 22.2,
+      "ref": "I don’t wanna be",
+      "y": 0.271,
+      "measuredSize": 39,
+      "style": "plain_white_shadow",
+      "guide": ""
+    },
+    {
+      "id": "l17",
+      "start": 22.2,
+      "end": 23.033,
+      "ref": "a burden on anybody.",
+      "y": 0.271,
+      "measuredSize": 38,
+      "style": "plain_white_shadow",
+      "guide": ""
+    },
+    {
+      "id": "l18",
+      "start": 23.033,
+      "end": 23.6,
+      "ref": "“Wait, what?”",
+      "y": 0.269,
+      "measuredSize": 49,
+      "style": "plain_white_shadow",
+      "guide": ""
+    },
+    {
+      "id": "l19",
+      "start": 23.6,
+      "end": 24.133,
+      "ref": "“No!”",
+      "y": 0.265,
+      "measuredSize": 36,
+      "style": "plain_white_shadow",
+      "guide": ""
+    }
+  ],
+  "shots": [
+    {
+      "id": "s1",
+      "start": 0.0,
+      "end": 24.133,
+      "brief": "lip-syncing comedic skit inside a car (ref: Woman in sunglasses sitting in a parked car, applying lip gloss and lip-syncing comedic dialogue to camera.; selfie)",
+      "line": "l9"
+    }
+  ],
+  "audit": {
+    "kind": "skit_acting",
+    "creatorSpeaks": false,
+    "audio": "speech",
+    "special": [
+      "Car interior",
+      "Lip gloss or small makeup tube prop",
+      "Sunglasses",
+      "Precise comedic lip-syncing to the audio"
+    ],
+    "reusable": false,
+    "notes": "This video relies entirely on precise comedic acting and lip-syncing to specific comedic dialogue audio. It cannot be recreated using generic b-roll.",
+    "summary": "Sitting in her car, a woman lip-syncs to a comedic dialogue between a guide trying to teach positive affirmations and an 'eldest daughter' whose ingrained independent tendencies take over."
+  },
+  "caption": {
+    "ref": "",
+    "guide": ""
+  },
+  "draft": true
+}

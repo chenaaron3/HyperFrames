@@ -1,0 +1,78 @@
+{
+  "path": "OneOffs/BrooklynNight/IMG_4591 3.MOV",
+  "folder": "OneOffs/BrooklynNight",
+  "fingerprint": "2e638031e329e839",
+  "width": 1080,
+  "height": 1920,
+  "fps": 30.0,
+  "duration": 6.833,
+  "model": "gemini-3.8-flash",
+  "annotatedAt": "2026-10-24T18:24:26+00:00",
+  "summary": "A restaurant worker at a barbecue joint carves smoked brisket on a butcher block and places it onto a scale to be weighed.",
+  "location": "restaurant",
+  "setting": "indoor",
+  "time_of_day": "indoor_unknown",
+  "weather": "n/a",
+  "people": {
+    "count": 2,
+    "creator_visible": false,
+    "description": "A female food server in a black t-shirt, apron, bandana, and black gloves carving meat, with a female coworker standing next to her."
+  },
+  "camera": {
+    "style": "pov_first_person",
+    "framing": "medium",
+    "movement": "handheld",
+    "angle": "eye level"
+  },
+  "quality": {
+    "usable": true,
+    "stability": "steady",
+    "exposure": "good",
+    "issues": "Heat lamp slightly obscures part of the frame"
+  },
+  "mood": [
+    "authentic",
+    "appetizing",
+    "casual"
+  ],
+  "energy": "medium",
+  "tags": [
+    "bbq",
+    "barbecue",
+    "brisket",
+    "carving meat",
+    "butcher block",
+    "kitchen scale",
+    "brooklyn",
+    "restaurant",
+    "food service",
+    "meat",
+    "foodie"
+  ],
+  "moments": [
+    {
+      "start": 0.0,
+      "end": 2.2,
+      "action": "Server slices smoked brisket with a large carving knife on a wooden butcher block",
+      "emotion": "focused",
+      "good_for": [
+        "food on my plate",
+        "eating good tonight",
+        "supporting local spots"
+      ],
+      "score": 3
+    },
+    {
+      "start": 2.2,
+      "end": 6.83,
+      "action": "Server transfers a thick cut of brisket onto a digital scale to weigh it",
+      "emotion": "attentive",
+      "good_for": [
+        "best brisket in town",
+        "dinner time",
+        "food crawl brooklyn"
+      ],
+      "score": 4
+    }
+  ]
+}

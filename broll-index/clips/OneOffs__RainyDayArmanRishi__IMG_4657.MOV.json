@@ -1,0 +1,72 @@
+{
+  "path": "OneOffs/RainyDayArmanRishi/IMG_4657.MOV",
+  "folder": "OneOffs/RainyDayArmanRishi",
+  "fingerprint": "30160d84b7ea6fdd",
+  "width": 1080,
+  "height": 1920,
+  "fps": 29.97,
+  "duration": 2.567,
+  "model": "gemini-3.8-flash",
+  "annotatedAt": "2026-10-24T18:37:08+00:00",
+  "summary": "Friends clink small ceramic tea cups together in a toast over a wooden table at a tea house.",
+  "location": "restaurant",
+  "setting": "indoor",
+  "time_of_day": "indoor_unknown",
+  "weather": "n/a",
+  "people": {
+    "count": 3,
+    "creator_visible": false,
+    "description": "Hands and arms of three friends seated around a table, one wearing a silver ring."
+  },
+  "camera": {
+    "style": "pov_first_person",
+    "framing": "close",
+    "movement": "handheld",
+    "angle": "high angle"
+  },
+  "quality": {
+    "usable": true,
+    "stability": "handheld",
+    "exposure": "good",
+    "issues": ""
+  },
+  "mood": [
+    "warm",
+    "cozy",
+    "friendly",
+    "celebratory",
+    "peaceful"
+  ],
+  "energy": "medium",
+  "tags": [
+    "tea",
+    "tea ceremony",
+    "cheers",
+    "toast",
+    "friends",
+    "tea house",
+    "drink",
+    "ceramic",
+    "teapot",
+    "gathering",
+    "hangout",
+    "cozy vibes",
+    "friendship"
+  ],
+  "moments": [
+    {
+      "start": 0.0,
+      "end": 2.57,
+      "action": "Three friends tap their small ceramic cups of tea together in a cheers gesture above the table and pull back to drink.",
+      "emotion": "warm and connected",
+      "good_for": [
+        "good company",
+        "tea with friends",
+        "cheers to small moments",
+        "rainy day catchups",
+        "friends who listen"
+      ],
+      "score": 4
+    }
+  ]
+}

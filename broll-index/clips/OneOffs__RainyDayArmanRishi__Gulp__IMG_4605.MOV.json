@@ -1,0 +1,69 @@
+{
+  "path": "OneOffs/RainyDayArmanRishi/Gulp/IMG_4605.MOV",
+  "folder": "OneOffs/RainyDayArmanRishi/Gulp",
+  "fingerprint": "a436720ffaf93135",
+  "width": 1080,
+  "height": 1920,
+  "fps": 30.0,
+  "duration": 3.0,
+  "model": "gemini-3.8-flash",
+  "annotatedAt": "2026-10-24T18:35:42+00:00",
+  "summary": "Handheld pan across the exterior entrance and illuminated signs of Hue House and a cozy storefront bar/cafe window.",
+  "location": "city street",
+  "setting": "outdoor",
+  "time_of_day": "day",
+  "weather": "overcast",
+  "people": {
+    "count": 0,
+    "creator_visible": false,
+    "description": "No people visible on screen"
+  },
+  "camera": {
+    "style": "pov_first_person",
+    "framing": "medium",
+    "movement": "pan",
+    "angle": "eye level"
+  },
+  "quality": {
+    "usable": true,
+    "stability": "steady",
+    "exposure": "good",
+    "issues": "Slight lens glare from bright signs"
+  },
+  "mood": [
+    "cozy",
+    "urban",
+    "exploratory",
+    "calm"
+  ],
+  "energy": "low",
+  "tags": [
+    "storefront",
+    "hue house",
+    "signage",
+    "neon sign",
+    "cafe",
+    "bar",
+    "restaurant entrance",
+    "city walk",
+    "rainy day",
+    "urban exploration",
+    "street view"
+  ],
+  "moments": [
+    {
+      "start": 0.0,
+      "end": 3.0,
+      "action": "Camera smoothly pans right from the Hue House directory sign toward the warm, glowing storefront window and entrance",
+      "emotion": "calm, ambient",
+      "good_for": [
+        "finding hidden spots",
+        "rainy day city walk",
+        "trying new places",
+        "cafe hopping",
+        "city travel diary"
+      ],
+      "score": 3
+    }
+  ]
+}

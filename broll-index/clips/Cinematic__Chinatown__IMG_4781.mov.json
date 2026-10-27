@@ -1,0 +1,69 @@
+{
+  "path": "Cinematic/Chinatown/IMG_4781.mov",
+  "folder": "Cinematic/Chinatown",
+  "fingerprint": "7dd9d30b0cf06f49",
+  "width": 1080,
+  "height": 1920,
+  "fps": 30.0,
+  "duration": 4.4,
+  "model": "gemini-3.8-flash",
+  "annotatedAt": "2026-10-24T18:19:18+00:00",
+  "summary": "Two street vendors prepare food at a table stand on a sidewalk in Chinatown.",
+  "location": "city street",
+  "setting": "outdoor",
+  "time_of_day": "day",
+  "weather": "overcast",
+  "people": {
+    "count": 3,
+    "creator_visible": false,
+    "description": "Two middle-aged Asian men working at an outdoor food stand; one wearing a blue jacket and cap, the other in a navy polo shirt and glasses, with pedestrians walking by in the background."
+  },
+  "camera": {
+    "style": "handheld_cinematic",
+    "framing": "medium",
+    "movement": "static",
+    "angle": "eye level"
+  },
+  "quality": {
+    "usable": true,
+    "stability": "steady",
+    "exposure": "mixed",
+    "issues": "slightly washed out contrast"
+  },
+  "mood": [
+    "authentic",
+    "busy",
+    "urban",
+    "routine"
+  ],
+  "energy": "low",
+  "tags": [
+    "chinatown",
+    "street food",
+    "vendors",
+    "sidewalk",
+    "food stall",
+    "manhattan",
+    "new york city",
+    "working",
+    "preparation",
+    "urban life",
+    "street scene",
+    "culture"
+  ],
+  "moments": [
+    {
+      "start": 0.0,
+      "end": 4.4,
+      "action": "Two men standing beside an outdoor street stand covered with a tablecloth, wrapping and preparing food items",
+      "emotion": "focused",
+      "good_for": [
+        "chinatown walks",
+        "local food spots",
+        "supporting small businesses",
+        "city exploration"
+      ],
+      "score": 3
+    }
+  ]
+}

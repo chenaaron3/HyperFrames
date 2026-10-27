@@ -1,0 +1,72 @@
+{
+  "path": "OneOffs/BrooklynNight/IMG_4510 3.MOV",
+  "folder": "OneOffs/BrooklynNight",
+  "fingerprint": "372f552f0285d3f2",
+  "width": 1080,
+  "height": 1920,
+  "fps": 30.0,
+  "duration": 3.767,
+  "model": "gemini-3.8-flash",
+  "annotatedAt": "2026-10-24T18:22:30+00:00",
+  "summary": "A young man holds a selfie camera while walking along an NYC subway platform, capturing commuters and the train tracks behind him.",
+  "location": "subway platform",
+  "setting": "indoor",
+  "time_of_day": "indoor_unknown",
+  "weather": "n/a",
+  "people": {
+    "count": 7,
+    "creator_visible": true,
+    "description": "Young Asian man with wavy black hair, wearing a brown textured collared shirt, white crossbody bag strap, and white earbuds; other commuters stand in the background."
+  },
+  "camera": {
+    "style": "selfie",
+    "framing": "close",
+    "movement": "walking",
+    "angle": "eye level"
+  },
+  "quality": {
+    "usable": true,
+    "stability": "handheld",
+    "exposure": "good",
+    "issues": ""
+  },
+  "mood": [
+    "casual",
+    "urban",
+    "calm",
+    "observant",
+    "relatable"
+  ],
+  "energy": "medium",
+  "tags": [
+    "subway",
+    "nyc",
+    "metro",
+    "platform",
+    "commute",
+    "commuter",
+    "earbuds",
+    "selfie",
+    "city life",
+    "transit",
+    "brooklyn",
+    "walking",
+    "urban aesthetic"
+  ],
+  "moments": [
+    {
+      "start": 0.0,
+      "end": 3.77,
+      "action": "Creator holds phone up in a selfie while walking along a subway platform, looking directly into the camera with a gentle smirk",
+      "emotion": "calm, relaxed, understated confidence",
+      "good_for": [
+        "city commute",
+        "romanticizing public transit",
+        "on my way",
+        "listening to music on the subway",
+        "solo in the city"
+      ],
+      "score": 4
+    }
+  ]
+}

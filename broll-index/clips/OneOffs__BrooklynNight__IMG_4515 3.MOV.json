@@ -1,0 +1,71 @@
+{
+  "path": "OneOffs/BrooklynNight/IMG_4515 3.MOV",
+  "folder": "OneOffs/BrooklynNight",
+  "fingerprint": "b8ea729da7c219a6",
+  "width": 1080,
+  "height": 1920,
+  "fps": 30.0,
+  "duration": 2.533,
+  "model": "gemini-3.8-flash",
+  "annotatedAt": "2026-10-24T18:22:36+00:00",
+  "summary": "First-person POV walking under a crowded blue scaffolding walkway in New York City past people queuing and walking by a GU store opening.",
+  "location": "city street",
+  "setting": "outdoor",
+  "time_of_day": "day",
+  "weather": "sunny",
+  "people": {
+    "count": 15,
+    "creator_visible": false,
+    "description": "Diverse crowd of pedestrians in casual streetwear walking and waiting in line along a sidewalk under construction scaffolding"
+  },
+  "camera": {
+    "style": "pov_first_person",
+    "framing": "medium",
+    "movement": "walking",
+    "angle": "eye level"
+  },
+  "quality": {
+    "usable": true,
+    "stability": "handheld",
+    "exposure": "good",
+    "issues": ""
+  },
+  "mood": [
+    "urban",
+    "bustling",
+    "casual",
+    "gritty"
+  ],
+  "energy": "medium",
+  "tags": [
+    "new york city",
+    "nyc",
+    "scaffolding",
+    "sidewalk",
+    "pedestrians",
+    "crowd",
+    "soho",
+    "shopping line",
+    "streetwear",
+    "walking",
+    "city life",
+    "commute",
+    "gu"
+  ],
+  "moments": [
+    {
+      "start": 0.0,
+      "end": 2.53,
+      "action": "POV walking forward beneath blue overhead scaffolding and circular lights while passing a busy sidewalk crowd",
+      "emotion": "busy urban flow",
+      "good_for": [
+        "city that never sleeps",
+        "running errands in nyc",
+        "busy days",
+        "nyc energy",
+        "waiting in line for a pop up"
+      ],
+      "score": 3
+    }
+  ]
+}

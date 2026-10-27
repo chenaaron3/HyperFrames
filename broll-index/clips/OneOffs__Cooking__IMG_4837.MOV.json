@@ -1,0 +1,107 @@
+{
+  "path": "OneOffs/Cooking/IMG_4837.MOV",
+  "folder": "OneOffs/Cooking",
+  "fingerprint": "b71ac3517d34a9aa",
+  "width": 1080,
+  "height": 1920,
+  "fps": 29.97,
+  "duration": 100.422,
+  "model": "gemini-3.8-flash",
+  "annotatedAt": "2026-10-24T18:34:55+00:00",
+  "summary": "A group of friends gather around a living room coffee table to eat and enjoy a home-cooked meal together.",
+  "location": "living room",
+  "setting": "indoor",
+  "time_of_day": "indoor_unknown",
+  "weather": "n/a",
+  "people": {
+    "count": 4,
+    "creator_visible": true,
+    "description": "Four young adult men dressed casually in t-shirts and shorts sitting on a couch and floor around a low wooden table eating bowls of Thai food."
+  },
+  "camera": {
+    "style": "tripod_static",
+    "framing": "wide",
+    "movement": "static",
+    "angle": "high angle"
+  },
+  "quality": {
+    "usable": true,
+    "stability": "locked",
+    "exposure": "good",
+    "issues": ""
+  },
+  "mood": [
+    "cozy",
+    "wholesome",
+    "relaxed",
+    "friendly",
+    "communal"
+  ],
+  "energy": "low",
+  "tags": [
+    "friends eating",
+    "home cooking",
+    "dinner party",
+    "thai food",
+    "roommates",
+    "apartment living",
+    "mealtime",
+    "first bite",
+    "gathering",
+    "comfort food",
+    "casual hang"
+  ],
+  "moments": [
+    {
+      "start": 6.0,
+      "end": 14.0,
+      "action": "All four friends dig their chopsticks and forks in to take their first bite together",
+      "emotion": "anticipation, focused",
+      "good_for": [
+        "first bite",
+        "cooking for friends",
+        "food on my plate",
+        "wholesome moments"
+      ],
+      "score": 4
+    },
+    {
+      "start": 23.0,
+      "end": 32.0,
+      "action": "Friends react happily to the food, groaning in satisfaction and nodding",
+      "emotion": "delighted, satisfied",
+      "good_for": [
+        "when the food hits",
+        "home cooked meals",
+        "good food good company",
+        "chef approval"
+      ],
+      "score": 4
+    },
+    {
+      "start": 32.0,
+      "end": 40.0,
+      "action": "Friends eating peacefully while chatting about travel memories",
+      "emotion": "content, nostalgic",
+      "good_for": [
+        "friends feel like home",
+        "cozy dinners",
+        "comfort zone",
+        "roommate dinners"
+      ],
+      "score": 3
+    },
+    {
+      "start": 100.42,
+      "end": 100.42,
+      "action": "Friends sit together around the table eating and sharing a light laugh",
+      "emotion": "warm, casual",
+      "good_for": [
+        "dinner with the boys",
+        "low key nights",
+        "sharing food with friends"
+      ],
+      "score": 3
+    }
+  ]
+}

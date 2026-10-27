@@ -1,0 +1,71 @@
+{
+  "path": "OneOffs/RainyDayArmanRishi/IMG_4651.MOV",
+  "folder": "OneOffs/RainyDayArmanRishi",
+  "fingerprint": "f269f631ebd0c17a",
+  "width": 1080,
+  "height": 1920,
+  "fps": 29.97,
+  "duration": 2.5,
+  "model": "gemini-3.8-flash",
+  "annotatedAt": "2026-10-24T18:36:58+00:00",
+  "summary": "A close-up shot of a bright yellow flower in a small ceramic vase sitting on a wooden table beside a leather notebook.",
+  "location": "restaurant",
+  "setting": "indoor",
+  "time_of_day": "indoor_unknown",
+  "weather": "n/a",
+  "people": {
+    "count": 0,
+    "creator_visible": false,
+    "description": "No people visible on screen."
+  },
+  "camera": {
+    "style": "handheld_cinematic",
+    "framing": "close",
+    "movement": "static",
+    "angle": "high angle"
+  },
+  "quality": {
+    "usable": true,
+    "stability": "steady",
+    "exposure": "good",
+    "issues": ""
+  },
+  "mood": [
+    "calm",
+    "peaceful",
+    "aesthetic",
+    "cozy"
+  ],
+  "energy": "low",
+  "tags": [
+    "flower",
+    "yellow flower",
+    "vase",
+    "wooden table",
+    "leather notebook",
+    "cafe",
+    "restaurant",
+    "table setting",
+    "still life",
+    "aesthetic",
+    "rainy day",
+    "cozy vibes",
+    "detail shot"
+  ],
+  "moments": [
+    {
+      "start": 0.0,
+      "end": 2.5,
+      "action": "A static close-up shot focused on a bright yellow flower in a small ceramic vase resting on a wooden tabletop next to a leather book.",
+      "emotion": "calm",
+      "good_for": [
+        "appreciating the little things",
+        "cafe aesthetic",
+        "slow mornings",
+        "romanticizing your life",
+        "peaceful moments"
+      ],
+      "score": 4
+    }
+  ]
+}

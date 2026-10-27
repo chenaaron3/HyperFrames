@@ -1,0 +1,72 @@
+{
+  "path": "OneOffs/Eating/IMG_4870.MOV",
+  "folder": "OneOffs/Eating",
+  "fingerprint": "22e191d1f53d202f",
+  "width": 1080,
+  "height": 1920,
+  "fps": 30.0,
+  "duration": 7.567,
+  "model": "gemini-3.8-flash",
+  "annotatedAt": "2026-10-24T18:35:13+00:00",
+  "summary": "A peaceful wide shot of a solitary person fishing from a waterfront pier at twilight, looking out over the calm river toward distant city lights.",
+  "location": "waterfront pier",
+  "setting": "outdoor",
+  "time_of_day": "night",
+  "weather": "clear",
+  "people": {
+    "count": 1,
+    "creator_visible": false,
+    "description": "A person seen in silhouette from behind, sitting on a bucket or small stool by the railing, holding a fishing rod."
+  },
+  "camera": {
+    "style": "handheld_cinematic",
+    "framing": "wide",
+    "movement": "static",
+    "angle": "eye level"
+  },
+  "quality": {
+    "usable": true,
+    "stability": "steady",
+    "exposure": "good",
+    "issues": ""
+  },
+  "mood": [
+    "peaceful",
+    "solitary",
+    "calm",
+    "reflective",
+    "atmospheric"
+  ],
+  "energy": "low",
+  "tags": [
+    "fishing",
+    "pier",
+    "waterfront",
+    "twilight",
+    "dusk",
+    "blue hour",
+    "river",
+    "night skyline",
+    "solitude",
+    "peace of mind",
+    "city lights",
+    "calm waters",
+    "hobby"
+  ],
+  "moments": [
+    {
+      "start": 0.0,
+      "end": 7.57,
+      "action": "Static view of a person fishing in silhouette on a paved pier overlooking the water at dusk with glowing horizon colors and city lights across the bay",
+      "emotion": "calm",
+      "good_for": [
+        "finding peace in silence",
+        "late night thoughts",
+        "city after dark",
+        "unwinding alone",
+        "simple pleasures"
+      ],
+      "score": 4
+    }
+  ]
+}

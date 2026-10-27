@@ -1,0 +1,103 @@
+{
+  "path": "OneOffs/Cooking/IMG_4815.MOV",
+  "folder": "OneOffs/Cooking",
+  "fingerprint": "deeebf21331c0065",
+  "width": 1080,
+  "height": 1920,
+  "fps": 30.0,
+  "duration": 64.472,
+  "model": "gemini-3.8-flash",
+  "annotatedAt": "2026-10-24T18:25:14+00:00",
+  "summary": "Top-down view of someone mixing a savory Asian sauce, pouring oyster sauce, soy sauce, and fish sauce into a white bowl with a wooden spoon.",
+  "location": "kitchen",
+  "setting": "indoor",
+  "time_of_day": "indoor_unknown",
+  "weather": "n/a",
+  "people": {
+    "count": 1,
+    "creator_visible": false,
+    "description": "Only the hands of the cook are visible while measuring and mixing ingredients."
+  },
+  "camera": {
+    "style": "pov_first_person",
+    "framing": "medium",
+    "movement": "static",
+    "angle": "top-down"
+  },
+  "quality": {
+    "usable": true,
+    "stability": "steady",
+    "exposure": "good",
+    "issues": ""
+  },
+  "mood": [
+    "calm",
+    "focused",
+    "domestic"
+  ],
+  "energy": "low",
+  "tags": [
+    "cooking",
+    "recipe",
+    "sauce",
+    "oyster sauce",
+    "soy sauce",
+    "fish sauce",
+    "kitchen",
+    "meal prep",
+    "homemade",
+    "asian cuisine",
+    "top down"
+  ],
+  "moments": [
+    {
+      "start": 14.5,
+      "end": 25.0,
+      "action": "Pouring thick oyster sauce from a bottle onto a wooden spoon into a white ceramic bowl",
+      "emotion": "focused",
+      "good_for": [
+        "cooking from scratch",
+        "secret sauce recipe",
+        "meal prepping",
+        "dinner routine"
+      ],
+      "score": 4
+    },
+    {
+      "start": 36.5,
+      "end": 42.5,
+      "action": "Pouring Kikkoman soy sauce from a red-capped bottle into the bowl",
+      "emotion": "focused",
+      "good_for": [
+        "making dinner",
+        "recipe tutorial",
+        "comfort food prep"
+      ],
+      "score": 4
+    },
+    {
+      "start": 49.0,
+      "end": 59.0,
+      "action": "Pouring fish sauce from a bottle into the wooden spoon and bowl",
+      "emotion": "focused",
+      "good_for": [
+        "authentic flavors",
+        "home cooking",
+        "simple pleasures"
+      ],
+      "score": 4
+    },
+    {
+      "start": 59.5,
+      "end": 64.47,
+      "action": "Gently stirring the mixed dark sauces together in the bowl with a wooden spoon",
+      "emotion": "calm",
+      "good_for": [
+        "sauce ready",
+        "home chef vibes",
+        "comfort in cooking"
+      ],
+      "score": 4
+    }
+  ]
+}

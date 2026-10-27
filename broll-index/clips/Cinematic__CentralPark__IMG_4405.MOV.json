@@ -1,0 +1,71 @@
+{
+  "path": "Cinematic/CentralPark/IMG_4405.MOV",
+  "folder": "Cinematic/CentralPark",
+  "fingerprint": "c12de8f9d7892b24",
+  "width": 1080,
+  "height": 1920,
+  "fps": 30.0,
+  "duration": 3.2,
+  "model": "gemini-3.8-flash",
+  "annotatedAt": "2026-10-24T18:17:28+00:00",
+  "summary": "Handheld scenic shot in Central Park featuring a stone bridge, lush trees, pathway, and Midtown Manhattan skyscrapers under a bright sunny sky.",
+  "location": "park",
+  "setting": "outdoor",
+  "time_of_day": "day",
+  "weather": "sunny",
+  "people": {
+    "count": 1,
+    "creator_visible": false,
+    "description": "An unrecognizable distant silhouette of a person walking away down the path under the bridge"
+  },
+  "camera": {
+    "style": "pov_first_person",
+    "framing": "wide",
+    "movement": "pan",
+    "angle": "eye level"
+  },
+  "quality": {
+    "usable": true,
+    "stability": "steady",
+    "exposure": "good",
+    "issues": ""
+  },
+  "mood": [
+    "peaceful",
+    "scenic",
+    "serene",
+    "urban nature",
+    "inspiring"
+  ],
+  "energy": "low",
+  "tags": [
+    "central park",
+    "new york city",
+    "nyc",
+    "skyscrapers",
+    "park",
+    "trees",
+    "bridge",
+    "nature in the city",
+    "sunny day",
+    "walking",
+    "travel",
+    "manhattan"
+  ],
+  "moments": [
+    {
+      "start": 0.0,
+      "end": 3.2,
+      "action": "Camera slowly pans left from the sunlit pathway and stone bridge toward green lawn, dense foliage, and towering Midtown skyscrapers",
+      "emotion": "calm",
+      "good_for": [
+        "city walks",
+        "taking a breather",
+        "peace of mind",
+        "favorite place in the city",
+        "living in new york"
+      ],
+      "score": 4
+    }
+  ]
+}

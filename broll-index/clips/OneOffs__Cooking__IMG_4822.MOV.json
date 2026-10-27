@@ -1,0 +1,104 @@
+{
+  "path": "OneOffs/Cooking/IMG_4822.MOV",
+  "folder": "OneOffs/Cooking",
+  "fingerprint": "83d305a7ec5f4536",
+  "width": 1080,
+  "height": 1920,
+  "fps": 30.0,
+  "duration": 32.968,
+  "model": "gemini-3.8-flash",
+  "annotatedAt": "2026-10-24T18:27:29+00:00",
+  "summary": "A person adds ground meat to a hot skillet with sautéed onions and breaks it apart with a spatula on a gas stovetop.",
+  "location": "kitchen",
+  "setting": "indoor",
+  "time_of_day": "indoor_unknown",
+  "weather": "n/a",
+  "people": {
+    "count": 1,
+    "creator_visible": false,
+    "description": "Only hands and forearms visible wearing a silver bracelet, cooking at the stove"
+  },
+  "camera": {
+    "style": "pov_first_person",
+    "framing": "close",
+    "movement": "handheld_cinematic",
+    "angle": "high angle"
+  },
+  "quality": {
+    "usable": true,
+    "stability": "steady",
+    "exposure": "good",
+    "issues": ""
+  },
+  "mood": [
+    "productive",
+    "calm",
+    "domestic"
+  ],
+  "energy": "low",
+  "tags": [
+    "cooking",
+    "kitchen",
+    "food prep",
+    "ground meat",
+    "sautéing",
+    "skillet",
+    "stovetop",
+    "dinner prep",
+    "homemade",
+    "recipe"
+  ],
+  "moments": [
+    {
+      "start": 0.0,
+      "end": 3.4,
+      "action": "Diced onions gently sizzling and browning in a black skillet on a gas stove",
+      "emotion": "calm",
+      "good_for": [
+        "cooking dinner",
+        "home cooked meal",
+        "simple pleasures",
+        "slowing down"
+      ],
+      "score": 4
+    },
+    {
+      "start": 6.8,
+      "end": 10.5,
+      "action": "Hands sliding raw ground meat out of a styrofoam tray into the hot skillet",
+      "emotion": "focused",
+      "good_for": [
+        "cooking from scratch",
+        "prep work",
+        "meal prepping",
+        "making dinner"
+      ],
+      "score": 4
+    },
+    {
+      "start": 10.5,
+      "end": 17.5,
+      "action": "Using a metal spatula to press down and break apart the raw ground meat next to the onions",
+      "emotion": "focused",
+      "good_for": [
+        "cooking routine",
+        "nourishing meals",
+        "learning to cook"
+      ],
+      "score": 3
+    },
+    {
+      "start": 23.5,
+      "end": 32.5,
+      "action": "Actively mashing and breaking up the ground meat into crumbles in the skillet",
+      "emotion": "productive",
+      "good_for": [
+        "food on my plate",
+        "adulting",
+        "cooking at home",
+        "weeknight meals"
+      ],
+      "score": 4
+    }
+  ]
+}

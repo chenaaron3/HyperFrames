@@ -1,0 +1,85 @@
+{
+  "path": "SelfShots/MorningRoutine/3.4_IMG_4928.MOV",
+  "folder": "SelfShots/MorningRoutine",
+  "fingerprint": "aa0849e944a122e7",
+  "width": 1080,
+  "height": 1920,
+  "fps": 30.0,
+  "duration": 34.902,
+  "model": "gemini-3.8-flash",
+  "annotatedAt": "2026-10-24T19:00:44+00:00",
+  "summary": "A young man wearing a black coat and backpack walks down a long, glass-walled indoor skybridge hallway and then walks back toward the camera.",
+  "location": "hallway",
+  "setting": "indoor",
+  "time_of_day": "day",
+  "weather": "n/a",
+  "people": {
+    "count": 1,
+    "creator_visible": true,
+    "description": "Young East Asian man with dark wavy hair, wearing a long black coat, dark trousers, and a backpack"
+  },
+  "camera": {
+    "style": "tripod_static",
+    "framing": "wide",
+    "movement": "static",
+    "angle": "eye level"
+  },
+  "quality": {
+    "usable": true,
+    "stability": "locked",
+    "exposure": "good",
+    "issues": ""
+  },
+  "mood": [
+    "cinematic",
+    "calm",
+    "routine",
+    "solitary",
+    "stylish"
+  ],
+  "energy": "low",
+  "tags": [
+    "walking",
+    "hallway",
+    "corridor",
+    "skybridge",
+    "morning routine",
+    "commute",
+    "backpack",
+    "coat",
+    "aesthetic",
+    "lifestyle",
+    "symmetry",
+    "architecture",
+    "solo travel"
+  ],
+  "moments": [
+    {
+      "start": 2.5,
+      "end": 8.0,
+      "action": "Creator walks away down the center of the long symmetrical hallway with large glass windows",
+      "emotion": "calm",
+      "good_for": [
+        "on my way",
+        "starting the day",
+        "stepping into a new chapter",
+        "daily commute"
+      ],
+      "score": 4
+    },
+    {
+      "start": 24.5,
+      "end": 32.5,
+      "action": "Creator walks from the distance directly toward the camera down the glass-lined corridor",
+      "emotion": "confident and focused",
+      "good_for": [
+        "showing up every day",
+        "fit check",
+        "morning routine",
+        "locking in",
+        "city commute"
+      ],
+      "score": 5
+    }
+  ]
+}

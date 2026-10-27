@@ -1,0 +1,70 @@
+{
+  "path": "Cinematic/CentralPark/IMG_4465.MOV",
+  "folder": "Cinematic/CentralPark",
+  "fingerprint": "8b41b1a67107dce9",
+  "width": 1080,
+  "height": 1920,
+  "fps": 30.0,
+  "duration": 5.032,
+  "model": "gemini-3.8-flash",
+  "annotatedAt": "2026-10-24T18:18:42+00:00",
+  "summary": "Low-angle tracking shot looking up into lush green tree canopies in a park during the day.",
+  "location": "park",
+  "setting": "outdoor",
+  "time_of_day": "day",
+  "weather": "sunny",
+  "people": {
+    "count": 0,
+    "creator_visible": false,
+    "description": "No people visible"
+  },
+  "camera": {
+    "style": "pov_first_person",
+    "framing": "wide",
+    "movement": "tracking",
+    "angle": "low angle looking up"
+  },
+  "quality": {
+    "usable": true,
+    "stability": "steady",
+    "exposure": "good",
+    "issues": ""
+  },
+  "mood": [
+    "peaceful",
+    "serene",
+    "grounded",
+    "reflective"
+  ],
+  "energy": "low",
+  "tags": [
+    "central park",
+    "trees",
+    "canopy",
+    "nature",
+    "foliage",
+    "leaves",
+    "greenery",
+    "forest",
+    "woods",
+    "walking",
+    "peaceful",
+    "outdoors"
+  ],
+  "moments": [
+    {
+      "start": 0.0,
+      "end": 5.03,
+      "action": "Camera moves forward while pointing up toward tall green tree branches and the sky",
+      "emotion": "calm",
+      "good_for": [
+        "nature walks",
+        "touching grass",
+        "healing your inner child",
+        "sunday strolls",
+        "finding peace"
+      ],
+      "score": 4
+    }
+  ]
+}

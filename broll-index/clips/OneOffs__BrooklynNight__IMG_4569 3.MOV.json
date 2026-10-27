@@ -1,0 +1,69 @@
+{
+  "path": "OneOffs/BrooklynNight/IMG_4569 3.MOV",
+  "folder": "OneOffs/BrooklynNight",
+  "fingerprint": "845eedb33a107ad4",
+  "width": 1080,
+  "height": 1920,
+  "fps": 30.0,
+  "duration": 4.533,
+  "model": "gemini-3.8-flash",
+  "annotatedAt": "2026-10-24T18:24:00+00:00",
+  "summary": "Crowds of pedestrians walk along a bridge pedestrian path at night, with streetlights casting lens flares and the illuminated bridge tower visible in the background.",
+  "location": "bridge walkway",
+  "setting": "outdoor",
+  "time_of_day": "night",
+  "weather": "n/a",
+  "people": {
+    "count": 15,
+    "creator_visible": false,
+    "description": "Diverse crowd of pedestrians bundled in jackets walking along the walkway at night"
+  },
+  "camera": {
+    "style": "pov_first_person",
+    "framing": "medium",
+    "movement": "handheld_cinematic",
+    "angle": "eye level"
+  },
+  "quality": {
+    "usable": true,
+    "stability": "handheld",
+    "exposure": "dark",
+    "issues": "Lens flare streaks from streetlights, low-light noise"
+  },
+  "mood": [
+    "urban",
+    "atmospheric",
+    "busy",
+    "nightlife"
+  ],
+  "energy": "medium",
+  "tags": [
+    "brooklyn bridge",
+    "manhattan bridge",
+    "new york city",
+    "night walk",
+    "crowd",
+    "city lights",
+    "bridge",
+    "pedestrians",
+    "traffic",
+    "nighttime",
+    "urban aesthetic"
+  ],
+  "moments": [
+    {
+      "start": 0.0,
+      "end": 4.53,
+      "action": "Handheld view of a crowded bridge walkway at night with traffic on the right and illuminated suspension tower ahead",
+      "emotion": "ambient city energy",
+      "good_for": [
+        "city nights",
+        "late night walks",
+        "busy city life",
+        "new york energy",
+        "lost in the crowd"
+      ],
+      "score": 3
+    }
+  ]
+}

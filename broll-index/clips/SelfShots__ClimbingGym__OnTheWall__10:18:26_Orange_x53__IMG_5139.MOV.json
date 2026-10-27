@@ -1,0 +1,103 @@
+{
+  "path": "SelfShots/ClimbingGym/OnTheWall/10:18:26_Orange_x53/IMG_5139.MOV",
+  "folder": "SelfShots/ClimbingGym/OnTheWall/10:18:26_Orange_x53",
+  "fingerprint": "ab8ad321067717fb",
+  "width": 1080,
+  "height": 1920,
+  "fps": 30.0,
+  "duration": 60.172,
+  "model": "gemini-3.8-flash",
+  "annotatedAt": "2026-10-24T18:45:43+00:00",
+  "summary": "A young man tackles a challenging steep overhang bouldering problem in an indoor climbing gym, working his way up before eventually dropping onto the mat.",
+  "location": "climbing gym",
+  "setting": "indoor",
+  "time_of_day": "indoor_unknown",
+  "weather": "n/a",
+  "people": {
+    "count": 4,
+    "creator_visible": true,
+    "description": "Young Asian male climber wearing a grey tank top and wide-leg denim jeans, with other gym patrons walking or climbing in the background."
+  },
+  "camera": {
+    "style": "tripod_static",
+    "framing": "wide",
+    "movement": "static",
+    "angle": "eye level"
+  },
+  "quality": {
+    "usable": true,
+    "stability": "locked",
+    "exposure": "good",
+    "issues": "Occasional passersby walk briefly through the lower foreground."
+  },
+  "mood": [
+    "focused",
+    "athletic",
+    "challenging",
+    "active"
+  ],
+  "energy": "medium",
+  "tags": [
+    "bouldering",
+    "climbing gym",
+    "rock climbing",
+    "fitness",
+    "workout",
+    "indoor climbing",
+    "athletic",
+    "overhang",
+    "training",
+    "strength",
+    "active lifestyle"
+  ],
+  "moments": [
+    {
+      "start": 10.5,
+      "end": 18.5,
+      "action": "Climber starts on the lower steep overhang and establishes footing on the holds",
+      "emotion": "focused and deliberate",
+      "good_for": [
+        "starting a new challenge",
+        "trusting the process",
+        "first steps"
+      ],
+      "score": 4
+    },
+    {
+      "start": 21.0,
+      "end": 29.0,
+      "action": "Climber maneuvers through the steep angle, adjusting his feet and reaching for holds",
+      "emotion": "intense concentration",
+      "good_for": [
+        "working hard in silence",
+        "staying focused",
+        "core strength"
+      ],
+      "score": 4
+    },
+    {
+      "start": 32.0,
+      "end": 42.0,
+      "action": "Climber reaches up toward the top section of the overhang wall with high tension",
+      "emotion": "gritty determination",
+      "good_for": [
+        "almost there",
+        "pushing limits",
+        "giving it your all"
+      ],
+      "score": 4
+    },
+    {
+      "start": 48.0,
+      "end": 56.0,
+      "action": "Climber loses grip near the top, drops onto the safety mat, and gets up",
+      "emotion": "accepting defeat, ready to try again",
+      "good_for": [
+        "learning from failure",
+        "falling down and getting back up",
+        "gym fails"
+      ],
+      "score": 4
+    }
+  ]
+}

@@ -1,0 +1,104 @@
+{
+  "path": "SelfShots/ClimbingGym/Setup/HangBoard/IMG_5206.MOV",
+  "folder": "SelfShots/ClimbingGym/Setup/HangBoard",
+  "fingerprint": "502ce81e63ff858d",
+  "width": 1080,
+  "height": 1920,
+  "fps": 30.0,
+  "duration": 23.868,
+  "model": "gemini-3.8-flash",
+  "annotatedAt": "2026-10-24T18:53:32+00:00",
+  "summary": "In an indoor climbing gym, a young man walks up and performs a dead hang from an overhead wooden beam before dropping down and walking away.",
+  "location": "climbing gym",
+  "setting": "indoor",
+  "time_of_day": "indoor_unknown",
+  "weather": "n/a",
+  "people": {
+    "count": 3,
+    "creator_visible": true,
+    "description": "Young Asian man with fluffy dark hair wearing an open brown button-up shirt, gray tank top, and loose denim jeans; background climbers resting and walking."
+  },
+  "camera": {
+    "style": "tripod_static",
+    "framing": "medium",
+    "movement": "static",
+    "angle": "eye level"
+  },
+  "quality": {
+    "usable": true,
+    "stability": "locked",
+    "exposure": "good",
+    "issues": ""
+  },
+  "mood": [
+    "calm",
+    "athletic",
+    "casual",
+    "focused"
+  ],
+  "energy": "low",
+  "tags": [
+    "climbing gym",
+    "hangboard",
+    "dead hang",
+    "bouldering",
+    "grip strength",
+    "fitness",
+    "workout",
+    "hanging",
+    "strength training",
+    "calisthenics",
+    "warm up"
+  ],
+  "moments": [
+    {
+      "start": 3.7,
+      "end": 7.5,
+      "action": "Man walks into frame, shakes his hands, reaches up, and grabs the overhead wooden beam to hang",
+      "emotion": "focused and determined",
+      "good_for": [
+        "stepping up to the challenge",
+        "starting the workout",
+        "getting ready"
+      ],
+      "score": 3
+    },
+    {
+      "start": 7.5,
+      "end": 14.0,
+      "action": "Man performs a steady dead hang from the wooden beam, staring straight ahead with bent knees",
+      "emotion": "calm endurance",
+      "good_for": [
+        "holding on",
+        "just hang in there",
+        "decompression",
+        "daily discipline"
+      ],
+      "score": 4
+    },
+    {
+      "start": 14.0,
+      "end": 20.5,
+      "action": "Man continues holding the dead hang motionless before his grip releases",
+      "emotion": "concentrated effort",
+      "good_for": [
+        "tested limits",
+        "hang in there a little longer",
+        "building grip strength"
+      ],
+      "score": 3
+    },
+    {
+      "start": 20.5,
+      "end": 22.5,
+      "action": "Man drops down to his feet onto the mat and turns to walk off camera",
+      "emotion": "relieved and casual",
+      "good_for": [
+        "letting go",
+        "finished the set",
+        "onto the next"
+      ],
+      "score": 3
+    }
+  ]
+}

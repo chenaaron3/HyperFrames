@@ -1,0 +1,83 @@
+{
+  "path": "OneOffs/BrooklynNight/IMG_4507 3.MOV",
+  "folder": "OneOffs/BrooklynNight",
+  "fingerprint": "7b62498adbd76823",
+  "width": 1080,
+  "height": 1920,
+  "fps": 30.0,
+  "duration": 3.8,
+  "model": "gemini-3.8-flash",
+  "annotatedAt": "2026-10-24T18:22:28+00:00",
+  "summary": "A young man walks down a sunny city sidewalk under scaffolding while filming a smiling handheld selfie video.",
+  "location": "city street",
+  "setting": "outdoor",
+  "time_of_day": "day",
+  "weather": "sunny",
+  "people": {
+    "count": 2,
+    "creator_visible": true,
+    "description": "Young Asian man with wavy dark hair, wearing a brown knit polo shirt, AirPods, and carrying a cross-body bag, smiling at the camera; pedestrian walking ahead in background"
+  },
+  "camera": {
+    "style": "selfie",
+    "framing": "close",
+    "movement": "walking",
+    "angle": "eye level"
+  },
+  "quality": {
+    "usable": true,
+    "stability": "handheld",
+    "exposure": "good",
+    "issues": "natural walking motion bounce"
+  },
+  "mood": [
+    "cheerful",
+    "upbeat",
+    "relaxed",
+    "carefree"
+  ],
+  "energy": "medium",
+  "tags": [
+    "walking",
+    "selfie",
+    "smile",
+    "sidewalk",
+    "city",
+    "brooklyn",
+    "scaffolding",
+    "airpods",
+    "sunny",
+    "urban",
+    "street",
+    "commute",
+    "vlog"
+  ],
+  "moments": [
+    {
+      "start": 0.0,
+      "end": 2.7,
+      "action": "Creator walks down the sidewalk while looking directly into the camera lens with a wide, warm smile",
+      "emotion": "happy and relaxed",
+      "good_for": [
+        "sunny day walk",
+        "good mood",
+        "romanticizing life",
+        "living in the city",
+        "grateful for today"
+      ],
+      "score": 4
+    },
+    {
+      "start": 2.7,
+      "end": 3.8,
+      "action": "Creator turns his gaze forward toward the street as he keeps walking",
+      "emotion": "focused and casual",
+      "good_for": [
+        "on my way",
+        "daily commute",
+        "city stroll"
+      ],
+      "score": 3
+    }
+  ]
+}

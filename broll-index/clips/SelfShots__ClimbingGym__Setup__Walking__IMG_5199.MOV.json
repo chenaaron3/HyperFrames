@@ -1,0 +1,81 @@
+{
+  "path": "SelfShots/ClimbingGym/Setup/Walking/IMG_5199.MOV",
+  "folder": "SelfShots/ClimbingGym/Setup/Walking",
+  "fingerprint": "922ae85ecaec7f1d",
+  "width": 1080,
+  "height": 1920,
+  "fps": 30.0,
+  "duration": 12.8,
+  "model": "gemini-3.8-flash",
+  "annotatedAt": "2026-10-24T18:54:59+00:00",
+  "summary": "A young man holds the camera in selfie mode while walking through a climbing gym lobby past the check-in desk toward the bouldering walls.",
+  "location": "climbing gym",
+  "setting": "indoor",
+  "time_of_day": "indoor_unknown",
+  "weather": "n/a",
+  "people": {
+    "count": 4,
+    "creator_visible": true,
+    "description": "Young East Asian man with wavy dark hair, brown short-sleeve shirt over a tank top, backpack, and AirPods, holding a black jacket."
+  },
+  "camera": {
+    "style": "selfie",
+    "framing": "medium",
+    "movement": "walking",
+    "angle": "eye level"
+  },
+  "quality": {
+    "usable": true,
+    "stability": "handheld",
+    "exposure": "good",
+    "issues": "Opening and closing seconds tilt down toward the floor."
+  },
+  "mood": [
+    "casual",
+    "routine",
+    "calm"
+  ],
+  "energy": "medium",
+  "tags": [
+    "climbing gym",
+    "bouldering",
+    "vlog",
+    "walking",
+    "selfie",
+    "arrival",
+    "gym routine",
+    "fitness",
+    "active lifestyle",
+    "airpods",
+    "backpack",
+    "indoor sports"
+  ],
+  "moments": [
+    {
+      "start": 1.5,
+      "end": 5.0,
+      "action": "Creator walks through the entrance lobby past reception desk while filming himself in a selfie perspective.",
+      "emotion": "casual and calm",
+      "good_for": [
+        "arriving at the gym",
+        "routine habits",
+        "showing up for yourself",
+        "day in the life vlog"
+      ],
+      "score": 3
+    },
+    {
+      "start": 5.0,
+      "end": 10.5,
+      "action": "Creator continues walking into the main gym floor, turning slightly as colorful bouldering walls appear in the background.",
+      "emotion": "observant and focused",
+      "good_for": [
+        "entering the climbing gym",
+        "making time for hobbies",
+        "post-work workout",
+        "fitness journey"
+      ],
+      "score": 4
+    }
+  ]
+}

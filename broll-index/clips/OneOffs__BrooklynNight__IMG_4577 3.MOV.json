@@ -1,0 +1,81 @@
+{
+  "path": "OneOffs/BrooklynNight/IMG_4577 3.MOV",
+  "folder": "OneOffs/BrooklynNight",
+  "fingerprint": "991746e8b5a61f27",
+  "width": 1080,
+  "height": 1920,
+  "fps": 30.0,
+  "duration": 5.0,
+  "model": "gemini-3.8-flash",
+  "annotatedAt": "2026-10-24T18:24:10+00:00",
+  "summary": "A night view from the Brooklyn Bridge overlooking flowing car traffic, suspension cables, and the illuminated Lower Manhattan skyline with tourists looking out.",
+  "location": "brooklyn bridge",
+  "setting": "outdoor",
+  "time_of_day": "night",
+  "weather": "n/a",
+  "people": {
+    "count": 4,
+    "creator_visible": false,
+    "description": "Pedestrians on the bridge, including a woman in a lilac Adidas track jacket smiling toward the camera and another in an olive jacket admiring the city view."
+  },
+  "camera": {
+    "style": "handheld_cinematic",
+    "framing": "wide",
+    "movement": "pan",
+    "angle": "eye level"
+  },
+  "quality": {
+    "usable": true,
+    "stability": "steady",
+    "exposure": "good",
+    "issues": ""
+  },
+  "mood": [
+    "scenic",
+    "urban",
+    "reflective",
+    "wonder"
+  ],
+  "energy": "low",
+  "tags": [
+    "brooklyn bridge",
+    "manhattan skyline",
+    "one world trade center",
+    "night cityscape",
+    "traffic",
+    "city lights",
+    "travel",
+    "nyc",
+    "tourism",
+    "suspension bridge",
+    "night walk"
+  ],
+  "moments": [
+    {
+      "start": 0.0,
+      "end": 2.5,
+      "action": "Camera frames the illuminated Manhattan skyline and One World Trade Center through the bridge cables with people enjoying the view",
+      "emotion": "happy",
+      "good_for": [
+        "city of dreams",
+        "late night walks in new york",
+        "places that make you feel small",
+        "bucket list views"
+      ],
+      "score": 4
+    },
+    {
+      "start": 2.5,
+      "end": 5.0,
+      "action": "Camera pans right to show the vehicle traffic flowing between the suspension cables and pedestrians along the boardwalk walkway",
+      "emotion": "calm",
+      "good_for": [
+        "nyc nights",
+        "city lights",
+        "traffic flow",
+        "urban exploration"
+      ],
+      "score": 4
+    }
+  ]
+}

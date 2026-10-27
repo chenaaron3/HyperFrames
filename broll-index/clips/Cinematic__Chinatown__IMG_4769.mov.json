@@ -1,0 +1,71 @@
+{
+  "path": "Cinematic/Chinatown/IMG_4769.mov",
+  "folder": "Cinematic/Chinatown",
+  "fingerprint": "9187e479af482eb6",
+  "width": 1080,
+  "height": 1920,
+  "fps": 30.0,
+  "duration": 4.533,
+  "model": "gemini-3.8-flash",
+  "annotatedAt": "2026-10-24T18:19:03+00:00",
+  "summary": "A low-angle view of the rippling facade of 8 Spruce Street (the Gehry building) rising behind bare trees under a cloudy sky in Lower Manhattan.",
+  "location": "city park",
+  "setting": "outdoor",
+  "time_of_day": "day",
+  "weather": "overcast",
+  "people": {
+    "count": 0,
+    "creator_visible": false,
+    "description": "No people are clearly visible on screen."
+  },
+  "camera": {
+    "style": "handheld_cinematic",
+    "framing": "wide",
+    "movement": "static",
+    "angle": "low angle looking up"
+  },
+  "quality": {
+    "usable": true,
+    "stability": "steady",
+    "exposure": "dark",
+    "issues": "Slightly underexposed due to overcast sky"
+  },
+  "mood": [
+    "moody",
+    "urban",
+    "contemplative",
+    "cinematic",
+    "gloomy"
+  ],
+  "energy": "low",
+  "tags": [
+    "new york city",
+    "nyc",
+    "manhattan",
+    "8 spruce street",
+    "architecture",
+    "skyscraper",
+    "cloudy",
+    "overcast",
+    "cityscape",
+    "trees",
+    "downtown nyc",
+    "b-roll"
+  ],
+  "moments": [
+    {
+      "start": 0.0,
+      "end": 4.53,
+      "action": "Static low-angle shot gazing up at the tall metallic Gehry tower framed by park trees against an overcast sky",
+      "emotion": "contemplative",
+      "good_for": [
+        "concrete jungle",
+        "grey days in the city",
+        "city architecture appreciation",
+        "dreaming big",
+        "nyc living"
+      ],
+      "score": 3
+    }
+  ]
+}

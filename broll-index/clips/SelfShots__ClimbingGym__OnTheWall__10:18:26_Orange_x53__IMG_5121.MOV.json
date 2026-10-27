@@ -1,0 +1,82 @@
+{
+  "path": "SelfShots/ClimbingGym/OnTheWall/10:18:26_Orange_x53/IMG_5121.MOV",
+  "folder": "SelfShots/ClimbingGym/OnTheWall/10:18:26_Orange_x53",
+  "fingerprint": "59450159ee2997d0",
+  "width": 1080,
+  "height": 1920,
+  "fps": 30.0,
+  "duration": 16.067,
+  "model": "gemini-3.8-flash",
+  "annotatedAt": "2026-10-24T18:42:22+00:00",
+  "summary": "A young man boulder climbs an indoor wall with large volumes and colorful holds before slipping and dropping back onto the safety mat.",
+  "location": "climbing gym",
+  "setting": "indoor",
+  "time_of_day": "indoor_unknown",
+  "weather": "n/a",
+  "people": {
+    "count": 1,
+    "creator_visible": true,
+    "description": "Young man with dark hair wearing a light grey tank top and loose grey pants"
+  },
+  "camera": {
+    "style": "tripod_static",
+    "framing": "medium",
+    "movement": "static",
+    "angle": "eye level"
+  },
+  "quality": {
+    "usable": true,
+    "stability": "locked",
+    "exposure": "good",
+    "issues": "Empty wall for first 3 seconds and last 4 seconds"
+  },
+  "mood": [
+    "athletic",
+    "focused",
+    "active",
+    "effort"
+  ],
+  "energy": "medium",
+  "tags": [
+    "bouldering",
+    "climbing gym",
+    "indoor climbing",
+    "climbing holds",
+    "athletic",
+    "fitness",
+    "workout",
+    "sports",
+    "climbing attempt",
+    "falling off",
+    "chalk",
+    "grip strength"
+  ],
+  "moments": [
+    {
+      "start": 3.8,
+      "end": 9.2,
+      "action": "Climber mounts the wall, placing hands on green holds and stepping onto a black volume",
+      "emotion": "focused",
+      "good_for": [
+        "trusting the process",
+        "finding your footing",
+        "trying new hobbies",
+        "workout routine"
+      ],
+      "score": 4
+    },
+    {
+      "start": 9.2,
+      "end": 12.2,
+      "action": "Climber stretches upward to reach a higher hold, slips, and falls safely out of frame onto the mat",
+      "emotion": "determined then sudden release",
+      "good_for": [
+        "learning from failure",
+        "falling and getting back up",
+        "trusting the fall",
+        "trying your hardest"
+      ],
+      "score": 4
+    }
+  ]
+}

@@ -1,0 +1,70 @@
+{
+  "path": "OneOffs/Cooking/IMG_4824.MOV",
+  "folder": "OneOffs/Cooking",
+  "fingerprint": "b88f26dc723751c5",
+  "width": 1080,
+  "height": 1920,
+  "fps": 30.0,
+  "duration": 7.433,
+  "model": "gemini-3.8-flash",
+  "annotatedAt": "2026-10-24T18:25:27+00:00",
+  "summary": "Minced meat and diced aromatics simmer and sizzle in a black wok on a kitchen stovetop.",
+  "location": "kitchen",
+  "setting": "indoor",
+  "time_of_day": "indoor_unknown",
+  "weather": "n/a",
+  "people": {
+    "count": 0,
+    "creator_visible": false,
+    "description": "No people visible, POV of cooking on the stove."
+  },
+  "camera": {
+    "style": "pov_first_person",
+    "framing": "medium",
+    "movement": "static",
+    "angle": "high angle"
+  },
+  "quality": {
+    "usable": true,
+    "stability": "steady",
+    "exposure": "good",
+    "issues": ""
+  },
+  "mood": [
+    "calm",
+    "cozy",
+    "domestic",
+    "satisfying"
+  ],
+  "energy": "low",
+  "tags": [
+    "cooking",
+    "wok",
+    "sautéing",
+    "dinner",
+    "food prep",
+    "stovetop",
+    "minced meat",
+    "homemade",
+    "kitchen",
+    "meal prep",
+    "sizzle",
+    "recipe"
+  ],
+  "moments": [
+    {
+      "start": 0.0,
+      "end": 7.43,
+      "action": "Ground meat and aromatics simmer gently in oil inside a hot wok on the stove",
+      "emotion": "calm",
+      "good_for": [
+        "home cooked meals",
+        "making dinner",
+        "food on my plate",
+        "peaceful evening routine",
+        "learning to cook"
+      ],
+      "score": 4
+    }
+  ]
+}

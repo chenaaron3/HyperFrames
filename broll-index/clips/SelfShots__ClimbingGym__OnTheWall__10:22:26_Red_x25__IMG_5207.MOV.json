@@ -1,0 +1,107 @@
+{
+  "path": "SelfShots/ClimbingGym/OnTheWall/10:22:26_Red_x25/IMG_5207.MOV",
+  "folder": "SelfShots/ClimbingGym/OnTheWall/10:22:26_Red_x25",
+  "fingerprint": "98f0d9ee4b87a3e0",
+  "width": 1080,
+  "height": 1920,
+  "fps": 120.0,
+  "duration": 17.592,
+  "model": "gemini-3.8-flash",
+  "annotatedAt": "2026-10-24T18:46:53+00:00",
+  "summary": "A young man at an indoor bouldering gym tastes an energy drink and repeatedly makes disgusted, funny faces at the bad flavor.",
+  "location": "climbing gym",
+  "setting": "indoor",
+  "time_of_day": "indoor_unknown",
+  "weather": "n/a",
+  "people": {
+    "count": 1,
+    "creator_visible": true,
+    "description": "Young East Asian man with curly/wavy dark hair, silver necklace, wireless earbuds, wearing a brown textured button-up over a white tank top"
+  },
+  "camera": {
+    "style": "selfie",
+    "framing": "close",
+    "movement": "handheld",
+    "angle": "eye level"
+  },
+  "quality": {
+    "usable": true,
+    "stability": "steady",
+    "exposure": "good",
+    "issues": "Brief blur/lens block when holding the can too close between 00:01 and 00:03"
+  },
+  "mood": [
+    "funny",
+    "relatable",
+    "disgusted",
+    "confused",
+    "playful"
+  ],
+  "energy": "medium",
+  "tags": [
+    "climbing gym",
+    "bouldering wall",
+    "taste test",
+    "energy drink",
+    "celsius",
+    "funny reaction",
+    "grimace",
+    "disgust",
+    "pre workout",
+    "fitness",
+    "bouldering",
+    "workout session"
+  ],
+  "moments": [
+    {
+      "start": 3.4,
+      "end": 6.2,
+      "action": "Creator takes a sip of Celsius from the can and starts swallowing with a skeptical expression",
+      "emotion": "skeptical",
+      "good_for": [
+        "trying something new",
+        "pre-workout ritual",
+        "hydration check"
+      ],
+      "score": 4
+    },
+    {
+      "start": 6.2,
+      "end": 9.3,
+      "action": "Creator makes a severe cringe and disgusted grimace, staring down at the can in shock",
+      "emotion": "disgusted",
+      "good_for": [
+        "regretting my choices",
+        "worst flavor ever",
+        "that did not taste right",
+        "instant regret"
+      ],
+      "score": 5
+    },
+    {
+      "start": 9.3,
+      "end": 11.5,
+      "action": "Creator shows the can label to the camera while wearing an appalled, pouting face",
+      "emotion": "appalled",
+      "good_for": [
+        "do not buy this",
+        "reviewing the worst drink",
+        "who made this flavor"
+      ],
+      "score": 4
+    },
+    {
+      "start": 11.5,
+      "end": 16.5,
+      "action": "Creator takes a second sip to double check, only to make another intense grimace and shake his head",
+      "emotion": "reluctant disappointment",
+      "good_for": [
+        "giving it a second chance",
+        "nope still awful",
+        "repeating bad decisions",
+        "second thoughts"
+      ],
+      "score": 5
+    }
+  ]
+}

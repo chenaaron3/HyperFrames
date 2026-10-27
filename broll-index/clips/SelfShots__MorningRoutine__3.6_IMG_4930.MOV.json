@@ -1,0 +1,80 @@
+{
+  "path": "SelfShots/MorningRoutine/3.6_IMG_4930.MOV",
+  "folder": "SelfShots/MorningRoutine",
+  "fingerprint": "76f2b4e957ef2730",
+  "width": 1080,
+  "height": 1920,
+  "fps": 30.0,
+  "duration": 24.268,
+  "model": "gemini-3.8-flash",
+  "annotatedAt": "2026-10-24T19:00:49+00:00",
+  "summary": "A static wide shot of a spacious, modern building lobby with glass entrance doors as people walk through, ending with the creator walking back toward the camera.",
+  "location": "office lobby",
+  "setting": "indoor",
+  "time_of_day": "day",
+  "weather": "sunny",
+  "people": {
+    "count": 3,
+    "creator_visible": true,
+    "description": "The creator (young East Asian male in a black coat and pants) and other pedestrians entering and exiting through the lobby doors."
+  },
+  "camera": {
+    "style": "tripod_static",
+    "framing": "wide",
+    "movement": "static",
+    "angle": "eye level"
+  },
+  "quality": {
+    "usable": true,
+    "stability": "locked",
+    "exposure": "good",
+    "issues": ""
+  },
+  "mood": [
+    "routine",
+    "modern",
+    "urban",
+    "calm"
+  ],
+  "energy": "low",
+  "tags": [
+    "lobby",
+    "office building",
+    "modern architecture",
+    "commute",
+    "entrance",
+    "walking",
+    "corporate",
+    "revolving door",
+    "morning routine",
+    "city life"
+  ],
+  "moments": [
+    {
+      "start": 12.0,
+      "end": 16.5,
+      "action": "A man in a coat enters through the doors and walks across the lobby while talking on the phone",
+      "emotion": "busy",
+      "good_for": [
+        "arriving at work",
+        "corporate life",
+        "commute",
+        "city routine"
+      ],
+      "score": 3
+    },
+    {
+      "start": 16.8,
+      "end": 22.0,
+      "action": "The creator in a black overcoat walks from the entrance directly toward the camera",
+      "emotion": "composed",
+      "good_for": [
+        "entering the building",
+        "morning commute",
+        "corporate fashion",
+        "showing up every day"
+      ],
+      "score": 4
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "path": "OneOffs/Apartments/FIDI/63WS/IMG_4348.MOV",
+  "folder": "OneOffs/Apartments/FIDI/63WS",
+  "fingerprint": "696904759a97e0fb",
+  "width": 1080,
+  "height": 1920,
+  "fps": 29.97,
+  "duration": 2.702,
+  "model": "gemini-3.8-flash",
+  "annotatedAt": "2026-10-24T18:20:24+00:00",
+  "summary": "A quick wide pan across a shared residential laundry room showing rows of washing machines and dryers.",
+  "location": "laundry room",
+  "setting": "indoor",
+  "time_of_day": "indoor_unknown",
+  "weather": "n/a",
+  "people": {
+    "count": 0,
+    "creator_visible": false,
+    "description": "No people visible"
+  },
+  "camera": {
+    "style": "pov_first_person",
+    "framing": "wide",
+    "movement": "pan",
+    "angle": "eye level"
+  },
+  "quality": {
+    "usable": true,
+    "stability": "steady",
+    "exposure": "good",
+    "issues": ""
+  },
+  "mood": [
+    "mundane",
+    "routine",
+    "neutral"
+  ],
+  "energy": "low",
+  "tags": [
+    "laundry room",
+    "washing machines",
+    "dryers",
+    "apartment amenities",
+    "chores",
+    "errands",
+    "city apartment",
+    "communal laundry",
+    "domestic routine",
+    "clean clothes"
+  ],
+  "moments": [
+    {
+      "start": 0.0,
+      "end": 2.7,
+      "action": "Camera pans slowly across a commercial-style communal laundry room with front-loading washing machines and dryers",
+      "emotion": "calm",
+      "good_for": [
+        "doing laundry",
+        "apartment hunting",
+        "chore day",
+        "adulting tasks",
+        "city apartment living"
+      ],
+      "score": 3
+    }
+  ]
+}

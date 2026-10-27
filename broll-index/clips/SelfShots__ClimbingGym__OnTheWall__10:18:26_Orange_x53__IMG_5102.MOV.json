@@ -1,0 +1,82 @@
+{
+  "path": "SelfShots/ClimbingGym/OnTheWall/10:18:26_Orange_x53/IMG_5102.MOV",
+  "folder": "SelfShots/ClimbingGym/OnTheWall/10:18:26_Orange_x53",
+  "fingerprint": "8837ddf9315f14eb",
+  "width": 1080,
+  "height": 1920,
+  "fps": 30.0,
+  "duration": 29.402,
+  "model": "gemini-3.8-flash",
+  "annotatedAt": "2026-10-24T18:40:21+00:00",
+  "summary": "A young man attempts a dynamic bouldering move twice on a climbing wall in an indoor gym, falling onto the mat on both attempts.",
+  "location": "climbing gym",
+  "setting": "indoor",
+  "time_of_day": "indoor_unknown",
+  "weather": "n/a",
+  "people": {
+    "count": 2,
+    "creator_visible": true,
+    "description": "Young Asian man with dark hair wearing a light blue short-sleeved button-up shirt and loose grey pants; another person briefly walks by in the foreground."
+  },
+  "camera": {
+    "style": "tripod_static",
+    "framing": "wide",
+    "movement": "static",
+    "angle": "eye level"
+  },
+  "quality": {
+    "usable": true,
+    "stability": "locked",
+    "exposure": "good",
+    "issues": ""
+  },
+  "mood": [
+    "active",
+    "determined",
+    "humorous",
+    "sporty"
+  ],
+  "energy": "medium",
+  "tags": [
+    "bouldering",
+    "rock climbing",
+    "climbing gym",
+    "dyno",
+    "fall",
+    "fail",
+    "indoor climbing",
+    "workout",
+    "athletic",
+    "climbing wall",
+    "sports",
+    "persistence"
+  ],
+  "moments": [
+    {
+      "start": 7.0,
+      "end": 12.5,
+      "action": "Climber sets up on low purple holds, launches upward into a dyno, misses, and falls onto the padded mat",
+      "emotion": "focused effort turning into surprise",
+      "good_for": [
+        "first attempt",
+        "trying new things",
+        "failing forward",
+        "workout bloopers"
+      ],
+      "score": 4
+    },
+    {
+      "start": 16.0,
+      "end": 24.5,
+      "action": "Climber focuses and prepares on the wall before launching into a second dynamic leap and slipping off the wall",
+      "emotion": "determined focus followed by defeat",
+      "good_for": [
+        "falling 7 times getting up 8",
+        "trust the process",
+        "gym fails",
+        "not giving up"
+      ],
+      "score": 4
+    }
+  ]
+}

@@ -1,0 +1,109 @@
+{
+  "path": "SelfShots/Working/IMG_5002.MOV",
+  "folder": "SelfShots/Working",
+  "fingerprint": "461a801f894ed041",
+  "width": 1080,
+  "height": 1920,
+  "fps": 29.97,
+  "duration": 40.288,
+  "model": "gemini-3.8-flash",
+  "annotatedAt": "2026-10-24T19:03:05+00:00",
+  "summary": "A young man sits down at a high-top counter in a modern cafe, opens his laptop, sips an iced drink, and begins working.",
+  "location": "cafe",
+  "setting": "indoor",
+  "time_of_day": "day",
+  "weather": "n/a",
+  "people": {
+    "count": 1,
+    "creator_visible": true,
+    "description": "Young Asian man with wavy dark hair and earring, wearing a brown textured short-sleeve collared shirt"
+  },
+  "camera": {
+    "style": "tripod_static",
+    "framing": "medium",
+    "movement": "static",
+    "angle": "high angle"
+  },
+  "quality": {
+    "usable": true,
+    "stability": "locked",
+    "exposure": "good",
+    "issues": ""
+  },
+  "mood": [
+    "productive",
+    "calm",
+    "focused",
+    "aesthetic",
+    "peaceful"
+  ],
+  "energy": "low",
+  "tags": [
+    "cafe",
+    "coffee shop",
+    "laptop",
+    "remote work",
+    "freelance",
+    "iced latte",
+    "coding",
+    "study with me",
+    "digital nomad",
+    "work routine",
+    "pastry",
+    "morning routine"
+  ],
+  "moments": [
+    {
+      "start": 3.5,
+      "end": 7.0,
+      "action": "Man sits on stool and opens his laptop on the cafe counter next to his drink and pastry",
+      "emotion": "focused",
+      "good_for": [
+        "time to lock in",
+        "work from cafe",
+        "setting up for the day",
+        "remote workday"
+      ],
+      "score": 4
+    },
+    {
+      "start": 7.0,
+      "end": 11.5,
+      "action": "Man takes a slow sip from his iced latte while staring attentively at his laptop screen",
+      "emotion": "relaxed",
+      "good_for": [
+        "fuel for the grind",
+        "iced coffee addict",
+        "working outside the house",
+        "daily coffee fix"
+      ],
+      "score": 5
+    },
+    {
+      "start": 11.5,
+      "end": 17.5,
+      "action": "Man sets drink down and types actively on the laptop keyboard",
+      "emotion": "focused",
+      "good_for": [
+        "working on my dreams",
+        "deep work session",
+        "grinding in silence",
+        "side hustle progress"
+      ],
+      "score": 4
+    },
+    {
+      "start": 26.5,
+      "end": 34.0,
+      "action": "Man rests his hand against his chin while reading his laptop screen and clicking the trackpad",
+      "emotion": "thoughtful",
+      "good_for": [
+        "debugging my life",
+        "overthinking the plan",
+        "remote work lifestyle",
+        "studying for finals"
+      ],
+      "score": 4
+    }
+  ]
+}

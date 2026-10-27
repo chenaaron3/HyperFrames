@@ -1,0 +1,109 @@
+{
+  "path": "OneOffs/Cooking/IMG_4817.MOV",
+  "folder": "OneOffs/Cooking",
+  "fingerprint": "472474751c35f46e",
+  "width": 1080,
+  "height": 1920,
+  "fps": 30.0,
+  "duration": 27.202,
+  "model": "gemini-3.8-flash",
+  "annotatedAt": "2026-10-24T18:25:13+00:00",
+  "summary": "Hands drop sliced Thai eggplants from a white bowl into a simmering pot of curry on a stovetop, then stir it with a spatula.",
+  "location": "kitchen",
+  "setting": "indoor",
+  "time_of_day": "indoor_unknown",
+  "weather": "n/a",
+  "people": {
+    "count": 1,
+    "creator_visible": false,
+    "description": "Person's hands adding chopped vegetables and stirring curry on a gas stove"
+  },
+  "camera": {
+    "style": "pov_first_person",
+    "framing": "close",
+    "movement": "handheld",
+    "angle": "high angle"
+  },
+  "quality": {
+    "usable": true,
+    "stability": "steady",
+    "exposure": "good",
+    "issues": ""
+  },
+  "mood": [
+    "cozy",
+    "domestic",
+    "satisfying",
+    "calm"
+  ],
+  "energy": "low",
+  "tags": [
+    "cooking",
+    "curry",
+    "thai eggplant",
+    "kitchen",
+    "stovetop",
+    "homemade",
+    "food prep",
+    "soup",
+    "simmering",
+    "stirring",
+    "culinary",
+    "meal prep"
+  ],
+  "moments": [
+    {
+      "start": 2.0,
+      "end": 9.5,
+      "action": "Hands picking up sliced Thai eggplants from a bowl and dropping them into a simmering pot of curry",
+      "emotion": "focused",
+      "good_for": [
+        "cooking from scratch",
+        "home cooked meal",
+        "making dinner",
+        "food on my plate",
+        "comfort food"
+      ],
+      "score": 4
+    },
+    {
+      "start": 10.0,
+      "end": 14.0,
+      "action": "Close-up of the yellow curry bubbling gently in the pot on the burner flame",
+      "emotion": "calm",
+      "good_for": [
+        "food boiling",
+        "dinner prep",
+        "smells so good",
+        "slow living"
+      ],
+      "score": 4
+    },
+    {
+      "start": 14.0,
+      "end": 22.0,
+      "action": "Stirring the sliced eggplants and bubbling curry with a grey spatula",
+      "emotion": "satisfying",
+      "good_for": [
+        "dinner routine",
+        "cooking therapy",
+        "evening reset",
+        "learning to cook"
+      ],
+      "score": 4
+    },
+    {
+      "start": 22.0,
+      "end": 27.2,
+      "action": "Curry bubbling warmly in the pot after being stirred, with the spatula tapped gently",
+      "emotion": "peaceful",
+      "good_for": [
+        "warm meal",
+        "ready to eat",
+        "culinary comfort",
+        "simple pleasures"
+      ],
+      "score": 4
+    }
+  ]
+}

@@ -1,0 +1,93 @@
+{
+  "path": "OneOffs/Apartments/MurrayHills/150 East 39th Street/IMG_4195.MOV",
+  "folder": "OneOffs/Apartments/MurrayHills/150 East 39th Street",
+  "fingerprint": "c953f34aefbfc195",
+  "width": 1080,
+  "height": 1920,
+  "fps": 30.0,
+  "duration": 28.035,
+  "model": "gemini-3.8-flash",
+  "annotatedAt": "2026-10-24T18:21:17+00:00",
+  "summary": "First-person walkthrough tour of an empty studio apartment in Murray Hill, showcasing the kitchenette, closet space, and city view from the window.",
+  "location": "apartment",
+  "setting": "indoor",
+  "time_of_day": "day",
+  "weather": "overcast",
+  "people": {
+    "count": 2,
+    "creator_visible": false,
+    "description": "Person filming is in POV (only hand seen opening door); another person briefly visible from waist down wearing dark pants and sneakers."
+  },
+  "camera": {
+    "style": "pov_first_person",
+    "framing": "wide",
+    "movement": "walking",
+    "angle": "eye level"
+  },
+  "quality": {
+    "usable": true,
+    "stability": "handheld",
+    "exposure": "good",
+    "issues": "quick pans cause occasional motion blur"
+  },
+  "mood": [
+    "curious",
+    "urban",
+    "anticipatory",
+    "practical"
+  ],
+  "energy": "low",
+  "tags": [
+    "apartment tour",
+    "studio apartment",
+    "nyc apartment",
+    "murray hill",
+    "real estate",
+    "house hunting",
+    "apartment hunting",
+    "window view",
+    "cityscape",
+    "closet",
+    "kitchenette",
+    "hardwood floors"
+  ],
+  "moments": [
+    {
+      "start": 5.0,
+      "end": 7.5,
+      "action": "Camera pans across compact white kitchen cabinets, small gas stove, and sink",
+      "emotion": "neutral",
+      "good_for": [
+        "apartment hunting in nyc",
+        "small kitchen realities",
+        "first apartment"
+      ],
+      "score": 3
+    },
+    {
+      "start": 12.5,
+      "end": 17.0,
+      "action": "Hand opens the closet door to reveal an empty walk-in closet space",
+      "emotion": "curious",
+      "good_for": [
+        "closet space check",
+        "apartment hunting essentials",
+        "unpacking soon"
+      ],
+      "score": 3
+    },
+    {
+      "start": 22.0,
+      "end": 28.0,
+      "action": "Camera moves across the wooden floor towards the window, looking out over New York City rooftops and buildings",
+      "emotion": "calm",
+      "good_for": [
+        "nyc living",
+        "city views",
+        "new beginnings",
+        "finding an apartment"
+      ],
+      "score": 4
+    }
+  ]
+}

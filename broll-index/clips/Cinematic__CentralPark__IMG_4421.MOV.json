@@ -1,0 +1,69 @@
+{
+  "path": "Cinematic/CentralPark/IMG_4421.MOV",
+  "folder": "Cinematic/CentralPark",
+  "fingerprint": "b094d1a57448878a",
+  "width": 1080,
+  "height": 1920,
+  "fps": 30.0,
+  "duration": 1.698,
+  "model": "gemini-3.8-flash",
+  "annotatedAt": "2026-10-24T18:17:48+00:00",
+  "summary": "A scenic static shot of a large balanced boulder nestled among lush green trees in Central Park under dappled sunlight.",
+  "location": "park",
+  "setting": "outdoor",
+  "time_of_day": "day",
+  "weather": "sunny",
+  "people": {
+    "count": 0,
+    "creator_visible": false,
+    "description": "No people visible"
+  },
+  "camera": {
+    "style": "handheld_cinematic",
+    "framing": "medium",
+    "movement": "static",
+    "angle": "eye level"
+  },
+  "quality": {
+    "usable": true,
+    "stability": "steady",
+    "exposure": "good",
+    "issues": ""
+  },
+  "mood": [
+    "peaceful",
+    "serene",
+    "natural",
+    "still"
+  ],
+  "energy": "low",
+  "tags": [
+    "central park",
+    "rock",
+    "boulder",
+    "glacial erratic",
+    "nature",
+    "trees",
+    "foliage",
+    "sunlight",
+    "peaceful",
+    "scenic",
+    "new york city"
+  ],
+  "moments": [
+    {
+      "start": 0.0,
+      "end": 1.7,
+      "action": "Static shot of a large rock balancing precariously on another boulder surrounded by green woodland foliage",
+      "emotion": "calm",
+      "good_for": [
+        "finding balance",
+        "standing strong",
+        "nature walks",
+        "quiet moments in the city",
+        "staying grounded"
+      ],
+      "score": 3
+    }
+  ]
+}

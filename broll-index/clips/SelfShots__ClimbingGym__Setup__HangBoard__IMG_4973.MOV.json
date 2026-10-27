@@ -1,0 +1,105 @@
+{
+  "path": "SelfShots/ClimbingGym/Setup/HangBoard/IMG_4973.MOV",
+  "folder": "SelfShots/ClimbingGym/Setup/HangBoard",
+  "fingerprint": "21cc675cf6a9b9a0",
+  "width": 1080,
+  "height": 1920,
+  "fps": 30.0,
+  "duration": 35.535,
+  "model": "gemini-3.8-flash",
+  "annotatedAt": "2026-10-24T18:52:45+00:00",
+  "summary": "A young man steps onto a plyo box in a climbing gym and does dead hangs on a mounted wooden hangboard.",
+  "location": "gym",
+  "setting": "indoor",
+  "time_of_day": "indoor_unknown",
+  "weather": "n/a",
+  "people": {
+    "count": 3,
+    "creator_visible": true,
+    "description": "Young East Asian man with wavy dark hair, wearing a brown polo shirt, black trousers, and climbing shoes. Other gym patrons visible in the background."
+  },
+  "camera": {
+    "style": "tripod_static",
+    "framing": "medium",
+    "movement": "static",
+    "angle": "eye level"
+  },
+  "quality": {
+    "usable": true,
+    "stability": "locked",
+    "exposure": "good",
+    "issues": ""
+  },
+  "mood": [
+    "determined",
+    "active",
+    "disciplined",
+    "routine"
+  ],
+  "energy": "medium",
+  "tags": [
+    "climbing gym",
+    "hangboard",
+    "fingerboard",
+    "finger strength",
+    "training",
+    "climbing training",
+    "dead hang",
+    "calisthenics",
+    "grip strength",
+    "bouldering"
+  ],
+  "moments": [
+    {
+      "start": 3.5,
+      "end": 8.5,
+      "action": "Creator steps onto the black plyo box, grabs the wooden hangboard rungs, and lifts his feet off to hang",
+      "emotion": "focused",
+      "good_for": [
+        "climbing training day",
+        "grip strength workout",
+        "consistency pays off",
+        "hangboard routine"
+      ],
+      "score": 4
+    },
+    {
+      "start": 8.5,
+      "end": 14.5,
+      "action": "Creator maintains a static dead hang from the wooden hangboard holds",
+      "emotion": "determined",
+      "good_for": [
+        "building finger strength",
+        "hang time",
+        "strength training",
+        "daily routine"
+      ],
+      "score": 4
+    },
+    {
+      "start": 21.5,
+      "end": 29.5,
+      "action": "Creator performs another extended dead hang on smaller crimps, knees bent, before dropping feet back to the box",
+      "emotion": "effort",
+      "good_for": [
+        "pushing through the burn",
+        "finger strength progression",
+        "climbing fitness",
+        "hard work paying off"
+      ],
+      "score": 4
+    },
+    {
+      "start": 29.5,
+      "end": 33.5,
+      "action": "Creator steps down off the plyo box and walks out of frame after finishing the hangboard set",
+      "emotion": "relieved",
+      "good_for": [
+        "set finished",
+        "moving to the next exercise",
+        "post-workout rest"
+      ],
+      "score": 3
+    }
+  ]
+}

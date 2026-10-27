@@ -1,0 +1,75 @@
+{
+  "path": "Cinematic/CentralPark/IMG_4469.MOV",
+  "folder": "Cinematic/CentralPark",
+  "fingerprint": "40b158b11cb098b8",
+  "width": 1080,
+  "height": 1920,
+  "fps": 30.0,
+  "duration": 2.5,
+  "model": "gemini-3.8-flash",
+  "annotatedAt": "2026-10-24T18:18:44+00:00",
+  "summary": "A scenic view of a rustic stone archway bridge in Central Park with a paved walking path leading beneath it amidst lush greenery.",
+  "location": "park",
+  "setting": "outdoor",
+  "time_of_day": "day",
+  "weather": "sunny",
+  "people": {
+    "count": 0,
+    "creator_visible": false,
+    "description": "None"
+  },
+  "camera": {
+    "style": "handheld_cinematic",
+    "framing": "wide",
+    "movement": "static",
+    "angle": "eye level"
+  },
+  "quality": {
+    "usable": true,
+    "stability": "steady",
+    "exposure": "good",
+    "issues": ""
+  },
+  "mood": [
+    "peaceful",
+    "serene",
+    "mysterious",
+    "calm",
+    "nature"
+  ],
+  "energy": "low",
+  "tags": [
+    "central park",
+    "new york city",
+    "stone arch",
+    "ramble",
+    "bridge",
+    "nature",
+    "path",
+    "trees",
+    "autumn",
+    "leaves",
+    "park walk",
+    "tunnel",
+    "urban oasis",
+    "architecture",
+    "peaceful"
+  ],
+  "moments": [
+    {
+      "start": 0.0,
+      "end": 2.5,
+      "action": "Static steady shot of a stone arch over a walking trail in Central Park surrounded by foliage.",
+      "emotion": "calm",
+      "good_for": [
+        "finding quiet spaces",
+        "central park walks",
+        "peace of mind",
+        "exploring the city",
+        "nature in the city",
+        "taking the road less traveled"
+      ],
+      "score": 4
+    }
+  ]
+}

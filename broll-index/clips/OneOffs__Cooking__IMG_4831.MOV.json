@@ -1,0 +1,94 @@
+{
+  "path": "OneOffs/Cooking/IMG_4831.MOV",
+  "folder": "OneOffs/Cooking",
+  "fingerprint": "697a1a360228862a",
+  "width": 1080,
+  "height": 1920,
+  "fps": 30.0,
+  "duration": 14.4,
+  "model": "gemini-3.8-flash",
+  "annotatedAt": "2026-10-24T18:34:12+00:00",
+  "summary": "Two eggs fry in a black wok on a kitchen stovetop as someone uses a metal spatula to check and loosen them.",
+  "location": "kitchen",
+  "setting": "indoor",
+  "time_of_day": "indoor_unknown",
+  "weather": "n/a",
+  "people": {
+    "count": 1,
+    "creator_visible": false,
+    "description": "Only the hands and arms of a person wearing a beige shirt and a beaded bracelet are visible while cooking"
+  },
+  "camera": {
+    "style": "pov_first_person",
+    "framing": "medium",
+    "movement": "handheld_cinematic",
+    "angle": "high angle"
+  },
+  "quality": {
+    "usable": true,
+    "stability": "steady",
+    "exposure": "good",
+    "issues": ""
+  },
+  "mood": [
+    "peaceful",
+    "domestic",
+    "casual",
+    "morning"
+  ],
+  "energy": "low",
+  "tags": [
+    "cooking",
+    "eggs",
+    "breakfast",
+    "kitchen",
+    "stovetop",
+    "wok",
+    "frying",
+    "sunny side up",
+    "morning routine",
+    "food",
+    "culinary",
+    "spatula"
+  ],
+  "moments": [
+    {
+      "start": 0.0,
+      "end": 2.5,
+      "action": "Close-up of two sunny side up eggs sizzling steadily in a black wok pan on the stove",
+      "emotion": "calm",
+      "good_for": [
+        "morning routine",
+        "breakfast time",
+        "food on my plate",
+        "simple pleasures"
+      ],
+      "score": 4
+    },
+    {
+      "start": 6.0,
+      "end": 10.5,
+      "action": "The cook uses a metal spatula to loosen the edges of the frying eggs in the wok",
+      "emotion": "focused",
+      "good_for": [
+        "cooking skills",
+        "making breakfast",
+        "homemade meals",
+        "learning to cook"
+      ],
+      "score": 4
+    },
+    {
+      "start": 12.0,
+      "end": 14.4,
+      "action": "Static view of the two fried eggs sizzling after being adjusted with the spatula",
+      "emotion": "calm",
+      "good_for": [
+        "breakfast is ready",
+        "fueling up",
+        "morning vibes"
+      ],
+      "score": 3
+    }
+  ]
+}

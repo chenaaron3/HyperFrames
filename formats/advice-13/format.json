@@ -1,0 +1,106 @@
+{
+  "id": "advice-13",
+  "name": "When you realize you've fallen in love with studying since y",
+  "reference": "references/viral-formats/advice-13.mp4",
+  "source": "/Users/aaron/Downloads/100 Viral Formats (Format Book)/Advice/#13/#13_.mp4",
+  "duration": 9.5,
+  "music": {
+    "from": "reference",
+    "title": "Wasted (Murkish & Huken Nightcore Remix) by Juice WRLD Feat. Lil Uzi Vert"
+  },
+  "text": {
+    "y": 0.194,
+    "size": 46,
+    "weight": 700,
+    "lineHeight": 1.4,
+    "maxWidth": 900,
+    "style": "outline"
+  },
+  "lines": [
+    {
+      "id": "l1",
+      "start": 0.0,
+      "end": 3.0,
+      "ref": "When you realize you've fallen in\nlove with studying since you started\nusing these methods.",
+      "y": 0.194,
+      "measuredSize": 38,
+      "style": "plain_white_shadow",
+      "guide": ""
+    },
+    {
+      "id": "l2",
+      "start": 3.0,
+      "end": 9.5,
+      "ref": "Read Caption 👇🏻",
+      "y": 0.208,
+      "measuredSize": 36,
+      "style": "plain_white_shadow",
+      "guide": ""
+    }
+  ],
+  "shots": [
+    {
+      "id": "s1",
+      "start": 0.0,
+      "end": 0.267,
+      "brief": "setting up desk / opening laptop (ref: Desk setup at night: turning on desk lamp, opening laptop, placing papers.; tripod)",
+      "line": "l1"
+    },
+    {
+      "id": "s2",
+      "start": 0.267,
+      "end": 2.533,
+      "brief": "placing drink/mug on desk (ref: Placing a mug of tea and a water bottle on the desk.; tripod)",
+      "line": "l1"
+    },
+    {
+      "id": "s3",
+      "start": 2.533,
+      "end": 3.0,
+      "brief": "placing phone/clock timer on desk (ref: Placing a phone displaying a stopwatch timer on the desk.; tripod)",
+      "line": "l1"
+    },
+    {
+      "id": "s4",
+      "start": 3.0,
+      "end": 5.0,
+      "brief": "time-lapse working on laptop at desk at night (ref: Time-lapse of studying, reading papers, and watching online lecture on laptop at night with timer running.; tripod)",
+      "line": "l2"
+    },
+    {
+      "id": "s5",
+      "start": 5.0,
+      "end": 6.567,
+      "brief": "time-lapse taking notes and working on laptop (ref: Side angle time-lapse taking handwritten notes while watching video lecture on laptop during daytime.; tripod)",
+      "line": "l2"
+    },
+    {
+      "id": "s6",
+      "start": 6.567,
+      "end": 8.833,
+      "brief": "close time-lapse desk working by a window (ref: Close angle time-lapse facing window, showing notes, running timer, and laptop screen.; tripod)",
+      "line": "l2"
+    },
+    {
+      "id": "s7",
+      "start": 8.967,
+      "end": 9.5,
+      "brief": "working late on laptop time-lapse (ref: Evening shot time-lapse of taking notes and typing on laptop trackpad with timer showing over 4 hours.; tripod)",
+      "line": "l2"
+    }
+  ],
+  "audit": {
+    "kind": "broll_with_text",
+    "creatorSpeaks": false,
+    "audio": "music only",
+    "special": [],
+    "reusable": true,
+    "notes": "Easily recreated with any library clips showing working on a laptop, coding, studying, or sitting at a desk with coffee. The value of the post is entirely delivered through the hook and detailed caption text.",
+    "summary": "A time-lapse montage of desk study sessions with a running timer, paired with an aspirational hook directing viewers to study tips in the caption."
+  },
+  "caption": {
+    "ref": "",
+    "guide": ""
+  },
+  "draft": true
+}

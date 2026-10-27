@@ -1,0 +1,29 @@
+{
+  "id": "easy-15",
+  "name": "Sometimes I forget how blessed I am",
+  "reference": "references/viral-formats/easy-15.mp4",
+  "source": "/Users/aaron/Downloads/100 Viral Formats (Format Book)/Easy to use format/#15/#15.mp4",
+  "duration": 17.2,
+  "music": { "from": "reference", "title": "I Thought I Saw Your Face Today" },
+  "text": { "y": 0.5, "size": 40, "weight": 700, "lineHeight": 1.5, "maxWidth": 900 },
+  "lines": [
+    { "id": "l1", "start": 0, "end": 4.333, "ref": "Sometimes i forget\nhow blessed i am…", "guide": "Keep verbatim. Two lines." },
+    { "id": "l2", "start": 4.333, "end": 7.1, "ref": "i have a roof over my head", "guide": "Gratitude item 1, about home." },
+    { "id": "l3", "start": 7.1, "end": 9.8, "ref": "There's food on my plate", "guide": "Gratitude item 2, about food." },
+    { "id": "l4", "start": 9.8, "end": 12.433, "ref": "I have people that love me", "guide": "Gratitude item 3, about people." },
+    { "id": "l5", "start": 12.433, "end": 14.7, "ref": "A healthy body", "guide": "Gratitude item 4, about health or the body." },
+    { "id": "l6", "start": 14.7, "end": 17.2, "ref": "Be grateful for the life you have", "guide": "Closing permission line." }
+  ],
+  "shots": [
+    { "id": "s1", "start": 0, "end": 4.333, "line": "l1", "brief": "Selfie, arm out, walking outdoors in sun on an ordinary street. Calm, slightly reflective face." },
+    { "id": "s2", "start": 4.333, "end": 7.1, "line": "l2", "brief": "Looking up at the sky / a roof or structure overhead, low angle, bright blue sky. Literal 'roof over my head'." },
+    { "id": "s3", "start": 7.1, "end": 9.8, "line": "l3", "brief": "Selfie or tripod at a table eating a simple meal from a bowl or plate, spoon to mouth." },
+    { "id": "s4", "start": 9.8, "end": 12.433, "line": "l4", "brief": "Group of friends or family posing together, waving or arm up, outdoors, happy." },
+    { "id": "s5", "start": 12.433, "end": 14.7, "line": "l5", "brief": "At the gym or doing something physical, full body visible, mirror selfie or tripod." },
+    { "id": "s6", "start": 14.7, "end": 17.2, "line": "l6", "brief": "Big genuine smile to camera, selfie, outdoors in nice light. Warm ending." }
+  ],
+  "caption": {
+    "ref": "I can still remember my life back in the Philippines… (personal journey, then expand each gratitude line, close with a grateful line + hashtags)",
+    "guide": "Open with where you came from and what you dreamed of. One or two personal sentences per gratitude line. Close grateful, add hashtags about your background."
+  }
+}

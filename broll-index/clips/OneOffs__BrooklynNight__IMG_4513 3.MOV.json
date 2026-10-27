@@ -1,0 +1,69 @@
+{
+  "path": "OneOffs/BrooklynNight/IMG_4513 3.MOV",
+  "folder": "OneOffs/BrooklynNight",
+  "fingerprint": "08c72bbce74bea40",
+  "width": 1080,
+  "height": 1920,
+  "fps": 30.0,
+  "duration": 2.967,
+  "model": "gemini-3.8-flash",
+  "annotatedAt": "2026-10-24T18:22:34+00:00",
+  "summary": "A POV tracking shot walking down a busy New York City sidewalk past a long line of people waiting outside a popular establishment on a sunny day.",
+  "location": "city street",
+  "setting": "outdoor",
+  "time_of_day": "day",
+  "weather": "sunny",
+  "people": {
+    "count": 15,
+    "creator_visible": false,
+    "description": "Crowd of diverse people waiting in a long queue on the sidewalk, with pedestrians walking past in casual streetwear"
+  },
+  "camera": {
+    "style": "pov_first_person",
+    "framing": "wide",
+    "movement": "walking",
+    "angle": "eye level"
+  },
+  "quality": {
+    "usable": true,
+    "stability": "handheld",
+    "exposure": "good",
+    "issues": ""
+  },
+  "mood": [
+    "busy",
+    "anticipation",
+    "urban",
+    "curious"
+  ],
+  "energy": "medium",
+  "tags": [
+    "line",
+    "queue",
+    "city",
+    "sidewalk",
+    "brooklyn",
+    "new york",
+    "pedestrians",
+    "storefront",
+    "waiting",
+    "crowd",
+    "urban life",
+    "sunny day"
+  ],
+  "moments": [
+    {
+      "start": 0.0,
+      "end": 2.97,
+      "action": "Camera moves forward along a sidewalk showing a large crowd queued up along stanchions outside a storefront under a sunny sky",
+      "emotion": "bustling curiosity",
+      "good_for": [
+        "waiting in line for hype",
+        "nyc weekends",
+        "worth the hype?",
+        "city crowds"
+      ],
+      "score": 3
+    }
+  ]
+}

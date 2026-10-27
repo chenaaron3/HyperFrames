@@ -1,0 +1,68 @@
+{
+  "path": "OneOffs/RainyDayArmanRishi/IMG_4637.MOV",
+  "folder": "OneOffs/RainyDayArmanRishi",
+  "fingerprint": "5f8d4c8f5729fbf2",
+  "width": 1080,
+  "height": 1920,
+  "fps": 30.0,
+  "duration": 1.833,
+  "model": "gemini-3.8-flash",
+  "annotatedAt": "2026-10-24T18:36:31+00:00",
+  "summary": "A young man sits at a cozy floral cafe table with a latte, picking up his phone to check it while talking or reacting.",
+  "location": "cafe",
+  "setting": "indoor",
+  "time_of_day": "day",
+  "weather": "n/a",
+  "people": {
+    "count": 2,
+    "creator_visible": true,
+    "description": "A young man in a black jacket and white undershirt sitting at a cafe table; a cafe worker is visible behind the counter in the background."
+  },
+  "camera": {
+    "style": "filmed_by_friend",
+    "framing": "medium",
+    "movement": "static",
+    "angle": "eye level"
+  },
+  "quality": {
+    "usable": true,
+    "stability": "steady",
+    "exposure": "good",
+    "issues": ""
+  },
+  "mood": [
+    "casual",
+    "candid",
+    "social",
+    "relaxed"
+  ],
+  "energy": "medium",
+  "tags": [
+    "cafe",
+    "coffee shop",
+    "latte",
+    "checking phone",
+    "florist cafe",
+    "plants",
+    "lifestyle",
+    "casual hangout",
+    "friends",
+    "table talk"
+  ],
+  "moments": [
+    {
+      "start": 0.0,
+      "end": 1.83,
+      "action": "Man releases his mug, picks up his smartphone from the table, and looks at the screen with an animated reaction",
+      "emotion": "attentive, candid, slightly surprised",
+      "good_for": [
+        "checking notifications",
+        "coffee dates",
+        "waiting for that text",
+        "weekend routine",
+        "life lately"
+      ],
+      "score": 4
+    }
+  ]
+}

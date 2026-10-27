@@ -1,0 +1,54 @@
+{
+  "id": "advice-9",
+  "name": "21 things to do instead of ROT on your phone",
+  "reference": "references/viral-formats/advice-9.mp4",
+  "source": "/Users/aaron/Downloads/100 Viral Formats (Format Book)/Advice/#9/#9.mp4",
+  "duration": 5.239,
+  "music": {
+    "from": "reference",
+    "title": "End of Beginning by Djo"
+  },
+  "text": {
+    "y": 0.491,
+    "size": 46,
+    "weight": 700,
+    "lineHeight": 1.4,
+    "maxWidth": 900,
+    "style": "outline"
+  },
+  "lines": [
+    {
+      "id": "l1",
+      "start": 0.0,
+      "end": 5.239,
+      "ref": "21 things to do instead of ROT\non your phone",
+      "y": 0.491,
+      "measuredSize": 26,
+      "style": "plain_white_shadow",
+      "guide": ""
+    }
+  ],
+  "shots": [
+    {
+      "id": "s1",
+      "start": 0.0,
+      "end": 5.239,
+      "brief": "working on a laptop / sitting down at a desk (ref: Young man approaches a desk beside a window in a moody, dimly lit room, sits down on a chair, opens his laptop, and begins typing.; tripod)",
+      "line": "l1"
+    }
+  ],
+  "audit": {
+    "kind": "broll_with_text",
+    "creatorSpeaks": false,
+    "audio": "music only",
+    "special": [],
+    "reusable": true,
+    "notes": "Perfect match for any calm focus/productivity b-roll (sitting at desk, opening laptop, reading, journaling, drinking coffee). Pair with a text hook pointing to a long listicle in the caption.",
+    "summary": "A creator walks up to a desk by a window, sits down, opens a laptop, and starts typing while text hooks viewers to check out 21 alternative activities to scrolling in the caption."
+  },
+  "caption": {
+    "ref": "",
+    "guide": ""
+  },
+  "draft": true
+}

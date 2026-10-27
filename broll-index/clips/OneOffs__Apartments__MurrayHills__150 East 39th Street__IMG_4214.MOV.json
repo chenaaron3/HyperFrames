@@ -1,0 +1,70 @@
+{
+  "path": "OneOffs/Apartments/MurrayHills/150 East 39th Street/IMG_4214.MOV",
+  "folder": "OneOffs/Apartments/MurrayHills/150 East 39th Street",
+  "fingerprint": "fb6026b62a11ab30",
+  "width": 1080,
+  "height": 1920,
+  "fps": 30.0,
+  "duration": 2.498,
+  "model": "gemini-3.8-flash",
+  "annotatedAt": "2026-10-24T18:21:52+00:00",
+  "summary": "Handheld pan from an apartment window overlooking a bustling New York City street and residential skyscrapers glowing in golden hour sunlight.",
+  "location": "apartment window",
+  "setting": "indoor",
+  "time_of_day": "golden_hour",
+  "weather": "sunny",
+  "people": {
+    "count": 0,
+    "creator_visible": false,
+    "description": "No people clearly visible on screen; traffic moves along the road below."
+  },
+  "camera": {
+    "style": "pov_first_person",
+    "framing": "wide",
+    "movement": "pan",
+    "angle": "high angle"
+  },
+  "quality": {
+    "usable": true,
+    "stability": "steady",
+    "exposure": "good",
+    "issues": ""
+  },
+  "mood": [
+    "peaceful",
+    "ambitious",
+    "urban",
+    "reflective"
+  ],
+  "energy": "low",
+  "tags": [
+    "nyc",
+    "new york city",
+    "apartment view",
+    "golden hour",
+    "cityscape",
+    "skyscrapers",
+    "murray hill",
+    "manhattan",
+    "sunset light",
+    "city traffic",
+    "urban life",
+    "window view"
+  ],
+  "moments": [
+    {
+      "start": 0.0,
+      "end": 2.5,
+      "action": "Camera pans slowly from a dark skyscraper to sunlit high-rise apartment towers above city traffic at golden hour",
+      "emotion": "calm",
+      "good_for": [
+        "moving to new york",
+        "golden hour in nyc",
+        "city view",
+        "dream apartment",
+        "grateful for this life"
+      ],
+      "score": 4
+    }
+  ]
+}

@@ -1,0 +1,115 @@
+{
+  "path": "SelfShots/ClimbingGym/OnTheWall/10:18:26_Orange_x53/IMG_5103.MOV",
+  "folder": "SelfShots/ClimbingGym/OnTheWall/10:18:26_Orange_x53",
+  "fingerprint": "f72748dfdf41ab73",
+  "width": 1080,
+  "height": 1920,
+  "fps": 30.0,
+  "duration": 54.07,
+  "model": "gemini-3.8-flash",
+  "annotatedAt": "2026-10-24T18:40:42+00:00",
+  "summary": "A young man tackles a challenging bouldering route at an indoor climbing gym, reaching the top holds before dropping down to the mat.",
+  "location": "bouldering gym",
+  "setting": "indoor",
+  "time_of_day": "indoor_unknown",
+  "weather": "n/a",
+  "people": {
+    "count": 1,
+    "creator_visible": true,
+    "description": "A young man with wavy dark hair wearing a light blue short-sleeve collared shirt, baggy jeans, and climbing shoes."
+  },
+  "camera": {
+    "style": "tripod_static",
+    "framing": "wide",
+    "movement": "static",
+    "angle": "eye level"
+  },
+  "quality": {
+    "usable": true,
+    "stability": "locked",
+    "exposure": "good",
+    "issues": ""
+  },
+  "mood": [
+    "focused",
+    "determined",
+    "active",
+    "disciplined"
+  ],
+  "energy": "medium",
+  "tags": [
+    "bouldering",
+    "climbing gym",
+    "indoor climbing",
+    "rock climbing",
+    "fitness",
+    "workout",
+    "problem solving",
+    "athletic",
+    "chalk",
+    "perseverance",
+    "grip strength"
+  ],
+  "moments": [
+    {
+      "start": 3.0,
+      "end": 9.0,
+      "action": "The climber approaches the wall, mounts the starting purple holds, and establishes his position",
+      "emotion": "focused and concentrated",
+      "good_for": [
+        "starting a new challenge",
+        "day one or one day",
+        "trust the process"
+      ],
+      "score": 3
+    },
+    {
+      "start": 13.5,
+      "end": 20.5,
+      "action": "The climber stretches out his arm to reach a distant black hold along the sloped climbing wall",
+      "emotion": "intense concentration",
+      "good_for": [
+        "stretching out of comfort zone",
+        "hard work pays off",
+        "focus on the next step"
+      ],
+      "score": 4
+    },
+    {
+      "start": 21.0,
+      "end": 28.5,
+      "action": "Climber repositions his feet and pulls himself upward along the angled wall holds",
+      "emotion": "straining and determined",
+      "good_for": [
+        "pushing through the hard part",
+        "strength training",
+        "perseverance"
+      ],
+      "score": 4
+    },
+    {
+      "start": 34.0,
+      "end": 43.0,
+      "action": "Climber works his way to the top of the route and matches hands on the high purple holds",
+      "emotion": "relieved and accomplished",
+      "good_for": [
+        "making it to the top",
+        "small wins every day",
+        "finally achieved it"
+      ],
+      "score": 4
+    },
+    {
+      "start": 47.0,
+      "end": 51.5,
+      "action": "Climber drops down safely to the crash pad, turns to face the camera catching his breath",
+      "emotion": "tired, satisfied, exhaling",
+      "good_for": [
+        "post-workout exhaustion",
+        "that feeling after finishing",
+        "leaving it all on the wall"
+      ],
+      "score": 4
+    }
+  ]
+}

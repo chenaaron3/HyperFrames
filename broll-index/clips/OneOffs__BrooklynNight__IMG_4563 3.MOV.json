@@ -1,0 +1,82 @@
+{
+  "path": "OneOffs/BrooklynNight/IMG_4563 3.MOV",
+  "folder": "OneOffs/BrooklynNight",
+  "fingerprint": "e9d6ca16847ac52a",
+  "width": 1080,
+  "height": 1920,
+  "fps": 30.0,
+  "duration": 5.467,
+  "model": "gemini-3.8-flash",
+  "annotatedAt": "2026-10-24T18:23:56+00:00",
+  "summary": "A young man stands on a city sidewalk watching an ice cream truck drive past a grand illuminated gothic church, before the camera tilts up to show the church spire against the evening sky.",
+  "location": "city street",
+  "setting": "outdoor",
+  "time_of_day": "golden_hour",
+  "weather": "sunny",
+  "people": {
+    "count": 5,
+    "creator_visible": true,
+    "description": "A young man seen from behind wearing a black graphic t-shirt reading 'Wink Wink Nation', black shorts, and white sneakers, holding a paper bag."
+  },
+  "camera": {
+    "style": "filmed_by_friend",
+    "framing": "medium",
+    "movement": "tilt up",
+    "angle": "low angle looking up"
+  },
+  "quality": {
+    "usable": true,
+    "stability": "steady",
+    "exposure": "good",
+    "issues": ""
+  },
+  "mood": [
+    "nostalgic",
+    "peaceful",
+    "cinematic",
+    "urban"
+  ],
+  "energy": "low",
+  "tags": [
+    "church",
+    "gothic architecture",
+    "spire",
+    "skyscraper",
+    "nyc",
+    "city streets",
+    "ice cream truck",
+    "evening",
+    "dusk",
+    "sidewalk",
+    "street scene",
+    "urban exploration"
+  ],
+  "moments": [
+    {
+      "start": 0.0,
+      "end": 2.5,
+      "action": "A young man waits on the sidewalk as an illuminated ice cream truck drives past in front of a lit gothic church",
+      "emotion": "calm",
+      "good_for": [
+        "city summer nights",
+        "sweet simple moments",
+        "evening walks in new york",
+        "taking it all in"
+      ],
+      "score": 4
+    },
+    {
+      "start": 2.5,
+      "end": 5.47,
+      "action": "Camera tilts upward past the subject to reveal the ornate gothic cathedral tower and modern skyscraper against the blue twilight sky",
+      "emotion": "awe",
+      "good_for": [
+        "architecture appreciation",
+        "old meets new",
+        "walking through the city",
+        "feeling small in a big city"
+      ],
+      "score": 4
+    }
+  ]
+}

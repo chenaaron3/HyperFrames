@@ -1,0 +1,173 @@
+{
+  "id": "easy-10",
+  "name": "you complain about your job because you have one",
+  "reference": "references/viral-formats/easy-10.mp4",
+  "source": "/Users/aaron/Downloads/100 Viral Formats (Format Book)/Easy to use format/#10/#10.mp4",
+  "duration": 21.233,
+  "music": {
+    "from": "reference",
+    "title": "Yellow by Coldplay"
+  },
+  "text": {
+    "y": 0.553,
+    "size": 46,
+    "weight": 700,
+    "lineHeight": 1.4,
+    "maxWidth": 900,
+    "style": "outline"
+  },
+  "lines": [
+    {
+      "id": "l1",
+      "start": 0.0,
+      "end": 3.4,
+      "ref": "you complain about your job\nbecause you have one",
+      "y": 0.553,
+      "measuredSize": 34,
+      "style": "plain_white_shadow",
+      "guide": ""
+    },
+    {
+      "id": "l2",
+      "start": 3.4,
+      "end": 6.333,
+      "ref": "you complain about traffic\nbecause you have a car",
+      "y": 0.437,
+      "measuredSize": 41,
+      "style": "plain_white_shadow",
+      "guide": ""
+    },
+    {
+      "id": "l3",
+      "start": 6.333,
+      "end": 9.567,
+      "ref": "you complain about food because\nyou have too much of it",
+      "y": 0.72,
+      "measuredSize": 40,
+      "style": "plain_white_shadow",
+      "guide": ""
+    },
+    {
+      "id": "l4",
+      "start": 9.567,
+      "end": 12.567,
+      "ref": "you complain about soreness\nbecause you have working muscles",
+      "y": 0.501,
+      "measuredSize": 34,
+      "style": "plain_white_shadow",
+      "guide": ""
+    },
+    {
+      "id": "l5",
+      "start": 12.567,
+      "end": 15.567,
+      "ref": "you complain about dishes\nfrom the meals you eat",
+      "y": 0.73,
+      "measuredSize": 39,
+      "style": "plain_white_shadow",
+      "guide": ""
+    },
+    {
+      "id": "l6",
+      "start": 15.567,
+      "end": 17.067,
+      "ref": "but some time ago..",
+      "y": 0.501,
+      "measuredSize": 34,
+      "style": "plain_white_shadow",
+      "guide": ""
+    },
+    {
+      "id": "l7",
+      "start": 17.067,
+      "end": 19.167,
+      "ref": "you prayed for these things",
+      "y": 0.73,
+      "measuredSize": 56,
+      "style": "plain_white_shadow",
+      "guide": ""
+    },
+    {
+      "id": "l8",
+      "start": 19.167,
+      "end": 21.233,
+      "ref": "appreciate the things that\nyou once worked hard for ❤️",
+      "y": 0.668,
+      "measuredSize": 43,
+      "style": "plain_white_shadow",
+      "guide": ""
+    }
+  ],
+  "shots": [
+    {
+      "id": "s1",
+      "start": 0.0,
+      "end": 3.4,
+      "brief": "working on a laptop / looking tired at desk (ref: Young man at an office desk resting his head in his hands looking overwhelmed in front of a laptop; tripod)",
+      "line": "l1"
+    },
+    {
+      "id": "s2",
+      "start": 3.4,
+      "end": 6.333,
+      "brief": "riding in a car or subway commute (ref: Young man sitting in a car waiting in traffic, looking around impatiently; tripod)",
+      "line": "l2"
+    },
+    {
+      "id": "s3",
+      "start": 6.333,
+      "end": 9.567,
+      "brief": "eating a meal at a table (ref: Young man picking up noodles with chopsticks and eating at a food market; tripod)",
+      "line": "l3"
+    },
+    {
+      "id": "s4",
+      "start": 9.567,
+      "end": 12.567,
+      "brief": "working out or resting at the gym (ref: Young man sitting on a gym bench holding a dumbbell, catching his breath looking fatigued; tripod)",
+      "line": "l4"
+    },
+    {
+      "id": "s5",
+      "start": 12.567,
+      "end": 15.567,
+      "brief": "washing dishes or cooking in kitchen (ref: Young man washing dishes in the kitchen sink with his head resting against the cabinet; tripod)",
+      "line": "l5"
+    },
+    {
+      "id": "s6",
+      "start": 15.567,
+      "end": 17.067,
+      "brief": "leaving apartment / morning routine (ref: Young man packing a tote bag and opening the apartment door to leave; tripod)",
+      "line": "l6"
+    },
+    {
+      "id": "s7",
+      "start": 17.067,
+      "end": 19.167,
+      "brief": "hanging out and laughing with friends (ref: Young man sitting on stadium bleachers at night, laughing and messing around with friends; filmed by friend)",
+      "line": "l7"
+    },
+    {
+      "id": "s8",
+      "start": 19.167,
+      "end": 21.233,
+      "brief": "selfie outdoors looking reflective (ref: Close-up selfie shot outdoors with city buildings in background, looking into camera with reflective expression; selfie)",
+      "line": "l8"
+    }
+  ],
+  "audit": {
+    "kind": "broll_with_text",
+    "creatorSpeaks": false,
+    "audio": "music only",
+    "special": [],
+    "reusable": true,
+    "notes": "Ideal format for existing archive b-roll. You can swap any complaint clip to match what you actually have (e.g. subway commute instead of traffic, climbing gym fatigue instead of weightlifting, cooking instead of dishes) while keeping the same inspirational contrast hook structure.",
+    "summary": "A reflective montage set to Coldplay's 'Yellow', using everyday lifestyle b-roll clips paired with text reframing daily complaints (job stress, car traffic, soreness, dishes) as blessings and goals that were once prayed and worked hard for."
+  },
+  "caption": {
+    "ref": "",
+    "guide": ""
+  },
+  "draft": true
+}

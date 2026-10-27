@@ -1,0 +1,107 @@
+{
+  "path": "SelfShots/Chilling/IMG_4473.MOV",
+  "folder": "SelfShots/Chilling",
+  "fingerprint": "a2fe45c87473f130",
+  "width": 1080,
+  "height": 1920,
+  "fps": 30.0,
+  "duration": 46.27,
+  "model": "gemini-3.8-flash",
+  "annotatedAt": "2026-10-24T18:38:31+00:00",
+  "summary": "A young man walks into frame on a grassy hill beside a park lake, sits down facing the water to relax, and later stands up to return to the camera.",
+  "location": "park",
+  "setting": "outdoor",
+  "time_of_day": "day",
+  "weather": "sunny",
+  "people": {
+    "count": 1,
+    "creator_visible": true,
+    "description": "A young Asian man wearing a light blue short-sleeve collared shirt, baggy jeans, and white sneakers."
+  },
+  "camera": {
+    "style": "tripod_static",
+    "framing": "wide",
+    "movement": "static",
+    "angle": "eye level"
+  },
+  "quality": {
+    "usable": true,
+    "stability": "locked",
+    "exposure": "good",
+    "issues": ""
+  },
+  "mood": [
+    "peaceful",
+    "calm",
+    "contemplative",
+    "solitary",
+    "relaxed"
+  ],
+  "energy": "low",
+  "tags": [
+    "park",
+    "lake",
+    "sitting",
+    "grass",
+    "water",
+    "relaxation",
+    "peace of mind",
+    "solo time",
+    "contemplation",
+    "nature",
+    "city park",
+    "summer"
+  ],
+  "moments": [
+    {
+      "start": 2.0,
+      "end": 6.5,
+      "action": "Man walks away from the camera down the grass and sits down facing the lake",
+      "emotion": "calm",
+      "good_for": [
+        "taking a breather",
+        "finding quiet moments",
+        "solo date"
+      ],
+      "score": 4
+    },
+    {
+      "start": 6.5,
+      "end": 14.0,
+      "action": "Man sits upright on the grass with his knees bent, peacefully looking out at the lake",
+      "emotion": "peaceful",
+      "good_for": [
+        "peace of mind",
+        "romanticizing life",
+        "disconnecting to reconnect",
+        "mental health day"
+      ],
+      "score": 4
+    },
+    {
+      "start": 25.0,
+      "end": 33.0,
+      "action": "Man leans back on both hands in the grass, soaking in the view of the lake under the blue sky",
+      "emotion": "relaxed",
+      "good_for": [
+        "chilling out",
+        "summer days",
+        "grateful for peaceful days",
+        "living in the moment"
+      ],
+      "score": 4
+    },
+    {
+      "start": 40.5,
+      "end": 44.0,
+      "action": "Man pushes himself up from the grass, turns around, and walks back toward the camera",
+      "emotion": "refreshed",
+      "good_for": [
+        "time to go",
+        "reset complete",
+        "moving forward"
+      ],
+      "score": 3
+    }
+  ]
+}

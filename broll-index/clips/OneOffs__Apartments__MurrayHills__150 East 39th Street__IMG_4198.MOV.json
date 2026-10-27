@@ -1,0 +1,89 @@
+{
+  "path": "OneOffs/Apartments/MurrayHills/150 East 39th Street/IMG_4198.MOV",
+  "folder": "OneOffs/Apartments/MurrayHills/150 East 39th Street",
+  "fingerprint": "a8701b32d798a51f",
+  "width": 1080,
+  "height": 1920,
+  "fps": 30.0,
+  "duration": 25.735,
+  "model": "gemini-3.8-flash",
+  "annotatedAt": "2026-10-24T18:21:21+00:00",
+  "summary": "A woman walks through the basement service corridors of an apartment building and opens the door to reveal the residential gym facility.",
+  "location": "gym",
+  "setting": "indoor",
+  "time_of_day": "indoor_unknown",
+  "weather": "n/a",
+  "people": {
+    "count": 2,
+    "creator_visible": true,
+    "description": "A woman in a black jacket and dark trousers walking ahead; the creator is briefly seen in the gym mirror wearing a black coat and dark hat while filming."
+  },
+  "camera": {
+    "style": "filmed_by_friend",
+    "framing": "medium",
+    "movement": "walking",
+    "angle": "eye level"
+  },
+  "quality": {
+    "usable": true,
+    "stability": "handheld",
+    "exposure": "good",
+    "issues": "Occasional quick jerky panning when navigating doorways."
+  },
+  "mood": [
+    "casual",
+    "curious",
+    "exploratory"
+  ],
+  "energy": "medium",
+  "tags": [
+    "apartment tour",
+    "building gym",
+    "fitness center",
+    "basement hallway",
+    "residential amenities",
+    "walking",
+    "nyc apartment",
+    "treadmills",
+    "corridor",
+    "exercise room"
+  ],
+  "moments": [
+    {
+      "start": 4.5,
+      "end": 8.5,
+      "action": "Camera follows the woman walking down the narrow basement hallway lined with pipes and utility doors",
+      "emotion": "casual",
+      "good_for": [
+        "apartment hunting reality",
+        "navigating the basement",
+        "finding the amenities"
+      ],
+      "score": 3
+    },
+    {
+      "start": 12.8,
+      "end": 16.5,
+      "action": "The woman walks up to the gym door, turns the handle, and opens it up to reveal the fitness room",
+      "emotion": "anticipatory",
+      "good_for": [
+        "building amenities check",
+        "revealing the gym",
+        "touring new apartments"
+      ],
+      "score": 4
+    },
+    {
+      "start": 21.5,
+      "end": 25.7,
+      "action": "Smooth handheld pan showcasing the long room filled with treadmills, mirrors, and workout equipment",
+      "emotion": "impressed",
+      "good_for": [
+        "apartment gym amenity",
+        "free gym access",
+        "apartment tour highlights"
+      ],
+      "score": 4
+    }
+  ]
+}

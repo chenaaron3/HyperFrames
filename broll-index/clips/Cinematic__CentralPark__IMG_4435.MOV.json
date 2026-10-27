@@ -1,0 +1,69 @@
+{
+  "path": "Cinematic/CentralPark/IMG_4435.MOV",
+  "folder": "Cinematic/CentralPark",
+  "fingerprint": "64f1715a22b36c69",
+  "width": 1080,
+  "height": 1920,
+  "fps": 30.0,
+  "duration": 1.432,
+  "model": "gemini-3.8-flash",
+  "annotatedAt": "2026-10-24T18:18:09+00:00",
+  "summary": "A street musician dressed in Renaissance attire plays a lute along a tree-lined path in Central Park as a passerby stops to listen.",
+  "location": "park",
+  "setting": "outdoor",
+  "time_of_day": "day",
+  "weather": "sunny",
+  "people": {
+    "count": 3,
+    "creator_visible": false,
+    "description": "An older street performer with a white beard wearing a Renaissance costume and playing a lute; a young man in a dark jacket and jeans listening; a woman partially framed next to him."
+  },
+  "camera": {
+    "style": "pov_first_person",
+    "framing": "wide",
+    "movement": "static",
+    "angle": "eye level"
+  },
+  "quality": {
+    "usable": true,
+    "stability": "steady",
+    "exposure": "good",
+    "issues": ""
+  },
+  "mood": [
+    "peaceful",
+    "whimsical",
+    "quaint",
+    "curious"
+  ],
+  "energy": "low",
+  "tags": [
+    "central park",
+    "new york city",
+    "busker",
+    "street performer",
+    "lute",
+    "renaissance",
+    "live music",
+    "park bench",
+    "trees",
+    "autumn",
+    "city life",
+    "nyc moments"
+  ],
+  "moments": [
+    {
+      "start": 0.0,
+      "end": 1.43,
+      "action": "A Renaissance-clad busker strums a lute in Central Park while a visitor stands watching attentively.",
+      "emotion": "peaceful and appreciative",
+      "good_for": [
+        "only in new york",
+        "random daily wonders",
+        "taking a slow walk",
+        "romanticizing city walks"
+      ],
+      "score": 3
+    }
+  ]
+}

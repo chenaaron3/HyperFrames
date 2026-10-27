@@ -1,0 +1,119 @@
+{
+  "path": "OneOffs/Apartments/Gramercy/144 East 22nd Street/IMG_4298.MOV",
+  "folder": "OneOffs/Apartments/Gramercy/144 East 22nd Street",
+  "fingerprint": "8d1e5759c894a36c",
+  "width": 1080,
+  "height": 1920,
+  "fps": 30.0,
+  "duration": 51.325,
+  "model": "gemini-3.8-flash",
+  "annotatedAt": "2026-10-24T18:20:59+00:00",
+  "summary": "A prospective tenant films a first-person POV walkthrough tour of a compact studio apartment in Gramercy, NYC, viewing the kitchen, living space, and bathroom while talking with an agent.",
+  "location": "apartment",
+  "setting": "indoor",
+  "time_of_day": "day",
+  "weather": "n/a",
+  "people": {
+    "count": 2,
+    "creator_visible": true,
+    "description": "Young male creator holding the phone, briefly visible in the bathroom mirror; a male real estate agent with a beard and dark sweater stands by the kitchen counter."
+  },
+  "camera": {
+    "style": "pov_first_person",
+    "framing": "wide",
+    "movement": "walking",
+    "angle": "eye level"
+  },
+  "quality": {
+    "usable": true,
+    "stability": "handheld",
+    "exposure": "good",
+    "issues": ""
+  },
+  "mood": [
+    "curious",
+    "casual",
+    "observant",
+    "realistic"
+  ],
+  "energy": "low",
+  "tags": [
+    "apartment tour",
+    "nyc apartment",
+    "studio apartment",
+    "apartment hunting",
+    "real estate",
+    "gramercy",
+    "moving to nyc",
+    "kitchen",
+    "bathroom",
+    "exposed brick",
+    "hardwood floors",
+    "rental"
+  ],
+  "moments": [
+    {
+      "start": 1.0,
+      "end": 4.5,
+      "action": "Camera pans into the open kitchen space showing wooden cabinets, white fridge, and gas stove",
+      "emotion": "curious",
+      "good_for": [
+        "apartment hunting",
+        "first nyc kitchen",
+        "small space living",
+        "scouting rentals"
+      ],
+      "score": 3
+    },
+    {
+      "start": 6.5,
+      "end": 10.5,
+      "action": "Camera pans across the main studio living space revealing hardwood floors, windows, and an exposed brick accent wall",
+      "emotion": "observant",
+      "good_for": [
+        "looking for an apartment",
+        "nyc studio tour",
+        "blank canvas",
+        "moving to the city"
+      ],
+      "score": 4
+    },
+    {
+      "start": 13.5,
+      "end": 18.0,
+      "action": "Walking into the classic black and white tiled bathroom and catching the creator's reflection in the medicine cabinet mirror",
+      "emotion": "focused",
+      "good_for": [
+        "pre-war bathroom",
+        "apartment checklist",
+        "house hunting realities"
+      ],
+      "score": 3
+    },
+    {
+      "start": 20.5,
+      "end": 24.5,
+      "action": "Walking back down the main living corridor looking towards the broker standing by the kitchen bar",
+      "emotion": "casual",
+      "good_for": [
+        "asking for the rent price",
+        "nyc rent prices",
+        "touring apartments",
+        "adulting milestones"
+      ],
+      "score": 3
+    },
+    {
+      "start": 36.5,
+      "end": 43.0,
+      "action": "Close inspection of the kitchen stove and opening the freezer door to inspect inside",
+      "emotion": "practical",
+      "good_for": [
+        "checking appliances",
+        "apartment walkthrough",
+        "move-in inspection"
+      ],
+      "score": 3
+    }
+  ]
+}

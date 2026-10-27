@@ -1,0 +1,80 @@
+{
+  "path": "OneOffs/Apartments/MurrayHills/150 East 39th Street/IMG_4216.MOV",
+  "folder": "OneOffs/Apartments/MurrayHills/150 East 39th Street",
+  "fingerprint": "5663894fd2b85388",
+  "width": 1080,
+  "height": 1920,
+  "fps": 30.0,
+  "duration": 3.6,
+  "model": "gemini-3.8-flash",
+  "annotatedAt": "2026-10-24T18:22:00+00:00",
+  "summary": "A handheld POV panning shot showcasing a compact apartment building gym with treadmills, an elliptical, weight machine, and a dumbbell rack.",
+  "location": "gym",
+  "setting": "indoor",
+  "time_of_day": "day",
+  "weather": "n/a",
+  "people": {
+    "count": 1,
+    "creator_visible": true,
+    "description": "A person visible briefly in the mirror reflection wearing a dark jacket while filming on their phone"
+  },
+  "camera": {
+    "style": "pov_first_person",
+    "framing": "wide",
+    "movement": "pan",
+    "angle": "eye level"
+  },
+  "quality": {
+    "usable": true,
+    "stability": "handheld",
+    "exposure": "good",
+    "issues": "motion blur during quick pan"
+  },
+  "mood": [
+    "casual",
+    "routine",
+    "motivated"
+  ],
+  "energy": "medium",
+  "tags": [
+    "apartment gym",
+    "gym",
+    "fitness",
+    "treadmill",
+    "elliptical",
+    "weights",
+    "dumbbells",
+    "amenities",
+    "apartment tour",
+    "building tour",
+    "workout room"
+  ],
+  "moments": [
+    {
+      "start": 0.0,
+      "end": 1.9,
+      "action": "Camera pans across the cardio section featuring an elliptical and two treadmills facing a window",
+      "emotion": "calm",
+      "good_for": [
+        "apartment building amenities",
+        "never using the building gym",
+        "cardio time",
+        "apartment hunting checklist"
+      ],
+      "score": 3
+    },
+    {
+      "start": 2.2,
+      "end": 3.6,
+      "action": "Camera pans onto the free weight rack and bench with a wall mirror",
+      "emotion": "focused",
+      "good_for": [
+        "quick morning lift",
+        "building amenities",
+        "free weights area",
+        "apartment tour"
+      ],
+      "score": 3
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "id": "relatable-5",
+  "name": "Living Alone Philippines  Rent: Php 16,000 Electricity: Php ",
+  "reference": "references/viral-formats/relatable-5.mp4",
+  "source": "/Users/aaron/Downloads/100 Viral Formats (Format Book)/Relatable/#5/#5.mp4",
+  "duration": 7.1,
+  "music": {
+    "from": "reference",
+    "title": "I Think They Call This Love - Elliot James Reay"
+  },
+  "text": {
+    "y": 0.38,
+    "size": 46,
+    "weight": 700,
+    "lineHeight": 1.4,
+    "maxWidth": 900,
+    "style": "outline"
+  },
+  "lines": [
+    {
+      "id": "l1",
+      "start": 0.0,
+      "end": 7.1,
+      "ref": "Living Alone Philippines\n\nRent: Php 16,000\nElectricity: Php 3,000\nWifi: Php 1,549\nWater: Php 200+",
+      "y": 0.38,
+      "measuredSize": null,
+      "style": "plain_white_shadow",
+      "guide": ""
+    }
+  ],
+  "shots": [
+    {
+      "id": "s1",
+      "start": 0.0,
+      "end": 7.1,
+      "brief": "chores or daily routine in apartment, static shot (ref: Girl in white t-shirt cleaning the inside of a large floor-to-ceiling window overlooking city high-rises with a squeegee; tripod)",
+      "line": "l1"
+    }
+  ],
+  "audit": {
+    "kind": "broll_with_text",
+    "creatorSpeaks": false,
+    "audio": "music only",
+    "special": [],
+    "reusable": true,
+    "notes": "Simply take any existing b-roll clip of being at home/in an apartment (chores, morning coffee, looking out window) and list monthly living expenses (e.g., NYC rent, utilities, internet, groceries).",
+    "summary": "A girl cleans high-rise apartment windows with a squeegee while on-screen text lists monthly living expenses in the Philippines."
+  },
+  "caption": {
+    "ref": "",
+    "guide": ""
+  },
+  "draft": true
+}

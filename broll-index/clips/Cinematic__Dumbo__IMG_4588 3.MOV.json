@@ -1,0 +1,71 @@
+{
+  "path": "Cinematic/Dumbo/IMG_4588 3.MOV",
+  "folder": "Cinematic/Dumbo",
+  "fingerprint": "a75dec82c20a6c2d",
+  "width": 1080,
+  "height": 1920,
+  "fps": 30.0,
+  "duration": 4.533,
+  "model": "gemini-3.8-flash",
+  "annotatedAt": "2026-10-24T18:19:43+00:00",
+  "summary": "An illuminated vintage carousel rotates against the dark night sky in Dumbo, Brooklyn.",
+  "location": "amusement park",
+  "setting": "outdoor",
+  "time_of_day": "night",
+  "weather": "n/a",
+  "people": {
+    "count": 0,
+    "creator_visible": false,
+    "description": "Indistinct silhouetted figures riding the carousel in the distance"
+  },
+  "camera": {
+    "style": "handheld_cinematic",
+    "framing": "wide",
+    "movement": "static",
+    "angle": "eye level"
+  },
+  "quality": {
+    "usable": true,
+    "stability": "steady",
+    "exposure": "mixed",
+    "issues": "High contrast night shot with dark shadows and bright bulb highlights"
+  },
+  "mood": [
+    "nostalgic",
+    "whimsical",
+    "cinematic",
+    "peaceful",
+    "dreamy"
+  ],
+  "energy": "low",
+  "tags": [
+    "carousel",
+    "merry-go-round",
+    "dumbo",
+    "brooklyn",
+    "jane's carousel",
+    "night lights",
+    "amusement park",
+    "vintage",
+    "fairytale",
+    "carnival",
+    "nyc night",
+    "city life"
+  ],
+  "moments": [
+    {
+      "start": 0.0,
+      "end": 4.53,
+      "action": "The illuminated vintage carousel steadily turns with warm glowing bulbs shining in the dark",
+      "emotion": "dreamy and nostalgic",
+      "good_for": [
+        "romanticizing city nights",
+        "inner child healing",
+        "late night walks in nyc",
+        "nostalgia hit",
+        "feeling like main character"
+      ],
+      "score": 4
+    }
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "path": "OneOffs/RainyDayArmanRishi/IMG_4617.MOV",
+  "folder": "OneOffs/RainyDayArmanRishi",
+  "fingerprint": "d93ba95bb22e99b5",
+  "width": 1080,
+  "height": 1920,
+  "fps": 30.0,
+  "duration": 2.833,
+  "model": "gemini-3.8-flash",
+  "annotatedAt": "2026-10-24T18:35:56+00:00",
+  "summary": "An iconic orange-and-white steam stack billows white steam onto a rainy city street adjacent to a park while cars and a cyclist pass by.",
+  "location": "city street",
+  "setting": "outdoor",
+  "time_of_day": "day",
+  "weather": "rain",
+  "people": {
+    "count": 1,
+    "creator_visible": false,
+    "description": "A delivery cyclist riding past quickly in the lower foreground wearing dark gear."
+  },
+  "camera": {
+    "style": "pov_first_person",
+    "framing": "medium",
+    "movement": "static",
+    "angle": "eye level"
+  },
+  "quality": {
+    "usable": true,
+    "stability": "steady",
+    "exposure": "good",
+    "issues": ""
+  },
+  "mood": [
+    "moody",
+    "urban",
+    "atmospheric",
+    "gloomy",
+    "calm"
+  ],
+  "energy": "low",
+  "tags": [
+    "nyc",
+    "steam pipe",
+    "steam chimney",
+    "manhattan",
+    "city street",
+    "rainy day",
+    "urban aesthetic",
+    "bryant park",
+    "wet pavement",
+    "traffic",
+    "autumn vibes",
+    "gloomy weather"
+  ],
+  "moments": [
+    {
+      "start": 0.0,
+      "end": 2.83,
+      "action": "Steam vents continuously out of an orange and white pipe into the rainy autumn air as traffic moves past behind barricades",
+      "emotion": "atmospheric",
+      "good_for": [
+        "rainy days in the city",
+        "autumn in new york",
+        "moody city walks",
+        "city aesthetic",
+        "rainy morning commute"
+      ],
+      "score": 4
+    }
+  ]
+}

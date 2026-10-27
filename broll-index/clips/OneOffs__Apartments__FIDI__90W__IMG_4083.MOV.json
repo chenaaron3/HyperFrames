@@ -1,0 +1,67 @@
+{
+  "path": "OneOffs/Apartments/FIDI/90W/IMG_4083.MOV",
+  "folder": "OneOffs/Apartments/FIDI/90W",
+  "fingerprint": "6c23fcc0458d6290",
+  "width": 1080,
+  "height": 1920,
+  "fps": 30.0,
+  "duration": 1.932,
+  "model": "gemini-3.8-flash",
+  "annotatedAt": "2026-10-24T18:20:37+00:00",
+  "summary": "A brief interior view of a modern residential building lobby showing the front reception desk and a wood-paneled wall with '90 W' signage.",
+  "location": "apartment lobby",
+  "setting": "indoor",
+  "time_of_day": "indoor_unknown",
+  "weather": "n/a",
+  "people": {
+    "count": 0,
+    "creator_visible": false,
+    "description": "No people present"
+  },
+  "camera": {
+    "style": "pov_first_person",
+    "framing": "medium",
+    "movement": "handheld subtle motion",
+    "angle": "eye level"
+  },
+  "quality": {
+    "usable": true,
+    "stability": "steady",
+    "exposure": "good",
+    "issues": ""
+  },
+  "mood": [
+    "professional",
+    "clean",
+    "calm"
+  ],
+  "energy": "low",
+  "tags": [
+    "lobby",
+    "reception desk",
+    "apartment building",
+    "front desk",
+    "fidi",
+    "90 west street",
+    "interior design",
+    "real estate",
+    "apartment hunting",
+    "city living",
+    "new york"
+  ],
+  "moments": [
+    {
+      "start": 0.0,
+      "end": 1.93,
+      "action": "Camera captures the clean reception desk and the sleek '90 W' wall logo in the building lobby",
+      "emotion": "neutral",
+      "good_for": [
+        "apartment hunting in NYC",
+        "moving into my new building",
+        "luxury apartment tour",
+        "new beginnings"
+      ],
+      "score": 3
+    }
+  ]
+}

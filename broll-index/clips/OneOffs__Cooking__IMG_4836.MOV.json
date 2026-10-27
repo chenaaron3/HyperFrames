@@ -1,0 +1,106 @@
+{
+  "path": "OneOffs/Cooking/IMG_4836.MOV",
+  "folder": "OneOffs/Cooking",
+  "fingerprint": "5d31843829f8e4a7",
+  "width": 1080,
+  "height": 1920,
+  "fps": 30.0,
+  "duration": 20.068,
+  "model": "gemini-3.8-flash",
+  "annotatedAt": "2026-10-24T18:34:37+00:00",
+  "summary": "A home cook transfers crispy fried eggs from a wok onto two bowls of minced meat and rice on a kitchen counter.",
+  "location": "kitchen",
+  "setting": "indoor",
+  "time_of_day": "indoor_unknown",
+  "weather": "n/a",
+  "people": {
+    "count": 1,
+    "creator_visible": false,
+    "description": "Only the cook's hand holding a metal spatula is visible."
+  },
+  "camera": {
+    "style": "pov_first_person",
+    "framing": "medium",
+    "movement": "handheld",
+    "angle": "high angle"
+  },
+  "quality": {
+    "usable": true,
+    "stability": "steady",
+    "exposure": "good",
+    "issues": ""
+  },
+  "mood": [
+    "satisfying",
+    "appetizing",
+    "domestic",
+    "casual"
+  ],
+  "energy": "low",
+  "tags": [
+    "cooking",
+    "fried egg",
+    "meal prep",
+    "rice bowl",
+    "pad krapow",
+    "wok",
+    "instant pot",
+    "kitchen",
+    "food",
+    "homemade",
+    "crispy egg",
+    "dinner"
+  ],
+  "moments": [
+    {
+      "start": 0.0,
+      "end": 4.0,
+      "action": "Static view of two servings of minced meat and rice awaiting toppings next to an Instant Pot",
+      "emotion": "anticipating",
+      "good_for": [
+        "meal prep sunday",
+        "cooking at home",
+        "food on my plate",
+        "fueling my body"
+      ],
+      "score": 3
+    },
+    {
+      "start": 4.0,
+      "end": 9.5,
+      "action": "Using a metal spatula to slide a crispy golden fried egg from a wok onto a bowl of rice and meat",
+      "emotion": "satisfying",
+      "good_for": [
+        "cooking therapy",
+        "the final touch",
+        "crispy fried egg",
+        "eating good tonight"
+      ],
+      "score": 5
+    },
+    {
+      "start": 9.5,
+      "end": 13.0,
+      "action": "Sliding the second fried egg out of the wok directly onto the meal prep glass container",
+      "emotion": "focused",
+      "good_for": [
+        "meal prep routine",
+        "packed lunch prep",
+        "easy home cooking"
+      ],
+      "score": 4
+    },
+    {
+      "start": 13.0,
+      "end": 20.07,
+      "action": "Two completed rice bowls topped with crispy sunny-side-up eggs sitting ready to eat",
+      "emotion": "satisfied",
+      "good_for": [
+        "dinner is served",
+        "homemade comfort food",
+        "simple pleasures"
+      ],
+      "score": 4
+    }
+  ]
+}

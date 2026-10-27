@@ -1,0 +1,66 @@
+{
+  "path": "OneOffs/Apartments/TurtleBay/155 East 52nd Street/IMG_4137.MOV",
+  "folder": "OneOffs/Apartments/TurtleBay/155 East 52nd Street",
+  "fingerprint": "ac6ef4f786362e73",
+  "width": 1080,
+  "height": 1920,
+  "fps": 30.0,
+  "duration": 2.767,
+  "model": "gemini-3.8-flash",
+  "annotatedAt": "2026-10-24T18:22:21+00:00",
+  "summary": "A handheld pan of an apartment building basement laundry room showing rows of white dryers, ventilation ducting, and a utility door.",
+  "location": "laundry room",
+  "setting": "indoor",
+  "time_of_day": "indoor_unknown",
+  "weather": "n/a",
+  "people": {
+    "count": 0,
+    "creator_visible": false,
+    "description": "No people visible."
+  },
+  "camera": {
+    "style": "pov_first_person",
+    "framing": "wide",
+    "movement": "pan",
+    "angle": "eye level"
+  },
+  "quality": {
+    "usable": true,
+    "stability": "handheld",
+    "exposure": "good",
+    "issues": ""
+  },
+  "mood": [
+    "mundane",
+    "functional",
+    "utilitarian"
+  ],
+  "energy": "low",
+  "tags": [
+    "laundry room",
+    "dryers",
+    "washing machines",
+    "basement",
+    "apartment building",
+    "nyc apartment",
+    "amenities",
+    "apartment tour",
+    "chores"
+  ],
+  "moments": [
+    {
+      "start": 0.0,
+      "end": 2.77,
+      "action": "Camera pans right across a basement laundry room showing white dryers, exhaust pipes, a folding chair, and a door marked danger",
+      "emotion": "neutral",
+      "good_for": [
+        "apartment hunting in nyc",
+        "building laundry",
+        "apartment tour reality",
+        "chore day",
+        "basement amenities"
+      ],
+      "score": 3
+    }
+  ]
+}

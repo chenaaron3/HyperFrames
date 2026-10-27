@@ -1,0 +1,79 @@
+{
+  "path": "Cinematic/CentralPark/IMG_4430.MOV",
+  "folder": "Cinematic/CentralPark",
+  "fingerprint": "9b4248a11246b558",
+  "width": 1080,
+  "height": 1920,
+  "fps": 30.0,
+  "duration": 5.767,
+  "model": "gemini-3.8-flash",
+  "annotatedAt": "2026-10-24T18:18:00+00:00",
+  "summary": "A scenic view looking down from an elevated terrace over Central Park's lake and lush green trees towards city apartment buildings under a clear blue sky.",
+  "location": "Central Park",
+  "setting": "outdoor",
+  "time_of_day": "day",
+  "weather": "sunny",
+  "people": {
+    "count": 0,
+    "creator_visible": false,
+    "description": "No people clearly visible in frame."
+  },
+  "camera": {
+    "style": "handheld_cinematic",
+    "framing": "wide",
+    "movement": "pan",
+    "angle": "high angle"
+  },
+  "quality": {
+    "usable": true,
+    "stability": "steady",
+    "exposure": "good",
+    "issues": ""
+  },
+  "mood": [
+    "peaceful",
+    "scenic",
+    "relaxing",
+    "calm"
+  ],
+  "energy": "low",
+  "tags": [
+    "central park",
+    "new york city",
+    "lake",
+    "trees",
+    "nature in the city",
+    "skyline",
+    "sunny day",
+    "park view",
+    "scenic",
+    "travel"
+  ],
+  "moments": [
+    {
+      "start": 0.0,
+      "end": 3.0,
+      "action": "Camera captures the wide expanse of the calm lake reflecting the sky, surrounded by dense greenery and distant city buildings.",
+      "emotion": "calm",
+      "good_for": [
+        "peace of mind",
+        "escape from the city",
+        "taking a breather",
+        "favorite place in the city"
+      ],
+      "score": 4
+    },
+    {
+      "start": 3.0,
+      "end": 5.77,
+      "action": "Camera gently pans right past stone railing overlooking the lake and forest canopy.",
+      "emotion": "peaceful",
+      "good_for": [
+        "afternoon stroll",
+        "city breaks",
+        "nature heals"
+      ],
+      "score": 4
+    }
+  ]
+}

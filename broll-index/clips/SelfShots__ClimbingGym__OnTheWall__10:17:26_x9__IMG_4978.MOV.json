@@ -1,0 +1,117 @@
+{
+  "path": "SelfShots/ClimbingGym/OnTheWall/10:17:26_x9/IMG_4978.MOV",
+  "folder": "SelfShots/ClimbingGym/OnTheWall/10:17:26_x9",
+  "fingerprint": "3aad61da34d68d55",
+  "width": 1080,
+  "height": 1920,
+  "fps": 30.0,
+  "duration": 58.803,
+  "model": "gemini-3.8-flash",
+  "annotatedAt": "2026-10-24T18:39:26+00:00",
+  "summary": "A young man attempts a difficult bouldering route at an indoor climbing gym, falling on his first attempt before making a long, focused second climb high up the wall.",
+  "location": "climbing gym",
+  "setting": "indoor",
+  "time_of_day": "indoor_unknown",
+  "weather": "n/a",
+  "people": {
+    "count": 1,
+    "creator_visible": true,
+    "description": "Young Asian man with dark hair wearing a brown short-sleeved t-shirt and black pants."
+  },
+  "camera": {
+    "style": "tripod_static",
+    "framing": "wide",
+    "movement": "static",
+    "angle": "high angle"
+  },
+  "quality": {
+    "usable": true,
+    "stability": "locked",
+    "exposure": "good",
+    "issues": "Empty wall for the first few seconds and after the fall."
+  },
+  "mood": [
+    "focused",
+    "athletic",
+    "determined",
+    "challenging"
+  ],
+  "energy": "medium",
+  "tags": [
+    "bouldering",
+    "rock climbing",
+    "indoor climbing",
+    "climbing gym",
+    "workout",
+    "fitness",
+    "athlete",
+    "training",
+    "chalk",
+    "holds",
+    "perseverance",
+    "falling"
+  ],
+  "moments": [
+    {
+      "start": 5.0,
+      "end": 10.5,
+      "action": "Climber starts his first attempt, grabs initial holds, slips off, and drops onto the padded mat",
+      "emotion": "brief disappointment, resetting",
+      "good_for": [
+        "falling before succeeding",
+        "first try vs reality",
+        "learning from failure"
+      ],
+      "score": 3
+    },
+    {
+      "start": 14.5,
+      "end": 23.5,
+      "action": "Climber starts his second attempt, smoothly moving his feet up and dynoing/reaching for a blue sloper hold",
+      "emotion": "focused, determined",
+      "good_for": [
+        "trying again",
+        "consistency",
+        "trusting your grip",
+        "fitness journey"
+      ],
+      "score": 4
+    },
+    {
+      "start": 27.0,
+      "end": 35.0,
+      "action": "Climber carefully positions his feet on small edges and matches hands on a side pull volume",
+      "emotion": "intense concentration, body tension",
+      "good_for": [
+        "trust the process",
+        "one step at a time",
+        "problem solving"
+      ],
+      "score": 4
+    },
+    {
+      "start": 38.0,
+      "end": 47.0,
+      "action": "Climber reaches high up the wall towards top volume holds, extending his body and stabilizing",
+      "emotion": "controlled effort, endurance",
+      "good_for": [
+        "reaching new heights",
+        "pushing your limits",
+        "almost there"
+      ],
+      "score": 4
+    },
+    {
+      "start": 48.0,
+      "end": 55.0,
+      "action": "Climber fights for the final hold near the top before losing grip and tumbling down safely to the mat",
+      "emotion": "fatigued, pushing through struggle",
+      "good_for": [
+        "falling at the finish line",
+        "giving it everything",
+        "next time will be the send"
+      ],
+      "score": 4
+    }
+  ]
+}

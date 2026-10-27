@@ -1,0 +1,83 @@
+{
+  "path": "Cinematic/CentralPark/IMG_4418.MOV",
+  "folder": "Cinematic/CentralPark",
+  "fingerprint": "7ab3b0c4bb99226c",
+  "width": 1080,
+  "height": 1920,
+  "fps": 30.0,
+  "duration": 3.265,
+  "model": "gemini-3.8-flash",
+  "annotatedAt": "2026-10-24T18:17:44+00:00",
+  "summary": "A handheld panning shot along a tree-lined walkway in Central Park, sweeping past pedestrians towards stone park architecture and green trees.",
+  "location": "park",
+  "setting": "outdoor",
+  "time_of_day": "day",
+  "weather": "sunny",
+  "people": {
+    "count": 3,
+    "creator_visible": false,
+    "description": "Pedestrians in casual clothes walking along the path, including a person pushing a stroller and two walkers behind."
+  },
+  "camera": {
+    "style": "handheld_cinematic",
+    "framing": "wide",
+    "movement": "pan",
+    "angle": "eye level"
+  },
+  "quality": {
+    "usable": true,
+    "stability": "steady",
+    "exposure": "good",
+    "issues": ""
+  },
+  "mood": [
+    "peaceful",
+    "scenic",
+    "relaxed",
+    "natural"
+  ],
+  "energy": "low",
+  "tags": [
+    "central park",
+    "new york city",
+    "park",
+    "trees",
+    "nature",
+    "walking path",
+    "sunlight",
+    "summer",
+    "foliage",
+    "bridge",
+    "stone stairs",
+    "b-roll",
+    "greenery"
+  ],
+  "moments": [
+    {
+      "start": 0.0,
+      "end": 1.5,
+      "action": "Camera captures people walking down a shaded Central Park pathway on a sunny afternoon",
+      "emotion": "relaxed",
+      "good_for": [
+        "park walks",
+        "city nature",
+        "afternoon stroll",
+        "living in new york"
+      ],
+      "score": 3
+    },
+    {
+      "start": 1.5,
+      "end": 3.27,
+      "action": "Camera pans across tall tree trunks and lawn toward a historic stone bridge structure",
+      "emotion": "peaceful",
+      "good_for": [
+        "central park beauty",
+        "nature break",
+        "finding quiet spaces",
+        "aesthetic b-roll"
+      ],
+      "score": 3
+    }
+  ]
+}

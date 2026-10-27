@@ -1,0 +1,95 @@
+{
+  "path": "OneOffs/Eating/IMG_4890.MOV",
+  "folder": "OneOffs/Eating",
+  "fingerprint": "a9c8953e2b3cfdb4",
+  "width": 1080,
+  "height": 1920,
+  "fps": 29.97,
+  "duration": 13.94,
+  "model": "gemini-3.8-flash",
+  "annotatedAt": "2026-10-24T18:35:25+00:00",
+  "summary": "First-person handheld camera pans across an elaborate spread of hot pot ingredients, including sliced meats, fish fillets, tofu, mushrooms, noodles, and a dual-broth pot.",
+  "location": "restaurant",
+  "setting": "indoor",
+  "time_of_day": "indoor_unknown",
+  "weather": "n/a",
+  "people": {
+    "count": 2,
+    "creator_visible": false,
+    "description": "A dining companion sitting across the table holding a smartphone while wearing an apron, with another customer seated in the distant background."
+  },
+  "camera": {
+    "style": "pov_first_person",
+    "framing": "medium",
+    "movement": "pan",
+    "angle": "high angle"
+  },
+  "quality": {
+    "usable": true,
+    "stability": "handheld",
+    "exposure": "good",
+    "issues": ""
+  },
+  "mood": [
+    "appetizing",
+    "anticipatory",
+    "satisfying",
+    "casual"
+  ],
+  "energy": "medium",
+  "tags": [
+    "hotpot",
+    "chinese food",
+    "restaurant",
+    "dinner",
+    "beef",
+    "lamb",
+    "fish",
+    "broth",
+    "noodles",
+    "foodie",
+    "dining out",
+    "feast"
+  ],
+  "moments": [
+    {
+      "start": 0.0,
+      "end": 3.5,
+      "action": "Camera pans slowly over thinly sliced rolled meat and seasoned white fish fillets arranged on oval platters",
+      "emotion": "anticipatory",
+      "good_for": [
+        "food on my plate",
+        "dinner dates",
+        "eating good tonight",
+        "comfort food"
+      ],
+      "score": 4
+    },
+    {
+      "start": 5.0,
+      "end": 8.5,
+      "action": "Camera reveals a large circular wooden board lined with beef slices and a bowl of green noodles",
+      "emotion": "excited",
+      "good_for": [
+        "food coma incoming",
+        "weekend feast",
+        "treat yourself",
+        "foodie cravings"
+      ],
+      "score": 4
+    },
+    {
+      "start": 11.5,
+      "end": 13.94,
+      "action": "Camera frames the dual-flavor hotpot bowl with boiling white bone broth on one side and spicy red chili oil on the other",
+      "emotion": "appetizing",
+      "good_for": [
+        "spicy food lover",
+        "hot pot night",
+        "winter warmers",
+        "comfort meal"
+      ],
+      "score": 4
+    }
+  ]
+}

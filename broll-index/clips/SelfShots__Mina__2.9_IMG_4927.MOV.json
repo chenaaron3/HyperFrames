@@ -1,0 +1,106 @@
+{
+  "path": "SelfShots/Mina/2.9_IMG_4927.MOV",
+  "folder": "SelfShots/Mina",
+  "fingerprint": "d0f4111786fb9b67",
+  "width": 1080,
+  "height": 1920,
+  "fps": 30.0,
+  "duration": 40.202,
+  "model": "gemini-3.8-flash",
+  "annotatedAt": "2026-10-24T18:56:08+00:00",
+  "summary": "A young man sits on the apartment floor feeding a squeezable purée treat to his fluffy grey cat while holding and petting it.",
+  "location": "living room",
+  "setting": "indoor",
+  "time_of_day": "day",
+  "weather": "n/a",
+  "people": {
+    "count": 2,
+    "creator_visible": true,
+    "description": "Young Asian man with curly black hair wearing a brown polo shirt and necklace; a roommate briefly walks in the background wearing a navy shirt and shorts."
+  },
+  "camera": {
+    "style": "tripod_static",
+    "framing": "medium",
+    "movement": "static",
+    "angle": "eye level"
+  },
+  "quality": {
+    "usable": true,
+    "stability": "steady",
+    "exposure": "good",
+    "issues": "slightly soft smartphone focus"
+  },
+  "mood": [
+    "cozy",
+    "gentle",
+    "affectionate",
+    "wholesome",
+    "calm"
+  ],
+  "energy": "low",
+  "tags": [
+    "cat",
+    "feeding cat",
+    "pet care",
+    "cat treat",
+    "pet owner",
+    "domestic life",
+    "indoor cat",
+    "roommate",
+    "bonding",
+    "wholesome pets",
+    "cozy home"
+  ],
+  "moments": [
+    {
+      "start": 0.0,
+      "end": 6.5,
+      "action": "Man holds his fluffy grey cat and squeezes a treat tube as the cat licks it eagerly",
+      "emotion": "gentle and focused",
+      "good_for": [
+        "cat dad life",
+        "giving him his favorite treat",
+        "routine that keeps me grounded",
+        "the simple things"
+      ],
+      "score": 4
+    },
+    {
+      "start": 8.0,
+      "end": 15.5,
+      "action": "Cat continues happily licking the tube treat while the man strokes its fur",
+      "emotion": "content and loving",
+      "good_for": [
+        "spoiling my cat",
+        "treat time",
+        "little moments of peace",
+        "unconditional love"
+      ],
+      "score": 4
+    },
+    {
+      "start": 21.0,
+      "end": 26.5,
+      "action": "Man feeds the cat while a roommate walks past in the background through the doorway",
+      "emotion": "casual and calm",
+      "good_for": [
+        "apartment life with roommates",
+        "daily living routine",
+        "shared space vibes"
+      ],
+      "score": 3
+    },
+    {
+      "start": 31.0,
+      "end": 39.5,
+      "action": "Man feeds the last bit of the treat to the cat and looks up at the camera with a calm expression",
+      "emotion": "affectionate and thoughtful",
+      "good_for": [
+        "my favorite company",
+        "quiet days at home",
+        "cat person things"
+      ],
+      "score": 4
+    }
+  ]
+}

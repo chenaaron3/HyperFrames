@@ -1,0 +1,82 @@
+{
+  "path": "OneOffs/Cooking/IMG_4841.MOV",
+  "folder": "OneOffs/Cooking",
+  "fingerprint": "b29fab810328cc35",
+  "width": 1080,
+  "height": 1920,
+  "fps": 30.0,
+  "duration": 5.965,
+  "model": "gemini-3.8-flash",
+  "annotatedAt": "2026-10-24T18:34:41+00:00",
+  "summary": "A creator lies back on a couch recording a selfie video of friends chilling in an apartment living room after eating.",
+  "location": "living room",
+  "setting": "indoor",
+  "time_of_day": "night",
+  "weather": "n/a",
+  "people": {
+    "count": 4,
+    "creator_visible": true,
+    "description": "Four young adult men hanging out; the creator lies on the sofa looking up at the camera, a friend next to him smiles and flashes a peace sign, and two others sit relaxing on a couch nearby."
+  },
+  "camera": {
+    "style": "selfie",
+    "framing": "medium",
+    "movement": "pan",
+    "angle": "low angle looking up"
+  },
+  "quality": {
+    "usable": true,
+    "stability": "handheld",
+    "exposure": "good",
+    "issues": "Slight camera motion blur during the pan towards the TV."
+  },
+  "mood": [
+    "relaxed",
+    "casual",
+    "cozy",
+    "friendly"
+  ],
+  "energy": "low",
+  "tags": [
+    "friends",
+    "hangout",
+    "living room",
+    "apartment",
+    "couch",
+    "post dinner",
+    "chilling",
+    "boys night",
+    "casual",
+    "peace sign",
+    "tv",
+    "relaxing"
+  ],
+  "moments": [
+    {
+      "start": 0.0,
+      "end": 2.5,
+      "action": "Creator films a selfie while friend next to him smiles warmly and throws up a peace sign",
+      "emotion": "happy, relaxed",
+      "good_for": [
+        "friends who feel like family",
+        "quiet nights in",
+        "the best company",
+        "post-dinner chill"
+      ],
+      "score": 4
+    },
+    {
+      "start": 2.5,
+      "end": 5.96,
+      "action": "Camera pans from the friends on the couch across the coffee table toward the television screen playing a video",
+      "emotion": "calm, relaxed",
+      "good_for": [
+        "apartment nights",
+        "dinner with friends",
+        "winding down",
+        "unwind"
+      ],
+      "score": 3
+    }
+  ]
+}

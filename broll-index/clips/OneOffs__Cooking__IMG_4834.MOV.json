@@ -1,0 +1,106 @@
+{
+  "path": "OneOffs/Cooking/IMG_4834.MOV",
+  "folder": "OneOffs/Cooking",
+  "fingerprint": "e999783e241dbc2f",
+  "width": 1080,
+  "height": 1920,
+  "fps": 30.0,
+  "duration": 149.547,
+  "model": "gemini-3.8-flash",
+  "annotatedAt": "2026-10-24T18:34:52+00:00",
+  "summary": "Friends meal prep and plate rice and minced meat bowls in a home kitchen while having a humorous conversation about accidentally using a dog's food bowl.",
+  "location": "kitchen",
+  "setting": "indoor",
+  "time_of_day": "indoor_unknown",
+  "weather": "n/a",
+  "people": {
+    "count": 1,
+    "creator_visible": true,
+    "description": "A man wearing a dark blue t-shirt and a watch, standing by the kitchen counter plating food into bowls."
+  },
+  "camera": {
+    "style": "pov_first_person",
+    "framing": "medium",
+    "movement": "static",
+    "angle": "high angle"
+  },
+  "quality": {
+    "usable": true,
+    "stability": "steady",
+    "exposure": "good",
+    "issues": ""
+  },
+  "mood": [
+    "casual",
+    "humorous",
+    "domestic",
+    "relaxed"
+  ],
+  "energy": "low",
+  "tags": [
+    "cooking",
+    "meal prep",
+    "rice bowl",
+    "kitchen",
+    "plating food",
+    "home cooking",
+    "ground meat",
+    "dinner prep",
+    "funny",
+    "indoor lifestyle",
+    "casual cooking"
+  ],
+  "moments": [
+    {
+      "start": 0.0,
+      "end": 4.5,
+      "action": "A person holds a glass container of cooked white rice over bowls on the kitchen counter",
+      "emotion": "focused",
+      "good_for": [
+        "meal prep sunday",
+        "home cooked meals",
+        "routine",
+        "cooking dinner"
+      ],
+      "score": 3
+    },
+    {
+      "start": 21.0,
+      "end": 28.5,
+      "action": "Scooping cooked ground meat mixture with a large spoon over rice in a glass container",
+      "emotion": "calm",
+      "good_for": [
+        "food on my plate",
+        "meal prepping",
+        "simple pleasures",
+        "healthy eating"
+      ],
+      "score": 4
+    },
+    {
+      "start": 42.0,
+      "end": 51.0,
+      "action": "Spoonfuls of seasoned meat placed over rice bowls lined up on the counter",
+      "emotion": "content",
+      "good_for": [
+        "cooking for friends",
+        "meal prep routine",
+        "nourishing the body"
+      ],
+      "score": 3
+    },
+    {
+      "start": 113.0,
+      "end": 133.0,
+      "action": "Static shot of prepared bowls while friends laugh off-camera about accidentally using the dog's bowl",
+      "emotion": "big laugh",
+      "good_for": [
+        "laugh at your mistakes",
+        "chaotic cooking",
+        "roommate moments",
+        "relatable fails"
+      ],
+      "score": 4
+    }
+  ]
+}

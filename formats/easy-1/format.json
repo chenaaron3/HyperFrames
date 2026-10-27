@@ -1,0 +1,180 @@
+{
+  "id": "easy-1",
+  "name": "Things that are NORMAL as uni students",
+  "reference": "references/viral-formats/easy-1.mp4",
+  "source": "/Users/aaron/Downloads/100 Viral Formats (Format Book)/Easy to use format/#1/#1.mp4",
+  "duration": 13.533,
+  "music": {
+    "from": "reference",
+    "title": "Sailor song - Gigi Perez"
+  },
+  "text": {
+    "y": 0.498,
+    "size": 50,
+    "weight": 700,
+    "lineHeight": 1.4,
+    "maxWidth": 900,
+    "style": "outline"
+  },
+  "lines": [
+    {
+      "id": "l1",
+      "start": 0.233,
+      "end": 2.433,
+      "ref": "Things that are NORMAL\nas uni students",
+      "y": 0.498,
+      "measuredSize": 38,
+      "style": "plain_white_shadow",
+      "guide": ""
+    },
+    {
+      "id": "l2",
+      "start": 2.433,
+      "end": 3.533,
+      "ref": "Being average",
+      "y": 0.47,
+      "measuredSize": 52,
+      "style": "plain_white_shadow",
+      "guide": ""
+    },
+    {
+      "id": "l3",
+      "start": 3.533,
+      "end": 4.967,
+      "ref": "Struggling to make\nnew friends",
+      "y": 0.444,
+      "measuredSize": 52,
+      "style": "plain_white_shadow",
+      "guide": ""
+    },
+    {
+      "id": "l4",
+      "start": 4.967,
+      "end": 6.433,
+      "ref": "Zoning out in class",
+      "y": 0.466,
+      "measuredSize": 36,
+      "style": "plain_white_shadow",
+      "guide": ""
+    },
+    {
+      "id": "l5",
+      "start": 6.433,
+      "end": 8.433,
+      "ref": "No free time\nafter school",
+      "y": 0.463,
+      "measuredSize": 51,
+      "style": "plain_white_shadow",
+      "guide": ""
+    },
+    {
+      "id": "l6",
+      "start": 8.433,
+      "end": 9.933,
+      "ref": "Getting average grades",
+      "y": 0.466,
+      "measuredSize": 69,
+      "style": "plain_white_shadow",
+      "guide": ""
+    },
+    {
+      "id": "l7",
+      "start": 9.933,
+      "end": 11.9,
+      "ref": "Overwhelmed with\nschool work",
+      "y": 0.444,
+      "measuredSize": 44,
+      "style": "plain_white_shadow",
+      "guide": ""
+    },
+    {
+      "id": "l8",
+      "start": 11.9,
+      "end": 13.533,
+      "ref": "Not understand\nthe material",
+      "y": 0.444,
+      "measuredSize": 49,
+      "style": "plain_white_shadow",
+      "guide": ""
+    }
+  ],
+  "shots": [
+    {
+      "id": "s1",
+      "start": 0.0,
+      "end": 0.233,
+      "brief": "sitting at study table or desk looking into camera (ref: Creator setting phone on desk in a library study area, wearing over-ear headphones and looking at camera.; tripod)",
+      "line": null
+    },
+    {
+      "id": "s2",
+      "start": 0.233,
+      "end": 2.433,
+      "brief": "sitting at study table or desk looking into camera (ref: Creator setting phone on desk in a library study area, wearing over-ear headphones and looking at camera.; tripod)",
+      "line": "l1"
+    },
+    {
+      "id": "s3",
+      "start": 2.433,
+      "end": 3.533,
+      "brief": "crouching or standing in a public city street or square (ref: Creator squatting low on a busy pedestrian street during colorful sunset.; tripod)",
+      "line": "l2"
+    },
+    {
+      "id": "s4",
+      "start": 3.533,
+      "end": 4.967,
+      "brief": "eating takeout food alone (ref: Creator eating takeout meal from a container while wearing headphones.; selfie)",
+      "line": "l3"
+    },
+    {
+      "id": "s5",
+      "start": 4.967,
+      "end": 6.433,
+      "brief": "closing laptop and looking fatigued (ref: Creator closing laptop lid and taking off headphones at a table in front of large windows.; tripod)",
+      "line": "l4"
+    },
+    {
+      "id": "s6",
+      "start": 6.433,
+      "end": 8.433,
+      "brief": "typing on laptop or keyboard looking tired (ref: Creator typing on mechanical keyboard with a blank, tired expression.; tripod)",
+      "line": "l5"
+    },
+    {
+      "id": "s7",
+      "start": 8.433,
+      "end": 9.933,
+      "brief": "walking outside in bad weather selfie (ref: Creator walking outdoors in rain/snow holding camera selfie style, talking or sighing.; selfie)",
+      "line": "l6"
+    },
+    {
+      "id": "s8",
+      "start": 9.933,
+      "end": 11.9,
+      "brief": "staring at laptop resting chin or cheek in hand (ref: Side angle of creator resting head on hand, staring at laptop screen with an overwhelmed expression.; tripod)",
+      "line": "l7"
+    },
+    {
+      "id": "s9",
+      "start": 11.9,
+      "end": 13.533,
+      "brief": "rubbing head or running hands through hair in exasperation at desk (ref: Creator stretching back in chair and rubbing head with both hands in frustration.; tripod)",
+      "line": "l8"
+    }
+  ],
+  "audit": {
+    "kind": "broll_with_text",
+    "creatorSpeaks": false,
+    "audio": "music only",
+    "special": [],
+    "reusable": true,
+    "notes": "Perfect match for existing b-roll. Any collection of 7-8 clips showing laptop work, tired expressions, eating takeout, walking outdoors, or chilling at home can be sequenced to fit this exact tempo and concept.",
+    "summary": "A rapid montage of everyday student life b-roll clips paired with relatable text overlays normalizing common college struggles."
+  },
+  "caption": {
+    "ref": "",
+    "guide": ""
+  },
+  "draft": true
+}

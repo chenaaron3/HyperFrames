@@ -1,0 +1,105 @@
+{
+  "path": "SelfShots/ClimbingGym/OnTheWall/10:23:26_Red_x8/IMG_5278.MOV",
+  "folder": "SelfShots/ClimbingGym/OnTheWall/10:23:26_Red_x8",
+  "fingerprint": "7c33e8548ef25491",
+  "width": 1080,
+  "height": 1920,
+  "fps": 30.0,
+  "duration": 35.537,
+  "model": "gemini-3.8-flash",
+  "annotatedAt": "2026-10-24T18:50:51+00:00",
+  "summary": "A young man attempts a dynamic bouldering problem at an indoor climbing gym, falling on his first attempt before successfully climbing to the top holds on his second try.",
+  "location": "climbing gym",
+  "setting": "indoor",
+  "time_of_day": "indoor_unknown",
+  "weather": "n/a",
+  "people": {
+    "count": 1,
+    "creator_visible": true,
+    "description": "Young man with dark wavy hair in a dark grey t-shirt, baggy denim trousers, and climbing shoes"
+  },
+  "camera": {
+    "style": "tripod_static",
+    "framing": "wide",
+    "movement": "static",
+    "angle": "low angle looking up"
+  },
+  "quality": {
+    "usable": true,
+    "stability": "locked",
+    "exposure": "good",
+    "issues": ""
+  },
+  "mood": [
+    "determined",
+    "athletic",
+    "focused",
+    "energetic"
+  ],
+  "energy": "high",
+  "tags": [
+    "bouldering",
+    "climbing",
+    "indoor climbing",
+    "climbing gym",
+    "dyno",
+    "fitness",
+    "workout",
+    "training",
+    "perseverance",
+    "athlete"
+  ],
+  "moments": [
+    {
+      "start": 4.8,
+      "end": 7.5,
+      "action": "Climber runs in, jumps for the start holds, slips off, and lands back on the mat",
+      "emotion": "determined",
+      "good_for": [
+        "failing first",
+        "try again",
+        "trust the process",
+        "learning from mistakes"
+      ],
+      "score": 3
+    },
+    {
+      "start": 12.0,
+      "end": 18.0,
+      "action": "Climber runs up, executes a dynamic leap onto the wall holds, and establishes his position",
+      "emotion": "focused",
+      "good_for": [
+        "locked in",
+        "committing to the move",
+        "gym progression",
+        "staying focused"
+      ],
+      "score": 4
+    },
+    {
+      "start": 22.0,
+      "end": 30.0,
+      "action": "Climber methodically reaches up the wall to grab the top hold and match his hands",
+      "emotion": "triumphant",
+      "good_for": [
+        "sending the project",
+        "consistency pays off",
+        "reaching the top",
+        "finally did it"
+      ],
+      "score": 4
+    },
+    {
+      "start": 29.5,
+      "end": 33.0,
+      "action": "Climber drops down from the high holds onto the safety mat and walks towards the camera",
+      "emotion": "relieved",
+      "good_for": [
+        "stick the landing",
+        "finished the climb",
+        "moving on to the next one"
+      ],
+      "score": 3
+    }
+  ]
+}

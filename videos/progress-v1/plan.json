@@ -1,0 +1,176 @@
+{
+  "format": "easy-5",
+  "title": "“I feel like i’m not making any progress”",
+  "lines": {
+    "l1": "“I feel like i’m not making any progress”",
+    "l2": "you did your best",
+    "l3": "you learned something",
+    "l4": "you didn’t quit",
+    "l5": "you stayed present",
+    "l6": "you showed up for yourself",
+    "l7": "you woke up that day",
+    "l8": "you kept trying",
+    "l9": "you made it through"
+  },
+  "shots": {
+    "s1": {
+      "clip": "SelfShots/ClimbingGym/OnTheWall/10:22:26_Red_x25/IMG_5207.MOV",
+      "in": 6.23,
+      "speed": 1.0,
+      "note": "Creator makes a severe cringe and disgusted grimace, staring down at the can in shock (disgusted)",
+      "query": "sitting cafe drinking thoughtful",
+      "alts": [
+        "OneOffs/RainyDayArmanRishi/IMG_4639.MOV @7.8-12.2: Man sets his cup down on the table, turns toward the camera, and laugh",
+        "OneOffs/Eating/IMG_4898.MOV @6.0-11.0: Man pauses sipping, chuckles to himself, and continues drinking with a",
+        "OneOffs/RainyDayArmanRishi/IMG_4664.MOV @0.0-5.5: A person's hand points across the table from one small plate of pastri",
+        "OneOffs/RainyDayArmanRishi/IMG_4640.MOV @3.0-5.5: Man lowers the glass with both hands and sets it down on the table",
+        "OneOffs/Eating/IMG_4895.MOV @0.0-2.2: First-person perspective clinking vibrant green, pink, and red cocktai"
+      ],
+      "motion": {
+        "speed": 0.9,
+        "jitter": 1.04,
+        "verdict": "ok"
+      }
+    },
+    "s2": {
+      "clip": "OneOffs/Eating/IMG_4891.MOV",
+      "in": 2.38,
+      "speed": 1.0,
+      "note": "Camera turns selfie-style showing the creator and his friend smiling and laughing together at the table (happy and relaxed)",
+      "query": "restaurant eating friends cheers",
+      "alts": [
+        "OneOffs/Eating/IMG_4895.MOV @0.0-2.2: First-person perspective clinking vibrant green, pink, and red cocktai",
+        "OneOffs/Eating/IMG_4896.MOV @0.0-4.5: Friends raise and clink vibrant cocktail glasses together in a celebra",
+        "OneOffs/Eating/IMG_4897.MOV @12.0-18.5: Man finishes sipping, sits back, and smiles approvingly while talking ",
+        "OneOffs/Eating/IMG_4898.MOV @11.0-13.2: Man sets drink down and turns directly toward the camera with a playfu",
+        "OneOffs/RainyDayArmanRishi/IMG_4657.MOV @0.0-2.6: Three friends tap their small ceramic cups of tea together in a cheers"
+      ],
+      "motion": {
+        "speed": 6.2,
+        "jitter": 2.2,
+        "verdict": "ok"
+      }
+    },
+    "s3": {
+      "clip": "SelfShots/Walking/1stPerson/IMG_4960.MOV",
+      "in": 3.52,
+      "speed": 1.0,
+      "note": "Creator walks down the sidewalk holding camera high in selfie mode, glancing forward and briefly toward the camera (calm, observant)",
+      "query": "walking waterfront smiling selfie",
+      "alts": [
+        "SelfShots/Walking/1stPerson/IMG_5262.MOV @2.0-4.5: Man walks along park path holding camera extended, glancing at the len",
+        "SelfShots/Walking/1stPerson/IMG_5264.MOV @1.0-5.0: Creator walks forward holding phone at arm's length, glancing between ",
+        "OneOffs/BrooklynNight/IMG_4510 3.MOV @0.0-3.8: Creator holds phone up in a selfie while walking along a subway platfo",
+        "SelfShots/Walking/1stPerson/IMG_4931.MOV @0.0-3.0: Creator walks along the sidewalk looking directly into the camera lens",
+        "SelfShots/Walking/1stPerson/IMG_5261.MOV @1.5-6.5: Creator walks forward holding the camera, looking around calmly with t"
+      ],
+      "motion": {
+        "speed": 8.2,
+        "jitter": 5.35,
+        "verdict": "ok"
+      }
+    },
+    "s4": {
+      "clip": "SelfShots/ClimbingGym/OnTheWall/10:22:26_Red_x25/IMG_5250.MOV",
+      "in": 26.55,
+      "speed": 1.0,
+      "note": "hand pick",
+      "query": "walking city street commuting",
+      "motion": {
+        "speed": 0.1,
+        "jitter": 0.03,
+        "verdict": "ok"
+      }
+    },
+    "s5": {
+      "clip": "SelfShots/Walking/1stPerson/IMG_5262.MOV",
+      "in": 14.73,
+      "speed": 1.0,
+      "note": "Side profile selfie tracking as he walks through a crowd of people under leafy park trees (thoughtful)",
+      "query": "walking park trees looking up",
+      "alts": [
+        "SelfShots/Walking/1stPerson/IMG_5261.MOV @1.5-6.5: Creator walks forward holding the camera, looking around calmly with t",
+        "SelfShots/Walking/1stPerson/IMG_5262.MOV @2.0-4.5: Man walks along park path holding camera extended, glancing at the len",
+        "SelfShots/Walking/1stPerson/IMG_5264.MOV @1.0-5.0: Creator walks forward holding phone at arm's length, glancing between ",
+        "SelfShots/Walking/1stPerson/IMG_5260.MOV @0.0-3.0: Young man walks along the path while holding the camera up and looking",
+        "SelfShots/Walking/1stPerson/IMG_5264.MOV @8.0-11.5: Creator looks directly forward into the camera lens while walking bris"
+      ],
+      "motion": {
+        "speed": 5.6,
+        "jitter": 5.85,
+        "verdict": "ok"
+      }
+    },
+    "s6": {
+      "clip": "OneOffs/RainyDayArmanRishi/IMG_4624.MOV",
+      "in": 1.32,
+      "speed": 1.0,
+      "note": "Camera tracks behind two friends walking together down a wet sidewalk holding umbrellas on a rainy city day (relaxed)",
+      "query": "night street playful",
+      "alts": [
+        "SelfShots/ClimbingGym/Setup/Walking/IMG_4967.MOV @6.5-11.0: Creator turns around and walks towards and past the camera with a calm",
+        "SelfShots/Chilling/IMG_4440.MOV @5.5-11.0: Creator jumps onto the bar and performs a clean, explosive muscle-up i",
+        "OneOffs/RainyDayArmanRishi/IMG_4621.MOV @0.0-3.9: Camera tracks behind two friends walking down a rain-soaked city sidew",
+        "OneOffs/RainyDayArmanRishi/IMG_4633.MOV @2.2-5.0: Camera pans right across the wet street and green bike lane to show a ",
+        "OneOffs/BrooklynNight/IMG_4516 3.MOV @2.2-4.5: Man pulls open the door, glances back towards the camera with a gentle"
+      ],
+      "motion": {
+        "speed": 0.4,
+        "jitter": 0.19,
+        "verdict": "ok"
+      }
+    },
+    "s7": {
+      "clip": "SelfShots/Subway/IMG_4954.MOV",
+      "in": 0.72,
+      "speed": 1.0,
+      "note": "Creator walks up the subway exit stairs filming a front-facing selfie while looking into the lens (neutral, focused, casual)",
+      "query": "subway train selfie",
+      "alts": [
+        "OneOffs/BrooklynNight/IMG_4510 3.MOV @0.0-3.8: Creator holds phone up in a selfie while walking along a subway platfo",
+        "OneOffs/BrooklynNight/IMG_4511 3.MOV @0.0-1.7: The creator smiles into the camera while riding inside a moving subway",
+        "SelfShots/Subway/IMG_4951.MOV @0.0-3.8: Creator holds phone in selfie mode, looking calmly at the lens while t",
+        "SelfShots/Subway/IMG_4952.MOV @11.5-17.8: Side profile of creator gazing out into the dark subway tunnel as the ",
+        "OneOffs/RainyDayArmanRishi/IMG_4627.MOV @0.0-2.3: Creator holds phone in selfie view on the subway, looking into the len"
+      ],
+      "motion": {
+        "speed": 7.9,
+        "jitter": 5.67,
+        "verdict": "ok"
+      }
+    },
+    "s8": {
+      "clip": "SelfShots/Walking/1stPerson/IMG_4965.MOV",
+      "in": 1.82,
+      "speed": 1.0,
+      "note": "Creator holds phone walking along a sidewalk past a colorful storefront, glancing at the lens and ahead. (calm, contemplative)",
+      "query": "walking waterfront path river",
+      "alts": [
+        "Cinematic/CentralPark/IMG_4470.MOV @0.0-4.3: Camera pans slowly from a pond reflection framed by a stone archway to",
+        "OneOffs/BrooklynNight/IMG_4558 3.MOV @3.2-5.6: Camera tracks sideways showing more of the pier, distant buildings, an",
+        "OneOffs/RainyDayArmanRishi/IMG_4668.MOV @0.0-4.5: Walking forward steadily along wet sidewalk pavement in boots and long",
+        "SelfShots/Walking/1stPerson/IMG_4931.MOV @0.0-3.0: Creator walks along the sidewalk looking directly into the camera lens",
+        "SelfShots/Walking/3rdPerson/IMG_4933.MOV @6.0-9.5: Creator in a long dark coat and backpack walks briskly across the fram"
+      ],
+      "motion": {
+        "speed": 3.9,
+        "jitter": 1.78,
+        "verdict": "ok"
+      }
+    },
+    "s9": {
+      "clip": "SelfShots/ClimbingGym/OnTheWall/10:22:26_Red_x25/IMG_5212.MOV",
+      "in": 36.8,
+      "speed": 1.0,
+      "note": "hand pick",
+      "query": "walking stairs city view",
+      "motion": {
+        "speed": 0.0,
+        "jitter": 0.01,
+        "verdict": "ok"
+      }
+    }
+  },
+  "caption": "you're right where you're supposed to be.",
+  "textY": 0.5
+}

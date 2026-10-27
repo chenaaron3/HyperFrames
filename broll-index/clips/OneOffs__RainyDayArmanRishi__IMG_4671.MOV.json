@@ -1,0 +1,85 @@
+{
+  "path": "OneOffs/RainyDayArmanRishi/IMG_4671.MOV",
+  "folder": "OneOffs/RainyDayArmanRishi",
+  "fingerprint": "e8c08e2f0cb5699b",
+  "width": 1080,
+  "height": 1920,
+  "fps": 30.0,
+  "duration": 4.4,
+  "model": "gemini-3.8-flash",
+  "annotatedAt": "2026-10-24T18:37:49+00:00",
+  "summary": "Handheld view panning across a rainy New York City street at twilight, showing illuminated skyscrapers disappearing into low clouds and fog with wet asphalt reflecting car headlights.",
+  "location": "city street",
+  "setting": "outdoor",
+  "time_of_day": "night",
+  "weather": "rain",
+  "people": {
+    "count": 0,
+    "creator_visible": false,
+    "description": "No people clearly visible; distant cars and city traffic on the wet street."
+  },
+  "camera": {
+    "style": "pov_first_person",
+    "framing": "wide",
+    "movement": "pan",
+    "angle": "low angle looking up"
+  },
+  "quality": {
+    "usable": true,
+    "stability": "handheld",
+    "exposure": "good",
+    "issues": "Headlight flare and mild moisture/glare on lens"
+  },
+  "mood": [
+    "moody",
+    "cinematic",
+    "melancholy",
+    "atmospheric",
+    "peaceful"
+  ],
+  "energy": "low",
+  "tags": [
+    "new york city",
+    "rain",
+    "rainy day",
+    "fog",
+    "skyscrapers",
+    "city lights",
+    "traffic",
+    "twilight",
+    "dusk",
+    "urban aesthetic",
+    "moody weather",
+    "yellow cab",
+    "night city"
+  ],
+  "moments": [
+    {
+      "start": 0.0,
+      "end": 2.5,
+      "action": "Camera looks up at towering skyscrapers veiled in dense fog, with headlights reflecting brightly on wet asphalt below.",
+      "emotion": "moody, atmospheric, contemplative",
+      "good_for": [
+        "rainy days in the city",
+        "city that never sleeps",
+        "romanticizing rainy days",
+        "peaceful evening walks",
+        "moody b-roll"
+      ],
+      "score": 4
+    },
+    {
+      "start": 2.5,
+      "end": 4.4,
+      "action": "Camera pans right revealing street trees and a yellow cab driving along the wet roadway beneath the misty buildings.",
+      "emotion": "grounded, calm urban transit",
+      "good_for": [
+        "nyc living",
+        "rainy city commute",
+        "evening in manhattan",
+        "life in the city"
+      ],
+      "score": 3
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "path": "OneOffs/BrooklynNight/IMG_4514 3.MOV",
+  "folder": "OneOffs/BrooklynNight",
+  "fingerprint": "01fbda7269c5bcb4",
+  "width": 1080,
+  "height": 1920,
+  "fps": 30.0,
+  "duration": 2.333,
+  "model": "gemini-3.8-flash",
+  "annotatedAt": "2026-10-24T18:22:37+00:00",
+  "summary": "A close-up shot of a colorful Mediterranean-style grain or salad bowl topped with dressings, sitting on a counter by a window.",
+  "location": "restaurant",
+  "setting": "indoor",
+  "time_of_day": "day",
+  "weather": "n/a",
+  "people": {
+    "count": 0,
+    "creator_visible": false,
+    "description": "No people clearly visible in frame; pedestrian silhouettes faintly visible outside the window."
+  },
+  "camera": {
+    "style": "pov_first_person",
+    "framing": "close",
+    "movement": "static",
+    "angle": "high angle"
+  },
+  "quality": {
+    "usable": true,
+    "stability": "steady",
+    "exposure": "good",
+    "issues": ""
+  },
+  "mood": [
+    "casual",
+    "appetizing",
+    "satisfying"
+  ],
+  "energy": "low",
+  "tags": [
+    "salad bowl",
+    "grain bowl",
+    "cava",
+    "lunch",
+    "healthy eating",
+    "takeout",
+    "foodie",
+    "fast casual",
+    "dressing",
+    "counter seating"
+  ],
+  "moments": [
+    {
+      "start": 0.0,
+      "end": 2.33,
+      "action": "Steady high-angle view of a colorful salad bowl topped with creamy dressings resting on a restaurant counter",
+      "emotion": "calm",
+      "good_for": [
+        "food on my plate",
+        "lunch break",
+        "little daily joys",
+        "eating good",
+        "post-workout meal"
+      ],
+      "score": 4
+    }
+  ]
+}

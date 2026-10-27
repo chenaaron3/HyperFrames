@@ -1,0 +1,81 @@
+{
+  "path": "OneOffs/RainyDayArmanRishi/IMG_4665.MOV",
+  "folder": "OneOffs/RainyDayArmanRishi",
+  "fingerprint": "2ab5c05c05fb07bb",
+  "width": 1080,
+  "height": 1920,
+  "fps": 30.0,
+  "duration": 5.867,
+  "model": "gemini-3.8-flash",
+  "annotatedAt": "2026-10-24T18:37:34+00:00",
+  "summary": "First-person perspective of a table covered with assorted pastries and tea cups as someone points at the different desserts.",
+  "location": "restaurant",
+  "setting": "indoor",
+  "time_of_day": "indoor_unknown",
+  "weather": "n/a",
+  "people": {
+    "count": 2,
+    "creator_visible": false,
+    "description": "Creator's hand is visible pointing across the table; another person in dark clothing is seated opposite, visible from chest down."
+  },
+  "camera": {
+    "style": "pov_first_person",
+    "framing": "medium",
+    "movement": "handheld",
+    "angle": "high angle"
+  },
+  "quality": {
+    "usable": true,
+    "stability": "steady",
+    "exposure": "good",
+    "issues": ""
+  },
+  "mood": [
+    "casual",
+    "social",
+    "foodie",
+    "indulgent"
+  ],
+  "energy": "low",
+  "tags": [
+    "pastries",
+    "dessert",
+    "tea",
+    "tea tasting",
+    "restaurant",
+    "dim sum",
+    "treats",
+    "friends",
+    "foodie",
+    "table spread",
+    "cafe"
+  ],
+  "moments": [
+    {
+      "start": 0.0,
+      "end": 2.2,
+      "action": "POV shot of plates filled with pastries and cups of tea on a wooden dining table",
+      "emotion": "relaxed",
+      "good_for": [
+        "sweet treats",
+        "tea time",
+        "food with friends",
+        "afternoon dessert"
+      ],
+      "score": 3
+    },
+    {
+      "start": 2.2,
+      "end": 5.0,
+      "action": "A hand enters the frame and points one by one at various dessert plates across the table",
+      "emotion": "playful",
+      "good_for": [
+        "choosing dessert",
+        "ordering everything",
+        "cant pick just one",
+        "weekend treats"
+      ],
+      "score": 3
+    }
+  ]
+}

@@ -1,0 +1,107 @@
+{
+  "path": "SelfShots/ClimbingGym/OnTheWall/10:22:26_Red_x25/IMG_5218.MOV",
+  "folder": "SelfShots/ClimbingGym/OnTheWall/10:22:26_Red_x25",
+  "fingerprint": "f761a14d5ffa662e",
+  "width": 1080,
+  "height": 1920,
+  "fps": 30.0,
+  "duration": 34.002,
+  "model": "gemini-3.8-flash",
+  "annotatedAt": "2026-10-24T18:48:17+00:00",
+  "summary": "A young man attempts a bouldering route on an indoor climbing wall, working his way across the colorful holds before slipping and falling onto the safety mat.",
+  "location": "climbing gym",
+  "setting": "indoor",
+  "time_of_day": "indoor_unknown",
+  "weather": "n/a",
+  "people": {
+    "count": 1,
+    "creator_visible": true,
+    "description": "Young East Asian man wearing a light grey tank top and loose blue pants with climbing shoes"
+  },
+  "camera": {
+    "style": "tripod_static",
+    "framing": "medium",
+    "movement": "static",
+    "angle": "low angle looking up"
+  },
+  "quality": {
+    "usable": true,
+    "stability": "locked",
+    "exposure": "good",
+    "issues": ""
+  },
+  "mood": [
+    "determined",
+    "athletic",
+    "challenging",
+    "focused"
+  ],
+  "energy": "medium",
+  "tags": [
+    "bouldering",
+    "rock climbing",
+    "climbing gym",
+    "workout",
+    "fitness",
+    "sports",
+    "training",
+    "indoor sports",
+    "falling",
+    "persistence",
+    "active lifestyle"
+  ],
+  "moments": [
+    {
+      "start": 6.5,
+      "end": 12.0,
+      "action": "Man steps up to the wall, grips the starting holds, and lifts his feet off the mat",
+      "emotion": "focused",
+      "good_for": [
+        "taking on a challenge",
+        "starting something new",
+        "day 1 of trying",
+        "gym motivation"
+      ],
+      "score": 4
+    },
+    {
+      "start": 12.0,
+      "end": 18.5,
+      "action": "Man engages his core and shifts his foot across holds while maintaining grip on the holds",
+      "emotion": "intense concentration",
+      "good_for": [
+        "trusting the process",
+        "focus on balance",
+        "working hard",
+        "staying steady"
+      ],
+      "score": 4
+    },
+    {
+      "start": 21.0,
+      "end": 29.5,
+      "action": "Man repositions, tries to find the next hold, makes a dynamic move, and slips off the wall",
+      "emotion": "strain and effort",
+      "good_for": [
+        "almost had it",
+        "trying your best",
+        "learning from failure",
+        "relatable gym fails"
+      ],
+      "score": 5
+    },
+    {
+      "start": 29.0,
+      "end": 32.5,
+      "action": "Man falls onto the mat, stands up, catches his breath, and walks towards the camera",
+      "emotion": "mild disappointment but calm",
+      "good_for": [
+        "dust yourself off",
+        "try again tomorrow",
+        "we take those Ls",
+        "post workout exhaustion"
+      ],
+      "score": 4
+    }
+  ]
+}

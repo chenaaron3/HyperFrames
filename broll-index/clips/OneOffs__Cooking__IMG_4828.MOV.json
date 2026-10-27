@@ -1,0 +1,104 @@
+{
+  "path": "OneOffs/Cooking/IMG_4828.MOV",
+  "folder": "OneOffs/Cooking",
+  "fingerprint": "76a7a48a3c8e7b65",
+  "width": 1080,
+  "height": 1920,
+  "fps": 30.0,
+  "duration": 62.605,
+  "model": "gemini-3.8-flash",
+  "annotatedAt": "2026-10-24T18:34:22+00:00",
+  "summary": "A home cook prepares a savory minced meat dish in a wok, pouring in sauce and chicken broth before covering it to simmer.",
+  "location": "kitchen",
+  "setting": "indoor",
+  "time_of_day": "indoor_unknown",
+  "weather": "n/a",
+  "people": {
+    "count": 1,
+    "creator_visible": false,
+    "description": "Person's hands and forearms visible wearing a silver chain bracelet while cooking"
+  },
+  "camera": {
+    "style": "pov_first_person",
+    "framing": "close",
+    "movement": "static",
+    "angle": "high angle"
+  },
+  "quality": {
+    "usable": true,
+    "stability": "steady",
+    "exposure": "good",
+    "issues": ""
+  },
+  "mood": [
+    "cozy",
+    "focused",
+    "domestic",
+    "calm"
+  ],
+  "energy": "low",
+  "tags": [
+    "cooking",
+    "wok",
+    "minced meat",
+    "stir fry",
+    "asian cooking",
+    "kitchen",
+    "recipe",
+    "food prep",
+    "homemade",
+    "chicken broth",
+    "dinner time"
+  ],
+  "moments": [
+    {
+      "start": 4.0,
+      "end": 14.5,
+      "action": "Pouring a dark seasoning sauce from a small white bowl into minced meat sizzling in a wok",
+      "emotion": "focused",
+      "good_for": [
+        "cooking dinner",
+        "home cooked meals",
+        "recipe tutorial",
+        "comfort food"
+      ],
+      "score": 4
+    },
+    {
+      "start": 17.5,
+      "end": 24.5,
+      "action": "Displaying a can of chicken broth to the camera and pouring it directly into the wok",
+      "emotion": "focused",
+      "good_for": [
+        "step by step recipe",
+        "secret ingredient",
+        "flavor building"
+      ],
+      "score": 4
+    },
+    {
+      "start": 26.0,
+      "end": 35.0,
+      "action": "Stirring the minced meat into the bubbling broth with a metal spatula",
+      "emotion": "calm",
+      "good_for": [
+        "cooking sounds",
+        "food on my plate",
+        "satisfying cooking process"
+      ],
+      "score": 4
+    },
+    {
+      "start": 58.5,
+      "end": 62.5,
+      "action": "Placing a stainless steel lid over the wok to let the food simmer",
+      "emotion": "satisfied",
+      "good_for": [
+        "letting it simmer",
+        "dinner is almost ready",
+        "cooking ritual"
+      ],
+      "score": 3
+    }
+  ]
+}

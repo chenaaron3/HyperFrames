@@ -1,0 +1,78 @@
+{
+  "path": "OneOffs/Apartments/MurrayHills/150 East 39th Street/IMG_4200.MOV",
+  "folder": "OneOffs/Apartments/MurrayHills/150 East 39th Street",
+  "fingerprint": "3b27670f5076c409",
+  "width": 1080,
+  "height": 1920,
+  "fps": 30.0,
+  "duration": 9.333,
+  "model": "gemini-3.8-flash",
+  "annotatedAt": "2026-10-24T18:21:19+00:00",
+  "summary": "A woman walks through a revolving door into an apartment building lobby and approaches the front desk.",
+  "location": "apartment building lobby",
+  "setting": "indoor",
+  "time_of_day": "day",
+  "weather": "n/a",
+  "people": {
+    "count": 3,
+    "creator_visible": true,
+    "description": "A woman with hair up, wearing a black leather jacket, dark pants, and a shoulder bag; a doorman in a white shirt behind the counter; a man walking in the distance."
+  },
+  "camera": {
+    "style": "filmed_by_friend",
+    "framing": "medium",
+    "movement": "tracking",
+    "angle": "eye level"
+  },
+  "quality": {
+    "usable": true,
+    "stability": "handheld",
+    "exposure": "good",
+    "issues": "slight motion blur while walking, finger briefly visible at bottom corner near end"
+  },
+  "mood": [
+    "casual",
+    "urban",
+    "routine"
+  ],
+  "energy": "medium",
+  "tags": [
+    "apartment lobby",
+    "revolving door",
+    "reception",
+    "doorman",
+    "walking",
+    "arrival",
+    "city living",
+    "new york city",
+    "leather jacket",
+    "entering building"
+  ],
+  "moments": [
+    {
+      "start": 1.5,
+      "end": 5.0,
+      "action": "Woman walks through revolving door into the marble floor lobby",
+      "emotion": "casual",
+      "good_for": [
+        "arriving home",
+        "apartment hunting",
+        "city life",
+        "coming back"
+      ],
+      "score": 3
+    },
+    {
+      "start": 5.0,
+      "end": 7.5,
+      "action": "Woman walks past the lobby lounge area towards the front desk",
+      "emotion": "focused",
+      "good_for": [
+        "checking in",
+        "doorman building",
+        "nyc living"
+      ],
+      "score": 3
+    }
+  ]
+}

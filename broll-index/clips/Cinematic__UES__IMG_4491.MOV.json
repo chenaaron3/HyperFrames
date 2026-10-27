@@ -1,0 +1,70 @@
+{
+  "path": "Cinematic/UES/IMG_4491.MOV",
+  "folder": "Cinematic/UES",
+  "fingerprint": "759f94a508ad07fc",
+  "width": 1080,
+  "height": 1920,
+  "fps": 30.0,
+  "duration": 3.167,
+  "model": "gemini-3.8-flash",
+  "annotatedAt": "2026-10-24T18:19:57+00:00",
+  "summary": "Exterior shot of the Solomon R. Guggenheim Museum in NYC on a bright day, featuring visitors sitting along the entrance area and the iconic curved architecture.",
+  "location": "museum exterior",
+  "setting": "outdoor",
+  "time_of_day": "day",
+  "weather": "sunny",
+  "people": {
+    "count": 6,
+    "creator_visible": false,
+    "description": "Museum visitors resting and sitting along the curved concrete walls near the entrance."
+  },
+  "camera": {
+    "style": "handheld_cinematic",
+    "framing": "wide",
+    "movement": "pan",
+    "angle": "low angle looking up"
+  },
+  "quality": {
+    "usable": true,
+    "stability": "steady",
+    "exposure": "good",
+    "issues": ""
+  },
+  "mood": [
+    "calm",
+    "cultural",
+    "artistic",
+    "metropolitan"
+  ],
+  "energy": "low",
+  "tags": [
+    "guggenheim",
+    "museum",
+    "upper east side",
+    "manhattan",
+    "new york city",
+    "architecture",
+    "frank lloyd wright",
+    "art museum",
+    "sunny day",
+    "city life",
+    "culture",
+    "travel"
+  ],
+  "moments": [
+    {
+      "start": 0.0,
+      "end": 3.17,
+      "action": "A slow smooth handheld pan across the exterior facade of the Solomon R. Guggenheim Museum, showing the spiral structure and people sitting outside",
+      "emotion": "peaceful",
+      "good_for": [
+        "visiting new museums",
+        "days spent exploring nyc",
+        "art girl autumn",
+        "city travel guide",
+        "weekend museum trip"
+      ],
+      "score": 4
+    }
+  ]
+}

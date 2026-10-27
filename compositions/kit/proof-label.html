@@ -1,0 +1,66 @@
+<template>
+  <style>
+    #pl-root { position: absolute; inset: 0; pointer-events: none; }
+    #pl-box { position: absolute; left: 0; right: 0; top: 1290px; text-align: center; }
+    #pl-kicker {
+      font-family: "IBM Plex Mono", monospace; font-weight: 600; font-size: 28px;
+      letter-spacing: 0.22em; color: #FFFFFF; margin-bottom: 14px;
+      text-shadow: 0 2px 14px rgba(0, 0, 0, 0.5);
+    }
+    #pl-kicker i { display: inline-block; font-style: normal; white-space: pre; }
+    #pl-block {
+      position: relative; display: inline-block; background: #B8452F; border-radius: 10px;
+      padding: 6px 30px 14px; transform-origin: 50% 50%;
+      box-shadow: 0 18px 40px rgba(0, 0, 0, 0.28);
+    }
+    #pl-word {
+      font-family: "Outfit", sans-serif; font-weight: 800; font-size: 118px;
+      line-height: 1; letter-spacing: -0.03em; color: #FFFFFF;
+    }
+    #pl-strike {
+      position: absolute; left: 18px; right: 18px; top: 52%; height: 10px; border-radius: 5px;
+      background: #141414; transform-origin: 0 50%;
+    }
+  </style>
+  <div id="pl-root" data-composition-id="proof-label" data-start="0" data-duration="30" data-width="1080" data-height="1920"
+    data-composition-variables='[
+      {"id":"kicker","type":"string","label":"Kicker","default":"NOT IN THE"},
+      {"id":"word","type":"string","label":"Block word","default":"BROWSER"},
+      {"id":"strikeAt","type":"number","label":"Strike at (s, -1 for none)","default":0.7},
+      {"id":"top","type":"number","label":"Top (px)","default":1290},
+      {"id":"out","type":"number","label":"Exit at (s)","default":1.4}
+    ]'>
+    <div id="pl-box">
+      <div id="pl-kicker"></div>
+      <div id="pl-block"><div id="pl-word"></div><div id="pl-strike"></div></div>
+    </div>
+    <audio id="pl-pop" class="clip" src="assets/sfx/pop.mp3" data-start="0.05" data-duration="0.4" data-volume="0.2" data-track-index="9"></audio>
+  </div>
+  <script>
+    (function () {
+      var v = (window.__hyperframes && window.__hyperframes.getVariables) ? window.__hyperframes.getVariables() : {};
+      var strikeAt = typeof v.strikeAt === "number" ? v.strikeAt : 0.7;
+      var out = typeof v.out === "number" ? v.out : 1.4;
+      document.getElementById("pl-box").style.top = (typeof v.top === "number" ? v.top : 1290) + "px";
+      document.getElementById("pl-word").textContent = v.word || "BROWSER";
+      var k = document.getElementById("pl-kicker");
+      (v.kicker || "NOT IN THE").split("").forEach(function (ch) {
+        var i = document.createElement("i"); i.textContent = ch; k.appendChild(i);
+      });
+
+      var tl = gsap.timeline({ paused: true });
+      tl.fromTo("#pl-kicker i", { opacity: 0, y: 8 }, { opacity: 1, y: 0, duration: 0.28, stagger: 0.02, ease: "power3.out" }, 0);
+      tl.fromTo("#pl-block", { scaleX: 0.2, scaleY: 0.6, opacity: 0 },
+        { scaleX: 1, scaleY: 1, opacity: 1, duration: 0.5, ease: "expo.out" }, 0.08);
+      tl.fromTo("#pl-word", { opacity: 0, filter: "blur(8px)" }, { opacity: 1, filter: "blur(0px)", duration: 0.25, ease: "power2.out" }, 0.2);
+      if (strikeAt >= 0) {
+        tl.fromTo("#pl-strike", { scaleX: 0 }, { scaleX: 1, duration: 0.32, ease: "power3.inOut" }, strikeAt);
+        tl.fromTo("#pl-block", { rotate: 0 }, { rotate: -2.5, duration: 0.3, ease: "power2.out" }, strikeAt + 0.1);
+      } else {
+        tl.set("#pl-strike", { scaleX: 0 }, 0);
+      }
+      tl.to("#pl-box", { opacity: 0, y: 24, filter: "blur(6px)", duration: 0.26, ease: "power2.in" }, out);
+      window.__timelines["proof-label"] = tl;
+    })();
+  </script>
+</template>

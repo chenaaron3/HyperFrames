@@ -1,0 +1,71 @@
+{
+  "path": "Cinematic/CentralPark/IMG_4407.MOV",
+  "folder": "Cinematic/CentralPark",
+  "fingerprint": "bb7f17640323bebb",
+  "width": 1080,
+  "height": 1920,
+  "fps": 30.0,
+  "duration": 2.398,
+  "model": "gemini-3.8-flash",
+  "annotatedAt": "2026-10-24T18:17:28+00:00",
+  "summary": "A horse-drawn white carriage trots down a sunlit, tree-lined road in Central Park.",
+  "location": "park",
+  "setting": "outdoor",
+  "time_of_day": "day",
+  "weather": "sunny",
+  "people": {
+    "count": 3,
+    "creator_visible": false,
+    "description": "A driver and passengers seated inside a moving horse carriage, with distant pedestrians in the background."
+  },
+  "camera": {
+    "style": "pov_first_person",
+    "framing": "medium",
+    "movement": "static",
+    "angle": "eye level"
+  },
+  "quality": {
+    "usable": true,
+    "stability": "steady",
+    "exposure": "good",
+    "issues": ""
+  },
+  "mood": [
+    "peaceful",
+    "romantic",
+    "idyllic",
+    "nostalgic"
+  ],
+  "energy": "low",
+  "tags": [
+    "central park",
+    "new york city",
+    "nyc",
+    "horse carriage",
+    "carriage ride",
+    "park",
+    "trees",
+    "summer",
+    "nature",
+    "dappled light",
+    "sunshine",
+    "peaceful",
+    "travel vlog"
+  ],
+  "moments": [
+    {
+      "start": 0.0,
+      "end": 2.4,
+      "action": "A white horse carriage moves slowly down a paved park path under lush green trees with dappled sunlight.",
+      "emotion": "calm",
+      "good_for": [
+        "romanticizing your life",
+        "slow days in the city",
+        "nyc bucket list",
+        "taking things slow",
+        "visiting new york"
+      ],
+      "score": 4
+    }
+  ]
+}

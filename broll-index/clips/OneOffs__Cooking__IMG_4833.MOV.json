@@ -1,0 +1,103 @@
+{
+  "path": "OneOffs/Cooking/IMG_4833.MOV",
+  "folder": "OneOffs/Cooking",
+  "fingerprint": "0b3a7091f1dea8e3",
+  "width": 1080,
+  "height": 1920,
+  "fps": 30.0,
+  "duration": 73.505,
+  "model": "gemini-3.8-flash",
+  "annotatedAt": "2026-10-24T18:34:31+00:00",
+  "summary": "A man in an apron meal preps in his kitchen, spooning cooked seasoned ground meat and rice into meal bowls and containers.",
+  "location": "kitchen",
+  "setting": "indoor",
+  "time_of_day": "indoor_unknown",
+  "weather": "n/a",
+  "people": {
+    "count": 1,
+    "creator_visible": true,
+    "description": "Man wearing a dark apron and watch, filmed from the chest down as he works on the kitchen counter."
+  },
+  "camera": {
+    "style": "filmed_by_friend",
+    "framing": "medium",
+    "movement": "handheld",
+    "angle": "high angle"
+  },
+  "quality": {
+    "usable": true,
+    "stability": "steady",
+    "exposure": "good",
+    "issues": ""
+  },
+  "mood": [
+    "productive",
+    "calm",
+    "focused",
+    "routine"
+  ],
+  "energy": "low",
+  "tags": [
+    "cooking",
+    "meal prep",
+    "kitchen",
+    "rice bowl",
+    "food prep",
+    "home cooking",
+    "healthy eating",
+    "ground meat",
+    "routine",
+    "dinner prep"
+  ],
+  "moments": [
+    {
+      "start": 13.5,
+      "end": 19.5,
+      "action": "Man arranges bowls of steamed white rice across the counter",
+      "emotion": "focused",
+      "good_for": [
+        "meal prepping for the week",
+        "sunday routine",
+        "eating at home"
+      ],
+      "score": 3
+    },
+    {
+      "start": 21.0,
+      "end": 26.5,
+      "action": "Man spoons cooked minced meat from a foil pan over a bowl of rice",
+      "emotion": "focused",
+      "good_for": [
+        "food on my plate",
+        "cooking at home",
+        "fueling my body",
+        "meal prep day"
+      ],
+      "score": 4
+    },
+    {
+      "start": 30.0,
+      "end": 37.0,
+      "action": "Man scoops another spoonful of seasoned meat onto a second bowl",
+      "emotion": "content",
+      "good_for": [
+        "simple healthy meals",
+        "cooking for two",
+        "everyday domestic life"
+      ],
+      "score": 4
+    },
+    {
+      "start": 59.5,
+      "end": 66.5,
+      "action": "Man repositions completed meal prep bowls and moves a glass container into place",
+      "emotion": "satisfied",
+      "good_for": [
+        "organized life",
+        "taking care of myself",
+        "weekly reset"
+      ],
+      "score": 3
+    }
+  ]
+}

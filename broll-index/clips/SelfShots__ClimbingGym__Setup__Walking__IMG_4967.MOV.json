@@ -1,0 +1,85 @@
+{
+  "path": "SelfShots/ClimbingGym/Setup/Walking/IMG_4967.MOV",
+  "folder": "SelfShots/ClimbingGym/Setup/Walking",
+  "fingerprint": "063390a13f5ad1eb",
+  "width": 1080,
+  "height": 1920,
+  "fps": 30.0,
+  "duration": 12.835,
+  "model": "gemini-3.8-flash",
+  "annotatedAt": "2026-10-24T18:53:58+00:00",
+  "summary": "A stylish young man in a long black coat walks down a city sidewalk outside a VITAL climbing gym, turns around, and walks back past the camera in a tripod-mounted shot.",
+  "location": "city street",
+  "setting": "outdoor",
+  "time_of_day": "day",
+  "weather": "overcast",
+  "people": {
+    "count": 4,
+    "creator_visible": true,
+    "description": "Young East Asian man with wavy hair wearing an open long black overcoat, burgundy button-down shirt, black pants, and silver necklace; various pedestrians walk past in the background."
+  },
+  "camera": {
+    "style": "tripod_static",
+    "framing": "wide",
+    "movement": "static",
+    "angle": "eye level"
+  },
+  "quality": {
+    "usable": true,
+    "stability": "locked",
+    "exposure": "good",
+    "issues": ""
+  },
+  "mood": [
+    "moody",
+    "stylish",
+    "urban",
+    "calm",
+    "cinematic"
+  ],
+  "energy": "low",
+  "tags": [
+    "vital",
+    "climbing gym",
+    "city sidewalk",
+    "street style",
+    "long coat",
+    "fashion",
+    "walking",
+    "brooklyn",
+    "overcast",
+    "b roll",
+    "aesthetic",
+    "model walk",
+    "urban aesthetic"
+  ],
+  "moments": [
+    {
+      "start": 2.5,
+      "end": 6.5,
+      "action": "Creator in a long coat walks away down the sidewalk under the VITAL building canopy",
+      "emotion": "contemplative",
+      "good_for": [
+        "walking away",
+        "city routine",
+        "heading out",
+        "main character moment"
+      ],
+      "score": 3
+    },
+    {
+      "start": 6.5,
+      "end": 11.0,
+      "action": "Creator turns around and walks towards and past the camera with a calm, runway-like gaze",
+      "emotion": "cool, focused, aesthetic",
+      "good_for": [
+        "outfit check",
+        "autumn fashion",
+        "showing up as yourself",
+        "city stroll",
+        "feeling confident"
+      ],
+      "score": 5
+    }
+  ]
+}

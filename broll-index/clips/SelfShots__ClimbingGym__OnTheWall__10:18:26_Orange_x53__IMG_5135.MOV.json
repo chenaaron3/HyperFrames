@@ -1,0 +1,102 @@
+{
+  "path": "SelfShots/ClimbingGym/OnTheWall/10:18:26_Orange_x53/IMG_5135.MOV",
+  "folder": "SelfShots/ClimbingGym/OnTheWall/10:18:26_Orange_x53",
+  "fingerprint": "82785b7f65dca56d",
+  "width": 1080,
+  "height": 1920,
+  "fps": 29.97,
+  "duration": 53.563,
+  "model": "gemini-3.8-flash",
+  "annotatedAt": "2026-10-24T18:44:47+00:00",
+  "summary": "A young man tackles an indoor bouldering wall, working through various holds on an angled wall before dropping safely onto the gym mat.",
+  "location": "climbing gym",
+  "setting": "indoor",
+  "time_of_day": "indoor_unknown",
+  "weather": "n/a",
+  "people": {
+    "count": 1,
+    "creator_visible": true,
+    "description": "Young Asian man with shaggy dark hair wearing a grey tank top and baggy jeans"
+  },
+  "camera": {
+    "style": "tripod_static",
+    "framing": "wide",
+    "movement": "static",
+    "angle": "low angle looking up"
+  },
+  "quality": {
+    "usable": true,
+    "stability": "locked",
+    "exposure": "good",
+    "issues": ""
+  },
+  "mood": [
+    "athletic",
+    "focused",
+    "determined",
+    "active"
+  ],
+  "energy": "medium",
+  "tags": [
+    "bouldering",
+    "rock climbing",
+    "climbing gym",
+    "workout",
+    "fitness",
+    "indoor sports",
+    "climbing wall",
+    "training",
+    "strength",
+    "active lifestyle"
+  ],
+  "moments": [
+    {
+      "start": 10.0,
+      "end": 16.5,
+      "action": "Man approaches the climbing wall, grips the starting holds, and mounts the wall",
+      "emotion": "focused",
+      "good_for": [
+        "starting a new challenge",
+        "day one progress",
+        "getting to work"
+      ],
+      "score": 4
+    },
+    {
+      "start": 21.0,
+      "end": 28.5,
+      "action": "Man carefully shifts his body weight and steps onto higher holds on the angled wall",
+      "emotion": "determined",
+      "good_for": [
+        "trusting the process",
+        "finding your balance",
+        "working through the hard part"
+      ],
+      "score": 4
+    },
+    {
+      "start": 36.0,
+      "end": 43.5,
+      "action": "Man climbs toward the upper holds and stabilizes his footing high up",
+      "emotion": "focused",
+      "good_for": [
+        "almost there",
+        "pushing through fatigue",
+        "staying composed"
+      ],
+      "score": 4
+    },
+    {
+      "start": 44.5,
+      "end": 50.5,
+      "action": "Man traverses across the top holds and drops down landing cleanly on the mat, turning toward the camera",
+      "emotion": "relieved and accomplished",
+      "good_for": [
+        "sticking the landing",
+        "mission accomplished",
+        "finished the workout"
+      ],
+      "score": 5
+    }
+  ]
+}

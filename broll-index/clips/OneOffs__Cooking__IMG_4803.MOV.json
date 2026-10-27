@@ -1,0 +1,68 @@
+{
+  "path": "OneOffs/Cooking/IMG_4803.MOV",
+  "folder": "OneOffs/Cooking",
+  "fingerprint": "441f294aa1a22498",
+  "width": 1080,
+  "height": 1920,
+  "fps": 30.0,
+  "duration": 3.733,
+  "model": "gemini-3.8-flash",
+  "annotatedAt": "2026-10-24T18:24:36+00:00",
+  "summary": "POV shot from the backseat of a car showing a blue tote bag with takeout containers, a black backpack, and plastic bags next to the window while driving through city traffic.",
+  "location": "car backseat",
+  "setting": "vehicle",
+  "time_of_day": "day",
+  "weather": "sunny",
+  "people": {
+    "count": 0,
+    "creator_visible": false,
+    "description": "No people directly visible; filmed from the passenger backseat POV."
+  },
+  "camera": {
+    "style": "pov_first_person",
+    "framing": "medium",
+    "movement": "handheld",
+    "angle": "eye level"
+  },
+  "quality": {
+    "usable": true,
+    "stability": "handheld",
+    "exposure": "good",
+    "issues": ""
+  },
+  "mood": [
+    "mundane",
+    "casual",
+    "routine"
+  ],
+  "energy": "low",
+  "tags": [
+    "car",
+    "backseat",
+    "takeout",
+    "tote bag",
+    "food pickup",
+    "commute",
+    "city ride",
+    "backpack",
+    "errands",
+    "daytime",
+    "traveling"
+  ],
+  "moments": [
+    {
+      "start": 0.0,
+      "end": 3.73,
+      "action": "Handheld view of takeout food bags and backpack sitting on the backseat while passing street traffic through the window",
+      "emotion": "calm",
+      "good_for": [
+        "getting takeout",
+        "food on the way home",
+        "running errands",
+        "comfort food secured",
+        "taxi ride vibes"
+      ],
+      "score": 3
+    }
+  ]
+}

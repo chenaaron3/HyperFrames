@@ -1,0 +1,68 @@
+{
+  "path": "OneOffs/Eating/IMG_4900.MOV",
+  "folder": "OneOffs/Eating",
+  "fingerprint": "8c71b7b75d2aa007",
+  "width": 1080,
+  "height": 1920,
+  "fps": 30.0,
+  "duration": 1.665,
+  "model": "gemini-3.8-flash",
+  "annotatedAt": "2026-10-24T18:35:33+00:00",
+  "summary": "A young man walks along a city street at night in selfie mode, smiling contentedly and closing his eyes in satisfaction.",
+  "location": "city street",
+  "setting": "outdoor",
+  "time_of_day": "night",
+  "weather": "n/a",
+  "people": {
+    "count": 3,
+    "creator_visible": true,
+    "description": "A young Asian man with wavy dark hair, wearing a collared knit polo shirt and a backpack, with pedestrians walking in the background."
+  },
+  "camera": {
+    "style": "selfie",
+    "framing": "medium",
+    "movement": "walking",
+    "angle": "eye level"
+  },
+  "quality": {
+    "usable": true,
+    "stability": "handheld",
+    "exposure": "good",
+    "issues": "slight low-light smartphone softness"
+  },
+  "mood": [
+    "relaxed",
+    "content",
+    "satisfied",
+    "peaceful"
+  ],
+  "energy": "low",
+  "tags": [
+    "city night",
+    "walking",
+    "selfie",
+    "night out",
+    "backpack",
+    "contentment",
+    "peace of mind",
+    "street walk",
+    "glow",
+    "post meal walk"
+  ],
+  "moments": [
+    {
+      "start": 0.0,
+      "end": 1.67,
+      "action": "Creator walks down the city sidewalk filming a selfie video, then peacefully closes his eyes and nods softly in contentment",
+      "emotion": "calm",
+      "good_for": [
+        "post dinner walk",
+        "feeling at peace",
+        "night walk vibes",
+        "living in the moment",
+        "good food good mood"
+      ],
+      "score": 4
+    }
+  ]
+}

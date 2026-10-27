@@ -1,0 +1,69 @@
+{
+  "path": "OneOffs/Apartments/FIDI/63WS/IMG_4351.MOV",
+  "folder": "OneOffs/Apartments/FIDI/63WS",
+  "fingerprint": "07920391a00a3bf9",
+  "width": 1080,
+  "height": 1920,
+  "fps": 30.0,
+  "duration": 3.667,
+  "model": "gemini-3.8-flash",
+  "annotatedAt": "2026-10-24T18:20:31+00:00",
+  "summary": "Slow pan across an empty, high-ceilinged luxury residential lounge featuring geometric tiled floors, booths, armchairs, and warm ambient lighting.",
+  "location": "apartment lobby",
+  "setting": "indoor",
+  "time_of_day": "day",
+  "weather": "n/a",
+  "people": {
+    "count": 0,
+    "creator_visible": false,
+    "description": "Nobody visible"
+  },
+  "camera": {
+    "style": "pov_first_person",
+    "framing": "wide",
+    "movement": "pan",
+    "angle": "eye level"
+  },
+  "quality": {
+    "usable": true,
+    "stability": "steady",
+    "exposure": "good",
+    "issues": ""
+  },
+  "mood": [
+    "peaceful",
+    "sophisticated",
+    "quiet",
+    "luxurious"
+  ],
+  "energy": "low",
+  "tags": [
+    "apartment lounge",
+    "luxury building",
+    "fidi",
+    "interior design",
+    "geometric tile",
+    "high ceilings",
+    "quiet space",
+    "empty room",
+    "residential amenities",
+    "ambient lighting",
+    "new york city"
+  ],
+  "moments": [
+    {
+      "start": 0.0,
+      "end": 3.67,
+      "action": "Camera slowly pans across a chic, quiet residential lounge with high ceilings, patterned floor tiles, and plush seating",
+      "emotion": "calm",
+      "good_for": [
+        "apartment hunting in nyc",
+        "finding quiet spaces in the city",
+        "luxury building amenities",
+        "remote work spot",
+        "peace of mind"
+      ],
+      "score": 4
+    }
+  ]
+}

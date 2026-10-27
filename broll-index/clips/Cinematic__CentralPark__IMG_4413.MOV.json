@@ -1,0 +1,73 @@
+{
+  "path": "Cinematic/CentralPark/IMG_4413.MOV",
+  "folder": "Cinematic/CentralPark",
+  "fingerprint": "5e04e5b7746943a6",
+  "width": 1080,
+  "height": 1920,
+  "fps": 30.0,
+  "duration": 3.9,
+  "model": "gemini-3.8-flash",
+  "annotatedAt": "2026-10-24T18:17:36+00:00",
+  "summary": "A scenic wide shot of a rustic wooden gazebo nestled among lush green trees across a pond in Central Park on a sunny day.",
+  "location": "park",
+  "setting": "outdoor",
+  "time_of_day": "day",
+  "weather": "sunny",
+  "people": {
+    "count": 5,
+    "creator_visible": false,
+    "description": "Small distant group of people gathered under a rustic wooden gazebo by the water."
+  },
+  "camera": {
+    "style": "handheld_cinematic",
+    "framing": "wide",
+    "movement": "static",
+    "angle": "eye level"
+  },
+  "quality": {
+    "usable": true,
+    "stability": "steady",
+    "exposure": "good",
+    "issues": ""
+  },
+  "mood": [
+    "peaceful",
+    "scenic",
+    "calm",
+    "serene",
+    "nature"
+  ],
+  "energy": "low",
+  "tags": [
+    "central park",
+    "new york city",
+    "gazebo",
+    "pond",
+    "trees",
+    "nature",
+    "rustic",
+    "summer",
+    "greenery",
+    "scenic",
+    "peaceful",
+    "travel",
+    "park",
+    "water"
+  ],
+  "moments": [
+    {
+      "start": 0.0,
+      "end": 3.9,
+      "action": "Static scenic view of the rustic wooden gazebo across the pond framed by leafy green branches under a bright blue sky.",
+      "emotion": "peaceful",
+      "good_for": [
+        "peaceful walks in the city",
+        "finding quiet spots in new york",
+        "central park hidden gems",
+        "romantic places",
+        "nature escape"
+      ],
+      "score": 4
+    }
+  ]
+}

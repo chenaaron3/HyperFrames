@@ -1,0 +1,82 @@
+{
+  "path": "OneOffs/RainyDayArmanRishi/IMG_4666.MOV",
+  "folder": "OneOffs/RainyDayArmanRishi",
+  "fingerprint": "75dbc1c25837a85a",
+  "width": 1080,
+  "height": 1920,
+  "fps": 30.0,
+  "duration": 4.6,
+  "model": "gemini-3.8-flash",
+  "annotatedAt": "2026-10-24T18:37:36+00:00",
+  "summary": "A young man holding a blue and white umbrella smiles as he walks down the stoop of a brownstone apartment building on a rainy city day.",
+  "location": "city street",
+  "setting": "outdoor",
+  "time_of_day": "day",
+  "weather": "rain",
+  "people": {
+    "count": 1,
+    "creator_visible": true,
+    "description": "Young man in a black jacket, grey jeans, and white sneakers holding an umbrella and smiling."
+  },
+  "camera": {
+    "style": "filmed_by_friend",
+    "framing": "medium",
+    "movement": "tracking",
+    "angle": "eye level"
+  },
+  "quality": {
+    "usable": true,
+    "stability": "steady",
+    "exposure": "good",
+    "issues": ""
+  },
+  "mood": [
+    "cheerful",
+    "cozy",
+    "playful",
+    "relaxed",
+    "optimistic"
+  ],
+  "energy": "medium",
+  "tags": [
+    "rain",
+    "umbrella",
+    "stoop",
+    "brownstone",
+    "city life",
+    "rainy day",
+    "smiling",
+    "walking",
+    "fall",
+    "autumn",
+    "plants",
+    "new york"
+  ],
+  "moments": [
+    {
+      "start": 0.0,
+      "end": 2.2,
+      "action": "Man stands on the top of the brownstone stoop holding an umbrella, smiling and preparing to walk down",
+      "emotion": "happy, relaxed",
+      "good_for": [
+        "stepping out into the rain",
+        "making the best of bad weather",
+        "city living"
+      ],
+      "score": 4
+    },
+    {
+      "start": 2.2,
+      "end": 4.6,
+      "action": "Man walks down the stoop steps into the rain holding his umbrella with a big smile",
+      "emotion": "cheerful, joyful",
+      "good_for": [
+        "romanticizing rainy days",
+        "leaving the house",
+        "rainy day in new york",
+        "staying positive"
+      ],
+      "score": 5
+    }
+  ]
+}

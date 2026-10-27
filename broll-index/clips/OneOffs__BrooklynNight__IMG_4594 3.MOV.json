@@ -1,0 +1,82 @@
+{
+  "path": "OneOffs/BrooklynNight/IMG_4594 3.MOV",
+  "folder": "OneOffs/BrooklynNight",
+  "fingerprint": "cdde09773caccdd2",
+  "width": 1080,
+  "height": 1920,
+  "fps": 30.0,
+  "duration": 7.2,
+  "model": "gemini-3.8-flash",
+  "annotatedAt": "2026-10-24T18:24:31+00:00",
+  "summary": "Handheld pan across a bustling Brooklyn food hall and bar area, showing bartenders serving drinks and patrons dining at high-top tables.",
+  "location": "food hall",
+  "setting": "indoor",
+  "time_of_day": "night",
+  "weather": "n/a",
+  "people": {
+    "count": 18,
+    "creator_visible": false,
+    "description": "Bartenders in black shirts serving drinks, patrons sitting along the bar counter, and diverse groups of diners seated at long wooden tables."
+  },
+  "camera": {
+    "style": "handheld_cinematic",
+    "framing": "wide",
+    "movement": "pan",
+    "angle": "eye level"
+  },
+  "quality": {
+    "usable": true,
+    "stability": "handheld",
+    "exposure": "good",
+    "issues": ""
+  },
+  "mood": [
+    "lively",
+    "social",
+    "urban",
+    "casual"
+  ],
+  "energy": "medium",
+  "tags": [
+    "food hall",
+    "bar",
+    "brooklyn",
+    "nightlife",
+    "dining",
+    "crowd",
+    "eating out",
+    "city life",
+    "bark barbecue",
+    "drinks",
+    "restaurant",
+    "socializing"
+  ],
+  "moments": [
+    {
+      "start": 0.0,
+      "end": 2.8,
+      "action": "Camera looks along the clean white bar counter while bartenders pour drinks and talk with customers seated at the bar",
+      "emotion": "relaxed and social",
+      "good_for": [
+        "drinks with friends",
+        "night out in the city",
+        "brooklyn nights",
+        "post-work drinks"
+      ],
+      "score": 3
+    },
+    {
+      "start": 2.8,
+      "end": 7.2,
+      "action": "Camera pans right across the open food hall dining space, showing communal tables and food stalls including Bark Barbecue",
+      "emotion": "lively atmosphere",
+      "good_for": [
+        "food hall vibes",
+        "places to eat in NYC",
+        "dinner spots",
+        "city atmosphere"
+      ],
+      "score": 3
+    }
+  ]
+}

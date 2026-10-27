@@ -1,0 +1,69 @@
+{
+  "path": "Cinematic/CentralPark/IMG_4404.MOV",
+  "folder": "Cinematic/CentralPark",
+  "fingerprint": "a47c7fdf088b9800",
+  "width": 1080,
+  "height": 1920,
+  "fps": 30.0,
+  "duration": 2.498,
+  "model": "gemini-3.8-flash",
+  "annotatedAt": "2026-10-24T18:17:27+00:00",
+  "summary": "POV walking down a tree-lined sidewalk bordering Central Park on a bright sunny day.",
+  "location": "city street",
+  "setting": "outdoor",
+  "time_of_day": "day",
+  "weather": "sunny",
+  "people": {
+    "count": 4,
+    "creator_visible": false,
+    "description": "Pedestrians seen from behind walking along the sidewalk next to Central Park"
+  },
+  "camera": {
+    "style": "pov_first_person",
+    "framing": "wide",
+    "movement": "walking",
+    "angle": "eye level"
+  },
+  "quality": {
+    "usable": true,
+    "stability": "steady",
+    "exposure": "good",
+    "issues": ""
+  },
+  "mood": [
+    "peaceful",
+    "pleasant",
+    "relaxed",
+    "serene"
+  ],
+  "energy": "low",
+  "tags": [
+    "central park",
+    "manhattan",
+    "new york city",
+    "sidewalk",
+    "trees",
+    "dappled sunlight",
+    "walking",
+    "stroll",
+    "city life",
+    "summer",
+    "park perimeter",
+    "peaceful walk"
+  ],
+  "moments": [
+    {
+      "start": 0.0,
+      "end": 2.5,
+      "action": "First-person perspective walking along a sunny, tree-shaded sidewalk next to the Central Park stone wall",
+      "emotion": "calm",
+      "good_for": [
+        "peaceful walks in the city",
+        "romanticizing everyday life",
+        "sunshine on my face",
+        "clearing my head"
+      ],
+      "score": 4
+    }
+  ]
+}

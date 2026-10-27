@@ -1,0 +1,18 @@
+{
+  "id": "easy-13",
+  "name": "Why are you always at the library / me at home",
+  "reference": "references/viral-formats/easy-13.mp4",
+  "source": "/Users/aaron/Downloads/100 Viral Formats (Format Book)/Easy to use format/#13/#13.mp4",
+  "duration": 8.533,
+  "music": { "from": "reference", "title": "Original Audio" },
+  "text": { "y": 0.215, "size": 38, "weight": 600, "lineHeight": 1.4, "maxWidth": 660 },
+  "lines": [
+    { "id": "l1", "start": 0, "end": 4.267, "ref": "\u201cWhy are you always studying in the library?\u201d", "guide": "A question someone asks you about a habit, in quotes. Conversation-meme setup." },
+    { "id": "l2", "start": 4.267, "end": 8.533, "ref": "Me when I'm studying at home:", "guide": "'Me when I'm <doing it> at <the other place>:' The punchline is the picture." }
+  ],
+  "shots": [
+    { "id": "s1", "start": 0, "end": 4.267, "line": "l1", "brief": "Doing the habit properly and focused: working/studying at a desk or laptop, tripod, static, medium-wide." },
+    { "id": "s2", "start": 4.267, "end": 8.533, "line": "l2", "brief": "The funny failure version: stands up, stretches arms up, flops face-down onto the bed / couch. Tripod, wide, static. Needs a visible action payoff." }
+  ],
+  "caption": { "ref": "Just wouldn't work 💔", "guide": "Short, casual reaction line." }
+}

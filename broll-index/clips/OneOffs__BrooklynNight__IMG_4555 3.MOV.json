@@ -1,0 +1,68 @@
+{
+  "path": "OneOffs/BrooklynNight/IMG_4555 3.MOV",
+  "folder": "OneOffs/BrooklynNight",
+  "fingerprint": "e8e391be9625049d",
+  "width": 1080,
+  "height": 1920,
+  "fps": 30.0,
+  "duration": 4.167,
+  "model": "gemini-3.8-flash",
+  "annotatedAt": "2026-10-24T18:23:45+00:00",
+  "summary": "A young man carrying a brown paper bag walks away along a paved park promenade against a backdrop of city skyscrapers.",
+  "location": "city park",
+  "setting": "outdoor",
+  "time_of_day": "day",
+  "weather": "sunny",
+  "people": {
+    "count": 2,
+    "creator_visible": true,
+    "description": "A man wearing a backward cap, black graphic t-shirt, shorts, and sneakers walking away carrying a brown paper bag; another person visible far in the distance."
+  },
+  "camera": {
+    "style": "filmed_by_friend",
+    "framing": "wide",
+    "movement": "tracking",
+    "angle": "eye level"
+  },
+  "quality": {
+    "usable": true,
+    "stability": "steady",
+    "exposure": "good",
+    "issues": ""
+  },
+  "mood": [
+    "casual",
+    "peaceful",
+    "relaxed",
+    "urban"
+  ],
+  "energy": "low",
+  "tags": [
+    "walking",
+    "brooklyn",
+    "park",
+    "city",
+    "skyscrapers",
+    "takeout bag",
+    "promenade",
+    "streetwear",
+    "afternoon",
+    "stroll"
+  ],
+  "moments": [
+    {
+      "start": 0.0,
+      "end": 4.17,
+      "action": "Man walks down a hexagonal stone pathway carrying a brown paper bag with city skyscrapers in the background.",
+      "emotion": "relaxed",
+      "good_for": [
+        "grabbing dinner to go",
+        "afternoon strolls",
+        "city living",
+        "quiet routines",
+        "heading home"
+      ],
+      "score": 3
+    }
+  ]
+}

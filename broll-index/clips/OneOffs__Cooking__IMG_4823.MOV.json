@@ -1,0 +1,107 @@
+{
+  "path": "OneOffs/Cooking/IMG_4823.MOV",
+  "folder": "OneOffs/Cooking",
+  "fingerprint": "7ad7ce49561b2229",
+  "width": 1080,
+  "height": 1920,
+  "fps": 30.0,
+  "duration": 27.168,
+  "model": "gemini-3.8-flash",
+  "annotatedAt": "2026-10-24T18:26:17+00:00",
+  "summary": "A close-up shot of someone frying minced meat and diced onions in a black pan on a gas stove, breaking up the meat with a metal spatula.",
+  "location": "kitchen",
+  "setting": "indoor",
+  "time_of_day": "indoor_unknown",
+  "weather": "n/a",
+  "people": {
+    "count": 1,
+    "creator_visible": false,
+    "description": "Only the arm and hand of a person wearing a light blue top and silver bracelet are visible while cooking."
+  },
+  "camera": {
+    "style": "pov_first_person",
+    "framing": "close",
+    "movement": "static",
+    "angle": "high angle"
+  },
+  "quality": {
+    "usable": true,
+    "stability": "steady",
+    "exposure": "good",
+    "issues": ""
+  },
+  "mood": [
+    "productive",
+    "calm",
+    "domestic",
+    "focused"
+  ],
+  "energy": "medium",
+  "tags": [
+    "cooking",
+    "kitchen",
+    "dinner",
+    "frying",
+    "minced meat",
+    "stove",
+    "culinary",
+    "food prep",
+    "home cooked",
+    "pan frying",
+    "spatula",
+    "meal prep"
+  ],
+  "moments": [
+    {
+      "start": 0.0,
+      "end": 4.5,
+      "action": "Hand holding a metal spatula begins pressing and breaking up raw ground meat next to sautéed onions in a skillet",
+      "emotion": "focused",
+      "good_for": [
+        "cooking dinner",
+        "home cooked meal",
+        "making dinner after work",
+        "food on my plate"
+      ],
+      "score": 4
+    },
+    {
+      "start": 4.5,
+      "end": 12.0,
+      "action": "Using the edge of the spatula to vigorously chop and stir the ground meat together with the onions",
+      "emotion": "productive",
+      "good_for": [
+        "meal prep routine",
+        "dinner time",
+        "learning to cook",
+        "domestic life"
+      ],
+      "score": 4
+    },
+    {
+      "start": 12.5,
+      "end": 19.5,
+      "action": "Tossing and flipping the minced meat mixture as it browns evenly across the skillet",
+      "emotion": "satisfying",
+      "good_for": [
+        "cooking from scratch",
+        "satisfying cooking sounds",
+        "warm homemade meal",
+        "simple pleasures"
+      ],
+      "score": 4
+    },
+    {
+      "start": 20.0,
+      "end": 27.0,
+      "action": "Continuously stirring and breaking down the remaining pink bits of ground meat into smaller crumbles",
+      "emotion": "calm",
+      "good_for": [
+        "making dinner",
+        "comfort food",
+        "recipe in progress"
+      ],
+      "score": 3
+    }
+  ]
+}

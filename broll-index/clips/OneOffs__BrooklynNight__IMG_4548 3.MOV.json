@@ -1,0 +1,92 @@
+{
+  "path": "OneOffs/BrooklynNight/IMG_4548 3.MOV",
+  "folder": "OneOffs/BrooklynNight",
+  "fingerprint": "7bcb43400ee24963",
+  "width": 1080,
+  "height": 1920,
+  "fps": 30.0,
+  "duration": 12.4,
+  "model": "gemini-3.8-flash",
+  "annotatedAt": "2026-10-24T18:23:30+00:00",
+  "summary": "A man lies on a gym bench performing dumbbell chest flyes while a friend records him from above, visible in the background mirror.",
+  "location": "gym",
+  "setting": "indoor",
+  "time_of_day": "day",
+  "weather": "n/a",
+  "people": {
+    "count": 3,
+    "creator_visible": true,
+    "description": "A man wearing glasses and a black graphic tee lying on a bench pressing dumbbells, with a friend filming him reflected in the mirror behind."
+  },
+  "camera": {
+    "style": "filmed_by_friend",
+    "framing": "medium",
+    "movement": "static",
+    "angle": "high angle"
+  },
+  "quality": {
+    "usable": true,
+    "stability": "steady",
+    "exposure": "good",
+    "issues": ""
+  },
+  "mood": [
+    "focused",
+    "determined",
+    "active"
+  ],
+  "energy": "medium",
+  "tags": [
+    "gym",
+    "workout",
+    "dumbbells",
+    "chest press",
+    "fitness",
+    "lifting",
+    "training",
+    "bench press",
+    "discipline",
+    "exercise",
+    "health"
+  ],
+  "moments": [
+    {
+      "start": 0.0,
+      "end": 4.5,
+      "action": "Man lowers Rogue dumbbells down in a controlled fly and presses them back up together",
+      "emotion": "focused",
+      "good_for": [
+        "gym grind",
+        "putting in the work",
+        "consistency pays off",
+        "staying active"
+      ],
+      "score": 4
+    },
+    {
+      "start": 4.5,
+      "end": 9.5,
+      "action": "Man performs a second slow repetition of dumbbell chest flyes, pausing at the bottom and squeezing at the top",
+      "emotion": "concentrated",
+      "good_for": [
+        "one rep at a time",
+        "pushing through",
+        "gym routine",
+        "no days off"
+      ],
+      "score": 4
+    },
+    {
+      "start": 9.5,
+      "end": 12.4,
+      "action": "Man begins lowering the weights into another rep before finishing the set",
+      "emotion": "determined",
+      "good_for": [
+        "last rep energy",
+        "building strength",
+        "fitness journey"
+      ],
+      "score": 3
+    }
+  ]
+}

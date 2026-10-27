@@ -1,0 +1,106 @@
+{
+  "path": "OneOffs/Apartments/FIDI/63WS/IMG_4343.MOV",
+  "folder": "OneOffs/Apartments/FIDI/63WS",
+  "fingerprint": "5bbc299a141c65b6",
+  "width": 1080,
+  "height": 1920,
+  "fps": 30.0,
+  "duration": 39.853,
+  "model": "gemini-3.8-flash",
+  "annotatedAt": "2026-10-24T18:20:22+00:00",
+  "summary": "First-person POV walkthrough tour of a compact studio apartment, showing the bathroom, kitchen, in-unit laundry, closets, and main living room space.",
+  "location": "apartment",
+  "setting": "indoor",
+  "time_of_day": "day",
+  "weather": "n/a",
+  "people": {
+    "count": 2,
+    "creator_visible": true,
+    "description": "The creator filming in POV, seen briefly in the bathroom mirror wearing a light blue shirt; a woman in a dark brown suit/glasses standing in the foyer."
+  },
+  "camera": {
+    "style": "pov_first_person",
+    "framing": "wide",
+    "movement": "walking",
+    "angle": "eye level"
+  },
+  "quality": {
+    "usable": true,
+    "stability": "handheld",
+    "exposure": "good",
+    "issues": ""
+  },
+  "mood": [
+    "curious",
+    "anticipation",
+    "casual",
+    "modern"
+  ],
+  "energy": "low",
+  "tags": [
+    "apartment hunt",
+    "apartment tour",
+    "studio apartment",
+    "nyc apartment",
+    "bathroom",
+    "kitchen",
+    "washer dryer",
+    "hardwood floors",
+    "moving in",
+    "real estate",
+    "walkthrough",
+    "fidi"
+  ],
+  "moments": [
+    {
+      "start": 6.5,
+      "end": 10.5,
+      "action": "Camera pans across the renovated marble bathroom, showing the toilet, vanity sink, and bathtub",
+      "emotion": "observant",
+      "good_for": [
+        "apartment hunting",
+        "bathroom goals",
+        "new place vibes"
+      ],
+      "score": 3
+    },
+    {
+      "start": 21.0,
+      "end": 26.0,
+      "action": "POV walking down hallway showing the modern kitchen with stainless steel appliances and wood flooring",
+      "emotion": "interested",
+      "good_for": [
+        "apartment hunting in nyc",
+        "first adult apartment",
+        "minimalist living",
+        "finding an apartment"
+      ],
+      "score": 4
+    },
+    {
+      "start": 28.5,
+      "end": 31.5,
+      "action": "POV opening a closet door to reveal a stacked in-unit washer and dryer",
+      "emotion": "pleasantly surprised",
+      "good_for": [
+        "in unit laundry flex",
+        "nyc luxury",
+        "the bare essentials"
+      ],
+      "score": 4
+    },
+    {
+      "start": 36.5,
+      "end": 39.85,
+      "action": "Camera reveals the empty main living area with hardwood floors, a window, and natural daylight",
+      "emotion": "anticipation",
+      "good_for": [
+        "new beginnings",
+        "moving into my new place",
+        "empty apartment vibes",
+        "starting fresh"
+      ],
+      "score": 4
+    }
+  ]
+}

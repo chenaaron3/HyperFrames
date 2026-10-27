@@ -1,0 +1,69 @@
+{
+  "path": "Cinematic/CentralPark/IMG_4466.MOV",
+  "folder": "Cinematic/CentralPark",
+  "fingerprint": "670fee4c4ef1c1da",
+  "width": 1080,
+  "height": 1920,
+  "fps": 30.0,
+  "duration": 2.7,
+  "model": "gemini-3.8-flash",
+  "annotatedAt": "2026-10-24T18:18:43+00:00",
+  "summary": "A peaceful handheld shot of a rustic wooden bridge on a paved woodland path in Central Park surrounded by lush green trees.",
+  "location": "park",
+  "setting": "outdoor",
+  "time_of_day": "day",
+  "weather": "overcast",
+  "people": {
+    "count": 0,
+    "creator_visible": false,
+    "description": "No people visible"
+  },
+  "camera": {
+    "style": "handheld_cinematic",
+    "framing": "medium",
+    "movement": "static",
+    "angle": "eye level"
+  },
+  "quality": {
+    "usable": true,
+    "stability": "steady",
+    "exposure": "good",
+    "issues": ""
+  },
+  "mood": [
+    "peaceful",
+    "serene",
+    "tranquil",
+    "grounded"
+  ],
+  "energy": "low",
+  "tags": [
+    "central park",
+    "rustic bridge",
+    "wooden bridge",
+    "nature trail",
+    "trees",
+    "greenery",
+    "park path",
+    "walking trail",
+    "calm",
+    "outdoor walk",
+    "scenic"
+  ],
+  "moments": [
+    {
+      "start": 0.0,
+      "end": 2.7,
+      "action": "Static view of a rustic log bridge crossing along a paved woodland trail in Central Park with lush green canopy and scattered leaves on the ground",
+      "emotion": "calm and peaceful",
+      "good_for": [
+        "nature walks to clear your mind",
+        "finding peace in the city",
+        "romanticizing daily walks",
+        "unplugging from the noise",
+        "mental health walk"
+      ],
+      "score": 4
+    }
+  ]
+}

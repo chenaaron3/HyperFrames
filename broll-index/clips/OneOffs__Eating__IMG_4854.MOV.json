@@ -1,0 +1,95 @@
+{
+  "path": "OneOffs/Eating/IMG_4854.MOV",
+  "folder": "OneOffs/Eating",
+  "fingerprint": "09dcc5821949479e",
+  "width": 1080,
+  "height": 1920,
+  "fps": 30.0,
+  "duration": 39.17,
+  "model": "gemini-3.8-flash",
+  "annotatedAt": "2026-10-24T18:34:55+00:00",
+  "summary": "A young man checks his outfit in a full-length floor mirror, putting on a long black coat and a backpack before heading out.",
+  "location": "living room",
+  "setting": "indoor",
+  "time_of_day": "day",
+  "weather": "sunny",
+  "people": {
+    "count": 1,
+    "creator_visible": true,
+    "description": "Young East Asian man with dark messy hair, wearing a brown textured short-sleeve shirt and black wide-leg trousers, later adding a black long coat and backpack"
+  },
+  "camera": {
+    "style": "tripod_static",
+    "framing": "medium",
+    "movement": "static",
+    "angle": "eye level"
+  },
+  "quality": {
+    "usable": true,
+    "stability": "locked",
+    "exposure": "good",
+    "issues": ""
+  },
+  "mood": [
+    "casual",
+    "calm",
+    "stylish",
+    "routine"
+  ],
+  "energy": "low",
+  "tags": [
+    "outfit check",
+    "grwm",
+    "mirror check",
+    "trench coat",
+    "fashion",
+    "getting dressed",
+    "apartment",
+    "minimalist",
+    "aesthetic",
+    "daily routine",
+    "streetwear",
+    "backpack"
+  ],
+  "moments": [
+    {
+      "start": 2.0,
+      "end": 8.5,
+      "action": "Man steps up to the full-length mirror and checks his brown shirt and black pants outfit",
+      "emotion": "focused, relaxed",
+      "good_for": [
+        "getting ready",
+        "outfit check",
+        "simple pleasures",
+        "ready for the day"
+      ],
+      "score": 3
+    },
+    {
+      "start": 15.0,
+      "end": 24.5,
+      "action": "Man slips on a long black coat and smooths it out while checking his reflection",
+      "emotion": "composed, confident",
+      "good_for": [
+        "layering season",
+        "putting together an outfit",
+        "fall fashion",
+        "heading out"
+      ],
+      "score": 4
+    },
+    {
+      "start": 28.5,
+      "end": 36.5,
+      "action": "Man puts on a black backpack, adjusts straps in the mirror, and prepares to leave",
+      "emotion": "ready, purposeful",
+      "good_for": [
+        "time to go",
+        "daily commute",
+        "leaving the apartment",
+        "on the move"
+      ],
+      "score": 4
+    }
+  ]
+}

@@ -1,0 +1,93 @@
+{
+  "path": "SelfShots/Walking/1stPerson/IMG_5264.MOV",
+  "folder": "SelfShots/Walking/1stPerson",
+  "fingerprint": "310f8dc07417ce18",
+  "width": 1080,
+  "height": 1920,
+  "fps": 30.0,
+  "duration": 12.9,
+  "model": "gemini-3.8-flash",
+  "annotatedAt": "2026-10-24T19:02:32+00:00",
+  "summary": "A young man walks along a park pathway on a sunny autumn day, holding his phone in front of him to capture a walking selfie vlog shot.",
+  "location": "park",
+  "setting": "outdoor",
+  "time_of_day": "day",
+  "weather": "sunny",
+  "people": {
+    "count": 1,
+    "creator_visible": true,
+    "description": "Young East Asian man with fluffy dark hair, wearing a black tailored overcoat over a grey crewneck sweater, carrying a backpack."
+  },
+  "camera": {
+    "style": "selfie",
+    "framing": "medium",
+    "movement": "walking",
+    "angle": "eye level"
+  },
+  "quality": {
+    "usable": true,
+    "stability": "handheld",
+    "exposure": "good",
+    "issues": "Slight camera shake and occasional vertical angle dip at the start and end of clip."
+  },
+  "mood": [
+    "peaceful",
+    "reflective",
+    "casual",
+    "solitary"
+  ],
+  "energy": "low",
+  "tags": [
+    "park",
+    "walking",
+    "fall",
+    "autumn",
+    "vlog",
+    "selfie",
+    "trees",
+    "coat",
+    "outdoors",
+    "fresh air",
+    "lifestyle",
+    "stroll"
+  ],
+  "moments": [
+    {
+      "start": 1.0,
+      "end": 5.0,
+      "action": "Creator walks forward holding phone at arm's length, glancing between the camera and surroundings with sunlight filtering through yellowing park trees.",
+      "emotion": "calm",
+      "good_for": [
+        "clearing my head",
+        "daily walks",
+        "autumn routine",
+        "main character energy"
+      ],
+      "score": 4
+    },
+    {
+      "start": 5.0,
+      "end": 8.0,
+      "action": "Creator turns profile slightly to look off to the side while continuing to walk beneath golden tree foliage.",
+      "emotion": "reflective",
+      "good_for": [
+        "taking a breather",
+        "solo date",
+        "mental health walks"
+      ],
+      "score": 3
+    },
+    {
+      "start": 8.0,
+      "end": 11.5,
+      "action": "Creator looks directly forward into the camera lens while walking briskly through the sunlit park.",
+      "emotion": "focused",
+      "good_for": [
+        "on my way",
+        "stepping outside",
+        "romanticizing life"
+      ],
+      "score": 4
+    }
+  ]
+}

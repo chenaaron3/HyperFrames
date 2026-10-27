@@ -1,0 +1,108 @@
+{
+  "path": "SelfShots/Working/IMG_5154.MOV",
+  "folder": "SelfShots/Working",
+  "fingerprint": "3f388d01803abd25",
+  "width": 1080,
+  "height": 1920,
+  "fps": 30.0,
+  "duration": 31.735,
+  "model": "gemini-3.8-flash",
+  "annotatedAt": "2026-10-24T19:03:05+00:00",
+  "summary": "A young man sits on the floor beside indoor plants, diligently typing on his laptop in a modern atrium or workspace.",
+  "location": "atrium lobby",
+  "setting": "indoor",
+  "time_of_day": "indoor_unknown",
+  "weather": "n/a",
+  "people": {
+    "count": 1,
+    "creator_visible": true,
+    "description": "Young East Asian man with wavy dark hair, wearing a light blue short-sleeved button-up shirt, baggy light-wash jeans, and white wireless earbuds."
+  },
+  "camera": {
+    "style": "tripod_static",
+    "framing": "medium",
+    "movement": "static",
+    "angle": "low angle looking up"
+  },
+  "quality": {
+    "usable": true,
+    "stability": "steady",
+    "exposure": "good",
+    "issues": ""
+  },
+  "mood": [
+    "focused",
+    "productive",
+    "casual",
+    "chill"
+  ],
+  "energy": "low",
+  "tags": [
+    "laptop",
+    "typing",
+    "working",
+    "remote work",
+    "coding",
+    "studying",
+    "indoor plants",
+    "atrium",
+    "casual work",
+    "digital nomad",
+    "earbuds",
+    "freelance"
+  ],
+  "moments": [
+    {
+      "start": 1.0,
+      "end": 7.5,
+      "action": "Creator starts typing steadily on his laptop while sitting on the floor against a planter",
+      "emotion": "focused and calm",
+      "good_for": [
+        "getting to work",
+        "lock in",
+        "study session",
+        "working remotely"
+      ],
+      "score": 4
+    },
+    {
+      "start": 7.5,
+      "end": 15.0,
+      "action": "Creator continuously types on his keyboard, looking intently at his screen",
+      "emotion": "deep focus",
+      "good_for": [
+        "sending emails",
+        "coding marathon",
+        "grind mindset",
+        "productive day"
+      ],
+      "score": 4
+    },
+    {
+      "start": 17.5,
+      "end": 24.5,
+      "action": "Creator repositions fingers and resumes typing rapidly on the keyboard",
+      "emotion": "immersed in work",
+      "good_for": [
+        "writing my thesis",
+        "work from anywhere",
+        "freelance life",
+        "finishing the deadline"
+      ],
+      "score": 4
+    },
+    {
+      "start": 24.5,
+      "end": 30.0,
+      "action": "Creator wraps up typing and glances directly up toward the camera lens",
+      "emotion": "attentive and curious",
+      "good_for": [
+        "done for the day",
+        "checking in",
+        "break time",
+        "when the deadline hits"
+      ],
+      "score": 3
+    }
+  ]
+}

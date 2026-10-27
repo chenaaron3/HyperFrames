@@ -1,0 +1,78 @@
+{
+  "path": "SelfShots/ClimbingGym/OnTheWall/10:22:26_Red_x25/IMG_5225.MOV",
+  "folder": "SelfShots/ClimbingGym/OnTheWall/10:22:26_Red_x25",
+  "fingerprint": "2f02230fe279a140",
+  "width": 1080,
+  "height": 1920,
+  "fps": 120.0,
+  "duration": 6.29,
+  "model": "gemini-3.8-flash",
+  "annotatedAt": "2026-10-24T18:48:40+00:00",
+  "summary": "A young man wearing a grey tank top takes a drink from an energy drink can in a selfie video inside a climbing gym.",
+  "location": "gym",
+  "setting": "indoor",
+  "time_of_day": "indoor_unknown",
+  "weather": "n/a",
+  "people": {
+    "count": 1,
+    "creator_visible": true,
+    "description": "Young East Asian man with dark wavy hair, wearing a grey ribbed tank top, silver chain necklace, and white earbuds"
+  },
+  "camera": {
+    "style": "selfie",
+    "framing": "medium",
+    "movement": "handheld",
+    "angle": "eye level"
+  },
+  "quality": {
+    "usable": true,
+    "stability": "handheld",
+    "exposure": "good",
+    "issues": "Can covers the lens briefly around 00:01.5 - 00:02.0"
+  },
+  "mood": [
+    "casual",
+    "energetic",
+    "athletic"
+  ],
+  "energy": "medium",
+  "tags": [
+    "celsius",
+    "energy drink",
+    "pre workout",
+    "climbing gym",
+    "tank top",
+    "workout",
+    "fitness",
+    "hydration",
+    "selfie",
+    "bouldering gym"
+  ],
+  "moments": [
+    {
+      "start": 0.0,
+      "end": 1.3,
+      "action": "Creator looks straight into the camera before bringing up an energy drink can",
+      "emotion": "calm",
+      "good_for": [
+        "gym routine check",
+        "pre-workout moment",
+        "ready to lock in"
+      ],
+      "score": 3
+    },
+    {
+      "start": 2.4,
+      "end": 5.5,
+      "action": "Creator tilts his head back, drinks from a silver Celsius can, lowers it, and swallows",
+      "emotion": "refreshed",
+      "good_for": [
+        "fueling up",
+        "caffeine addiction",
+        "mid-session recharge",
+        "energy drink break"
+      ],
+      "score": 4
+    }
+  ]
+}

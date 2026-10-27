@@ -1,0 +1,66 @@
+{
+  "path": "OneOffs/Eating/IMG_4901.MOV",
+  "folder": "OneOffs/Eating",
+  "fingerprint": "99a24d6b1397ba3c",
+  "width": 1080,
+  "height": 1920,
+  "fps": 30.0,
+  "duration": 1.932,
+  "model": "gemini-3.8-flash",
+  "annotatedAt": "2026-10-24T18:35:33+00:00",
+  "summary": "Three friends pose for a mirror selfie in an elevator or hallway with warm wood-paneled walls.",
+  "location": "elevator",
+  "setting": "indoor",
+  "time_of_day": "indoor_unknown",
+  "weather": "n/a",
+  "people": {
+    "count": 3,
+    "creator_visible": true,
+    "description": "Three young men posing together: one on the left smiling in dark jacket and glasses, one in the middle leaning forward flashing a peace sign, and one on the right holding up his phone recording the mirror selfie"
+  },
+  "camera": {
+    "style": "mirror_selfie",
+    "framing": "wide",
+    "movement": "static",
+    "angle": "eye level"
+  },
+  "quality": {
+    "usable": true,
+    "stability": "steady",
+    "exposure": "good",
+    "issues": "low resolution"
+  },
+  "mood": [
+    "playful",
+    "casual",
+    "friendly"
+  ],
+  "energy": "low",
+  "tags": [
+    "elevator",
+    "mirror selfie",
+    "friends",
+    "boys",
+    "hanging out",
+    "ootd",
+    "trip",
+    "casual",
+    "youth",
+    "fun"
+  ],
+  "moments": [
+    {
+      "start": 0.0,
+      "end": 1.93,
+      "action": "Three friends pose together for a mirror selfie in a wood-paneled elevator",
+      "emotion": "playful and relaxed",
+      "good_for": [
+        "nights out with the boys",
+        "friend group memories",
+        "elevator fit check",
+        "making memories"
+      ],
+      "score": 3
+    }
+  ]
+}

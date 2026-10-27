@@ -1,0 +1,123 @@
+{
+  "format": "opinion-11",
+  "title": "Today is someone's last day on Earth",
+  "lines": {
+    "l1": "Today is someone's last day on Earth",
+    "l2": "Do it scared.",
+    "l3": "Do it alone.",
+    "l4": "Do it unsure",
+    "l5": "Do it broke.",
+    "l6": "Do it anyway."
+  },
+  "shots": {
+    "s1": {
+      "clip": "SelfShots/Subway/IMG_5185.MOV",
+      "in": 0.0,
+      "speed": 1.0,
+      "note": "The man glances forward before turning his head to gaze quietly out the subway window while wearing earbuds (pensive)",
+      "query": "subway selfie window pensive",
+      "alts": [
+        "SelfShots/Subway/IMG_5185.MOV @4.5-9.4: Profile view of the man sitting still, looking out the train window as",
+        "SelfShots/Subway/IMG_5186.MOV @2.5-8.0: Man sits quietly looking into the distance as the train car rocks and ",
+        "OneOffs/RainyDayArmanRishi/IMG_4626.MOV @0.0-4.8: Walking down the subway entrance steps into Penn Station while holding",
+        "SelfShots/Subway/IMG_5186.MOV @8.0-14.2: Slight low-angle shot continues with the young man looking off-camera ",
+        "SelfShots/Subway/IMG_4952.MOV @11.5-17.8: Side profile of creator gazing out into the dark subway tunnel as the "
+      ],
+      "motion": {
+        "speed": 1.3,
+        "jitter": 1.62,
+        "verdict": "ok"
+      }
+    },
+    "s2": {
+      "clip": "SelfShots/ClimbingGym/OnTheWall/10:17:26_x9/IMG_4979.MOV",
+      "in": 34.45,
+      "speed": 1.0,
+      "note": "Climber executes a dynamic, tension-heavy move across the steepest section (intense effort)",
+      "query": "climbing overhang hard scary move",
+      "alts": [
+        "SelfShots/ClimbingGym/OnTheWall/10:18:26_Orange_x53/IMG_5124.MOV @7.5-15.0: Climber mounts the wall and initiates moves underneath the steep roof ",
+        "SelfShots/ClimbingGym/OnTheWall/10:18:26_Orange_x53/IMG_5140.MOV @33.0-39.0: Climber reaches for the top section, loses grip, and drops cleanly ont",
+        "SelfShots/ClimbingGym/OnTheWall/10:18:26_Orange_x53/IMG_5125.MOV @13.5-21.0: Climber extends along the steep overhang holds with strong core tensio",
+        "SelfShots/ClimbingGym/OnTheWall/10:18:26_Orange_x53/IMG_5146.MOV @21.0-31.5: Climber carefully positions his feet on volumes and matches his hands ",
+        "SelfShots/ClimbingGym/OnTheWall/10:18:26_Orange_x53/IMG_5117.MOV @28.5-35.5: Climber extends for a difficult reach on the upper section and drops o"
+      ],
+      "motion": {
+        "speed": 0.0,
+        "jitter": 0.01,
+        "verdict": "ok"
+      }
+    },
+    "s3": {
+      "clip": "SelfShots/Walking/1stPerson/IMG_5263.MOV",
+      "in": 2.27,
+      "speed": 1.0,
+      "note": "Creator walks smoothly backwards while filming himself with the vintage park carousel building in the background (calm)",
+      "query": "walking alone park smiling",
+      "alts": [
+        "SelfShots/Walking/1stPerson/IMG_5262.MOV @13.0-17.5: Side profile selfie tracking as he walks through a crowd of people und",
+        "SelfShots/Walking/1stPerson/IMG_5262.MOV @2.0-4.5: Man walks along park path holding camera extended, glancing at the len",
+        "SelfShots/Walking/1stPerson/IMG_5264.MOV @1.0-5.0: Creator walks forward holding phone at arm's length, glancing between ",
+        "SelfShots/Walking/1stPerson/IMG_5261.MOV @1.5-6.5: Creator walks forward holding the camera, looking around calmly with t",
+        "SelfShots/Walking/1stPerson/IMG_5158.MOV @2.5-8.5: Creator walks across the crosswalk while looking forward and slightly "
+      ],
+      "motion": {
+        "speed": 0.5,
+        "jitter": 0.6,
+        "verdict": "ok"
+      }
+    },
+    "s4": {
+      "clip": "OneOffs/RainyDayArmanRishi/IMG_4621.MOV",
+      "in": 1.18,
+      "speed": 1.0,
+      "note": "Camera tracks behind two friends walking down a rain-soaked city sidewalk under umbrellas (calm, relaxed)",
+      "query": "rain umbrella walking uncertain",
+      "alts": [
+        "OneOffs/RainyDayArmanRishi/IMG_4612.MOV @0.0-3.9: Following two friends from behind as they walk under sidewalk scaffold",
+        "OneOffs/RainyDayArmanRishi/IMG_4623.MOV @0.0-3.3: Camera follows two friends from behind as they cross a wet street cros",
+        "OneOffs/RainyDayArmanRishi/IMG_4666.MOV @2.2-4.6: Man walks down the stoop steps into the rain holding his umbrella with",
+        "OneOffs/RainyDayArmanRishi/IMG_4614.MOV @0.0-3.3: Camera tracks from behind as two friends walk down the rainy sidewalk ",
+        "OneOffs/RainyDayArmanRishi/IMG_4624.MOV @0.0-3.9: Camera tracks behind two friends walking together down a wet sidewalk "
+      ],
+      "motion": {
+        "speed": 4.3,
+        "jitter": 0.24,
+        "verdict": "ok"
+      }
+    },
+    "s5": {
+      "clip": "OneOffs/BrooklynNight/IMG_4511 3.MOV",
+      "in": 0.05,
+      "speed": 1.0,
+      "note": "The creator smiles into the camera while riding inside a moving subway car with commuters in the background (happy and energetic)",
+      "query": "subway train commute",
+      "alts": [
+        "SelfShots/Subway/IMG_4952.MOV @11.5-17.8: Side profile of creator gazing out into the dark subway tunnel as the ",
+        "SelfShots/Subway/IMG_4951.MOV @0.0-3.8: Creator holds phone in selfie mode, looking calmly at the lens while t",
+        "SelfShots/Subway/IMG_4952.MOV @5.5-11.5: Creator turns his head to profile view as the subway car starts moving",
+        "SelfShots/Subway/IMG_5186.MOV @2.5-8.0: Man sits quietly looking into the distance as the train car rocks and ",
+        "OneOffs/BrooklynNight/IMG_4509 3.MOV @0.0-4.3: Creator films a walking selfie while walking along the subway platform"
+      ],
+      "motion": {
+        "speed": 3.8,
+        "jitter": 1.69,
+        "verdict": "ok"
+      }
+    },
+    "s6": {
+      "clip": "SelfShots/ClimbingGym/OnTheWall/10:18:26_Orange_x53/IMG_5137.MOV",
+      "in": 43.8,
+      "speed": 1.0,
+      "note": "hand pick",
+      "query": "running walking away path park",
+      "motion": {
+        "speed": 0.0,
+        "jitter": 0.01,
+        "verdict": "ok"
+      }
+    }
+  },
+  "caption": "Stop waiting for the perfect time.",
+  "textY": 0.5
+}

@@ -1,0 +1,84 @@
+{
+  "path": "OneOffs/BrooklynNight/IMG_4570 3.MOV",
+  "folder": "OneOffs/BrooklynNight",
+  "fingerprint": "ee29660536370821",
+  "width": 1080,
+  "height": 1920,
+  "fps": 30.0,
+  "duration": 4.767,
+  "model": "gemini-3.8-flash",
+  "annotatedAt": "2026-10-24T18:24:02+00:00",
+  "summary": "POV walking along the pedestrian walkway of the Brooklyn Bridge at night toward the illuminated bridge tower among other tourists and pedestrians.",
+  "location": "brooklyn bridge",
+  "setting": "outdoor",
+  "time_of_day": "night",
+  "weather": "n/a",
+  "people": {
+    "count": 12,
+    "creator_visible": false,
+    "description": "Pedestrians and tourists walking along the bridge deck, including a man taking a photo of a woman against the railing."
+  },
+  "camera": {
+    "style": "pov_first_person",
+    "framing": "wide",
+    "movement": "walking",
+    "angle": "eye level"
+  },
+  "quality": {
+    "usable": true,
+    "stability": "handheld",
+    "exposure": "mixed",
+    "issues": "Low light grain and street lamp lens flare"
+  },
+  "mood": [
+    "urban",
+    "atmospheric",
+    "wanderlust",
+    "nightlife",
+    "cinematic"
+  ],
+  "energy": "medium",
+  "tags": [
+    "brooklyn bridge",
+    "new york city",
+    "nyc",
+    "night walk",
+    "city lights",
+    "bridge",
+    "pedestrian",
+    "urban",
+    "travel",
+    "exploration",
+    "skyline",
+    "b-roll"
+  ],
+  "moments": [
+    {
+      "start": 0.0,
+      "end": 2.5,
+      "action": "POV walking behind pedestrians toward the illuminated Brooklyn Bridge tower under night sky",
+      "emotion": "exploratory",
+      "good_for": [
+        "city nights",
+        "late night walks",
+        "new york energy",
+        "traveling solo",
+        "places that feel like magic"
+      ],
+      "score": 4
+    },
+    {
+      "start": 2.5,
+      "end": 4.77,
+      "action": "Passing a person photographing a woman posing by the Brooklyn Bridge railing with city lights in the background",
+      "emotion": "lively",
+      "good_for": [
+        "making memories",
+        "nyc date night",
+        "tourist vibes",
+        "seeing the city"
+      ],
+      "score": 3
+    }
+  ]
+}

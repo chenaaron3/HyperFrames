@@ -1,0 +1,69 @@
+{
+  "path": "Cinematic/Chinatown/IMG_4791.mov",
+  "folder": "Cinematic/Chinatown",
+  "fingerprint": "e89dffe6155ffab3",
+  "width": 1080,
+  "height": 1920,
+  "fps": 30.0,
+  "duration": 4.3,
+  "model": "gemini-3.8-flash",
+  "annotatedAt": "2026-10-24T18:19:31+00:00",
+  "summary": "A seafood counter worker in an Asian market prepares fish behind an iced display counter lined with fresh fish.",
+  "location": "fish market",
+  "setting": "indoor",
+  "time_of_day": "indoor_unknown",
+  "weather": "n/a",
+  "people": {
+    "count": 1,
+    "creator_visible": false,
+    "description": "Seafood counter worker seen from behind wearing a white cap and white uniform shirt"
+  },
+  "camera": {
+    "style": "handheld_cinematic",
+    "framing": "medium",
+    "movement": "static",
+    "angle": "eye level"
+  },
+  "quality": {
+    "usable": true,
+    "stability": "steady",
+    "exposure": "mixed",
+    "issues": "Slight lens flare/fog from overhead fluorescent light"
+  },
+  "mood": [
+    "mundane",
+    "authentic",
+    "calm",
+    "gritty"
+  ],
+  "energy": "low",
+  "tags": [
+    "chinatown",
+    "fish market",
+    "seafood",
+    "grocery",
+    "market stall",
+    "fresh fish",
+    "ice counter",
+    "butcher",
+    "shopping",
+    "city life",
+    "daily routine"
+  ],
+  "moments": [
+    {
+      "start": 0.0,
+      "end": 4.3,
+      "action": "A worker works behind the stainless steel seafood counter stocked with iced fish under bright fluorescent lights",
+      "emotion": "focused",
+      "good_for": [
+        "grocery run",
+        "sunday errands",
+        "market days",
+        "chinatown walks",
+        "cooking dinner tonight"
+      ],
+      "score": 3
+    }
+  ]
+}

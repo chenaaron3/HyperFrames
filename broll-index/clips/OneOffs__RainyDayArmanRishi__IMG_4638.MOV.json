@@ -1,0 +1,94 @@
+{
+  "path": "OneOffs/RainyDayArmanRishi/IMG_4638.MOV",
+  "folder": "OneOffs/RainyDayArmanRishi",
+  "fingerprint": "8321c7e7db9b4189",
+  "width": 1080,
+  "height": 1920,
+  "fps": 30.0,
+  "duration": 7.8,
+  "model": "gemini-3.8-flash",
+  "annotatedAt": "2026-10-24T18:36:37+00:00",
+  "summary": "A young man sits at a cafe table surrounded by plants, smiles warmly at the camera, and takes a sip from a blue ceramic coffee mug.",
+  "location": "cafe",
+  "setting": "indoor",
+  "time_of_day": "day",
+  "weather": "n/a",
+  "people": {
+    "count": 3,
+    "creator_visible": true,
+    "description": "Young man with short dark wavy hair in a black collared overshirt over a white t-shirt, smiling while holding a blue mug."
+  },
+  "camera": {
+    "style": "filmed_by_friend",
+    "framing": "medium",
+    "movement": "static",
+    "angle": "eye level"
+  },
+  "quality": {
+    "usable": true,
+    "stability": "steady",
+    "exposure": "good",
+    "issues": ""
+  },
+  "mood": [
+    "cozy",
+    "warm",
+    "cheerful",
+    "relaxed"
+  ],
+  "energy": "medium",
+  "tags": [
+    "cafe",
+    "coffee",
+    "latte",
+    "mug",
+    "coffee date",
+    "plants",
+    "indoor cafe",
+    "smiling",
+    "cozy aesthetic",
+    "morning routine",
+    "simple pleasures",
+    "contentment"
+  ],
+  "moments": [
+    {
+      "start": 0.0,
+      "end": 3.0,
+      "action": "Man lifts his blue coffee mug, looking up and breaking into a wide genuine smile at the camera",
+      "emotion": "happy, beaming, genuine laugh",
+      "good_for": [
+        "coffee date with you",
+        "things that make me smile",
+        "when the coffee hits just right",
+        "finding someone who makes you laugh"
+      ],
+      "score": 5
+    },
+    {
+      "start": 3.0,
+      "end": 5.8,
+      "action": "Man takes a long, warm sip from his mug in the cozy cafe setting",
+      "emotion": "content, cozy, relaxed",
+      "good_for": [
+        "hot coffee on a rainy day",
+        "savoring the little things",
+        "peaceful mornings",
+        "comfort in a cup"
+      ],
+      "score": 4
+    },
+    {
+      "start": 5.8,
+      "end": 7.8,
+      "action": "Man lowers the mug, licks his lips, and nods appreciatively saying that was good",
+      "emotion": "satisfied, relaxed",
+      "good_for": [
+        "best coffee in town",
+        "rating new cafes",
+        "simple pleasures"
+      ],
+      "score": 4
+    }
+  ]
+}

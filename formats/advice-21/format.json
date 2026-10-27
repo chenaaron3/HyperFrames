@@ -1,0 +1,78 @@
+{
+  "id": "advice-21",
+  "name": "if I had to move abroad again in my 20s, here's how I'd do i",
+  "reference": "references/viral-formats/advice-21.mp4",
+  "source": "/Users/aaron/Downloads/100 Viral Formats (Format Book)/Advice/#21/#21.mp4",
+  "duration": 5.4,
+  "music": {
+    "from": "reference",
+    "title": "Vienna - Billy Joel"
+  },
+  "text": {
+    "y": 0.558,
+    "size": 46,
+    "weight": 700,
+    "lineHeight": 1.4,
+    "maxWidth": 900,
+    "style": "outline"
+  },
+  "lines": [
+    {
+      "id": "l1",
+      "start": 0.0,
+      "end": 5.4,
+      "ref": "if I had to move abroad\nagain in my 20s,\nhere's how I'd do it:",
+      "y": 0.558,
+      "measuredSize": 26,
+      "style": "plain_white_shadow",
+      "guide": ""
+    }
+  ],
+  "shots": [
+    {
+      "id": "s1",
+      "start": 0.0,
+      "end": 1.2,
+      "brief": "selfie sitting in airplane seat looking out window (ref: Young woman sitting in an airplane window seat wearing earphones, smiling gently as she looks out.; selfie)",
+      "line": "l1"
+    },
+    {
+      "id": "s2",
+      "start": 1.2,
+      "end": 2.167,
+      "brief": "view out airplane window over wing (ref: POV looking out airplane window at the wing over a coastline and ocean during golden hour.; POV)",
+      "line": "l1"
+    },
+    {
+      "id": "s3",
+      "start": 2.167,
+      "end": 3.467,
+      "brief": "full-body shot in airport terminal with suitcase (ref: Woman standing in a modern airport terminal holding a rolling suitcase, looking at the camera.; filmed by friend)",
+      "line": "l1"
+    },
+    {
+      "id": "s4",
+      "start": 3.467,
+      "end": 5.4,
+      "brief": "leaning on railing or balcony in scenic outdoor location at sunset (ref: Woman leaning on a railing in a narrow European stone alleyway watching the sunset over the hills.; filmed by friend)",
+      "line": "l1"
+    }
+  ],
+  "audit": {
+    "kind": "broll_with_text",
+    "creatorSpeaks": false,
+    "audio": "music only",
+    "special": [
+      "airplane cabin / window",
+      "airport terminal with luggage"
+    ],
+    "reusable": true,
+    "notes": "Very easily adapted to any big life transition (e.g., 'if I had to move to NYC again in my 20s, here's how I'd do it:'). The creator can cut together 3-4 aesthetic lifestyle clips (e.g., subway, walking through Central Park, apartment window, rooftop sunset) and place the detailed life advice in the caption.",
+    "summary": "A travel montage featuring airplane, airport, and European village b-roll with a reflective text hook about moving abroad in one's 20s, directing viewers to read the detailed advice in the caption."
+  },
+  "caption": {
+    "ref": "",
+    "guide": ""
+  },
+  "draft": true
+}

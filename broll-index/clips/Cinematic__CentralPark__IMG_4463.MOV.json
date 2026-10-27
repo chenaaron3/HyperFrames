@@ -1,0 +1,70 @@
+{
+  "path": "Cinematic/CentralPark/IMG_4463.MOV",
+  "folder": "Cinematic/CentralPark",
+  "fingerprint": "95a75b798959a64c",
+  "width": 1080,
+  "height": 1920,
+  "fps": 30.0,
+  "duration": 3.465,
+  "model": "gemini-3.8-flash",
+  "annotatedAt": "2026-10-24T18:18:37+00:00",
+  "summary": "Handheld shot of a historic rustic stone arch bridge in Central Park, revealing a quiet walking path and greenery underneath.",
+  "location": "park",
+  "setting": "outdoor",
+  "time_of_day": "day",
+  "weather": "sunny",
+  "people": {
+    "count": 2,
+    "creator_visible": false,
+    "description": "A distant pedestrian walking through the archway and a faint figure on top of the bridge"
+  },
+  "camera": {
+    "style": "handheld_cinematic",
+    "framing": "medium",
+    "movement": "pan",
+    "angle": "low angle looking up"
+  },
+  "quality": {
+    "usable": true,
+    "stability": "steady",
+    "exposure": "good",
+    "issues": ""
+  },
+  "mood": [
+    "peaceful",
+    "scenic",
+    "adventurous",
+    "nostalgic"
+  ],
+  "energy": "low",
+  "tags": [
+    "central park",
+    "stone bridge",
+    "archway",
+    "manhattan",
+    "new york city",
+    "nature walk",
+    "trees",
+    "greenery",
+    "park path",
+    "historic architecture",
+    "urban oasis",
+    "summer walk"
+  ],
+  "moments": [
+    {
+      "start": 0.0,
+      "end": 3.46,
+      "action": "Camera tilts down and pans slightly to reveal the stone arch bridge and a walking path leading underneath it",
+      "emotion": "calm and exploratory",
+      "good_for": [
+        "discovering new places",
+        "city escapes",
+        "peaceful walks",
+        "romanticizing life",
+        "summer in the city"
+      ],
+      "score": 4
+    }
+  ]
+}

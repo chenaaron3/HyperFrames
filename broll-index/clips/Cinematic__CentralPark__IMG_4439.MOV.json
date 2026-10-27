@@ -1,0 +1,71 @@
+{
+  "path": "Cinematic/CentralPark/IMG_4439.MOV",
+  "folder": "Cinematic/CentralPark",
+  "fingerprint": "6a638ec2e1be2883",
+  "width": 1080,
+  "height": 1920,
+  "fps": 30.0,
+  "duration": 6.233,
+  "model": "gemini-3.8-flash",
+  "annotatedAt": "2026-10-24T18:18:09+00:00",
+  "summary": "Sunlight beams through the lush green leaves of tall trees against a bright blue sky with wispy clouds.",
+  "location": "park",
+  "setting": "outdoor",
+  "time_of_day": "day",
+  "weather": "sunny",
+  "people": {
+    "count": 0,
+    "creator_visible": false,
+    "description": "No people visible"
+  },
+  "camera": {
+    "style": "handheld_cinematic",
+    "framing": "medium",
+    "movement": "static",
+    "angle": "low angle looking up"
+  },
+  "quality": {
+    "usable": true,
+    "stability": "steady",
+    "exposure": "mixed",
+    "issues": ""
+  },
+  "mood": [
+    "peaceful",
+    "serene",
+    "calm",
+    "hopeful",
+    "warm"
+  ],
+  "energy": "low",
+  "tags": [
+    "trees",
+    "sunlight",
+    "sun rays",
+    "lens flare",
+    "sky",
+    "clouds",
+    "central park",
+    "nature",
+    "summer",
+    "foliage",
+    "peaceful",
+    "outdoors"
+  ],
+  "moments": [
+    {
+      "start": 0.0,
+      "end": 6.23,
+      "action": "Sunlight filters through gentle breeze-blown tree branches and green leaves against a blue sky",
+      "emotion": "calm",
+      "good_for": [
+        "sunny days ahead",
+        "gratitude for simple things",
+        "peace of mind",
+        "nature walks",
+        "finding light in the dark"
+      ],
+      "score": 4
+    }
+  ]
+}

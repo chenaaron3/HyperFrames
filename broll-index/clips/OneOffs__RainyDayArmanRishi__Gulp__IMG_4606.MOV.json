@@ -1,0 +1,68 @@
+{
+  "path": "OneOffs/RainyDayArmanRishi/Gulp/IMG_4606.MOV",
+  "folder": "OneOffs/RainyDayArmanRishi/Gulp",
+  "fingerprint": "4351e127f7ba78fd",
+  "width": 1080,
+  "height": 1920,
+  "fps": 30.0,
+  "duration": 3.398,
+  "model": "gemini-3.8-flash",
+  "annotatedAt": "2026-10-24T18:35:38+00:00",
+  "summary": "Handheld panning shot across the interior of a dimly lit, retro modern restaurant with diners eating at tables.",
+  "location": "restaurant",
+  "setting": "indoor",
+  "time_of_day": "indoor_unknown",
+  "weather": "n/a",
+  "people": {
+    "count": 7,
+    "creator_visible": false,
+    "description": "Several groups of diners seated at tables eating food and chatting in a retro-styled dining space."
+  },
+  "camera": {
+    "style": "pov_first_person",
+    "framing": "wide",
+    "movement": "pan",
+    "angle": "eye level"
+  },
+  "quality": {
+    "usable": true,
+    "stability": "steady",
+    "exposure": "good",
+    "issues": ""
+  },
+  "mood": [
+    "cozy",
+    "chill",
+    "atmospheric",
+    "casual"
+  ],
+  "energy": "low",
+  "tags": [
+    "restaurant",
+    "dining",
+    "eating",
+    "food",
+    "indoor dining",
+    "retro aesthetic",
+    "ambience",
+    "night out",
+    "dinner",
+    "restaurant interior"
+  ],
+  "moments": [
+    {
+      "start": 0.0,
+      "end": 3.4,
+      "action": "Camera slowly pans across a retro restaurant showing patrons dining at booths and tables under warm ambient lighting.",
+      "emotion": "relaxed",
+      "good_for": [
+        "dinner spots with friends",
+        "aesthetic restaurants",
+        "rainy day dinner",
+        "weekend eats",
+        "cozy vibes"
+      ],
+      "score": 3
+    }
+  ]
+}
